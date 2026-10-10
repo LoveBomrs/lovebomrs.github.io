@@ -18,7 +18,7 @@ mathjax: true
 ##### Tropical Storm Rachel preparations in Long Beach discussed by city officials
 [`WATCH` - youtube.com/live/-NN2Bh4IrM8?si=LKuXgBi8DysLBWoK](https://www.youtube.com/live/-NN2Bh4IrM8?si=LKuXgBi8DysLBWoK)  
 
-
+@SWOTcommunity [https://aviso-calval.oceandatalab.com](https://aviso-calval.oceandatalab.com/?date=2026-10-10T12:00:05&timespan=1h&zoom=4&center=-11795370.82493_3636502.8613894&extent=-18565857.041375_-981516.63884497_-5024884.6084847_8254522.3616238&products=3857_cmems_geos_current_vectorfield!3857_SWOT_L3_geos_current_v2_0_1_vectorfield!3857_SWOT_L2_swh_karin!3857_MFWAM_swell1_vectorfield!3857_MFWAM_swh_raster&opacity=20_20_100_100_60&stackLevel=120.04_140.007_120.037_50.044_90.024&filter=!+orbit1,+orbit21!+orbit1,+orbit21&selection=11111)
 [ATMOSPHERiC RiVERS @Nasa WorldView](https://worldview.earthdata.nasa.gov/?v=-162.295938399713,8.609820834364125,-84.8603184521739,60.343172023661296&l=Admin_Boundaries,DoS_International_Boundaries,Coastlines_15m,SMAP_L4_Analyzed_Root_Zone_Soil_Moisture,GRUMP_Settlements,GRanD_Reservoirs,GRanD_Dams,IMERG_Precipitation_Rate,VIIRS_SNPP_CorrectedReflectance_TrueColor&lg=true&tr=atmospheric_rivers&t=2026-10-09-T23%3A01%3A31Z) /// [@nasa-jpl ra5hard.github.io/hurricanemarie](https://ra5hard.github.io/hurricanemarie)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/d7205d9e-bba8-4f6c-8321-384f69df7f9f" />
