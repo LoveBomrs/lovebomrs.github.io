@@ -18,9 +18,20 @@ mathjax: true
 ##### Tropical Storm Rachel preparations in Long Beach discussed by city officials
 [`WATCH` - youtube.com/live/-NN2Bh4IrM8?si=LKuXgBi8DysLBWoK](https://www.youtube.com/live/-NN2Bh4IrM8?si=LKuXgBi8DysLBWoK)  
 
+
+[ATMOSPHERiC RiVERS @Nasa WorldView](https://worldview.earthdata.nasa.gov/?v=-162.295938399713,8.609820834364125,-84.8603184521739,60.343172023661296&l=Admin_Boundaries,DoS_International_Boundaries,Coastlines_15m,SMAP_L4_Analyzed_Root_Zone_Soil_Moisture,GRUMP_Settlements,GRanD_Reservoirs,GRanD_Dams,IMERG_Precipitation_Rate,VIIRS_SNPP_CorrectedReflectance_TrueColor&lg=true&tr=atmospheric_rivers&t=2026-10-09-T23%3A01%3A31Z) /// [@nasa-jpl ra5hard.github.io/hurricanemarie](https://ra5hard.github.io/hurricanemarie)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d7205d9e-bba8-4f6c-8321-384f69df7f9f" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/e44c269f-ba16-4cca-a39a-28c0b944f911" />
+
 [<video controls loading="lazy" poster="https://svs.gsfc.nasa.gov/vis/a000000/a004200/a004285/imergert_1080p.now.png" src="https://svs.gsfc.nasa.gov/vis/a000000/a004200/a004285/imergert_1080p_30.mp4" />](https://svs.gsfc.nasa.gov/vis/a000000/a004200/a004285/imergert_1080p_30.mp4)
 
 ![background https://svs.gsfc.nasa.gov/vis/a000000/a004200/a004285/snowbarwhite2.png](https://svs.gsfc.nasa.gov/vis/a000000/a004200/a004285/snowbarwhite2.png) 
+
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
+
+
 ![https://svs.gsfc.nasa.gov/vis/a000000/a004200/a004285/rainbarwhite2.png background ](https://svs.gsfc.nasa.gov/vis/a000000/a004200/a004285/rainbarwhite2.png) 
 
 
