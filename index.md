@@ -3,7 +3,8 @@ layout: default
 mathjax: true
 ---
 
-🎼: [Los Angeles: Critical Mass](https://youtu.be/Qbwm5Kguksw?list=RDQbwm5Kguksw&t=105)
+🎼: [Los Angeles: Critical Mass](https://youtu.be/Qbwm5Kguksw?list=RDQbwm5Kguksw&t=105) // [
+Nas & DJ Premier “Light-Years”](https://youtu.be/mJj3OwoAyXU?si=0GbQQNu9NdIhEmwy)
 
 ---
 
@@ -22,7 +23,8 @@ mathjax: true
 
 
 
-@cbsinteractive [youtube.com/@CBSLA](https://www.youtube.com/@CBSLA) [ @nasa-jpl @nasa-giss @nasa-develop @eodis-nasa @longbeachinnovationteam @cityoflosangeles @la-county-isd](https://youtu.be/-NN2Bh4IrM8?t=1862)
+@cbsinteractive [youtube.com/@CBSLA](https://www.youtube.com/@CBSLA) [ @nasa-jpl @nasa-giss @nasa-develop @eodis-nasa @longbeachinnovationteam @cityoflosangeles @la-county-isd](https://youtu.be/-NN2Bh4IrM8?t=1862) /// 🎼: [Los Angeles: Critical Mass](https://youtu.be/Qbwm5Kguksw?list=RDQbwm5Kguksw&t=105) // [
+Nas & DJ Premier “Light-Years”](https://youtu.be/mJj3OwoAyXU?si=0GbQQNu9NdIhEmwy)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/34ebf9fc-fb5f-494b-b3db-71531bd8c2d4" />
 
