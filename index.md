@@ -17,7 +17,9 @@ mathjax: true
 
 ##### Tropical Storm Rachel preparations in Long Beach discussed by city officials
 [`WATCH` - youtube.com/live/-NN2Bh4IrM8?si=LKuXgBi8DysLBWoK](https://www.youtube.com/live/-NN2Bh4IrM8?si=LKuXgBi8DysLBWoK)  
-
+Time Averaged Map of Random Error for multi-satellite precipitation with climatological gauge calibration - Late Run half-hourly 0.1 deg. [GPM [GPM_3IMERGHHL](https://disc.gsfc.nasa.gov/datasets/GPM_3IMERGHHL_07/summary) v07] mm/hr
+over 2026-10-01 00:00:00Z - 2026-10-10 08:00:00Z
+<img  alt="GIOVANNI-outputv5p88KY8" src="https://github.com/user-attachments/assets/8670fe54-f3d8-4a8e-8554-08347cbb7409" />
 
 IMERG: GPM IMERG Late [link @nasa-jpl](https://weather.ndc.nasa.gov/sport/viewer/?dataset=imerglate&product=rrlate000&location=global)
 <img  alt="imerglate-rrlate000-global-sOct 09, 2026 - 22_30 UTC-eOct 10, 2026 - 08_30 UTC" src="https://github.com/user-attachments/assets/d09d070d-b027-4d1a-bcbd-ab2276accbdd" />
