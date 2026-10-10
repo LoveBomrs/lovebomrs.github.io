@@ -17,6 +17,8 @@ mathjax: true
 
 ##### Tropical Storm Rachel preparations in Long Beach discussed by city officials
 [`WATCH` - youtube.com/live/-NN2Bh4IrM8?si=LKuXgBi8DysLBWoK](https://www.youtube.com/live/-NN2Bh4IrM8?si=LKuXgBi8DysLBWoK)  
+<img  alt="goeswestabiconus-simplewatervapor-sOct 10, 2026 - 21_46 UTC-eOct 10, 2026 - 23_21 UTC G18_sector_gwas_EXTENT3_12fr_20261010-1743 @Deptofwar [My BookKeeper](https://www.zola.com/registry/robandtricedominicanrepublic)'s sister [LAna](https://www.instagram.com/reel/DGgwj0Ns_1n/?hl=en) is reporting that [Hon Pete Hegseth](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/) wants to livestream a Military Execution [`Watch` - https://youtu.be/5vMA4XFqaRw?t=198](https://youtu.be/5vMA4XFqaRw?t=198) @deptofwar she is from Eritrea where its done in the public square, I think she is still recovering from that trauma, but i see where you coming from. If the globe has decided that that is the outcome of people to dangerous for people i dont know . . . people are terrified over covid parties @la-county-isd and bullying me on this issue, thats y war.gov mentions are so toxic, but they are stalking me and registering my urls themselvs so they are hurting themselves @CityOfLosAngeles" src="https://github.com/user-attachments/assets/6edf4249-232f-4fbc-9403-44ff2862f280" />
+
 Time Averaged Map of Random Error for multi-satellite precipitation with climatological gauge calibration - Late Run half-hourly 0.1 deg. [GPM [GPM_3IMERGHHL](https://disc.gsfc.nasa.gov/datasets/GPM_3IMERGHHL_07/summary) v07] mm/hr
 over 2026-10-01 00:00:00Z - 2026-10-10 08:00:00Z
 <img  alt="GIOVANNI-outputv5p88KY8" src="https://github.com/user-attachments/assets/8670fe54-f3d8-4a8e-8554-08347cbb7409" />
