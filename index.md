@@ -3,8 +3,7 @@ layout: default
 mathjax: true
 ---
 
-🎼: [Los Angeles: Critical Mass](https://youtu.be/Qbwm5Kguksw?list=RDQbwm5Kguksw&t=105) // [
-Nas & DJ Premier “Light-Years”](https://youtu.be/mJj3OwoAyXU?si=0GbQQNu9NdIhEmwy)
+🎼: [Blessed (feat. Kendrick Lamar) · ScHoolboy Q](https://youtu.be/ZZbSN1hKuoA) // [Los Angeles: Critical Mass](https://youtu.be/Qbwm5Kguksw?list=RDQbwm5Kguksw&t=105) // [Nas & DJ Premier “Light-Years”](https://youtu.be/mJj3OwoAyXU?si=0GbQQNu9NdIhEmwy) // [Bonobo Boiler Room New York DJ Set](https://youtu.be/uynCeLheCPc?list=RDuynCeLheCPc&t=2)
 
 ---
 
