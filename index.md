@@ -3,7 +3,7 @@ layout: default
 mathjax: true
 ---
 
-🎼: [Not Lookin · Mary J. Blige · K-Ci](https://youtu.be/Iat7vBga3pg?list=RDIat7vBga3pg&t=254) // [Alan Jackson - Chattahoochee @Whitehouse @DeptofWar @nasa-JPL](https://youtu.be/JW5UEW2kYvc) // [Tadele Gemechu Sanyii Leencaa](https://youtu.be/h44c_wiWLt8?si=STKuIINGAIzr0dcw) // [Veronica Adane Ft. Rayvanny Bironica (ቢሮኒካ) ](https://youtu.be/Q-gpaeSta0Q?si=dt9AVVv5KKy9Iq3_) // [Yo Mariyos -ባህር ዳር (BAHIR DAR)](https://youtu.be/bUuSd2bIMDs?si=k6g9tov3iXGGuN2n) // [Tsedi - Lubbu ](https://youtu.be/tu3xqhokiro?si=YdS7BqUUkxPticty) // [Yo Mariyos -ባህር ዳር (BAHIR DAR)](https://youtu.be/bUuSd2bIMDs?si=k6g9tov3iXGGuN2n) //[Yohana - ዮሐና - ገላጋይ | Yohana – Gelagay ](https://youtu.be/zl1U9_jciOk?list=RDzl1U9_jciOk)
+🎼: [Not Lookin · Mary J. Blige · K-Ci](https://youtu.be/Iat7vBga3pg?list=RDIat7vBga3pg&t=254) // [Alan Jackson - Chattahoochee @Whitehouse @DeptofWar @nasa-JPL](https://youtu.be/JW5UEW2kYvc) // [Tadele Gemechu Sanyii Leencaa](https://youtu.be/h44c_wiWLt8?si=STKuIINGAIzr0dcw) // [Veronica Adane Ft. Rayvanny Bironica (ቢሮኒካ) ](https://youtu.be/Q-gpaeSta0Q?si=dt9AVVv5KKy9Iq3_) // [Yo Mariyos -ባህር ዳር (BAHIR DAR)](https://youtu.be/bUuSd2bIMDs?si=k6g9tov3iXGGuN2n) // [Tsedi - Lubbu ](https://youtu.be/tu3xqhokiro?si=YdS7BqUUkxPticty) // [Yo Mariyos -ባህር ዳር (BAHIR DAR)](https://youtu.be/bUuSd2bIMDs?si=k6g9tov3iXGGuN2n) //[Yohana - ዮሐና - ገላጋይ | Yohana – Gelagay ](https://youtu.be/zl1U9_jciOk?list=RDzl1U9_jciOk) // [ROPHNAN - SHEGIYE | ሮፍናን - ሸግዬ](https://youtu.be/kUknTOgdWgk?list=RDzl1U9_jciOk)
 
 
 
@@ -16,12 +16,16 @@ mathjax: true
 
 [pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_crew_camera/data_processed/fd01/art002e023281_nkd5015_prc_v01.tif](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_crew_camera/data_processed/fd01/art002e023281_nkd5015_prc_v01.tif) 
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/33b545a3-4264-40bc-96ae-bef9c012d11d" />
+<img  alt="image" src="https://github.com/user-attachments/assets/33b545a3-4264-40bc-96ae-bef9c012d11d" />
 
+![https://images.cdn.us-central1.gcp.commercetools.com/f7c8f2bb-aff1-4581-a826-1ad2527be222/Top-1557_D5_top-_gBaxS0Y-large.png](https://images.cdn.us-central1.gcp.commercetools.com/f7c8f2bb-aff1-4581-a826-1ad2527be222/Top-1557_D5_top-_gBaxS0Y-large.png)
+[Nikon D5 Digital SLR Camera Wins the Camera GP 2016 Readers Award](https://www.nikon.com/company/news/2016/0520_award_01/)_
+The 10-Year-Old Nikon D5 DSLR Really Is the Best Camera for Artemis II [`READ`](https://petapixel.com/2026/04/06/the-10-year-old-nikon-d5-dslr-really-is-the-best-camera-for-artemis-ii/)
+![https://petapixel.com/assets/uploads/2026/04/artemis-ii-nikon-d5-featured-1536x806.jpg](https://petapixel.com/assets/uploads/2026/04/artemis-ii-nikon-d5-featured-1536x806.jpg)
 [pds-imaging.jpl.nasa.gov/artemis2_orion_camera/data_raw_image/fd05/art002e041390_cab2_raw_v01.tif](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_orion_camera/data_raw_image/fd05/art002e041390_cab2_raw_v01.tif)
 <img alt="art002e041390_cab2_src_v01" src="https://github.com/user-attachments/assets/f58db764-87f7-4229-bf1a-b0530c1b3baf" />
 
-
+![https://www.nikon.com/etc.clientlibs/nikoncore/clientlibs/clientlib-site/resources/img/logo.svg](https://www.nikon.com/etc.clientlibs/nikoncore/clientlibs/clientlib-site/resources/img/logo.svg)
 
 
 NASA VIKING PROGRAM PIONEERING MARS LANDER
