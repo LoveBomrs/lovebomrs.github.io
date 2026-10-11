@@ -3,7 +3,7 @@ layout: default
 mathjax: true
 ---
 
-🎼: [Not Lookin · Mary J. Blige · K-Ci](https://youtu.be/Iat7vBga3pg?list=RDIat7vBga3pg&t=254) // [Alan Jackson - Chattahoochee @Whitehouse @DeptofWar @nasa-JPL](https://youtu.be/JW5UEW2kYvc) // [Tadele Gemechu Sanyii Leencaa](https://youtu.be/h44c_wiWLt8?si=STKuIINGAIzr0dcw) // [Veronica Adane Ft. Rayvanny Bironica (ቢሮኒካ) ](https://youtu.be/Q-gpaeSta0Q?si=dt9AVVv5KKy9Iq3_)
+🎼: [Not Lookin · Mary J. Blige · K-Ci](https://youtu.be/Iat7vBga3pg?list=RDIat7vBga3pg&t=254) // [Alan Jackson - Chattahoochee @Whitehouse @DeptofWar @nasa-JPL](https://youtu.be/JW5UEW2kYvc) // [Tadele Gemechu Sanyii Leencaa](https://youtu.be/h44c_wiWLt8?si=STKuIINGAIzr0dcw) // [Veronica Adane Ft. Rayvanny Bironica (ቢሮኒካ) ](https://youtu.be/Q-gpaeSta0Q?si=dt9AVVv5KKy9Iq3_) // [Yo Mariyos -ባህር ዳር (BAHIR DAR)](https://youtu.be/bUuSd2bIMDs?si=k6g9tov3iXGGuN2n) // [Tsedi - Lubbu ](https://youtu.be/tu3xqhokiro?si=YdS7BqUUkxPticty)
 
 
 
