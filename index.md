@@ -3,6 +3,10 @@ layout: default
 mathjax: true
 ---
 
+🎼: [Not Lookin · Mary J. Blige · K-Ci](https://youtu.be/Iat7vBga3pg?list=RDIat7vBga3pg&t=254) // [Alan Jackson - Chattahoochee @Whitehouse @DeptofWar @nasa-JPL](https://youtu.be/JW5UEW2kYvc)
+
+<img alt="image" src="https://github.com/user-attachments/assets/363bb822-6457-4ca6-9b23-aec8efa82544" />
+
 [Not Lookin · Mary J. Blige · K-Ci](https://youtu.be/Iat7vBga3pg?list=RDIat7vBga3pg&t=254)
 
 <svg class="gradient-text" id="headerMargins" width="50%" height="50%" viewBox="0 0 508.204 141.732" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
