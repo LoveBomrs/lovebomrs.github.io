@@ -3,12 +3,24 @@ layout: default
 mathjax: true
 ---
 
-🎼: [Not Lookin · Mary J. Blige · K-Ci](https://youtu.be/Iat7vBga3pg?list=RDIat7vBga3pg&t=254) // [Alan Jackson - Chattahoochee @Whitehouse @DeptofWar @nasa-JPL](https://youtu.be/JW5UEW2kYvc) // [Tadele Gemechu Sanyii Leencaa](https://youtu.be/h44c_wiWLt8?si=STKuIINGAIzr0dcw) // [Veronica Adane Ft. Rayvanny Bironica (ቢሮኒካ) ](https://youtu.be/Q-gpaeSta0Q?si=dt9AVVv5KKy9Iq3_) // [Yo Mariyos -ባህር ዳር (BAHIR DAR)](https://youtu.be/bUuSd2bIMDs?si=k6g9tov3iXGGuN2n) // [Tsedi - Lubbu ](https://youtu.be/tu3xqhokiro?si=YdS7BqUUkxPticty) // [Yo Mariyos -ባህር ዳር (BAHIR DAR)](https://youtu.be/bUuSd2bIMDs?si=k6g9tov3iXGGuN2n) //
+🎼: [Not Lookin · Mary J. Blige · K-Ci](https://youtu.be/Iat7vBga3pg?list=RDIat7vBga3pg&t=254) // [Alan Jackson - Chattahoochee @Whitehouse @DeptofWar @nasa-JPL](https://youtu.be/JW5UEW2kYvc) // [Tadele Gemechu Sanyii Leencaa](https://youtu.be/h44c_wiWLt8?si=STKuIINGAIzr0dcw) // [Veronica Adane Ft. Rayvanny Bironica (ቢሮኒካ) ](https://youtu.be/Q-gpaeSta0Q?si=dt9AVVv5KKy9Iq3_) // [Yo Mariyos -ባህር ዳር (BAHIR DAR)](https://youtu.be/bUuSd2bIMDs?si=k6g9tov3iXGGuN2n) // [Tsedi - Lubbu ](https://youtu.be/tu3xqhokiro?si=YdS7BqUUkxPticty) // [Yo Mariyos -ባህር ዳር (BAHIR DAR)](https://youtu.be/bUuSd2bIMDs?si=k6g9tov3iXGGuN2n) //[Yohana - ዮሐና - ገላጋይ | Yohana – Gelagay ](https://youtu.be/zl1U9_jciOk?list=RDzl1U9_jciOk)
+
 
 
 
 # @NASA-JPL OPENHOUSE
-@CityOfLosAnGeles old work of ours 
+@CityOfLosAnGeles @nasa @stateofcalifornia a few artimis 2 pics
+
+
+<img  alt="art002e023281_nkd5015_prc_v01" src="https://github.com/user-attachments/assets/d22e5dfa-40ad-4f49-bb06-f7cba70f3cb7" />
+
+[pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_crew_camera/data_processed/fd01/art002e023281_nkd5015_prc_v01.tif](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_crew_camera/data_processed/fd01/art002e023281_nkd5015_prc_v01.tif) 
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/33b545a3-4264-40bc-96ae-bef9c012d11d" />
+
+[pds-imaging.jpl.nasa.gov/artemis2_orion_camera/data_raw_image/fd05/art002e041390_cab2_raw_v01.tif](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_orion_camera/data_raw_image/fd05/art002e041390_cab2_raw_v01.tif)
+<img alt="art002e041390_cab2_src_v01" src="https://github.com/user-attachments/assets/f58db764-87f7-4229-bf1a-b0530c1b3baf" />
+
 
 
 
