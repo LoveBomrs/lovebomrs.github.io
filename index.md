@@ -9,6 +9,11 @@ mathjax: true
 
 
 # @NASA-JPL OPENHOUSE
+
+Flock Surveillance Ruling, [Skid Row ](https://www.justice.gov/usao-cdca/pr/23-skid-row-drug-dealers-arrested-part-homeland-security-task-force-takedown-targeting) Raid & Cash ATM Mystery @usdoj
+[`WATCH` - youtu.be/GGRP7ID2OGo?t=107](https://youtu.be/GGRP7ID2OGo?t=107)
+<img  alt="image" src="https://github.com/user-attachments/assets/f1c7b6b8-da01-453b-a261-2e669e71f351" />
+
 @CityOfLosAnGeles @nasa @stateofcalifornia a few artimis 2 pics
 
 
