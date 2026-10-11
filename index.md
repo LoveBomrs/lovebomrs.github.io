@@ -13,6 +13,9 @@ mathjax: true
 <img  alt="image" src="https://github.com/user-attachments/assets/1e9095a2-06a2-4e65-afc2-74676d55ff2b" />
 
 [:octocat: @cityoflosangeles election sign scan @nasa-jpl @dhs-gov @deptofwar @fecgov @fec](https://github.com/virtiserv/virtiserv.github.io/commit/df4e2e146d780ef484895079022840afc02d0a22)
+
+<img alt="image" src="https://github.com/user-attachments/assets/c5e40df6-f00a-4cf1-954d-a2141336c753" />
+
 [@CityOfLosAngeles @nasa-jpl vig.cdn.sos.ca.gov/2026/general/pdf/complete-vig.pdf](https://vig.cdn.sos.ca.gov/2026/general/pdf/complete-vig.pdf) [Not Lookin · Mary J. Blige · K-Ci](https://youtu.be/Iat7vBga3pg?list=RDIat7vBga3pg&t=254)
 
 
