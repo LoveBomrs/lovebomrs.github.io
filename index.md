@@ -9,7 +9,7 @@ mathjax: true
 
 ### @NASA's Mars rover Perseverance has just hit a milestone — for the longest distance traveled by an off-Earth vehicle. [@npr npr.org/2026/10/13/nx-s1-6000190/nasas-mars-rover-perseverance-has-broken-a-landmark-distance-record @nasa-pds](https://www.npr.org/2026/10/13/nx-s1-6000190/nasas-mars-rover-perseverance-has-broken-a-landmark-distance-record)
 [Eight Months to Mars @MiT](https://youtu.be/_GdBUcwi1LM) [`WATCH` - az.wikipedia.org/wiki/Fayl:Eight_Months_to_Mars.webm](https://az.wikipedia.org/wiki/Fayl:Eight_Months_to_Mars.webm)
- [Eight Months to Mars - catalog.archives.gov/id/52797](https://catalog.archives.gov/id/52797) // [https://commons.wikimedia.org/wiki/File:Eight_Months_to_Mars.webm](https://commons.wikimedia.org/wiki/File:Eight_Months_to_Mars.webm) // [@usnationalarchives youtube.com/@USNationalArchives(https://www.youtube.com/@USNationalArchives)
+ [Eight Months to Mars - catalog.archives.gov/id/52797](https://catalog.archives.gov/id/52797) // [commons.wikimedia.org/wiki/File:Eight_Months_to_Mars.webm](https://commons.wikimedia.org/wiki/File:Eight_Months_to_Mars.webm) // [@usnationalarchives youtube.com/@USNationalArchives](https://www.youtube.com/@USNationalArchives)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/5d506549-1338-4b4f-a697-1b383fca8649" />
 
