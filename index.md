@@ -3,10 +3,13 @@ layout: default
 mathjax: true
 ---
 
- [Mary J. Blige - Mrs. Wrong ft. Drake](https://youtu.be/eS-y2R9cmnQ?si=VtnpLMbyvbev5qP7) // ["So Gone" by Monica](https://youtu.be/UE6zfOuYfVI?list=RDUE6zfOuYfVI&t=21) // [Beyoncé - Me, Myself And I](https://youtu.be/4S37SGxZSMc?si=YX9SHBXPZGs4kR7X) // [Girl · Destiny's Child](https://youtu.be/r4PWb6DRJko?list=RDr4PWb6DRJko&t=11) // [Vivian Green - Emotional Rollercoaster](https://youtu.be/63TudFk9-u8?si=1wkDAAWPSyFgqSKY) // [Fool for You · CeeLo Green · Melanie Fiona](https://youtu.be/QOiY6FsbFXE?list=RDQOiY6FsbFXE) // [ Solid Steel Presents Amon Tobin Recorded Live](https://youtu.be/5fq5_VjzYJk?list=RD5fq5_VjzYJk&t=26)
+ [Mary J. Blige - Mrs. Wrong ft. Drake](https://youtu.be/eS-y2R9cmnQ?si=VtnpLMbyvbev5qP7) // ["So Gone" by Monica](https://youtu.be/UE6zfOuYfVI?list=RDUE6zfOuYfVI&t=21) // [Beyoncé - Me, Myself And I](https://youtu.be/4S37SGxZSMc?si=YX9SHBXPZGs4kR7X) // [Girl · Destiny's Child](https://youtu.be/r4PWb6DRJko?list=RDr4PWb6DRJko&t=11) // [Vivian Green - Emotional Rollercoaster](https://youtu.be/63TudFk9-u8?si=1wkDAAWPSyFgqSKY) // [Fool for You · CeeLo Green · Melanie Fiona](https://youtu.be/QOiY6FsbFXE?list=RDQOiY6FsbFXE) // [ Solid Steel Presents Amon Tobin Recorded Live](https://youtu.be/5fq5_VjzYJk?list=RD5fq5_VjzYJk&t=26) // [Eight Months to Mars @MiT](https://youtu.be/_GdBUcwi1LM)
 
 
 
+### @NASA's Mars rover Perseverance has just hit a milestone — for the longest distance traveled by an off-Earth vehicle. [@npr npr.org/2026/10/13/nx-s1-6000190/nasas-mars-rover-perseverance-has-broken-a-landmark-distance-record @nasa-pds](https://www.npr.org/2026/10/13/nx-s1-6000190/nasas-mars-rover-perseverance-has-broken-a-landmark-distance-record)
+[Eight Months to Mars @MiT](https://youtu.be/_GdBUcwi1LM)
+[Eight Months to Mars - catalog.archives.gov/id/52797](https://catalog.archives.gov/id/52797)
 <iframe src="https://archive.org/embed/59074ANewViewOfMars" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## Jupiter
