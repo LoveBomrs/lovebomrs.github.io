@@ -62,9 +62,11 @@ Flock Surveillance Ruling, [Skid Row ](https://www.justice.gov/usao-cdca/pr/23-s
 <img  alt="image" src="https://github.com/user-attachments/assets/33b545a3-4264-40bc-96ae-bef9c012d11d" />
 
 ![https://images.cdn.us-central1.gcp.commercetools.com/f7c8f2bb-aff1-4581-a826-1ad2527be222/Top-1557_D5_top-_gBaxS0Y-large.png](https://images.cdn.us-central1.gcp.commercetools.com/f7c8f2bb-aff1-4581-a826-1ad2527be222/Top-1557_D5_top-_gBaxS0Y-large.png)
-[Nikon D5 Digital SLR Camera Wins the Camera GP 2016 Readers Award](https://www.nikon.com/company/news/2016/0520_award_01/)_
-The 10-Year-Old Nikon D5 DSLR Really Is the Best Camera for Artemis II [`READ`](https://petapixel.com/2026/04/06/the-10-year-old-nikon-d5-dslr-really-is-the-best-camera-for-artemis-ii/)
+
+[Nikon D5 Digital SLR Camera Wins the Camera GP 2016 Readers Award](https://www.nikon.com/company/news/2016/0520_award_01/) // The 10-Year-Old Nikon D5 DSLR Really Is the Best Camera for Artemis II [`READ`](https://petapixel.com/2026/04/06/the-10-year-old-nikon-d5-dslr-really-is-the-best-camera-for-artemis-ii/)
+
 ![https://petapixel.com/assets/uploads/2026/04/artemis-ii-nikon-d5-featured-1536x806.jpg](https://petapixel.com/assets/uploads/2026/04/artemis-ii-nikon-d5-featured-1536x806.jpg)
+
 [pds-imaging.jpl.nasa.gov/artemis2_orion_camera/data_raw_image/fd05/art002e041390_cab2_raw_v01.tif](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_orion_camera/data_raw_image/fd05/art002e041390_cab2_raw_v01.tif)
 
 <img alt="art002e041390_cab2_src_v01" src="https://github.com/user-attachments/assets/f58db764-87f7-4229-bf1a-b0530c1b3baf" />
