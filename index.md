@@ -3,7 +3,12 @@ layout: default
 mathjax: true
 ---
 
- [Mary J. Blige - Mrs. Wrong ft. Drake](https://youtu.be/eS-y2R9cmnQ?si=VtnpLMbyvbev5qP7) // ["So Gone" by Monica](https://youtu.be/UE6zfOuYfVI?list=RDUE6zfOuYfVI&t=21) // [Beyoncé - Me, Myself And I](https://youtu.be/4S37SGxZSMc?si=YX9SHBXPZGs4kR7X) // [Girl · Destiny's Child](https://youtu.be/r4PWb6DRJko?list=RDr4PWb6DRJko&t=11) // [Vivian Green - Emotional Rollercoaster](https://youtu.be/63TudFk9-u8?si=1wkDAAWPSyFgqSKY) // [Fool for You · CeeLo Green · Melanie Fiona](https://youtu.be/QOiY6FsbFXE?list=RDQOiY6FsbFXE) // [`WATCH` Philly Tree Ambush, NYC Sewer Dwellers & Airport Smuggling - https://youtu.be/zhuSRhZAPeI?t=190](https://youtu.be/zhuSRhZAPeI?t=190) // [Assaulted In Court!  Cutlers Court @ForAtlanta ](https://youtu.be/ztkPxaypCVs)
+ [Mary J. Blige - Mrs. Wrong ft. Drake](https://youtu.be/eS-y2R9cmnQ?si=VtnpLMbyvbev5qP7) // ["So Gone" by Monica](https://youtu.be/UE6zfOuYfVI?list=RDUE6zfOuYfVI&t=21) // [Beyoncé - Me, Myself And I](https://youtu.be/4S37SGxZSMc?si=YX9SHBXPZGs4kR7X) // [Girl · Destiny's Child](https://youtu.be/r4PWb6DRJko?list=RDr4PWb6DRJko&t=11) // [Vivian Green - Emotional Rollercoaster](https://youtu.be/63TudFk9-u8?si=1wkDAAWPSyFgqSKY) // [Fool for You · CeeLo Green · Melanie Fiona](https://youtu.be/QOiY6FsbFXE?list=RDQOiY6FsbFXE) 
+ 
+ 
+ ![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05041/opgs/edr/ncam/NLB_845016359EDR_F1251194CCAM05040M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05041/opgs/edr/ncam/NLB_845016359EDR_F1251194CCAM05040M_.JPG)
+ 
+ // [`WATCH` Philly Tree Ambush, NYC Sewer Dwellers & Airport Smuggling - https://youtu.be/zhuSRhZAPeI?t=190](https://youtu.be/zhuSRhZAPeI?t=190) // [Assaulted In Court!  Cutlers Court @ForAtlanta ](https://youtu.be/ztkPxaypCVs)
 
 
 
