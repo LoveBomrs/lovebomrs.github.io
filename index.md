@@ -3,6 +3,27 @@ layout: default
 mathjax: true
 ---
 
+ [Mary J. Blige - Mrs. Wrong ft. Drake](https://youtu.be/eS-y2R9cmnQ?si=VtnpLMbyvbev5qP7) // ["So Gone" by Monica](https://youtu.be/UE6zfOuYfVI?list=RDUE6zfOuYfVI&t=21) // [Beyoncé - Me, Myself And I](https://youtu.be/4S37SGxZSMc?si=YX9SHBXPZGs4kR7X) // [Girl · Destiny's Child](https://youtu.be/r4PWb6DRJko?list=RDr4PWb6DRJko&t=11)
+
+
+
+<svg class="gradient-text" id="headerMargins" width="50%" height="50%" viewBox="0 0 508.204 141.732" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<path d="M91.991 104.699c1.576 5.961 4.119 8.266 8.613 8.266 4.659 0 7.102-2.799 7.102-8.266V3.2h29.184v101.499c0 14.307-1.856 20.506-9.11 27.762-5.228 5.229-14.871 9.271-27.047 9.271-9.837 0-19.25-3.256-25.253-9.27-5.263-5.273-8.154-10.689-12.672-27.764L44.9 37.033c-1.577-5.961-4.119-8.265-8.613-8.265-4.66 0-7.103 2.798-7.103 8.265v101.5H0v-101.5C0 22.727 1.857 16.527 9.111 9.271 14.337 4.044 23.981 0 36.158 0c9.837 0 19.25 3.257 25.253 9.27 5.263 5.273 8.154 10.689 12.672 27.764zm386.047 33.834L444.334 33.096c-.372-1.164-.723-2.152-1.263-2.811-.926-1.127-2.207-1.719-3.931-1.719-1.723 0-3.004.592-3.931 1.719-.539.658-.891 1.646-1.262 2.811l-33.703 105.437h-30.167l36.815-115.177c1.918-6 4.66-11.094 8.139-14.488C421.002 3.047 428.038 0 439.141 0s18.14 3.047 24.109 8.867c3.479 3.395 6.221 8.488 8.14 14.488l36.814 115.177zm-149.16 0c19.12 0 28.446-4.062 35.814-11.389 8.153-8.105 12.053-16.973 12.053-30.213 0-11.699-4.283-22.535-10.804-29.019-8.526-8.479-19.116-11.151-36.384-11.151l-24.187-.001c-9.242 0-12.925-1.117-15.839-3.98-2.001-1.964-2.939-4.885-2.939-8.328 0-3.559.857-7.074 3.303-9.475 2.171-2.131 5.13-3.109 10.816-3.109h69.903V3.2H306.05c-19.12 0-28.445 4.063-35.814 11.389-8.152 8.105-12.053 16.972-12.053 30.212 0 11.701 4.283 22.536 10.804 29.019 8.527 8.479 19.116 11.152 36.384 11.152l24.188.002c9.242 0 12.925 1.115 15.839 3.979 2.001 1.965 2.939 4.885 2.939 8.328 0 3.559-.857 7.074-3.302 9.475-2.172 2.131-5.131 3.109-10.817 3.109h-72.094l-27.651-86.509c-1.918-6-4.66-11.094-8.139-14.488C220.363 3.047 213.327 0 202.224 0s-18.14 3.047-24.108 8.867c-3.48 3.395-6.221 8.488-8.139 14.488l-36.815 115.177h30.166l33.704-105.437c.372-1.164.723-2.152 1.263-2.811.926-1.127 2.208-1.719 3.931-1.719s3.004.592 3.931 1.719c.54.658.891 1.646 1.262 2.811l33.704 105.437z" fill="#1E90FF"/></svg>
+
+[Karen Bass](https://en.wikipedia.org/wiki/Talk:Karen_Bass) [[1](https://en.wikipedia.org/wiki/Karen_Bass)]  I left the sign I found in [Santa Monica](https://www.santamonica.gov/categories/your-city-hall/careers) posted at [City Hall](https://californiathroughmylens.com/la-observation-deck/) ... [@CityOFSantaMonica](https://www.firefox.com/en-US/landing/get/?utm_medium=paidsearch&utm_source=google-rsa&utm_campaign=fx-performance&utm_content=Brand&gclsrc=aw.ds&gad_source=1&gad_campaignid=21953014515&gbraid=0AAAAAD-k1GpjNmLFJ3lYJ-fQrR5Tp-e9R&gclid=EAIaIQobChMIt-i50MO3lwMV3JfuAR1WQzO4EAAYASAAEgJwyPD_BwE) I really enjoyed using [FireFox](https://www.firefox.com/en-US/channel/desktop/developer/) , @Nasa-jpl I'm still so out of rotation due to mailing address [St Francis Center](https://stfranciscenterla.org/) which is on the [La-County-isd](https://locator.lacounty.gov/lac/Location/3174007/st-francis-center---los-angeles) itennerary that [@cityOFLosAngeles @lacountyDPH Survival Guide](https://lacounty.gov/emergency/preparedness/emergency-survival-guide/) points us to and I can work on getting an id. I bought some fast food, and spent $2 on videogames and I' need $40 for an iD [Keisha Lance Bottoms @ForAtlanta ](https://www.youtube.com/watch?v=Ms-tAlrUwUg)... I missed [openhouse](https://www.jpl.nasa.gov/news/explore-jpl-to-take-place-oct-10-11/) but got a [pardon](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) from a few fellow JPLr's that work in the library in response to my email about hanging out at [central ](https://www.lapl.org/branches/central-library) and did Hurrican tracking for [Tropical Stomr Racheal](https://www.facebook.com/TheWeatherChannel/videos/the-remnants-of-tropical-storm-rachel-sent-water-rushing-through-las-vegas-stree/1826419548775473/) @nasa-pds @doug-newman-nasa @usgs @eodis-nasa ... @howard-university-web-services whatever my significant other is, Latrice, I was told to refer to it as that. Tell her mom I got punched in the face @dhs-gov @deptofwar it happened at [Christian Outreach in Action](https://www.coalongbeach.org/) ([COA](https://locator.lacounty.gov/dcfs/Location/3175882/christian-outreach-in-action)) is a non-denominational 501(c)(3) non-profit organization located in [Downtown Long Beach](https://www.visitlongbeach.com/neighborhoods/downtown-long-beach/) that assists the homeless and low-income communit @blackgirlscode @Longbeachinnovationteam @StateOfCalifornia @Saccounty
+
+![https://static.wixstatic.com/media/ce4658_dda3e0b5ebb84925a729cf8133ba3756~mv2.jpg/v1/fit/w_2500,h_1330,al_c/ce4658_dda3e0b5ebb84925a729cf8133ba3756~mv2.jpg](https://static.wixstatic.com/media/ce4658_dda3e0b5ebb84925a729cf8133ba3756~mv2.jpg/v1/fit/w_2500,h_1330,al_c/ce4658_dda3e0b5ebb84925a729cf8133ba3756~mv2.jpg)
+
+- [jpl.nasa.gov/news/explore-jpl-to-take-place-oct-10-11/](https://www.jpl.nasa.gov/news/explore-jpl-to-take-place-oct-10-11/)
+- 
+![https://d2pn8kiwq2w21t.cloudfront.net/images/Misc_JPL_Space_Heros-2.original.width-1320.png](https://d2pn8kiwq2w21t.cloudfront.net/images/Misc_JPL_Space_Heros-2.original.width-1320.png) 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">TODAY, OCTOBER 5th, is the last day to register to vote in Georgia. Check your registration status at https://t.co/rJ41HLKX2N. Early voting begins October 13th. Only 21 votes per precinct made the difference in the 2018 Governor’s race. Please share this post with at least 21 people in Georgia and ask them to join you in voting. #VOTE</p>&mdash; Keisha Lance Bottoms (@KeishaBottoms) <a href="https://x.com/KeishaBottoms/status/2107172807956115896?ref_src=twsrc%5Etfw">October 5, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1b413402-f6ba-4d72-bc07-ae0fb042e6e5" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/b7bbb9b9-4ce5-4dd7-b044-4eac7b334db1" />
 
 
 ## The $89 Smart Glasses Sparking Massive Privacy Fears
@@ -10,7 +31,7 @@ mathjax: true
 
 <img  alt="image" src="https://github.com/user-attachments/assets/89acc55c-e19f-4c8b-b639-341242c58b6c" />
 
-https://www.youtube.com/watch?v=F3ST7-xuAKs
+https://www.[youtube.com/watch?v=F3ST7-xuAKs](https://www.youtube.com/watch?v=F3ST7-xuAKs)
 <img  alt="image" src="https://github.com/user-attachments/assets/3dbd7496-2243-404d-b627-031b33807b06" />
 
 [youtube.com/@hot97/videos](https://www.youtube.com/@hot97/videos)
@@ -45,6 +66,7 @@ Flock Surveillance Ruling, [Skid Row ](https://www.justice.gov/usao-cdca/pr/23-s
 The 10-Year-Old Nikon D5 DSLR Really Is the Best Camera for Artemis II [`READ`](https://petapixel.com/2026/04/06/the-10-year-old-nikon-d5-dslr-really-is-the-best-camera-for-artemis-ii/)
 ![https://petapixel.com/assets/uploads/2026/04/artemis-ii-nikon-d5-featured-1536x806.jpg](https://petapixel.com/assets/uploads/2026/04/artemis-ii-nikon-d5-featured-1536x806.jpg)
 [pds-imaging.jpl.nasa.gov/artemis2_orion_camera/data_raw_image/fd05/art002e041390_cab2_raw_v01.tif](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_orion_camera/data_raw_image/fd05/art002e041390_cab2_raw_v01.tif)
+
 <img alt="art002e041390_cab2_src_v01" src="https://github.com/user-attachments/assets/f58db764-87f7-4229-bf1a-b0530c1b3baf" />
 
 ![https://www.nikon.com/etc.clientlibs/nikoncore/clientlibs/clientlib-site/resources/img/logo.svg](https://www.nikon.com/etc.clientlibs/nikoncore/clientlibs/clientlib-site/resources/img/logo.svg)
