@@ -3,7 +3,24 @@ layout: default
 mathjax: true
 ---
 
-🎼: [Not Lookin · Mary J. Blige · K-Ci](https://youtu.be/Iat7vBga3pg?list=RDIat7vBga3pg&t=254) // [Alan Jackson - Chattahoochee @Whitehouse @DeptofWar @nasa-JPL](https://youtu.be/JW5UEW2kYvc) // [Tadele Gemechu Sanyii Leencaa](https://youtu.be/h44c_wiWLt8?si=STKuIINGAIzr0dcw) // [Veronica Adane Ft. Rayvanny Bironica (ቢሮኒካ) ](https://youtu.be/Q-gpaeSta0Q?si=dt9AVVv5KKy9Iq3_) // [Yo Mariyos -ባህር ዳር (BAHIR DAR)](https://youtu.be/bUuSd2bIMDs?si=k6g9tov3iXGGuN2n) // [Tsedi - Lubbu ](https://youtu.be/tu3xqhokiro?si=YdS7BqUUkxPticty) // [Yo Mariyos -ባህር ዳር (BAHIR DAR)](https://youtu.be/bUuSd2bIMDs?si=k6g9tov3iXGGuN2n) //[Yohana - ዮሐና - ገላጋይ | Yohana – Gelagay ](https://youtu.be/zl1U9_jciOk?list=RDzl1U9_jciOk) // [ROPHNAN - SHEGIYE | ሮፍናን - ሸግዬ](https://youtu.be/kUknTOgdWgk?list=RDzl1U9_jciOk)
+
+
+## The $89 Smart Glasses Sparking Massive Privacy Fears
+[Karen Bass](https://www.karenbass.com/) [[1](https://www.thehistorymakers.org/biography/honorable-karen-bass)] @CityOfLosAngeles i was doing some errands @nasa-jpl and discovered one of your signs in @CityOfSantaMonica, Lana or Latrice is LeftEye from TLC,i want people to forgive her for playin me @foratlanta ... And praise her for getting me through an illicit abandonment ... BTW she getting hurt by smart gflases she always talking about it @deptofwar and if they sold at [KmART](https://www.thehistorymakers.org/biography/honorable-karen-bass) she may be bing abused and never ment to hurt me with further iso;atiton she is a good girl overall @whitehouse
+
+<img  alt="image" src="https://github.com/user-attachments/assets/89acc55c-e19f-4c8b-b639-341242c58b6c" />
+
+https://www.youtube.com/watch?v=F3ST7-xuAKs
+<img  alt="image" src="https://github.com/user-attachments/assets/3dbd7496-2243-404d-b627-031b33807b06" />
+
+[youtube.com/@hot97/videos](https://www.youtube.com/@hot97/videos)
+<img  alt="image" src="https://github.com/user-attachments/assets/179934fa-91c7-4ebb-846a-ad1600c1fbb3" />
+
+
+[addons.mozilla.org/en-US/firefox/search/?sort=rating&type=statictheme](https://addons.mozilla.org/en-US/firefox/search/?sort=rating&type=statictheme)
+<img  alt="image" src="https://github.com/user-attachments/assets/9fc596a9-0de4-4158-89a5-a0f0cb3b5b68" />
+
+🎼: [Not Lookin · Mary J. Blige · K-Ci](https://youtu.be/Iat7vBga3pg?list=RDIat7vBga3pg&t=254) // [Alan Jackson - Chattahoochee @Whitehouse @DeptofWar @nasa-JPL](https://youtu.be/JW5UEW2kYvc) // [Tadele Gemechu Sanyii Leencaa](https://youtu.be/h44c_wiWLt8?si=STKuIINGAIzr0dcw) // [Veronica Adane Ft. Rayvanny Bironica (ቢሮኒካ) ](https://youtu.be/Q-gpaeSta0Q?si=dt9AVVv5KKy9Iq3_) // [Yo Mariyos -ባህር ዳር (BAHIR DAR)](https://youtu.be/bUuSd2bIMDs?si=k6g9tov3iXGGuN2n) // [Tsedi - Lubbu ](https://youtu.be/tu3xqhokiro?si=YdS7BqUUkxPticty) // [Yo Mariyos -ባህር ዳር (BAHIR DAR)](https://youtu.be/bUuSd2bIMDs?si=k6g9tov3iXGGuN2n) //[Yohana - ዮሐና - ገላጋይ  Yohana – Gelagay ](https://youtu.be/zl1U9_jciOk?list=RDzl1U9_jciOk) // [ROPHNAN - SHEGIYE  ሮፍናን - ሸግዬ](https://youtu.be/kUknTOgdWgk?list=RDzl1U9_jciOk)
 
 
 
