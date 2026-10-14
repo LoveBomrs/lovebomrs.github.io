@@ -3,12 +3,16 @@ layout: default
 mathjax: true
 ---
 
- [Mary J. Blige - Mrs. Wrong ft. Drake](https://youtu.be/eS-y2R9cmnQ?si=VtnpLMbyvbev5qP7) // ["So Gone" by Monica](https://youtu.be/UE6zfOuYfVI?list=RDUE6zfOuYfVI&t=21) // [Beyoncé - Me, Myself And I](https://youtu.be/4S37SGxZSMc?si=YX9SHBXPZGs4kR7X) // [Girl · Destiny's Child](https://youtu.be/r4PWb6DRJko?list=RDr4PWb6DRJko&t=11) // [Vivian Green - Emotional Rollercoaster](https://youtu.be/63TudFk9-u8?si=1wkDAAWPSyFgqSKY) // [Fool for You · CeeLo Green · Melanie Fiona](https://youtu.be/QOiY6FsbFXE?list=RDQOiY6FsbFXE) // [ Solid Steel Presents Amon Tobin Recorded Live](https://youtu.be/5fq5_VjzYJk?list=RD5fq5_VjzYJk&t=26) // [Eight Months to Mars @MiT](https://youtu.be/_GdBUcwi1LM) // [Ghostface Killah - Here I Go Again (feat. AZ & Rell) ](https://youtu.be/ExXt21DDDY8?si=qrsUXljprRDyCqba) // [Kandace Springs - Bamboo's Lament](https://youtu.be/y8OvnIhWD7U?list=RDy8OvnIhWD7U) // [Mobb Deep - Temperature's Rising (Feat. Crystal Johnson)](https://youtu.be/d2cUUsCEPXQ?list=RDd2cUUsCEPXQ) // [Slump @nasa · Outkast](https://youtu.be/4Mm566HG3Fc?si=hFI_iBYXt8jB2lvW) // [DJ Darkfada - The Best Of Mobb Deep Mix @StateOfCalifornia @WhiteHouse @Nasa-JPL](https://youtu.be/S8vQf1K845s) // [Adam and Eve · Nas · The-Dream](https://youtu.be/tobfI7tl7-g?si=uBxS0yRRVbmYXZoU)
+ [Mary J. Blige - Mrs. Wrong ft. Drake](https://youtu.be/eS-y2R9cmnQ?si=VtnpLMbyvbev5qP7) // ["So Gone" by Monica](https://youtu.be/UE6zfOuYfVI?list=RDUE6zfOuYfVI&t=21) // [Beyoncé - Me, Myself And I](https://youtu.be/4S37SGxZSMc?si=YX9SHBXPZGs4kR7X) // [Girl · Destiny's Child](https://youtu.be/r4PWb6DRJko?list=RDr4PWb6DRJko&t=11) // [Vivian Green - Emotional Rollercoaster](https://youtu.be/63TudFk9-u8?si=1wkDAAWPSyFgqSKY) // [Fool for You · CeeLo Green · Melanie Fiona](https://youtu.be/QOiY6FsbFXE?list=RDQOiY6FsbFXE) // [ Solid Steel Presents Amon Tobin Recorded Live](https://youtu.be/5fq5_VjzYJk?list=RD5fq5_VjzYJk&t=26) // [Eight Months to Mars @MiT](https://youtu.be/_GdBUcwi1LM) // [Ghostface Killah - Here I Go Again (feat. AZ & Rell) ](https://youtu.be/ExXt21DDDY8?si=qrsUXljprRDyCqba) // [Kandace Springs - Bamboo's Lament](https://youtu.be/y8OvnIhWD7U?list=RDy8OvnIhWD7U) // [Mobb Deep - Temperature's Rising (Feat. Crystal Johnson)](https://youtu.be/d2cUUsCEPXQ?list=RDd2cUUsCEPXQ) // [Slump @nasa · Outkast](https://youtu.be/4Mm566HG3Fc?si=hFI_iBYXt8jB2lvW) // [DJ Darkfada - The Best Of Mobb Deep Mix @StateOfCalifornia @WhiteHouse @Nasa-JPL](https://youtu.be/S8vQf1K845s) // [Adam and Eve · Nas · The-Dream](https://youtu.be/tobfI7tl7-g?si=uBxS0yRRVbmYXZoU) // [Jeezy - My President (@whitehouse) ft. Nas](https://youtu.be/O9sABRosdNg?si=eGQUI_lsDWfTuY8O)
 
 ---
 
 
 <img   alt="download" src="https://github.com/user-attachments/assets/f582831e-2516-47d4-aa7e-91c94491c880" />
+
+
+[nhc.noaa.gov/](https://www.nhc.noaa.gov/) hi @CityOfLosAngeles we have two hurricanes spotted @stateofcalifornia .... Simon and Trudy 
+<img  alt="image" src="https://github.com/user-attachments/assets/5c10d689-2df6-427e-b25a-f3d4e479a15f" />
 
 @CityOfLosAngeles @ForAtlanta
 I know there's a lot to understanding Mr Trump, But if Mr Newsom could come to peace with  [🎼This🎵](https://youtu.be/S8vQf1K845s)playing in his Tahoe or [Silverado](https://www.chevrolet.com/trucks/silverado/1500) I think he wont be as mad at me Trump @DeptOFWar @nasa-jpl hi @blackgirlscode ... @netflix idk who I mentioned but please tell [Lana J Harris](https://www.linkedin.com/in/lana-harris-8bb580108) I got punched in the face
