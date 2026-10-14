@@ -3,16 +3,16 @@ layout: default
 mathjax: true
 ---
 
-### [Six Flags death](https://yandex.com/search/?text=six+flags+death&lr=20765&family=yes&search_source=yacom_desktop_common): 
+### [Six Flags death](https://yandex.com/search/?text=six+flags+death&lr=20765&family=yes&search_source=yacom_desktop_common): [`WATCH`](https://youtu.be/UpxEZXaBZdY?si=GDtT0p9bwcRT5Dl9)
 State investigators seek answers about roller coaster mishap @newshour [`Link` - Man who died in Six Flags rollercoaster fall in Georgia was a father and educator @guardian](https://www.theguardian.com/us-news/2026/oct/13/six-flags-rollercoaster-death) // [Georgia police identify man who fatally fell off Six Flags roller coaster @nbcnews .com/news/us-news/six-flags-georgia-death-guests-say-man-fell-roller-coaster-rcna603097](https://www.nbcnews.com/news/us-news/six-flags-georgia-death-guests-say-man-fell-roller-coaster-rcna603097) 
 State investigators are searching for answers after a 42-year-old man died following a fall from the Goliath roller coaster at Six Flags Over Georgia. Authorities are investigating whether the tragedy was caused by a mechanical malfunction, a restraint system failure, operator error, or another factor.
-
+[`WATCH`](https://youtu.be/UpxEZXaBZdY?si=GDtT0p9bwcRT5Dl9)
 The investigation is being led by Georgia's Office of Commissioner of Insurance and Safety Fire, with officials reviewing inspection procedures, ride operations, and safety systems. Investigators are focusing on what went wrong and whether the Goliath ride's restraint system functioned properly.
-
+[`WATCH`](https://youtu.be/UpxEZXaBZdY?si=GDtT0p9bwcRT5Dl9)
 The victim, identified as Hassan Kariem, died after falling from the roller coaster, an incident that experts say is exceptionally rare. The tragedy has renewed questions about amusement park safety, ride inspections, and accountability as investigators work to determine exactly what happened.
 
 In this report, Channel 2 Action News examines:
-
+[`WATCH`](https://youtu.be/UpxEZXaBZdY?si=GDtT0p9bwcRT5Dl9)
 What investigators are looking for
 Whether a ride malfunction is being considered
 Questions surrounding the roller coaster's restraint system
