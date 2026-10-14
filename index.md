@@ -3,10 +3,16 @@ layout: default
 mathjax: true
 ---
 
- [Mary J. Blige - Mrs. Wrong ft. Drake](https://youtu.be/eS-y2R9cmnQ?si=VtnpLMbyvbev5qP7) // ["So Gone" by Monica](https://youtu.be/UE6zfOuYfVI?list=RDUE6zfOuYfVI&t=21) // [Beyoncé - Me, Myself And I](https://youtu.be/4S37SGxZSMc?si=YX9SHBXPZGs4kR7X) // [Girl · Destiny's Child](https://youtu.be/r4PWb6DRJko?list=RDr4PWb6DRJko&t=11) // [Vivian Green - Emotional Rollercoaster](https://youtu.be/63TudFk9-u8?si=1wkDAAWPSyFgqSKY) // [Fool for You · CeeLo Green · Melanie Fiona](https://youtu.be/QOiY6FsbFXE?list=RDQOiY6FsbFXE) // [ Solid Steel Presents Amon Tobin Recorded Live](https://youtu.be/5fq5_VjzYJk?list=RD5fq5_VjzYJk&t=26) // [Eight Months to Mars @MiT](https://youtu.be/_GdBUcwi1LM) // [Ghostface Killah - Here I Go Again (feat. AZ & Rell) ](https://youtu.be/ExXt21DDDY8?si=qrsUXljprRDyCqba) // [Kandace Springs - Bamboo's Lament](https://youtu.be/y8OvnIhWD7U?list=RDy8OvnIhWD7U)
+ [Mary J. Blige - Mrs. Wrong ft. Drake](https://youtu.be/eS-y2R9cmnQ?si=VtnpLMbyvbev5qP7) // ["So Gone" by Monica](https://youtu.be/UE6zfOuYfVI?list=RDUE6zfOuYfVI&t=21) // [Beyoncé - Me, Myself And I](https://youtu.be/4S37SGxZSMc?si=YX9SHBXPZGs4kR7X) // [Girl · Destiny's Child](https://youtu.be/r4PWb6DRJko?list=RDr4PWb6DRJko&t=11) // [Vivian Green - Emotional Rollercoaster](https://youtu.be/63TudFk9-u8?si=1wkDAAWPSyFgqSKY) // [Fool for You · CeeLo Green · Melanie Fiona](https://youtu.be/QOiY6FsbFXE?list=RDQOiY6FsbFXE) // [ Solid Steel Presents Amon Tobin Recorded Live](https://youtu.be/5fq5_VjzYJk?list=RD5fq5_VjzYJk&t=26) // [Eight Months to Mars @MiT](https://youtu.be/_GdBUcwi1LM) // [Ghostface Killah - Here I Go Again (feat. AZ & Rell) ](https://youtu.be/ExXt21DDDY8?si=qrsUXljprRDyCqba) // [Kandace Springs - Bamboo's Lament](https://youtu.be/y8OvnIhWD7U?list=RDy8OvnIhWD7U) // [Mobb Deep - Temperature's Rising (Feat. Crystal Johnson)](https://youtu.be/d2cUUsCEPXQ?list=RDd2cUUsCEPXQ)
 
 
 
+
+@CityOfLosangeles I'm usgin  @NAsa guardian to track waves, @CityofSantamonica I'm still new at some things @Eodis-nasa @Podaac so I told people to call about something I saw, maybe that was long beach, oh yeah it was the flooding, @doug-newman-nasa I'll see what I can ap, I was offline yesterday for all but 15min @ForAtlanta hi! @NewsHour
+
+<img  alt="Screenshot 2026-10-13 6 28 52 PM" src="https://github.com/user-attachments/assets/c2b1a1e2-8694-42a2-a5db-8d3e09ff4ead" />
+
+@SacCounty remember Donald Trump is from Queesn [Mobb Deep - Temperature's Rising (Feat. Crystal Johnson)](https://youtu.be/d2cUUsCEPXQ?list=RDd2cUUsCEPXQ) @StateOFCalifornia [GavinNewsom](https://www.motherjones.com/politics/2026/09/newsom-vetoes-bill-that-would-ban-extraditions-for-abortion-and-gender-affirming-care/)
 ![https://bokeh.org/img/bokeh-logo.svg](https://bokeh.org/img/bokeh-logo.svg) 
 [bokeh.org/](https://bokeh.org/)
 <img  alt="image" src="https://github.com/user-attachments/assets/ab620b73-e680-411c-82e3-62fc5af58f2f" />
