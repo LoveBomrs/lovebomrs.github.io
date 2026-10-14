@@ -3,6 +3,12 @@ layout: default
 mathjax: true
 ---
 
+ // [Pharoahe Monch - The Truth](https://youtu.be/g0TXMrTN2GU?list=PL22F2rppnUmVZ5QBU-tNKKPyxK4AdU77W) // 
+
+@nasa-jpl hi you can get some answers here @nasa @deptofwar [tinashehair.com/ @blackgirlscode @NewsHour](https://www.tinashehair.com/) 
+<img   alt="image" src="https://github.com/user-attachments/assets/406a16ab-2a16-48fa-b876-bd380c97b634" />
+
+
 ### [Six Flags death](https://yandex.com/search/?text=six+flags+death&lr=20765&family=yes&search_source=yacom_desktop_common): [`WATCH`](https://youtu.be/UpxEZXaBZdY?si=GDtT0p9bwcRT5Dl9)
 State investigators seek answers about roller coaster mishap @newshour [`Link` - Man who died in Six Flags rollercoaster fall in Georgia was a father and educator @guardian](https://www.theguardian.com/us-news/2026/oct/13/six-flags-rollercoaster-death) // [Georgia police identify man who fatally fell off Six Flags roller coaster @nbcnews .com/news/us-news/six-flags-georgia-death-guests-say-man-fell-roller-coaster-rcna603097](https://www.nbcnews.com/news/us-news/six-flags-georgia-death-guests-say-man-fell-roller-coaster-rcna603097) 
 State investigators are searching for answers after a 42-year-old man died following a fall from the Goliath roller coaster at Six Flags Over Georgia. Authorities are investigating whether the tragedy was caused by a mechanical malfunction, a restraint system failure, operator error, or another factor.
