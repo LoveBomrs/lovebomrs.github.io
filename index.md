@@ -12,7 +12,12 @@ mathjax: true
 
 <img  alt="Screenshot 2026-10-13 6 28 52 PM" src="https://github.com/user-attachments/assets/c2b1a1e2-8694-42a2-a5db-8d3e09ff4ead" />
 
-@SacCounty remember Donald Trump is from Queesn [Mobb Deep - Temperature's Rising (Feat. Crystal Johnson)](https://youtu.be/d2cUUsCEPXQ?list=RDd2cUUsCEPXQ) @StateOFCalifornia [GavinNewsom](https://www.motherjones.com/politics/2026/09/newsom-vetoes-bill-that-would-ban-extraditions-for-abortion-and-gender-affirming-care/)
+@SacCounty remember Donald Trump is from Queens [Mobb Deep - Temperature's Rising (Feat. Crystal Johnson)](https://youtu.be/d2cUUsCEPXQ?list=RDd2cUUsCEPXQ) @StateOFCalifornia [GavinNewsom](https://www.motherjones.com/politics/2026/09/newsom-vetoes-bill-that-would-ban-extraditions-for-abortion-and-gender-affirming-care/) . . . @blackgirlscode If you see this help me . I'm saying the tonality. People in Sacremento get really offended and in Los Angeles ... [The No Kings Protests!](https://youtu.be/xoN5ZtUjYvY) <~ @nbcnews yo I'm super serious people mad and then the email is miscongiureds all over @nasa and @deptofwar! @Commercegov is accepting applications for [Trump cards](https://www.trumpcard.gov/) via some cloud provider! and our mailers @eodis-nasa are on @aws!!!!!!!!
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ec197b64-b312-497d-9735-03b59bfa69a2" />
+
+![https://trumpcard.gov/_next/image?url=%2Fimg%2Foriginal-hero%2Ftc-card-hero-media.webp&w=640&q=75](https://trumpcard.gov/_next/image?url=%2Fimg%2Foriginal-hero%2Ftc-card-hero-media.webp&w=640&q=75)
+
 ![https://bokeh.org/img/bokeh-logo.svg](https://bokeh.org/img/bokeh-logo.svg) 
 [bokeh.org/](https://bokeh.org/)
 <img  alt="image" src="https://github.com/user-attachments/assets/ab620b73-e680-411c-82e3-62fc5af58f2f" />
