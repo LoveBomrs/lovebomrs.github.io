@@ -7,6 +7,10 @@ mathjax: true
 
 
 
+![https://bokeh.org/img/bokeh-logo.svg](https://bokeh.org/img/bokeh-logo.svg) 
+[bokeh.org/](https://bokeh.org/)
+<img  alt="image" src="https://github.com/user-attachments/assets/ab620b73-e680-411c-82e3-62fc5af58f2f" />
+
 [https://www.youtube.com/watch?v=s5dOiU7NTN8](https://www.youtube.com/watch?v=s5dOiU7NTN8)
 <img  alt="image" src="https://github.com/user-attachments/assets/9eaa2109-7cb6-46b5-abcc-29c46dd5c80f" />
 
