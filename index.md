@@ -14,7 +14,9 @@ mathjax: true
 
 @SacCounty remember Donald Trump is from Queens [Mobb Deep - Temperature's Rising (Feat. Crystal Johnson)](https://youtu.be/d2cUUsCEPXQ?list=RDd2cUUsCEPXQ) @StateOFCalifornia [GavinNewsom](https://www.motherjones.com/politics/2026/09/newsom-vetoes-bill-that-would-ban-extraditions-for-abortion-and-gender-affirming-care/) . . . @blackgirlscode If you see this help me . I'm saying the tonality. People in Sacremento get really offended and in Los Angeles ... [The No Kings Protests!](https://youtu.be/xoN5ZtUjYvY) <~ @nbcnews yo I'm super serious people mad and then the email is miscongiureds all over @nasa and @deptofwar! @Commercegov is accepting applications for [Trump cards](https://www.trumpcard.gov/) via some cloud provider! and our mailers @eodis-nasa are on @aws!!!!!!!!
 
-<img   alt="image" src="https://github.com/user-attachments/assets/ec197b64-b312-497d-9735-03b59bfa69a2" />
+<img  alt="tumblr_de9d9805664076eadfc27765172b64e5_219e25ac_1280 @nasa-jpl @blackgirlscode " src="https://github.com/user-attachments/assets/098ee1df-fa5b-43e8-b4f9-9a3c87f1687d" />
+
+
 
 ![https://trumpcard.gov/_next/image?url=%2Fimg%2Foriginal-hero%2Ftc-card-hero-media.webp&w=640&q=75](https://trumpcard.gov/_next/image?url=%2Fimg%2Foriginal-hero%2Ftc-card-hero-media.webp&w=640&q=75)
 
