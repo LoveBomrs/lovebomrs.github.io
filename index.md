@@ -11,6 +11,8 @@ mathjax: true
 
 ![https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2025/trucks/silverado-hd/visid/mov/01-images/my25-hdcrewcab-test.png background](https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2025/trucks/silverado-hd/visid/mov/01-images/my25-hdcrewcab-test.png)
 
+![https://avirisng.jpl.nasa.gov/img/greenhouse_gas_mapping/coal_fired_co2_plumes.png](https://avirisng.jpl.nasa.gov/img/greenhouse_gas_mapping/coal_fired_co2_plumes.png) 
+
 @nasa-jpl @emit-sds I found out about an Ariel mission [U2-Observer]() pic of Los Angeles and other useful things were documented in falsecolor [aether.lbl.gov/www/projects/u2/](https://aether.lbl.gov/www/projects/u2/)
 
 [nasa.gov/centers/dryden/multimedia/imagegallery/U-2/U-2_proj_desc.html @nasa-jpl @emit-sds ](https://www.nasa.gov/centers/dryden/multimedia/imagegallery/U-2/U-2_proj_desc.html)
