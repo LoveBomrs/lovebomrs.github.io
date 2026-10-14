@@ -7,8 +7,15 @@ mathjax: true
 
 ---
 
-
 <img   alt="download" src="https://github.com/user-attachments/assets/f582831e-2516-47d4-aa7e-91c94491c880" />
+
+![https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2025/trucks/silverado-hd/visid/mov/01-images/my25-hdcrewcab-test.png background](https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2025/trucks/silverado-hd/visid/mov/01-images/my25-hdcrewcab-test.png)
+
+@nasa-jpl @emit-sds I found out about an Ariel mission [U2-Observer]() pic of Los Angeles and other useful things were documented in falsecolor [aether.lbl.gov/www/projects/u2/](https://aether.lbl.gov/www/projects/u2/)
+
+[nasa.gov/centers/dryden/multimedia/imagegallery/U-2/U-2_proj_desc.html @nasa-jpl @emit-sds ](https://www.nasa.gov/centers/dryden/multimedia/imagegallery/U-2/U-2_proj_desc.html)
+<img  alt="image@nasa-jpl @emit-sds I found out about an Ariel mission [U2-Observer]() pic of Los Angeles and other useful things were documented in falsecolor [aether.lbl.gov/www/projects/u2/](https://aether.lbl.gov/www/projects/u2/) " src="https://github.com/user-attachments/assets/3320f815-2f86-45ab-a172-5548ced26734" />
+
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A732602704&color=%236faaf0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/josh-calhoun-585176683" title="Josh Calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">Josh Calhoun</a> · <a href="https://soundcloud.com/josh-calhoun-585176683/nas-illmatic-full-album" title="Nas - Illmatic (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">Nas - Illmatic (Full Album)</a></div> 
 
