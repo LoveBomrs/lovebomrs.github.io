@@ -5,6 +5,10 @@ mathjax: true
 
  // [Pharoahe Monch - The Truth](https://youtu.be/g0TXMrTN2GU?list=PL22F2rppnUmVZ5QBU-tNKKPyxK4AdU77W) // 
 
+[`MAP` - https://firms.modaps.eosdis.nasa.gov/usfs/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,active-ca,active-usa,fire-perimeter,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,sta_detections,sta_mask,steel_plants,countries,earth;@-118.404,33.941,14.656z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,active-ca,active-usa,fire-perimeter,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,sta_detections,sta_mask,steel_plants,countries,earth;@-118.404,33.941,14.656z)
+<img  alt="image" src="https://github.com/user-attachments/assets/e1ae1cfa-c83e-4f96-8910-42265987608b" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/377d7cf3-7617-474f-8b0e-1a2121b61871" />
 
 
 ![https://static.tinashehair.com/wp-content/uploads/2017/07/tinashe-logo70.png](https://static.tinashehair.com/wp-content/uploads/2017/07/tinashe-logo70.png) 
