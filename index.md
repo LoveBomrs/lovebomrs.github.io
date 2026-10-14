@@ -6,7 +6,7 @@ mathjax: true
 
 ### NYC Liquid Attack, Six Flags Chaos & Georgia Sub-$1 Gas War
 [`WATCH` - https://youtu.be/XN4VaAuMUC8?si=aeTwme6b-PLHNV5t](https://youtu.be/XN4VaAuMUC8?si=aeTwme6b-PLHNV5t)
-Atlanta Teacher Dies After Fall From Six Flags’ 200-Foot Coaster | Hassan Kariem @lanajharris hi @deptofwar check his relationships @repkarenbass if he spent time in los angeles @Keishaforga [https://youtu.be/jbIGOzc4HZ8?t=242](https://youtu.be/jbIGOzc4HZ8?t=242) hi @NASAJPL i got punched in the face @hot97 thats all im saying about magic city @GavinNewsom @Whitehouse @deptofwar thats not fair @essencemag! @nasa-jpl @cityoflosangeles the castration threats are excessive!!! @newshour the fertility tampering is really scary @jaxa  @ESA 
+Atlanta Teacher Dies After Fall From Six Flags’ 200-Foot Coaster | Hassan Kariem @lanajharris hi @deptofwar check his relationships @repkarenbass if he spent time in los angeles @Keishaforga [https://youtu.be/jbIGOzc4HZ8?t=242](https://youtu.be/jbIGOzc4HZ8?t=242) hi @NASAJPL i got punched in the face @hot97 thats all im saying about magic city @GavinNewsom @Whitehouse @deptofwar thats not fair @essencemag! @nasa-jpl @cityoflosangeles the castration threats are excessive!!! @newshour the fertility tampering is really scary @jaxa  @ESA @ForAtlanta
 <img   alt="image" src="https://github.com/user-attachments/assets/de1db695-12d1-49f0-84d0-857d69ed00a4" />
 
 Atlanta Teacher Dies After Fall From Six Flags’ 200-Foot Coaster
