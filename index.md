@@ -3,7 +3,18 @@ layout: default
 mathjax: true
 ---
 
-<img  alt=" @asfadmin @eu-cdse 2026-10-09-00_00_2026-10-09-23_59_Sentinel-2_L2A_Moisture_index image @SacCounty remember Donald Trump is from Queens [Mobb Deep - Temperature's Rising (Feat. Crystal Johnson)](https://youtu.be/d2cUUsCEPXQ?list=RDd2cUUsCEPXQ) @StateOFCalifornia [GavinNewsom](https://www.motherjones.com/politics/2026/09/newsom-vetoes-bill-that-would-ban-extraditions-for-abortion-and-gender-affirming-care/) . . . @blackgirlscode If you see this help me . I'm saying the tonality. People in Sacremento get really offended and in Los Angeles ... [The No Kings Protests!](https://youtu.be/xoN5ZtUjYvY) <~ @nbcnews yo I'm super serious people mad and then the email is miscongiureds all over @nasa and @deptofwar! @Commercegov is accepting applications for [Trump cards](https://www.trumpcard.gov/) via some cloud provider! and our mailers @eodis-nasa are on @aws!!!!!!!!" src="https://github.com/user-attachments/assets/ca1afbbf-2dee-4273-a7f8-57742d5d5381" />
+
+
+![https://lacity.gov/sites/g/files/wph2451/themes/site/logo.svg](https://lacity.gov/sites/g/files/wph2451/themes/site/logo.svg) 
+
+`Nithya_Raman` @nasa-jpl hi [aviris for CD4? @la-county-isd](https://aviris.jpl.nasa.gov/) ?
+![https://aviris.jpl.nasa.gov/images/aviris_text2.png](https://aviris.jpl.nasa.gov/images/aviris_text2.png) 
+
+![lacity.gov/sites/g/files/wph2451/files/2024-01/`Nithya_Raman` @nasa-jpl hi aviris for CD4? @la-county-isd ? ](https://lacity.gov/sites/g/files/wph2451/files/2024-01/Nithya_Raman.jpeg) 
+
+[https://lacity.gov/directory/councilmember-district-4](https://lacity.gov/directory/councilmember-district-4) 
+
+<img  alt=" @cityoflosangeles  @asfadmin @eu-cdse 2026-10-09-00_00_2026-10-09-23_59_Sentinel-2_L2A_Moisture_index image @SacCounty remember Donald Trump is from Queens [Mobb Deep - Temperature's Rising (Feat. Crystal Johnson)](https://youtu.be/d2cUUsCEPXQ?list=RDd2cUUsCEPXQ) @StateOFCalifornia [GavinNewsom](https://www.motherjones.com/politics/2026/09/newsom-vetoes-bill-that-would-ban-extraditions-for-abortion-and-gender-affirming-care/) . . . @blackgirlscode If you see this help me . I'm saying the tonality. People in Sacremento get really offended and in Los Angeles ... [The No Kings Protests!](https://youtu.be/xoN5ZtUjYvY) <~ @nbcnews yo I'm super serious people mad and then the email is miscongiureds all over @nasa and @deptofwar! @Commercegov is accepting applications for [Trump cards](https://www.trumpcard.gov/) via some cloud provider! and our mailers @eodis-nasa are on @aws!!!!!!!!" src="https://github.com/user-attachments/assets/ca1afbbf-2dee-4273-a7f8-57742d5d5381" />
 
 [@foratlanta](https://ra5hard.github.io/laecology)
 <img  alt="image" src="https://github.com/user-attachments/assets/a66e35c3-b72c-41e7-adbf-fc0988a9264c" />
