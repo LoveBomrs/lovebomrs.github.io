@@ -7,6 +7,7 @@ mathjax: true
 
 ---
 
+
 <img   alt="download" src="https://github.com/user-attachments/assets/f582831e-2516-47d4-aa7e-91c94491c880" />
 
 @CityOfLosAngeles @ForAtlanta
@@ -16,6 +17,9 @@ I know there's a lot to understanding Mr Trump, But if Mr Newsom could come to p
 
 
 <img   alt="download (2)" src="https://github.com/user-attachments/assets/54c7b9d7-4b1f-4ace-a570-bbe7b4b8f743" />
+
+
+<img alt="GIOVANNI-outputUEjx0BrZ" src="https://github.com/user-attachments/assets/ecb2398a-d603-4dcf-bd5f-0c111d465d3c" />
 
 @CityOfLosangeles I'm usgin  @NAsa guardian to track waves, @CityofSantamonica I'm still new at some things @Eodis-nasa @Podaac so I told people to call about something I saw, maybe that was long beach, oh yeah it was the flooding, @doug-newman-nasa I'll see what I can ap, I was offline yesterday for all but 15min @ForAtlanta hi! @NewsHour
 
