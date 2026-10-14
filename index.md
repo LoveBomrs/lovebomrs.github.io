@@ -5,6 +5,10 @@ mathjax: true
 
  // [Pharoahe Monch - The Truth](https://youtu.be/g0TXMrTN2GU?list=PL22F2rppnUmVZ5QBU-tNKKPyxK4AdU77W) // 
 
+
+
+![https://static.tinashehair.com/wp-content/uploads/2017/07/tinashe-logo70.png](https://static.tinashehair.com/wp-content/uploads/2017/07/tinashe-logo70.png) 
+
 @nasa-jpl hi you can get some answers here @nasa @deptofwar [tinashehair.com/ @blackgirlscode @NewsHour](https://www.tinashehair.com/) 
 <img   alt="image" src="https://github.com/user-attachments/assets/406a16ab-2a16-48fa-b876-bd380c97b634" />
 
