@@ -3,6 +3,11 @@ layout: default
 mathjax: true
 ---
 
+
+[@foratlanta](https://ra5hard.github.io/laecology)
+<img  alt="image" src="https://github.com/user-attachments/assets/a66e35c3-b72c-41e7-adbf-fc0988a9264c" />
+
+
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Ffanjamtv%2Fvideos%2F711863455665318%2F&show_text=false&width=476&t=0" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
  // [Pharoahe Monch - The Truth](https://youtu.be/g0TXMrTN2GU?list=PL22F2rppnUmVZ5QBU-tNKKPyxK4AdU77W) // // [Fool for You · CeeLo Green · Melanie Fiona](https://youtu.be/QOiY6FsbFXE?list=RDQOiY6FsbFXE) // [ Solid Steel Presents Amon Tobin Recorded Live](https://youtu.be/5fq5_VjzYJk?list=RD5fq5_VjzYJk&t=26) // [Eight Months to Mars @MiT](https://youtu.be/_GdBUcwi1LM) // [Ghostface Killah - Here I Go Again (feat. AZ & Rell) ](https://youtu.be/ExXt21DDDY8?si=qrsUXljprRDyCqba) // [Kandace Springs - Bamboo's Lament](https://youtu.be/y8OvnIhWD7U?list=RDy8OvnIhWD7U) // [Mobb Deep - Temperature's Rising (Feat. Crystal Johnson)](https://youtu.be/d2cUUsCEPXQ?list=RDd2cUUsCEPXQ) // [Slump @nasa · Outkast](https://youtu.be/4Mm566HG3Fc?si=hFI_iBYXt8jB2lvW) // [DJ Darkfada - The Best Of Mobb Deep Mix @StateOfCalifornia @WhiteHouse @Nasa-JPL](https://youtu.be/S8vQf1K845s) // [Adam and Eve · Nas · The-Dream](https://youtu.be/tobfI7tl7-g?si=uBxS0yRRVbmYXZoU) // [Jeezy - My President (@whitehouse) ft. Nas](https://youtu.be/O9sABRosdNg?si=eGQUI_lsDWfTuY8O) // [Pharoahe Monch - Rape @ForAtlanta](https://youtu.be/4lo3PhXr_e4?list=PL22F2rppnUmVZ5QBU-tNKKPyxK4AdU77W) // [Pharoahe Monch - The Truth](https://youtu.be/g0TXMrTN2GU?list=PL22F2rppnUmVZ5QBU-tNKKPyxK4AdU77W) // [Infamous Date Rape · A Tribe Called Quest](https://youtu.be/ECTh_O_SsB8?list=RDECTh_O_SsB8)
