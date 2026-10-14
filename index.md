@@ -10,6 +10,7 @@ mathjax: true
 
 <img   alt="download" src="https://github.com/user-attachments/assets/f582831e-2516-47d4-aa7e-91c94491c880" />
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A732602704&color=%236faaf0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/josh-calhoun-585176683" title="Josh Calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">Josh Calhoun</a> · <a href="https://soundcloud.com/josh-calhoun-585176683/nas-illmatic-full-album" title="Nas - Illmatic (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">Nas - Illmatic (Full Album)</a></div> 
 
 [nhc.noaa.gov/](https://www.nhc.noaa.gov/) hi @CityOfLosAngeles we have two hurricanes spotted @stateofcalifornia .... Simon and Trudy 
 <img  alt="image" src="https://github.com/user-attachments/assets/5c10d689-2df6-427e-b25a-f3d4e479a15f" />
