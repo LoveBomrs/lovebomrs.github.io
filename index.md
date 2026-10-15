@@ -7,6 +7,13 @@ mathjax: true
 
 ---
 
+[FloodMap Councilmember.raman@lacity.org @nasa-jpl](mailto:Councilmember.raman@lacity.org)
+[@CityOfLosAngeles `Recent Flooding` apps.geoglows.org/rfs#lon=-118.38&lat=33.85&zoom=11.00&definition=])https://apps.geoglows.org/rfs#lon=-118.38&lat=33.85&zoom=11.00&definition=_
+<img  alt="image" src="https://github.com/user-attachments/assets/1c091a79-df4c-492e-b091-8b7ddbebab9b" />
+
+[apps.geoglows.org/rfs#lon=-118.05&lat=33.96&zoom=11.00&definition= @cityoflosangeles](https://apps.geoglows.org/rfs#lon=-118.05&lat=33.96&zoom=11.00&definition=)
+<img alt="image" src="https://github.com/user-attachments/assets/47726ee7-bb25-4d07-83e9-fc01f7dcb304" />
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1027516186&color=%235096ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/selectabwoy" title="Selectabwoy" target="_blank" style="color: #cccccc; text-decoration: none;">Selectabwoy</a> · <a href="https://soundcloud.com/selectabwoy/dj-premier-crooklyn-cuts-volume-iii-tape-a-1996" title="DJ Premier - Crooklyn Cuts, Volume III Tape A (1996)" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Premier - Crooklyn Cuts, Volume III Tape A (1996)</a></div>
 
 ### Councilmember District 4 [_Nithya Raman_@cityoflosangeles](https://lacity.gov/directory/councilmember-district-4)
