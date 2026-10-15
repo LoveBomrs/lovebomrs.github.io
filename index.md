@@ -5,9 +5,14 @@ mathjax: true
 
 
 ## The [Lana](https://www.billboard.com/artist/tameka-tiny-harris/) RunDown
+[`WATCH` - youtu.be/o39J3TdVqL4?t=963](https://youtu.be/o39J3TdVqL4?t=1523)
+[`MAP` - 🗺️worldview.earthdata.nasa.gov/?v=-118.87482532481096,33.21545106702241,-117.13665592604943,34.37709893253135&l=Reference_Labels_15m,DoS_International_Boundaries,Admin_Boundaries(hidden),Coastlines_15m,GRUMP_Settlements,GRanD_Reservoirs,GRanD_Dams,VIIRS_NOAA20_Chlorophyll_a,VIIRS_NOAA21_Chlorophyll_a,S3B_OLCI_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,OCI_PACE_Chlorophyll_a,OPERA_L3_DIST-ANN-HLS_Color_Index(disabled=5),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&s=-85.7586,12.8482%2B-117.7817,33.5458&t=2026-10-09-T01%3A40%3A49Z🗺️](https://worldview.earthdata.nasa.gov/?v=-118.87482532481096,33.21545106702241,-117.13665592604943,34.37709893253135&l=Reference_Labels_15m,DoS_International_Boundaries,Admin_Boundaries(hidden),Coastlines_15m,GRUMP_Settlements,GRanD_Reservoirs,GRanD_Dams,VIIRS_NOAA20_Chlorophyll_a,VIIRS_NOAA21_Chlorophyll_a,S3B_OLCI_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,OCI_PACE_Chlorophyll_a,OPERA_L3_DIST-ANN-HLS_Color_Index(disabled=5),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&s=-85.7586,12.8482%2B-117.7817,33.5458&t=2026-10-09-T01%3A40%3A49Z)
+<img alt="image" src="https://github.com/user-attachments/assets/53643320-834d-40a5-a887-b82200839529" />
+
 [`WATCH` - youtu.be/o39J3TdVqL4?t=963](https://youtu.be/o39J3TdVqL4?t=963)
 [https://en.wikipedia.org/wiki/SpaceX](https://en.wikipedia.org/wiki/SpaceX) @lanajharris , @Spacex is a lab like us @NASAJPL but they specializew in rocket propulsion and there is a large software development arm... like us @nasa-pds @U.S.SpaceForce
-is in the smae complex @SPACEX is legit #DOD @deptofwar @whitehouse elon is like doug at @nasaEarthdata please chill @hot97!!!  Founded	March 14, 2002 (24 years ago) in El Segundo, California, U.S.[1] <~
+is in the smae complex @SPACEX is legit #DOD @deptofwar @whitehouse elon is like doug at @nasaEarthdata please chill @hot97!!!  Founded	March 14, 2002 (24 years ago) in El Segundo, California, U.S.[1] <~ [read - Large crack forms in cliffside under PCH near Laguna Beach after powerful waves pound coast](https://ktla.com/news/orange-county/laguna-beach-pch-cliff-crack/) // [`WATCH` - 
+Coastal erosion leads to crack in Laguna Beach cliffside under PCH](https://youtu.be/d70t19UPV8U?si=B3-W92gFgeLa27ne)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/0f98701e-1780-4bdb-b3c5-3863043aca39" />
 
