@@ -7,6 +7,15 @@ mathjax: true
 
 ---
 
+
+### Councilmember District 4 [_Nithya Raman_@cityoflosangeles](https://lacity.gov/directory/councilmember-district-4)
+![@cityoflosangeles https://lacity.gov/sites/g/files/wph2451/files/2024-01/Nithya_Raman.jpeg](https://lacity.gov/sites/g/files/wph2451/files/2024-01/Nithya_Raman.jpeg) // ![@cityoflosangeles mayor.lacity.gov/sites/g/files/wph2066/files/styles/default/public/2023-05/041_20230402_3Z7_9938%20%281%29WEBSITE.jpeg.webp?itok=EGVPmJ60](https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/default/public/2023-05/041_20230402_3Z7_9938%20%281%29WEBSITE.jpeg.webp?itok=EGVPmJ60)
+
+@Rashard Iman Kelly reporting I guess @HollyJMitchell@bos.lacounty.gov im getting shocked in odd ways and my body twisted by electronic weapons in the library, the expectation is for me not to work, whats the reality there about working daily in los agneles @jplnewsroom@jpl.nasa.gov @Councilmember.raman@lacity.org hi I want to know if making los angeles county my home since I work at the Jet Prppulsion Lab is sustainable? They drafted me ya know in 2015, I was paid, but I have some relationships to organize so my identity errors free my access, my badge is at the lab. I dont know what orders the gaurds have, but they on a peewee football attitude with me, I really dont like, it broke my english, and I just dont know what to do but follow spaceforce orders and they drafted me for metorology on earth and mars and thats the sum of what I use the library for Mayor Karen has a heistory in Savannah Georgia, I was told to call her my cousin, she was Karen Shelids for a while, The She met a man named Jeffery, they had a falling out and he never came back to the kingdom hall. I finished all the pamplets and then The Snowden files contained a document signed by the governing body making them a United Nations NGO, I know divisions of nasajpl are NGOs , but its completely secular! The Jehovahs witnesses doctrine conflicted with my parental and spousal values. I will talk about Erika @lanajharris@gmail.comand @normani@fifthharmonyofficial.com later contactCD4@lacity.org or Councilmember.raman@lacity.org @onelana10@juno.com https://ra5hard.github.io/2025/12/24/Sick-Trees-in-SoCal.html @Mayor @mayor.helpdesk@Councilmember Park
+WATCH - @NASA’s Role in the Martian Moons Exploration (MMX) Mission (October 15, 2026) @DEptofwar hi we are planning @nasa-jpl @nasa-pds @whitehouse @cbs-news-data
+<img  alt="image" src="https://github.com/user-attachments/assets/54c6ea5a-1dcd-4850-9f10-3367c5000cd3" />
+
+
 [`WATCH` - @NASA's Role in the Martian Moons Exploration (MMX) Mission (October 15, 2026) @DEptofwar hi we are planning @nasa-jpl @nasa-pds @whitehouse @cbs-news-data](https://youtu.be/3k2mpWrOD1s) /////////////////
 
 <img alt="image" src="https://github.com/user-attachments/assets/73105442-df13-45cb-a9d4-2c57090c22b6" />
@@ -14,7 +23,7 @@ mathjax: true
 [`WATCH` @la-county-isd @CityOfLosAngeles - Welcome to Our Universe: Explore JPL 2026 @NBCNEWS](https://youtu.be/VQEQ0BuHNEY)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3k2mpWrOD1s?si=H7jb25D43qQOMuO2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<img alt="image" src="https://github.com/user-attachments/assets/6f4cc602-bd85-40ca-8cd1-84fef4b58741" />
+<img alt="image @cityoflosangeles" src="https://github.com/user-attachments/assets/6f4cc602-bd85-40ca-8cd1-84fef4b58741" />
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/d205455c-cc4d-40ad-afb0-55aafa49308c" />
