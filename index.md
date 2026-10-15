@@ -3,6 +3,9 @@ layout: default
 mathjax: true
 ---
 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9a21870a-eb66-4561-9886-3061e1b41790" />
+
 [@la-county-isd Los Angeles District](https://www.spl.usace.army.mil/), U.S. Army Corps of Engineers [link](https://www.facebook.com/LosAngelesDistrictUSACE/?ref=embed_page#) // []()
 [CityOfLosAngeles 2026 AUSA Army Civilian Showcase: Innovate, Modernize, Deliver—Army Civilians for the Joint Force](https://www.dvidshub.net/video/1026386/2026-ausa-army-civilian-showcase-innovate-modernize-deliver-army-civilians-joint-force) hi its rashard from @nasa EarthOps @eodis-nasa .. The River has a lot of water in the basin
 
