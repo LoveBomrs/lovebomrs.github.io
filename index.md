@@ -5,6 +5,12 @@ mathjax: true
 
 [DJ Roc Raida (RIP) - The X-Men  Old Skool (1996) - Mixtape Cassette - @thedailybeatdrop](https://youtu.be/pyi2krVtpi8?list=RDpyi2krVtpi8&t=51) <~ old [Hot97](https://www.hot97.com/) <~ @BLACKGiRLSCODE
 
+---
+
+[`WATCH` - NASA's Role in the Martian Moons Exploration (MMX) Mission (October 15, 2026) @DEptofwar hi we are planning @nasa-jpl @nasa-pds](https://youtu.be/3k2mpWrOD1s) /////////////////
+[`WATCH` @la-county-isd @CityOfLosAngeles - Welcome to Our Universe: Explore JPL 2026 @NBCNEWS](https://youtu.be/VQEQ0BuHNEY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3k2mpWrOD1s?si=H7jb25D43qQOMuO2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 @la-county-isd this is a map of cambodia @usc i know @longbeachinnovationteam supports a large number of cambodians in the area, but i dont know who to turn the data over to @doug-newman-nasa @foratlanta [worldview.earthdata.nasa.gov/?v=102.16593272929055,10.155870173613957,107.78896502357696,12.923456380958052&l=Reference_Labels_15m,Admin_Boundaries @nasa-jpl](https://worldview.earthdata.nasa.gov/?v=102.16593272929055,10.155870173613957,107.78896502357696,12.923456380958052&l=Reference_Labels_15m,Admin_Boundaries(hidden),DoS_International_Boundaries(hidden),Coastlines_15m,MODIS_Combined_Flood_2-Day(hidden,disabled=3-4),MODIS_Combined_Flood_3-Day(disabled=3-4),MODIS_Terra_CorrectedReflectance_Bands721,MODIS_Aqua_CorrectedReflectance_Bands721(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&tr=flood-product&t=2022-11-02-T00%3A00%3A00Z)
 <img  alt="image" src="https://github.com/user-attachments/assets/77c9ea98-13c1-4bd2-b09d-5612b64b0cf1" />
 
