@@ -3,6 +3,12 @@ layout: default
 mathjax: true
 ---
 
+
+## The [Lana](https://www.billboard.com/artist/tameka-tiny-harris/) RunDown
+[@CityOfLosAngeles @StateOfCalifornia @foratlanta](https://www.jambase.com/show/tinashe-ray-charles-terrace-at-grammy-museum-20261022?utm_source=google&utm_medium=gac&source=ea)
+[`WATCH` - youtube.com/live/o39J3TdVqL4?si=hKt-woGjsvLpqOnC](https://www.youtube.com/live/o39J3TdVqL4?si=hKt-woGjsvLpqOnC)
+<img  alt="image" src="https://github.com/user-attachments/assets/1aa1371c-58ce-46e6-bf06-1460f5d28e68" />
+
 [youtube.com/hot97 @StateofCalifornia @ForAtlanta](https://www.youtube.com/hot97)
 <img alt="image" src="https://github.com/user-attachments/assets/ffce22ab-c666-4877-971e-587ea7087162" />
 
