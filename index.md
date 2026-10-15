@@ -3,7 +3,8 @@ layout: default
 mathjax: true
 ---
 
-
+[youtube.com/hot97 @StateofCalifornia @ForAtlanta](https://www.youtube.com/hot97)
+<img alt="image" src="https://github.com/user-attachments/assets/ffce22ab-c666-4877-971e-587ea7087162" />
 
 ![https://lacity.gov/sites/g/files/wph2451/themes/site/logo.svg](https://lacity.gov/sites/g/files/wph2451/themes/site/logo.svg) 
 
