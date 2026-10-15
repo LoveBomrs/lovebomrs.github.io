@@ -7,13 +7,36 @@ mathjax: true
 
 ---
 
-[`WATCH` - NASA's Role in the Martian Moons Exploration (MMX) Mission (October 15, 2026) @DEptofwar hi we are planning @nasa-jpl @nasa-pds](https://youtu.be/3k2mpWrOD1s) /////////////////
+[`WATCH` - @NASA's Role in the Martian Moons Exploration (MMX) Mission (October 15, 2026) @DEptofwar hi we are planning @nasa-jpl @nasa-pds @whitehouse @cbs-news-data](https://youtu.be/3k2mpWrOD1s) /////////////////
 
+<img alt="image" src="https://github.com/user-attachments/assets/73105442-df13-45cb-a9d4-2c57090c22b6" />
 
 [`WATCH` @la-county-isd @CityOfLosAngeles - Welcome to Our Universe: Explore JPL 2026 @NBCNEWS](https://youtu.be/VQEQ0BuHNEY)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3k2mpWrOD1s?si=H7jb25D43qQOMuO2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <img alt="image" src="https://github.com/user-attachments/assets/6f4cc602-bd85-40ca-8cd1-84fef4b58741" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d205455c-cc4d-40ad-afb0-55aafa49308c" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/e84097ff-eec6-425d-9aee-c86e21fea0e3" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/e4a7a35c-ee54-45f6-8948-1a616e7f00ae" />
+
+[https://archive.org/details/C-1997-2554 @nasa-pds](https://archive.org/details/C-1997-2554)
+![https://ia800101.us.archive.org/12/items/C-1997-2554/1997_02554.jpg](https://ia800101.us.archive.org/12/items/C-1997-2554/1997_02554.jpg) 
+
+<iframe src="https://archive.org/embed/marsspacescience00unse" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# 26 November 2018
+InSight successfully landed on Mars on 26 November 2018. Due to excessive dust on its solar panels preventing it from recharging, NASA put InSight in low-power mode for detecting seismic events in July 2022 and continued monitoring the lander through the operational period ending in December 2022.
+![InSignt](https://live.staticflickr.com/4819/45323543784_49fd644651_h.jpg)
+![inSight](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/InSight_spacecraft_model.png/1280px-InSight_spacecraft_model.png)
+![iNSiGHT](https://science.nasa.gov/wp-content/uploads/2024/03/pia22876.png?w=1024&format=webp)
+![NASDAQ_Logo_1971](https://upload.wikimedia.org/wikipedia/commons/1/1f/NASDAQ_Logo_1971.svg)
+![iNsignt](https://live.staticflickr.com/4830/46064378111_2c522e5285_h.jpg)
+![Insignt Shovel](https://photojournal.jpl.nasa.gov/archive/PIA24664b.gif)
+![insight](https://upload.wikimedia.org/wikipedia/commons/3/3d/PIA19664-MarsInSightLander-Assembly-20150430.jpg)
 
 @la-county-isd this is a map of cambodia @usc i know @longbeachinnovationteam supports a large number of cambodians in the area, but i dont know who to turn the data over to @doug-newman-nasa @foratlanta [worldview.earthdata.nasa.gov/?v=102.16593272929055,10.155870173613957,107.78896502357696,12.923456380958052&l=Reference_Labels_15m,Admin_Boundaries @nasa-jpl](https://worldview.earthdata.nasa.gov/?v=102.16593272929055,10.155870173613957,107.78896502357696,12.923456380958052&l=Reference_Labels_15m,Admin_Boundaries(hidden),DoS_International_Boundaries(hidden),Coastlines_15m,MODIS_Combined_Flood_2-Day(hidden,disabled=3-4),MODIS_Combined_Flood_3-Day(disabled=3-4),MODIS_Terra_CorrectedReflectance_Bands721,MODIS_Aqua_CorrectedReflectance_Bands721(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&tr=flood-product&t=2022-11-02-T00%3A00%3A00Z)
 <img  alt="image" src="https://github.com/user-attachments/assets/77c9ea98-13c1-4bd2-b09d-5612b64b0cf1" />
