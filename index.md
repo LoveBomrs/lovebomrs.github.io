@@ -7,10 +7,16 @@ mathjax: true
 <iframe src="https://abc7.com/video/embed?pid=11064936" width="640" height="360" allow="encrypted-media" allowFullScreen frameBorder="0"></iframe>
 
 
+[@commercegov for latrice monique fitzpatrick the reporter lana j harris @whitehouse @disney](https://weather.ndc.nasa.gov/sport/viewer/?dataset=goeswestabiconus&product=11p20um)
+<img  alt="goeswestabiconus-11p20um-sOct 15, 2026 - 16_51 UTC-eOct 15, 2026 - 18_26 UTC" src="https://github.com/user-attachments/assets/6464b7f9-c10a-4d9d-bc74-fac3e6f10863" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/2202a6cb-7bc5-4708-9d59-65765cde9f03" />
 
-  CityOfLosAngeles hi its rashard from @nasa EarthOps @eodis-nasa .. The River has a lot of water in the basin  https://www.spl.usace.army.mil/ hi @kathryn@bos.lacounty.gov  the usgs monitoring machine for Sepulveda dam is not reporting @douglas.j.newman@nasa.gov @Pierrat, Zoe A (US 329G-Affiliate) in the usgs waterdashboard tool but its monitoring location page  is healthy @BPW-RAM@lacity.org 
+
+@CityOfLosAngeles hi its rashard from @nasa EarthOps @eodis-nasa .. The River has a lot of water in the basin  https://www.spl.usace.army.mil/ hi @kathryn@bos.lacounty.gov  the usgs monitoring machine for Sepulveda dam is not reporting @douglas.j.newman@nasa.gov @Pierrat, Zoe A (US 329G-Affiliate) in the usgs waterdashboard tool but its monitoring location page  is healthy @BPW-RAM@lacity.org 
 waterdata.usgs.gov/monitoring-location/USGS-11092450/#dataTypeId=continuous-00065--695467286&period=P7D&showFieldMeasurements=true @LBFDRequests@longbeach.gov  @lafd.r1r2@lacity.org /////////////// @jplnewsroom@jpl.nasa.gov @janet.e.petro@nasa.gov hi i did an earthdata report at the long beach cityhall @lanajharris@gmail.com @osd.pentagon.pa.list.dpo-pr@mail.mil the river basin has a lot of water the CONUS maps conus stands for the Contiguous United States (the 48 lower U.S. states and Washington, D.C.), and NASA ......... The map shows some storms in the northwest portion of the map that could bring large waves and more coastal upheaval @mayor@longbeach.gov  @roc@jpl.nasa.gov 
+
+<img alt="GOES18-CONUS-EXTENT3-625x375" src="https://github.com/user-attachments/assets/641b161d-f2a7-4b2c-8621-562c96c58ce0" />
 
 <img alt="651003574-baa2e03d-3a45-4502-83f1-acbd2518f8cb" src="https://github.com/user-attachments/assets/b818f447-a68c-4730-b55d-d36d4ede9292" />
 
