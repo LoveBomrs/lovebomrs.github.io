@@ -8,7 +8,8 @@ mathjax: true
 ---
 
 [FloodMap Councilmember.raman@lacity.org @nasa-jpl](mailto:Councilmember.raman@lacity.org)
-[@CityOfLosAngeles `Recent Flooding` apps.geoglows.org/rfs#lon=-118.38&lat=33.85&zoom=11.00&definition=])https://apps.geoglows.org/rfs#lon=-118.38&lat=33.85&zoom=11.00&definition=_
+[@CityOfLosAngeles `Recent Flooding` apps.geoglows.org/rfs#lon=-118.38&lat=33.85&zoom=11.00&definition=](https://apps.geoglows.org/rfs#lon=-118.38&lat=33.85&zoom=11.00&definition=)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/1c091a79-df4c-492e-b091-8b7ddbebab9b" />
 
 [apps.geoglows.org/rfs#lon=-118.05&lat=33.96&zoom=11.00&definition= @cityoflosangeles](https://apps.geoglows.org/rfs#lon=-118.05&lat=33.96&zoom=11.00&definition=)
