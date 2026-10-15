@@ -3,8 +3,18 @@ layout: default
 mathjax: true
 ---
 
-[@nasa-jpl](https://www.lagunabeachcity.net/home) for people that need something to look at local tonight @cityoflosangeles
+[@nasa-jpl @la-county-isd ](https://www.lagunabeachcity.net/home) for people that need something to look at local tonight @cityoflosangeles
 <iframe src="https://abc7.com/video/embed?pid=11064936" width="640" height="360" allow="encrypted-media" allowFullScreen frameBorder="0"></iframe>
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2202a6cb-7bc5-4708-9d59-65765cde9f03" />
+
+  CityOfLosAngeles hi its rashard from @nasa EarthOps @eodis-nasa .. The River has a lot of water in the basin  https://www.spl.usace.army.mil/ hi @kathryn@bos.lacounty.gov  the usgs monitoring machine for Sepulveda dam is not reporting @douglas.j.newman@nasa.gov @Pierrat, Zoe A (US 329G-Affiliate) in the usgs waterdashboard tool but its monitoring location page  is healthy @BPW-RAM@lacity.org 
+waterdata.usgs.gov/monitoring-location/USGS-11092450/#dataTypeId=continuous-00065--695467286&period=P7D&showFieldMeasurements=true @LBFDRequests@longbeach.gov  @lafd.r1r2@lacity.org /////////////// @jplnewsroom@jpl.nasa.gov @janet.e.petro@nasa.gov hi i did an earthdata report at the long beach cityhall @lanajharris@gmail.com @osd.pentagon.pa.list.dpo-pr@mail.mil the river basin has a lot of water the CONUS maps conus stands for the Contiguous United States (the 48 lower U.S. states and Washington, D.C.), and NASA ......... The map shows some storms in the northwest portion of the map that could bring large waves and more coastal upheaval @mayor@longbeach.gov  @roc@jpl.nasa.gov 
+
+<img alt="651003574-baa2e03d-3a45-4502-83f1-acbd2518f8cb" src="https://github.com/user-attachments/assets/b818f447-a68c-4730-b55d-d36d4ede9292" />
+
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/9a21870a-eb66-4561-9886-3061e1b41790" />
 
