@@ -5,6 +5,14 @@ mathjax: true
 
 
 ## The [Lana](https://www.billboard.com/artist/tameka-tiny-harris/) RunDown
+[`WATCH` - youtu.be/o39J3TdVqL4?t=963](https://youtu.be/o39J3TdVqL4?t=963)
+[https://en.wikipedia.org/wiki/SpaceX](https://en.wikipedia.org/wiki/SpaceX) @lanajharris , @Spacex is a lab like us @NASAJPL but they specializew in rocket propulsion and there is a large software development arm... like us @nasa-pds @U.S.SpaceForce
+is in the smae complex @SPACEX is legit #DOD @deptofwar @whitehouse elon is like doug at @nasaEarthdata please chill @hot97!!!  Founded	March 14, 2002 (24 years ago) in El Segundo, California, U.S.[1] <~
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0f98701e-1780-4bdb-b3c5-3863043aca39" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/edfe15ad-2421-4809-aaba-d1a6ff62dfb3" />
+
 [@CityOfLosAngeles @StateOfCalifornia @foratlanta](https://www.jambase.com/show/tinashe-ray-charles-terrace-at-grammy-museum-20261022?utm_source=google&utm_medium=gac&source=ea)
 [`WATCH` - youtube.com/live/o39J3TdVqL4?si=hKt-woGjsvLpqOnC](https://www.youtube.com/live/o39J3TdVqL4?si=hKt-woGjsvLpqOnC)
 <img  alt="image" src="https://github.com/user-attachments/assets/1aa1371c-58ce-46e6-bf06-1460f5d28e68" />
