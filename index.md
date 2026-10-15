@@ -3,6 +3,32 @@ layout: default
 mathjax: true
 ---
 
+[🗺️FloodMap Councilmember.raman@lacity.org @nasa-jpl @eosdis-nasa](mailto:Councilmember.raman@lacity.org)
+[🗺️@CityOfLosAngeles `Recent Flooding` worldview.earthdata.nasa.gov/?v= @eosdis-nasa](https://worldview.earthdata.nasa.gov/?v=-118.34178887276688,33.53986260398926,-117.78913772456345,33.8507288748537&as=2026-10-05-T00%3A00%3A00Z&ae=2026-10-15-T00%3A00%3A00Z&l=Reference_Labels_15m,Admin_Boundaries(hidden),DoS_International_Boundaries(hidden),Coastlines_15m,MODIS_Combined_Flood_2-Day(hidden,disabled=3-4),MODIS_Combined_Flood_3-Day(disabled=3-4),MODIS_Terra_CorrectedReflectance_Bands721,MODIS_Aqua_CorrectedReflectance_Bands721(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&al=true&ab=on&s=-118.1813,33.7717&t=2026-10-11-T00%3A00%3A00Z)
+<img alt="nasa-worldview-2026 OCT 05-to-2026 OCT 15 (1)" src="https://github.com/user-attachments/assets/cee02d3f-4403-4a3a-8ea7-c941a6c05b6d" />
+
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System ( @EoDIS-nasa).
+
+
+## Atlanta[!](https://youtu.be/_nsDBUyLWcU)
+_Martin Luther King Jr. came of age in one of the fastest growing cities in the United States._ - [Changing Atlanta](https://science.nasa.gov/earth/earth-observatory/changing-atlanta-147806/)
+[A-Town Players - Wassup Wassup ( Bankhead Bounce ) Atlanta Classic 1995](https://youtu.be/J90bUNuJ20k) // [Dance411 @disney @nasa-jpl](https://youtu.be/P1K-uC-ZQso?is=8LQ8ZHTm8IU1Dzr2) +++ [Whatz Up, Whatz Up (A-Town T.V. Track) - _Playa Poncho_](https://www.youtube.com/watch?v=T9sMDuSfUSQ) & [Future - Incredible (HNDRXX)](https://youtu.be/VCaxeHxmZws?si=vyOnVn070tNvdPG1)
+
+### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
+
+[wclk.com/](https://www.wclk.com/)
+
+<iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/wclk-919-fm-10717?embed=true" frameborder="0"></iframe>
+
+<img alt=" [@foratlanta @deptofwar](https://apps.usgs.gov/hivis/camera/GA_Peachtree_Creek_at_Atlanta) keisha have some one from the army corp check on the stations @usgs thanks rashard @rashardikelly @nasa-jpl @eodis-nasa @doug-newman-nasa [https://apps.usgs.gov/hivis/camera/GA_Peachtree_Creek_at_Atlanta](https://apps.usgs.gov/hivis/camera/GA_Peachtree_Creek_at_Atlanta) hi @netflix whatever went on over covid i hope you guys all healing up as well 💯 GA_Peachtree_Creek_at_Atlanta___2026-10-01T21-45-26Z" src="https://github.com/user-attachments/assets/f4473bbd-e886-4583-8675-b1dc37bcde2c" />
+
+[@foratlanta @deptofwar](https://apps.usgs.gov/hivis/camera/GA_Peachtree_Creek_at_Atlanta) keisha have some one from the army corp check on the stations @usgs thanks rashard @rashardikelly @nasa-jpl @eodis-nasa @doug-newman-nasa [https://apps.usgs.gov/hivis/camera/GA_Peachtree_Creek_at_Atlanta](https://apps.usgs.gov/hivis/camera/GA_Peachtree_Creek_at_Atlanta) hi @netflix whatever went on over covid i hope you guys all healing up as well 💯
+
+<img  alt="image [@foratlanta @deptofwar](https://apps.usgs.gov/hivis/camera/GA_Peachtree_Creek_at_Atlanta) keisha have some one from the army corp check on the stations @usgs thanks rashard @rashardikelly @nasa-jpl @eodis-nasa @doug-newman-nasa  " src="https://github.com/user-attachments/assets/f0b58ffd-81e4-4a90-a906-b81daf5728aa" />
+
+
+[DJ Roc Raida (RIP) - The X-Men  Old Skool (1996) - Mixtape Cassette - @thedailybeatdrop](https://youtu.be/pyi2krVtpi8?list=RDpyi2krVtpi8&t=51) <~ old [Hot97](https://www.hot97.com/) <~ @BLACKGiRLSCODE
+
 ## Atlanta[!](https://youtu.be/_nsDBUyLWcU)
 _Martin Luther King Jr. came of age in one of the fastest growing cities in the United States._ - [Changing Atlanta](https://science.nasa.gov/earth/earth-observatory/changing-atlanta-147806/)
 [A-Town Players - Wassup Wassup ( Bankhead Bounce ) Atlanta Classic 1995](https://youtu.be/J90bUNuJ20k) // [Dance411 @disney @nasa-jpl](https://youtu.be/P1K-uC-ZQso?is=8LQ8ZHTm8IU1Dzr2) +++ [Whatz Up, Whatz Up (A-Town T.V. Track) - _Playa Poncho_](https://www.youtube.com/watch?v=T9sMDuSfUSQ) & [Future - Incredible (HNDRXX)](https://youtu.be/VCaxeHxmZws?si=vyOnVn070tNvdPG1)
