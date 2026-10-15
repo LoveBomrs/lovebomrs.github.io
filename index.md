@@ -4,6 +4,20 @@ mathjax: true
 ---
 
 
+
+@CityOfLosAngeles hi its [rashard](https://ra5hard.github.io/) from @nassa EarthOps @eodis-nasa .. The River has a lot of water in the basin @nasa-jpl btw [@la-county-isd `holly-j-mitchell`](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) i saw a girl get off at [@LACMTA Willow](https://www.metro.net/documents/2025/01/33-willow-st-metro-stationpdf/) That looked like Latrice! [KEiSHA @ForAtlanta](https://www.instagram.com/p/DYhFHUGRq0e/)! This is her moms instagram im confident [instagram.com/latresha.fitzpatrick/](https://www.instagram.com/latresha.fitzpatrick/), But she had her hair braided i dont know what it means in Long Beach, If she is trafficked tell her Im sorry things did not work out but im still her friend and im still using virtiserv as my bookkeeping service for my @Nasa and US_SPACEFORCE tasks and asssignments, she was scared of me getting hurt because i dont know what people or popularity is and how much rejections hurts, and she had to reject me at some points and need to trust i will accept her partnership as enough because no man can contain her... I hope shes ok @cbs-news-data she maybe [Chloe Bailey](https://www.yahoo.com/lifestyle/videos/larry-lobster-quavo-chloe-bailey-063325745.html), She was walking superfast... maybe she into marvel vs capcom but i thought i should let her team know @newshour!
+<img  alt="image" src="https://github.com/user-attachments/assets/e2a80720-a677-41ac-a42d-bc5b9e986544" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/99179967-ffd7-4c7c-b3d4-f402482ca61e" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/80fcc098-5738-45aa-b385-82156cddd3a4" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/ae822b6c-d2d6-4015-a88f-3dc654674e15" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/aaf78260-7bab-4b9e-80f8-1ee6787e0a25" />
+
+
+
 [@nasa-jpl](https://www.lagunabeachcity.net/home) for people that need something to look at local tonight @cityoflosangeles
 <iframe src="https://abc7.com/video/embed?pid=11064936" width="640" height="360" allow="encrypted-media" allowFullScreen frameBorder="0"></iframe>
 
