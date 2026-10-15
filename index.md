@@ -7,6 +7,10 @@ mathjax: true
 
 ---
 
+[@foratlanta @eodis-nasa](https://waterdata.usgs.gov/monitoring-location/USGS-02334430/#period=P7D&dataTypeId=continuous-00060-0&showMedian=true&showFieldMeasurements=true)
+<img   alt="imag [@foratlanta @eodis-nasa](https://waterdata.usgs.gov/monitoring-location/USGS-02334430/#period=P7D&dataTypeId=continuous-00060-0&showMedian=true&showFieldMeasurements=true) @nasa-jpl e" src="https://github.com/user-attachments/assets/df1556ab-5329-4341-988a-efb4ee3748c8" />
+
+
 [@foratlanta @eodis-nasa]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-84.38175%2C33.48411%2C-83.84744%2C33.92211%5D&view=%7B%22basemap%22%3A%22UsgsTopo%22%2C%22bounds%22%3A%22-84.38174606132884%2C33.484105606819604%2C-83.84744123944594%2C33.922108773107674%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C7%2C10%2C17%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
 <img alt="image" src="https://github.com/user-attachments/assets/5c8b355e-d2be-4c4c-bbbb-cba1fb49776c" />
 
