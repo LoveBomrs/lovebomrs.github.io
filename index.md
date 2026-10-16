@@ -3,9 +3,16 @@ layout: default
 mathjax: true
 ---
 
+
+
 [NASA meatball](https://www.nasa.gov/general/happy-birthday-meatball-nasas-iconic-logo-turns-65/) logo [EARTHDATA LOGIN @eosdis-nasa](https://www.jpl.nasa.gov/who-we-are/media-information/)]
 
-[https://goes.noaa.gov/floater.php?stormid=EP212026](https://goes.noaa.gov/floater.php?stormid=EP212026)
+### Hot97 Tv [Lana J Harris](https://www.amazon.com/live/video/03df0b3292734e70a70ebdf3c6e8f87b?ref_=asvh_vdp&src=aipsf)
+[`Watch` - Oregon Elementary Shooting & Pakistan School Collapse Probe @nasa-jpl](https://youtu.be/9Z6K-esc-SU?si=ioFQ8pYw4xoXB8d5)
+[Rep. Analilia Mejia Blasts ICE for Secretly Using NJ Warehouse @dhs-gov @nasa-jpl](https://youtu.be/AsMomg_kRuo?si=4cHlqcuxywwn3JIU)
+<img alt="image" src="https://github.com/user-attachments/assets/7929165b-c20e-4785-b4d6-500d8a0b04bb" />
+
+[@CityOfLosAngeles goes.noaa.gov/floater.php?stormid=EP212026](https://goes.noaa.gov/floater.php?stormid=EP212026)
 16 Oct 2026 - 15:00 UTC ...HURRICANE WARNING ISSUED FOR PORTIONS OF THE COAST OF MEXICO... ...TRUDY FORECAST TO APPROACH THE SOUTHWESTERN AND WEST-CENTRAL COAST OF MEXICO THIS WEEKEND... As of 9:00 AM CST Fri Oct 16 the center of Trudy was located near 14.6, -102.5 with movement NNW at 5 mph. The minimum central pressure was 956 mb with maximum sustained winds of about 120 mph.
 <img src="https://cdn.star.nesdis.noaa.gov/GOES18/ABI/MESO/14N-102W/GEOCOLOR/2026289175225_GOES18-ABI-MESO-GEOCOLOR-14N-102W-1000x1000.jpg"/>
 
