@@ -13,6 +13,8 @@ mathjax: true
 
 <img alt="image" src="https://github.com/user-attachments/assets/7929165b-c20e-4785-b4d6-500d8a0b04bb" />
 
+![[Atlanta Dream vs. Los Angeles Sparks](https://youtu.be/23Ubci4ZXGY?si=x20tBuNyPa4F8aaS) @nasa-jpl hi @dhs-gov I got run over, girls play with sex too, I got excluded and really confused because I'm having trouble getting in contact with my kid... She left in rabbit ears @CityOfLosAngeles [Councilmember.raman@lacity.org @nasa-jpl @eosdis-nasa](mailto:Councilmember.raman@lacity.org)https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-16T054526Z_2090825323_RC244OA1S56H_RTRMADP_3_OREGON-SHOOTING-1024x683.jpg](https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-16T054526Z_2090825323_RC244OA1S56H_RTRMADP_3_OREGON-SHOOTING-1024x683.jpg)
+
 [@CityOfLosAngeles goes.noaa.gov/floater.php?stormid=EP212026](https://goes.noaa.gov/floater.php?stormid=EP212026)
 16 Oct 2026 - 15:00 UTC ...HURRICANE WARNING ISSUED FOR PORTIONS OF THE COAST OF MEXICO... ...TRUDY FORECAST TO APPROACH THE SOUTHWESTERN AND WEST-CENTRAL COAST OF MEXICO THIS WEEKEND... As of 9:00 AM CST Fri Oct 16 the center of Trudy was located near 14.6, -102.5 with movement NNW at 5 mph. The minimum central pressure was 956 mb with maximum sustained winds of about 120 mph.
 <img src="https://cdn.star.nesdis.noaa.gov/GOES18/ABI/MESO/14N-102W/GEOCOLOR/2026289175225_GOES18-ABI-MESO-GEOCOLOR-14N-102W-1000x1000.jpg"/>
