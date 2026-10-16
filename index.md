@@ -34,7 +34,10 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 @SWOTcommunity Trudy and Simon
 [`PressPlay`](https://storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global.html) [🌀🗺️storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global @CityOfLosAngeles](https://storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global.html)
+
+
 <img alt="image" src="https://github.com/user-attachments/assets/75c4fd1d-86b6-4d9c-9159-5c9e03aa02cf" />
+<img  alt="image" src="https://github.com/user-attachments/assets/2000faff-c757-481c-9517-e645e9cf7bb7" />
 
 
 [🌀🗺️ pmmpublisher.pps.eosdis.nasa.gov/precip-apps-viewer.html](https://pmmpublisher.pps.eosdis.nasa.gov/precip-apps-viewer.html)
