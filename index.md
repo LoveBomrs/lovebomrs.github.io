@@ -3,7 +3,38 @@ layout: default
 mathjax: true
 ---
 
+[NASA meatball](https://www.nasa.gov/general/happy-birthday-meatball-nasas-iconic-logo-turns-65/) logo [EARTHDATA LOGIN @eosdis-nasa](https://www.jpl.nasa.gov/who-we-are/media-information/)]
 
+[https://goes.noaa.gov/floater.php?stormid=EP212026](https://goes.noaa.gov/floater.php?stormid=EP212026)
+16 Oct 2026 - 15:00 UTC ...HURRICANE WARNING ISSUED FOR PORTIONS OF THE COAST OF MEXICO... ...TRUDY FORECAST TO APPROACH THE SOUTHWESTERN AND WEST-CENTRAL COAST OF MEXICO THIS WEEKEND... As of 9:00 AM CST Fri Oct 16 the center of Trudy was located near 14.6, -102.5 with movement NNW at 5 mph. The minimum central pressure was 956 mb with maximum sustained winds of about 120 mph.
+<img src="https://cdn.star.nesdis.noaa.gov/GOES18/ABI/MESO/14N-102W/GEOCOLOR/2026289175225_GOES18-ABI-MESO-GEOCOLOR-14N-102W-1000x1000.jpg"/>
+
+
+Profile Information
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 10-15-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.27.1 Home NASA Accessibility
+NASA Official: Doug Newman
+
+Feedback
 [A-Town Players - Wassup Wassup ( Bankhead Bounce ) Atlanta Classic 1995](https://youtu.be/J90bUNuJ20k) //  [Whatz Up, Whatz Up (A-Town T.V. Track) - _Playa Poncho_](https://www.youtube.com/watch?v=T9sMDuSfUSQ) // [DJ Taz - That's Right (Feat. Raheem The Dream) (HQ) 1997](https://youtu.be/GCbJ_0igy20?si=-b70M6CA81PHREj2) // [DJ Smurf - "Ooh Lawd"](https://youtu.be/qUAy1iJogAs?list=RDqUAy1iJogAs) // @ForAtlanta I was not at any party, I want to be educated on how to be healthy with people so I don't humiliate anyone @nasa @deptofwar trust [95 South "Whoot There It Is"](https://youtu.be/aBwvFBxf_Eg?list=RDqUAy1iJogAs&t=46) // [69 boyz - Tootsee Roll](https://youtu.be/qs7f3ssuEjA?si=cSJPRHbdcR39zyn_) @CityOFLosangeles these songs are embarrassing to many southern boys, because playboy went gangland on us after a series of birthday parties I missed... that's y I said I'm sorry to @usc @nasa-jpl @nasa-pds it was Jehovah s directions, they were just wrong sometimes like a @yahoo powered @garmin [I Wanna Rock · Luke](https://youtu.be/fCnOwYxTDuI?list=RDfCnOwYxTDuI&t=19) // [Snoop Dogg - Gin And Juice](https://youtu.be/fWCZse1iwE0?si=_0nZG2RtkXrv-ngv) ~ [@La-County-isd Luke - Cowards In Compton `WHATHAPPENED`?](https://youtu.be/EFxrzwVlEg4?si=GG9SQc65gmf8IwdV) // [Dr Dre - Nuthin' But A "G" Thang](https://youtu.be/8GliyDgAGQI?list=RD8GliyDgAGQI) // [Dre Day by Dr. Dre ft. Snoop Dogg](https://youtu.be/0xS9hvs5F7s?list=RD0xS9hvs5F7s) // [Xxplosive · Dr. Dre · Hittman · Six-Two · Nate Dogg · Kurupt](https://youtu.be/WdlyIH2DX60?list=RDWdlyIH2DX60&t=14)
 
 
