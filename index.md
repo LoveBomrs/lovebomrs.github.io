@@ -3,6 +3,15 @@ layout: default
 mathjax: true
 ---
 
+### How to Use @USGS EarthExplorer to Download Imagery
+By Earth Resources Observation and Science (EROS) Center
+July 17, 2026
+[usgs.gov/centers/eros @cITYoFlOSaNGELES @LA-COUNTY-ISD @NASA-JPL](https://www.usgs.gov/centers/eros)
+@ForAtlanta is Lana perms here ? She said "Out HEre in @StateofCalifornia" in a broadcast
+[usgs.gov/media/videos/how-use-usgs-earthexplorer-download-imagery](https://www.usgs.gov/media/videos/how-use-usgs-earthexplorer-download-imagery)
+<img  alt="image" src="https://github.com/user-attachments/assets/a51358d0-bca2-4c61-a380-e659de2daaa6" />
+
+
 ![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
