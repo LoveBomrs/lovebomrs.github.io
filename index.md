@@ -12,6 +12,8 @@ mathjax: true
 ## Storm Imagery [link @noaagov](https://goes.noaa.gov/floater_index.php?src=nhc)
 
 ![https://weather.ndc.nasa.gov/sport/images/sportLogoHQ.png](https://weather.ndc.nasa.gov/sport/images/sportLogoHQ.png) 
+<img  alt="goeseastabifulldisk-airmass-sOct 15, 2026 - 23_00 UTC-eOct 16, 2026 - 02_10 UTC" src="https://github.com/user-attachments/assets/60f4526e-bf5c-4a25-b0ce-8667da5b5011" />
+
 <img  alt="goeseastabifulldisk-07p34um-sOct 15, 2026 - 23_00 UTC-eOct 16, 2026 - 02_10 UTC" src="https://github.com/user-attachments/assets/b3526176-ace3-47e6-a263-a725b8552015" />
 
 [Hurricane Trudy](https://goes.noaa.gov/floater.php?stormid=EP212026) at 14.0°N - 101.8°W
