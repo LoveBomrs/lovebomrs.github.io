@@ -9,7 +9,8 @@ mathjax: true
 
 ### Hot97 Tv [Lana J Harris](https://www.amazon.com/live/video/03df0b3292734e70a70ebdf3c6e8f87b?ref_=asvh_vdp&src=aipsf)
 [`Watch` - Oregon Elementary Shooting & Pakistan School Collapse Probe @nasa-jpl](https://youtu.be/9Z6K-esc-SU?si=ioFQ8pYw4xoXB8d5)
-[Rep. Analilia Mejia Blasts ICE for Secretly Using NJ Warehouse @dhs-gov @nasa-jpl](https://youtu.be/AsMomg_kRuo?si=4cHlqcuxywwn3JIU) [@dEPToFwAR SOME PEOPLE LOST ACCESS TO CELLULAR BE PATIENT, I GOT HURT REALLY BAD, HE SUCKED MY GIRLS BOOBS @NASA-PDS](https://www.youtube.com/shorts/WzoR6o0BQr0), AND THEY GET INTO IT @WHitehouse 
+[Rep. Analilia Mejia Blasts ICE for Secretly Using NJ Warehouse @dhs-gov @nasa-jpl](https://youtu.be/AsMomg_kRuo?si=4cHlqcuxywwn3JIU) [@dEPToFwAR SOME PEOPLE LOST ACCESS TO CELLULAR BE PATIENT, I GOT HURT REALLY BAD, HE SUCKED MY GIRLS BOOBS @NASA-PDS](https://www.youtube.com/shorts/WzoR6o0BQr0), AND THEY GET INTO IT @WHitehouse [Police identify 16-year-old suspect in deadly Oregon school shooting @nbcnews](https://youtu.be/KNxuXPhPr1k?si=54bBwqXBawNK4_wX)
+
 <img alt="image" src="https://github.com/user-attachments/assets/7929165b-c20e-4785-b4d6-500d8a0b04bb" />
 
 [@CityOfLosAngeles goes.noaa.gov/floater.php?stormid=EP212026](https://goes.noaa.gov/floater.php?stormid=EP212026)
