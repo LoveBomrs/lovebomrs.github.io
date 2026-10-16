@@ -4,13 +4,23 @@ mathjax: true
 ---
 
 
-[A-Town Players - Wassup Wassup ( Bankhead Bounce ) Atlanta Classic 1995](https://youtu.be/J90bUNuJ20k) //  [Whatz Up, Whatz Up (A-Town T.V. Track) - _Playa Poncho_](https://www.youtube.com/watch?v=T9sMDuSfUSQ) 
+[A-Town Players - Wassup Wassup ( Bankhead Bounce ) Atlanta Classic 1995](https://youtu.be/J90bUNuJ20k) //  [Whatz Up, Whatz Up (A-Town T.V. Track) - _Playa Poncho_](https://www.youtube.com/watch?v=T9sMDuSfUSQ) // [DJ Taz - That's Right (Feat. Raheem The Dream) (HQ) 1997](https://youtu.be/GCbJ_0igy20?si=-b70M6CA81PHREj2)
 
 
 ---
 
 ## Storm Imagery [link @noaagov](https://goes.noaa.gov/floater_index.php?src=nhc)
-Tropical Storm Simon at 19.3°N - 108.2°W
+
+[Hurricane Trudy](https://goes.noaa.gov/floater.php?stormid=EP212026) at 14.0°N - 101.8°W
+North Pacific Ocean
+Last observation: 16 Oct 2026 - 02:05 UTC
+« Active Storms »
+13 Oct 2026 - 16 Oct 2026
+
+![https://cdn.star.nesdis.noaa.gov/FLOATER/EP202026/GEOCOLOR/20262881940-20262890110-ABI-EP202026-GEOCOLOR-1000x1000.gif @cnn I come in peace Dom lemon @DEPTofWAR @NASA-JPL @NASA @CityOFLOSANGELES @NEWSHOUR @bbc](https://cdn.star.nesdis.noaa.gov/FLOATER/EP212026/GEOCOLOR/20262882010-20262890140-ABI-EP212026-GEOCOLOR-1000x1000.gif)
+
+
+[Tropical Storm Simon ](https://goes.noaa.gov/floater.php?stormid=EP202026) at 19.3°N - 108.2°W
 North Pacific Ocean
 Last observation: 16 Oct 2026 - 02:05 UTC
 « Active Storms » @open-mexico
