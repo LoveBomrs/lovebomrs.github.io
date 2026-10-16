@@ -17,13 +17,18 @@ mathjax: true
 
 <img alt="image" src="https://github.com/user-attachments/assets/7929165b-c20e-4785-b4d6-500d8a0b04bb" />
 
-
+[Band 33 Fusion Brightness Temperature](https://tc.copernicus.org/articles/18/2257/2024/)
+(Night)
+[NOAA-20](https://ncc.nesdis.noaa.gov/NOAA-20/index.php) / [VIIRS+CrIS](https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/science-domain/viirs-cris-fusion/)
 [ worldview.earthdata.nasa.gov/?v=-540,-265.78125,540,265.78125&l=Reference_Labels_15m(hidden),Admin_Boundaries(hidden),DoS_International_Boundaries(hidden),Coastlines_15m(hidden),VIIRS_CrIS_NOAA20_BT_Band33_Fusion_Night,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2026-10-15-T18%3A26%3A09Z](https://worldview.earthdata.nasa.gov/?v=-540,-265.78125,540,265.78125&l=Reference_Labels_15m(hidden),Admin_Boundaries(hidden),DoS_International_Boundaries(hidden),Coastlines_15m(hidden),VIIRS_CrIS_NOAA20_BT_Band33_Fusion_Night,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2026-10-15-T18%3A26%3A09Z)
 <img   alt="snapshot-2026-10-15" src="https://github.com/user-attachments/assets/de14cf9f-eee1-4c31-9575-1c6fac94de34" />
 
 [~~🛢️worldview.earthdata.nasa.gov/?v=-130.74235708825978,20.321326618520786 @nasa-jpl @la-county-isd @cityoflosangeles I think I found the oil slick status🛢️!~~](https://worldview.earthdata.nasa.gov/?v=-130.74235708825978,20.321326618520786,-109.62154868347638,30.716724505250113&l=Reference_Labels_15m,Admin_Boundaries(hidden),DoS_International_Boundaries(hidden),Coastlines_15m(hidden),VIIRS_CrIS_NOAA20_BT_Band33_Fusion_Night,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2026-10-15-T18%3A14%3A01Z)
 
 <img  alt="Watch - Oregon Elementary Shooting & Pakistan School Collapse Probe @nasa-jpl Rep. Analilia Mejia Blasts ICE for Secretly Using NJ Warehouse @dhs-gov nasa-worldview-2026 OCT 05-to-2026 OCT 15" src="https://github.com/user-attachments/assets/2868bb7c-9d40-4f98-af70-bd2afeb33fb1" />
+![https://www.star.nesdis.noaa.gov/ncc/images/banner/NCCbanner_new_02032025.png](https://www.star.nesdis.noaa.gov/ncc/images/banner/NCCbanner_new_02032025.png) 
+
+![https://ladsweb.modaps.eosdis.nasa.gov/img/logo.png @commercegov @nasa-jpl @cityoflosangeles](https://ladsweb.modaps.eosdis.nasa.gov/img/logo.png)
 
 ![[Atlanta Dream vs. Los Angeles Sparks](https://youtu.be/23Ubci4ZXGY?si=x20tBuNyPa4F8aaS) @nasa-jpl hi @dhs-gov I got run over, girls play with sex too, I got excluded and really confused because I'm having trouble getting in contact with my kid... She left in rabbit ears @CityOfLosAngeles [Councilmember.raman@lacity.org @nasa-jpl @eosdis-nasa](mailto:Councilmember.raman@lacity.org)https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-16T054526Z_2090825323_RC244OA1S56H_RTRMADP_3_OREGON-SHOOTING-1024x683.jpg](https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-16T054526Z_2090825323_RC244OA1S56H_RTRMADP_3_OREGON-SHOOTING-1024x683.jpg)
 
