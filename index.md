@@ -12,6 +12,9 @@ mathjax: true
 <img  alt="image" src="https://github.com/user-attachments/assets/77e44039-3ba6-401e-91c0-abce204118ce" />
 
 
+[ firms.modaps. @eosdis .nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,terra_crc,earth;@-117.653,33.478,13.138z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,terra_crc,earth;@-117.653,33.478,13.138z)
+<img  alt="image" src="https://github.com/user-attachments/assets/70575e29-fb2b-44f1-83d3-f7a424019f07" />
+
 A look at the footprint of the Norte Fire and wind forecasts [@nasa-jpl https://youtu.be/zDNwlpD0zsk?si=iQwsEwOW95vtUPot](https://youtu.be/zDNwlpD0zsk?si=iQwsEwOW95vtUPot)
 <img  alt="image" src="https://github.com/user-attachments/assets/d3ddc6ca-3a3c-498c-921a-9736632106d7" />
 
