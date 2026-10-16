@@ -8,7 +8,7 @@ By - [Earth Resources Observation and Science (EROS) Center usgs.gov/centers/ero
 July 17, 2026
 
 @ForAtlanta is [Lana](https://www.tiktok.com/@lanajharris/video/7496589297793994026?lang=en) perms here ? She said "Out HEre in @StateofCalifornia" in a broadcast
-[usgs.gov/media/videos/how-use-usgs-earthexplorer-download-imagery](https://www.usgs.gov/media/videos/how-use-usgs-earthexplorer-download-imagery)
+[usgs.gov/media/videos/how-use-usgs-earthexplorer-download-imagery](https://www.usgs.gov/media/videos/how-use-usgs-earthexplorer-download-imagery) [@nasa-jpl Our first time visiting NASA jet propulsion laboratory near LA. A MUST SEE!!](https://youtube.com/shorts/USuo_zOnvck?si=IWgpdLN2JxiJTbdp)
 <img  alt="image" src="https://github.com/user-attachments/assets/a51358d0-bca2-4c61-a380-e659de2daaa6" />
 
 
