@@ -4,6 +4,19 @@ mathjax: true
 ---
 
 
+[A-Town Players - Wassup Wassup ( Bankhead Bounce ) Atlanta Classic 1995](https://youtu.be/J90bUNuJ20k) //  [Whatz Up, Whatz Up (A-Town T.V. Track) - _Playa Poncho_](https://www.youtube.com/watch?v=T9sMDuSfUSQ) 
+
+
+---
+
+## Storm Imagery [link @noaagov](https://goes.noaa.gov/floater_index.php?src=nhc)
+Tropical Storm Simon at 19.3°N - 108.2°W
+North Pacific Ocean
+Last observation: 16 Oct 2026 - 02:05 UTC
+« Active Storms » @open-mexico
+7 Oct 2026 - 15 Oct 2026
+![https://cdn.star.nesdis.noaa.gov/FLOATER/EP202026/GEOCOLOR/20262881940-20262890110-ABI-EP202026-GEOCOLOR-1000x1000.gif @cnn I come in peace Dom lemon @bbc](https://cdn.star.nesdis.noaa.gov/FLOATER/EP202026/GEOCOLOR/20262881940-20262890110-ABI-EP202026-GEOCOLOR-1000x1000.gif)
+
 @ForAtlanta hi [Lana J HArris](https://www.tiktok.com/@lanajharris) , your [@Tiktok - https://www.tiktok.com/@lanajharris](https://www.tiktok.com/@lanajharris) still broke 
 ![https://p16-common-sign.tiktokc610&shp=a5d48078&shcp=81f88b70&idc=useast5](https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9ec307ecfec2f6b0f0b69b50482b8aae~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=4e24f1b8&x-expires=1792285200&x-signature=QYc4XfYIA65xn%2FwogFunQdQlw7g%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5)
 
