@@ -23,11 +23,24 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 [@ForAtlanta Royal Absurdities Episode 3: Tip's Birthday @nasa-pds](https://youtu.be/DOxsq0HcqE0?t=1)
 
+
+<svg class="gradient-text" id="headerMargins" width="50%" height="50%" viewBox="0 0 508.204 141.732" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<path d="M91.991 104.699c1.576 5.961 4.119 8.266 8.613 8.266 4.659 0 7.102-2.799 7.102-8.266V3.2h29.184v101.499c0 14.307-1.856 20.506-9.11 27.762-5.228 5.229-14.871 9.271-27.047 9.271-9.837 0-19.25-3.256-25.253-9.27-5.263-5.273-8.154-10.689-12.672-27.764L44.9 37.033c-1.577-5.961-4.119-8.265-8.613-8.265-4.66 0-7.103 2.798-7.103 8.265v101.5H0v-101.5C0 22.727 1.857 16.527 9.111 9.271 14.337 4.044 23.981 0 36.158 0c9.837 0 19.25 3.257 25.253 9.27 5.263 5.273 8.154 10.689 12.672 27.764zm386.047 33.834L444.334 33.096c-.372-1.164-.723-2.152-1.263-2.811-.926-1.127-2.207-1.719-3.931-1.719-1.723 0-3.004.592-3.931 1.719-.539.658-.891 1.646-1.262 2.811l-33.703 105.437h-30.167l36.815-115.177c1.918-6 4.66-11.094 8.139-14.488C421.002 3.047 428.038 0 439.141 0s18.14 3.047 24.109 8.867c3.479 3.395 6.221 8.488 8.14 14.488l36.814 115.177zm-149.16 0c19.12 0 28.446-4.062 35.814-11.389 8.153-8.105 12.053-16.973 12.053-30.213 0-11.699-4.283-22.535-10.804-29.019-8.526-8.479-19.116-11.151-36.384-11.151l-24.187-.001c-9.242 0-12.925-1.117-15.839-3.98-2.001-1.964-2.939-4.885-2.939-8.328 0-3.559.857-7.074 3.303-9.475 2.171-2.131 5.13-3.109 10.816-3.109h69.903V3.2H306.05c-19.12 0-28.445 4.063-35.814 11.389-8.152 8.105-12.053 16.972-12.053 30.212 0 11.701 4.283 22.536 10.804 29.019 8.527 8.479 19.116 11.152 36.384 11.152l24.188.002c9.242 0 12.925 1.115 15.839 3.979 2.001 1.965 2.939 4.885 2.939 8.328 0 3.559-.857 7.074-3.302 9.475-2.172 2.131-5.131 3.109-10.817 3.109h-72.094l-27.651-86.509c-1.918-6-4.66-11.094-8.139-14.488C220.363 3.047 213.327 0 202.224 0s-18.14 3.047-24.108 8.867c-3.48 3.395-6.221 8.488-8.139 14.488l-36.815 115.177h30.166l33.704-105.437c.372-1.164.723-2.152 1.263-2.811.926-1.127 2.208-1.719 3.931-1.719s3.004.592 3.931 1.719c.54.658.891 1.646 1.262 2.811l33.704 105.437z" fill="#1E90FF"/></svg>
+
+![https://gpm.nasa.gov/themes/custom/pmm_bs/images/gpm-title-large-v1.png](https://gpm.nasa.gov/themes/custom/pmm_bs/images/gpm-title-large-v1.png)
 [NASA meatball](https://www.nasa.gov/general/happy-birthday-meatball-nasas-iconic-logo-turns-65/) logo [EARTHDATA LOGIN @eosdis-nasa](https://www.jpl.nasa.gov/who-we-are/media-information/)
 
 
 
 @SWOTcommunity Trudy and Simon
+[`PressPlay`](https://storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global.html) [🌀🗺️storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global @CityOfLosAngeles](https://storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global.html)
+<img alt="image" src="https://github.com/user-attachments/assets/75c4fd1d-86b6-4d9c-9159-5c9e03aa02cf" />
+
+
+[🌀🗺️ pmmpublisher.pps.eosdis.nasa.gov/precip-apps-viewer.html](https://pmmpublisher.pps.eosdis.nasa.gov/precip-apps-viewer.html)
+<img alt="image" src="https://github.com/user-attachments/assets/afb597af-280f-4cb2-9117-6b61e42186b5" />
+
+
 [🌀🗺️ @eosdis-nasa @emit-sds aviso-calval.oceandatalab.com/?date=2026-10-10T12:00:05&timespan=1h&zoom=5&center=-13373031.099672_3039682.5557778&extent=-18069322.11686_728226.82075583_-8676740.0824845_5351138.2907998&products=3857_cmems_geos_current_vectorfield!3857_SWOT_L3_geos_current_v2_0_1_vectorfield!3857_SWOT_L2_swh_karin!3857_MFWAM_swell1_vectorfield!3857_MFWAM_swh_raster!3857_SWOT_L3_WINDWAVE_PART_tile_5km_box_10km!3857_SWOT_L3_roughness&opacity=20_20_100_100_60_100_100&stackLevel=120.039_140.006_120.035_50.043_90.023_140.002_10.001&filter=!+orbit1,+orbit21!+orbit1,+orbit21&selection=1111111](https://aviso-calval.oceandatalab.com/?date=2026-10-10T12:00:05&timespan=1h&zoom=5&center=-13373031.099672_3039682.5557778&extent=-18069322.11686_728226.82075583_-8676740.0824845_5351138.2907998&products=3857_cmems_geos_current_vectorfield!3857_SWOT_L3_geos_current_v2_0_1_vectorfield!3857_SWOT_L2_swh_karin!3857_MFWAM_swell1_vectorfield!3857_MFWAM_swh_raster!3857_SWOT_L3_WINDWAVE_PART_tile_5km_box_10km!3857_SWOT_L3_roughness&opacity=20_20_100_100_60_100_100&stackLevel=120.039_140.006_120.035_50.043_90.023_140.002_10.001&filter=!+orbit1,+orbit21!+orbit1,+orbit21&selection=1111111)
 <img   alt="image" src="https://github.com/user-attachments/assets/82d0be7f-9429-4310-ae31-7e6b72586051" />
 
