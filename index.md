@@ -27,6 +27,11 @@ mathjax: true
 
 <img  alt="Watch - Oregon Elementary Shooting & Pakistan School Collapse Probe @nasa-jpl Rep. Analilia Mejia Blasts ICE for Secretly Using NJ Warehouse @dhs-gov nasa-worldview-2026 OCT 05-to-2026 OCT 15" src="https://github.com/user-attachments/assets/2868bb7c-9d40-4f98-af70-bd2afeb33fb1" />
 
+
+[youtube.com/shorts/AVz0MeiR3iE @foratlanta](https://www.youtube.com/shorts/AVz0MeiR3iE)
+<img   alt="image" src="https://github.com/user-attachments/assets/5340e244-2dd5-4ec1-8814-eb772d5a597a" />
+
+
 ![https://www.star.nesdis.noaa.gov/ncc/images/banner/NCCbanner_new_02032025.png](https://www.star.nesdis.noaa.gov/ncc/images/banner/NCCbanner_new_02032025.png) 
 
 ![@nasa-jpl @cityoflosangeles @longbeachinnovationteam @Cityofsantamonica @nbcNEWS @CBSNEWS @USATODAY @WASHiNTONPOST](https://ncc.nesdis.noaa.gov/NOAA-20/images/NOAA-20_events.png) 
