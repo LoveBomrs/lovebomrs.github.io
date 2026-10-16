@@ -7,8 +7,10 @@ mathjax: true
 
 [NASA meatball](https://www.nasa.gov/general/happy-birthday-meatball-nasas-iconic-logo-turns-65/) logo [EARTHDATA LOGIN @eosdis-nasa](https://www.jpl.nasa.gov/who-we-are/media-information/)
 
+16 Oct 2026 - 15:00 UTC ...SIMON MOVING NORTHWESTWARD OFF THE COAST OF SOUTHERN BAJA CALIFORNIA... As of 8:00 AM MST Fri Oct 16 the center of Simon was located near 20.6, -109.5 with movement NW at 9 mph. The minimum central pressure was 1002 mb with maximum sustained winds of about 40 mph. @cityoflosangeles Trudy is trailing behind so e might have a big hunk of rain @cbs-news-data @doug-newman-nasa @eosdis
+![https://cdn.star.nesdis.noaa.gov/FLOATER/EP202026/GEOCOLOR/20262891310-20262891840-ABI-EP202026-GEOCOLOR-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/EP202026/GEOCOLOR/20262891310-20262891840-ABI-EP202026-GEOCOLOR-1000x1000.gif)
 
-
+![https://cdn.star.nesdis.noaa.gov/FLOATER/EP212026/GEOCOLOR/20262891310-20262891840-ABI-EP212026-GEOCOLOR-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/EP212026/GEOCOLOR/20262891310-20262891840-ABI-EP212026-GEOCOLOR-1000x1000.gif)
 
 
 ### Hot97 Tv [Lana J Harris](https://www.amazon.com/live/video/03df0b3292734e70a70ebdf3c6e8f87b?ref_=asvh_vdp&src=aipsf)
@@ -17,9 +19,13 @@ mathjax: true
 
 <img alt="image" src="https://github.com/user-attachments/assets/7929165b-c20e-4785-b4d6-500d8a0b04bb" />
 
-[Band 33 Fusion Brightness Temperature](https://tc.copernicus.org/articles/18/2257/2024/)
+### [Band 33 Fusion Brightness Temperature](https://tc.copernicus.org/articles/18/2257/2024/)
 (Night)
 [NOAA-20](https://ncc.nesdis.noaa.gov/NOAA-20/index.php) / [VIIRS+CrIS](https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/science-domain/viirs-cris-fusion/)
+
+[https://worldview.earthdata.nasa.gov/?v=-180.95997183749796,-14.125035279575187,-63.577275018551276,43.649260811000126&l=Reference_Labels_15m,Admin_Boundaries,DoS_International_Boundaries(hidden),Coastlines_15m(hidden),VIIRS_CrIS_NOAA20_BT_Band33_Fusion_Night,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2026-10-15-T18%3A41%3A09Z](https://worldview.earthdata.nasa.gov/?v=-180.95997183749796,-14.125035279575187,-63.577275018551276,43.649260811000126&l=Reference_Labels_15m,Admin_Boundaries,DoS_International_Boundaries(hidden),Coastlines_15m(hidden),VIIRS_CrIS_NOAA20_BT_Band33_Fusion_Night,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2026-10-15-T18%3A41%3A09Z)
+<img alt="image" src="https://github.com/user-attachments/assets/e5aa7610-d8b2-4766-867d-6064485c83dd" />
+
 [ worldview.earthdata.nasa.gov/?v=-540,-265.78125,540,265.78125&l=Reference_Labels_15m(hidden),Admin_Boundaries(hidden),DoS_International_Boundaries(hidden),Coastlines_15m(hidden),VIIRS_CrIS_NOAA20_BT_Band33_Fusion_Night,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2026-10-15-T18%3A26%3A09Z](https://worldview.earthdata.nasa.gov/?v=-540,-265.78125,540,265.78125&l=Reference_Labels_15m(hidden),Admin_Boundaries(hidden),DoS_International_Boundaries(hidden),Coastlines_15m(hidden),VIIRS_CrIS_NOAA20_BT_Band33_Fusion_Night,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2026-10-15-T18%3A26%3A09Z)
 <img   alt="snapshot-2026-10-15" src="https://github.com/user-attachments/assets/de14cf9f-eee1-4c31-9575-1c6fac94de34" />
 
