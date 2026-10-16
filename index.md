@@ -19,8 +19,6 @@ A look at the footprint of the Norte Fire and wind forecasts [@nasa-jpl https://
 Fire Temperature key:1 - Warm fire/2 - Very warm fire/3 - Hot fire/4 - Very hot fire/5 - Burn scars/6 - Clear sky: land/7 - Clear sky: water/snow/night/8 - Water clouds/9 - Ice clouds [star.nesdis.noaa.gov/goes/sector_band.php?sat=G18&sector=psw&band=FireTemperature&length=24](https://www.star.nesdis.noaa.gov/goes/sector_band.php?sat=G18&sector=psw&band=FireTemperature&length=24)
 ![https://www.star.nesdis.noaa.gov/goes/images/colorbars/ColorBar450FireTemp.png](https://www.star.nesdis.noaa.gov/goes/images/colorbars/ColorBar450FireTemp.png) 
 
-current 
-![https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/psw/FireTemperature/GOES18-PSW-FireTemperature-600x600.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/psw/FireTemperature/GOES18-PSW-FireTemperature-600x600.gif)
 
 fixed
 <img alt="G18_sector_psw_FireTemperature_12fr_20261016-1827" src="https://github.com/user-attachments/assets/4d723bfd-69e6-437e-8980-d25cdf1e0f64" />
