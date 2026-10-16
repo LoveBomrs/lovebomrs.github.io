@@ -11,6 +11,8 @@ mathjax: true
 [Councilmember.raman@lacity.org @nasa-jpl @eosdis-nasa](mailto:Councilmember.raman@lacity.org) // [Mayor Karen Bass](https://pahx.org/bios/bass-karen/)
 <img  alt="image" src="https://github.com/user-attachments/assets/77e44039-3ba6-401e-91c0-abce204118ce" />
 
+<img  alt="image" src="https://github.com/user-attachments/assets/400be61e-8f0d-4089-bf13-73358f2adbbf" />
+
 [https://worldview.earthdata.nasa.gov/?v=-154.3182122552031,0.37286535391440623,-88.2390876219372,37.54237296012646&as=2026-10-06-](https://worldview.earthdata.nasa.gov/?v=-154.3182122552031,0.37286535391440623,-88.2390876219372,37.54237296012646&as=2026-10-06-T00%3A00%3A00Z&ae=2026-10-16-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),DoS_International_Boundaries(hidden),Admin_Boundaries(hidden),Coastlines_15m(hidden),VIIRS_NOAA20_DayNightBand,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&al=true&ab=on&t=2026-10-16-T00%3A00%3A00Z)
 <img  alt="nasa-worldview-2026 OCT 06-to-2026 OCT 16" src="https://github.com/user-attachments/assets/8c1e4fa0-e43b-43b8-8b5a-3af8af8576c7" />
 We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
