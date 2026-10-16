@@ -11,6 +11,9 @@ mathjax: true
 
 ## Storm Imagery [link @noaagov](https://goes.noaa.gov/floater_index.php?src=nhc)
 
+![https://weather.ndc.nasa.gov/sport/images/sportLogoHQ.png](https://weather.ndc.nasa.gov/sport/images/sportLogoHQ.png) 
+<img  alt="goeseastabifulldisk-07p34um-sOct 15, 2026 - 23_00 UTC-eOct 16, 2026 - 02_10 UTC" src="https://github.com/user-attachments/assets/b3526176-ace3-47e6-a263-a725b8552015" />
+
 [Hurricane Trudy](https://goes.noaa.gov/floater.php?stormid=EP212026) at 14.0°N - 101.8°W
 North Pacific Ocean
 Last observation: 16 Oct 2026 - 02:05 UTC
@@ -25,8 +28,13 @@ North Pacific Ocean
 Last observation: 16 Oct 2026 - 02:05 UTC
 « Active Storms » @open-mexico
 7 Oct 2026 - 15 Oct 2026
+
 ![https://cdn.star.nesdis.noaa.gov/FLOATER/EP202026/GEOCOLOR/20262881940-20262890110-ABI-EP202026-GEOCOLOR-1000x1000.gif @cnn I come in peace Dom lemon @bbc](https://cdn.star.nesdis.noaa.gov/FLOATER/EP202026/GEOCOLOR/20262881940-20262890110-ABI-EP202026-GEOCOLOR-1000x1000.gif)
 
+<img alt="image" src="https://github.com/user-attachments/assets/d30aa730-3e85-4a0a-b7c6-25452d1a324b" />
+
+
+![https://www.earthdata.nasa.gov/themes/custom/project/hds_earthdata/nasa-logo.svg](https://www.earthdata.nasa.gov/themes/custom/project/hds_earthdata/nasa-logo.svg) 
 @ForAtlanta hi [Lana J HArris](https://www.tiktok.com/@lanajharris) , your [@Tiktok - https://www.tiktok.com/@lanajharris](https://www.tiktok.com/@lanajharris) still broke 
 ![https://p16-common-sign.tiktokc610&shp=a5d48078&shcp=81f88b70&idc=useast5](https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9ec307ecfec2f6b0f0b69b50482b8aae~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=4e24f1b8&x-expires=1792285200&x-signature=QYc4XfYIA65xn%2FwogFunQdQlw7g%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5)
 
