@@ -12,6 +12,20 @@ mathjax: true
 <img  alt="image" src="https://github.com/user-attachments/assets/77e44039-3ba6-401e-91c0-abce204118ce" />
 
 
+A look at the footprint of the Norte Fire and wind forecasts [@nasa-jpl https://youtu.be/zDNwlpD0zsk?si=iQwsEwOW95vtUPot](https://youtu.be/zDNwlpD0zsk?si=iQwsEwOW95vtUPot)
+<img  alt="image" src="https://github.com/user-attachments/assets/d3ddc6ca-3a3c-498c-921a-9736632106d7" />
+
+[@cItyOfloSaNGELES Lafd.org/about/about-lafd/contact @la-county-isd](https://lafd.org/about/about-lafd/contact) @cbs-news-data 
+Fire Temperature key:1 - Warm fire/2 - Very warm fire/3 - Hot fire/4 - Very hot fire/5 - Burn scars/6 - Clear sky: land/7 - Clear sky: water/snow/night/8 - Water clouds/9 - Ice clouds [star.nesdis.noaa.gov/goes/sector_band.php?sat=G18&sector=psw&band=FireTemperature&length=24](https://www.star.nesdis.noaa.gov/goes/sector_band.php?sat=G18&sector=psw&band=FireTemperature&length=24)
+![https://www.star.nesdis.noaa.gov/goes/images/colorbars/ColorBar450FireTemp.png](https://www.star.nesdis.noaa.gov/goes/images/colorbars/ColorBar450FireTemp.png) 
+
+current 
+![https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/psw/FireTemperature/GOES18-PSW-FireTemperature-600x600.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/psw/FireTemperature/GOES18-PSW-FireTemperature-600x600.gif)
+
+fixed
+<img alt="G18_sector_psw_FireTemperature_12fr_20261016-1827" src="https://github.com/user-attachments/assets/4d723bfd-69e6-437e-8980-d25cdf1e0f64" />
+
+
 [@EOSDIS-NASA firms.modaps.eosdis.nasa.gov/usfs/map/#m:advanced;d:2026-10-14..2026-10-15,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,active-ca,active-usa,fire-perimeter,countries,aqua_srb721,earth;@-117.59,33.20,9.43z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#m:advanced;d:2026-10-14..2026-10-15,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,active-ca,active-usa,fire-perimeter,countries,aqua_srb721,earth;@-117.59,33.20,9.43z)
 <img alt="FIRMS_2026-10-14_2026-10-15,24hrs @-117 59,33 20,9 43z" src="https://github.com/user-attachments/assets/9e8387fe-0b6a-4bb7-a2ec-a84b6e032101" />
 
