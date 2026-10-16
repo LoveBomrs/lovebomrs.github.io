@@ -3,6 +3,15 @@ layout: default
 mathjax: true
 ---
 
+
+@ForAtlanta hi [Lana J HArris](https://www.tiktok.com/@lanajharris) , your [@Tiktok - https://www.tiktok.com/@lanajharris](https://www.tiktok.com/@lanajharris) still broke 
+![https://p16-common-sign.tiktokc610&shp=a5d48078&shcp=81f88b70&idc=useast5](https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9ec307ecfec2f6b0f0b69b50482b8aae~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=4e24f1b8&x-expires=1792285200&x-signature=QYc4XfYIA65xn%2FwogFunQdQlw7g%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5)
+
+@ForAtlanta hi [Lana J HArris](https://www.tiktok.com/@lanajharris) , after getting punched in the face I'm handling you with kit gloves, I saw you or your sister walking to the laundry mat, idk everyone in Atlanta can play street fighter in our age group, and I saw a fitness guy, I'm not prying he been in the part of town longer than me , but remember @nas-jpl is us_spaceforce @USSF-ORBiT so I'm in long beach but I wanna make sure we have safe boundaries in this era @cbs-news-data @nbcnews @netflix 
+<img  alt="image" src="https://github.com/user-attachments/assets/b072f52b-d781-422c-a1fb-591a2aeb853d" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7b30b06e-092f-4ffd-9788-74b00cb639c7" />
+
 [Atlanta Dream vs. Los Angeles Sparks](https://youtu.be/23Ubci4ZXGY?si=x20tBuNyPa4F8aaS) @nasa-jpl hi @dhs-gov I got run over, girls play with sex too, I got excluded and really confused because I'm having trouble getting in contact with my kid... She left in rabbit ears @CityOfLosAngeles [Councilmember.raman@lacity.org @nasa-jpl @eosdis-nasa](mailto:Councilmember.raman@lacity.org)
 <img width="1920" height="1080" alt=" [Atlanta Dream vs. Los Angeles Sparks](https://youtu.be/23Ubci4ZXGY?si=x20tBuNyPa4F8aaS) @nasa-jpl hi @dhs-gov I got run over, girls play with sex too, I got excluded and really confused because I'm having trouble getting in contact with my kid... She left in rabbit ears @CityOfLosAngeles [Councilmember.raman@lacity.org @nasa-jpl @eosdis-nasa](mailto:Councilmember.raman@lacity.org) image" src="https://github.com/user-attachments/assets/7804c41c-699d-4295-9818-39892ac938c4" />
 
