@@ -28,6 +28,8 @@ mathjax: true
 <img  alt="Watch - Oregon Elementary Shooting & Pakistan School Collapse Probe @nasa-jpl Rep. Analilia Mejia Blasts ICE for Secretly Using NJ Warehouse @dhs-gov nasa-worldview-2026 OCT 05-to-2026 OCT 15" src="https://github.com/user-attachments/assets/2868bb7c-9d40-4f98-af70-bd2afeb33fb1" />
 ![https://www.star.nesdis.noaa.gov/ncc/images/banner/NCCbanner_new_02032025.png](https://www.star.nesdis.noaa.gov/ncc/images/banner/NCCbanner_new_02032025.png) 
 
+![@nasa-jpl @cityoflosangeles @longbeachinnovationteam @Cityofsantamonica @nbcNEWS @CBSNEWS @USATODAY @WASHiNTONPOST](https://ncc.nesdis.noaa.gov/NOAA-20/images/NOAA-20_events.png) 
+
 ![https://ladsweb.modaps.eosdis.nasa.gov/img/logo.png @commercegov @nasa-jpl @cityoflosangeles](https://ladsweb.modaps.eosdis.nasa.gov/img/logo.png)
 
 ![[Atlanta Dream vs. Los Angeles Sparks](https://youtu.be/23Ubci4ZXGY?si=x20tBuNyPa4F8aaS) @nasa-jpl hi @dhs-gov I got run over, girls play with sex too, I got excluded and really confused because I'm having trouble getting in contact with my kid... She left in rabbit ears @CityOfLosAngeles [Councilmember.raman@lacity.org @nasa-jpl @eosdis-nasa](mailto:Councilmember.raman@lacity.org)https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-16T054526Z_2090825323_RC244OA1S56H_RTRMADP_3_OREGON-SHOOTING-1024x683.jpg](https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-16T054526Z_2090825323_RC244OA1S56H_RTRMADP_3_OREGON-SHOOTING-1024x683.jpg)
