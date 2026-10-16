@@ -26,6 +26,7 @@ mathjax: true
 [~~🛢️worldview.earthdata.nasa.gov/?v=-130.74235708825978,20.321326618520786 @nasa-jpl @la-county-isd @cityoflosangeles I think I found the oil slick status🛢️!~~](https://worldview.earthdata.nasa.gov/?v=-130.74235708825978,20.321326618520786,-109.62154868347638,30.716724505250113&l=Reference_Labels_15m,Admin_Boundaries(hidden),DoS_International_Boundaries(hidden),Coastlines_15m(hidden),VIIRS_CrIS_NOAA20_BT_Band33_Fusion_Night,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2026-10-15-T18%3A14%3A01Z)
 
 <img  alt="Watch - Oregon Elementary Shooting & Pakistan School Collapse Probe @nasa-jpl Rep. Analilia Mejia Blasts ICE for Secretly Using NJ Warehouse @dhs-gov nasa-worldview-2026 OCT 05-to-2026 OCT 15" src="https://github.com/user-attachments/assets/2868bb7c-9d40-4f98-af70-bd2afeb33fb1" />
+
 ![https://www.star.nesdis.noaa.gov/ncc/images/banner/NCCbanner_new_02032025.png](https://www.star.nesdis.noaa.gov/ncc/images/banner/NCCbanner_new_02032025.png) 
 
 ![@nasa-jpl @cityoflosangeles @longbeachinnovationteam @Cityofsantamonica @nbcNEWS @CBSNEWS @USATODAY @WASHiNTONPOST](https://ncc.nesdis.noaa.gov/NOAA-20/images/NOAA-20_events.png) 
