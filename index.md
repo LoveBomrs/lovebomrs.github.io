@@ -15,6 +15,8 @@ mathjax: true
 
 ![https://cdn.star.nesdis.noaa.gov/FLOATER/EP212026/GEOCOLOR/20262891310-20262891840-ABI-EP212026-GEOCOLOR-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/EP212026/GEOCOLOR/20262891310-20262891840-ABI-EP212026-GEOCOLOR-1000x1000.gif)
 
+![pace-chl_1km-conus-sSep 26, 2026-eOct 15, 2026](https://github.com/user-attachments/assets/f5964453-f868-4e67-a77a-85835e26c384)
+
 
 ### Hot97 Tv [Lana J Harris](https://www.amazon.com/live/video/03df0b3292734e70a70ebdf3c6e8f87b?ref_=asvh_vdp&src=aipsf)
 [`Watch` - Oregon Elementary Shooting & Pakistan School Collapse Probe @nasa-jpl](https://youtu.be/9Z6K-esc-SU?si=ioFQ8pYw4xoXB8d5)
