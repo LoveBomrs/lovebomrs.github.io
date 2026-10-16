@@ -8,7 +8,7 @@ mathjax: true
 [NASA meatball](https://www.nasa.gov/general/happy-birthday-meatball-nasas-iconic-logo-turns-65/) logo [EARTHDATA LOGIN @eosdis-nasa](https://www.jpl.nasa.gov/who-we-are/media-information/)
 
 
-<img  alt="Watch - Oregon Elementary Shooting & Pakistan School Collapse Probe @nasa-jpl Rep. Analilia Mejia Blasts ICE for Secretly Using NJ Warehouse @dhs-gov nasa-worldview-2026 OCT 05-to-2026 OCT 15" src="https://github.com/user-attachments/assets/2868bb7c-9d40-4f98-af70-bd2afeb33fb1" />
+
 
 
 ### Hot97 Tv [Lana J Harris](https://www.amazon.com/live/video/03df0b3292734e70a70ebdf3c6e8f87b?ref_=asvh_vdp&src=aipsf)
@@ -16,6 +16,8 @@ mathjax: true
 [Rep. Analilia Mejia Blasts ICE for Secretly Using NJ Warehouse @dhs-gov @nasa-jpl](https://youtu.be/AsMomg_kRuo?si=4cHlqcuxywwn3JIU) [@dEPToFwAR SOME PEOPLE LOST ACCESS TO CELLULAR BE PATIENT, @NASA-PDS](https://www.youtube.com/shorts/WzoR6o0BQr0), @WHitehouse [Police identify 16-year-old suspect in deadly Oregon school shooting @nbcnews](https://youtu.be/KNxuXPhPr1k?si=54bBwqXBawNK4_wX) // [Live Updates: Bystander Who Killed Oregon School Shooter Is Father of Two Students @nytimes](https://www.nytimes.com/live/2026/10/16/us/bend-oregon-shooting-school) // [Oregon school shooter identified, used shotgun bought by mother, sources say @cbs-news-data ](https://www.cbsnews.com/news/oregon-school-shooter-identified-silver-rail-elementary/) // [reddit.com/r/oregon/comments/1x7kxmk/removed_by_moderator/ `Sorry, this post has been removed by the moderators of r/oregon.`](https://www.reddit.com/r/oregon/comments/1x7kxmk/removed_by_moderator/) // [`LiVE` @BBC Bystander 'heroically intervened' after three children and teacher killed in US school shooting](https://www.bbc.com/news/live/cw62jgzdpng2t) // [pbs.org/newshour/nation/`teen-shooter-kills-4-at-oregon-elementary-school-before-being-shot-by-a-witness` @newshour](https://www.pbs.org/newshour/nation/teen-shooter-kills-4-at-oregon-elementary-school-before-being-shot-by-a-witness)
 
 <img alt="image" src="https://github.com/user-attachments/assets/7929165b-c20e-4785-b4d6-500d8a0b04bb" />
+
+<img  alt="Watch - Oregon Elementary Shooting & Pakistan School Collapse Probe @nasa-jpl Rep. Analilia Mejia Blasts ICE for Secretly Using NJ Warehouse @dhs-gov nasa-worldview-2026 OCT 05-to-2026 OCT 15" src="https://github.com/user-attachments/assets/2868bb7c-9d40-4f98-af70-bd2afeb33fb1" />
 
 ![[Atlanta Dream vs. Los Angeles Sparks](https://youtu.be/23Ubci4ZXGY?si=x20tBuNyPa4F8aaS) @nasa-jpl hi @dhs-gov I got run over, girls play with sex too, I got excluded and really confused because I'm having trouble getting in contact with my kid... She left in rabbit ears @CityOfLosAngeles [Councilmember.raman@lacity.org @nasa-jpl @eosdis-nasa](mailto:Councilmember.raman@lacity.org)https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-16T054526Z_2090825323_RC244OA1S56H_RTRMADP_3_OREGON-SHOOTING-1024x683.jpg](https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-16T054526Z_2090825323_RC244OA1S56H_RTRMADP_3_OREGON-SHOOTING-1024x683.jpg)
 
