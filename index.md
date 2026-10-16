@@ -25,6 +25,12 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 [NASA meatball](https://www.nasa.gov/general/happy-birthday-meatball-nasas-iconic-logo-turns-65/) logo [EARTHDATA LOGIN @eosdis-nasa](https://www.jpl.nasa.gov/who-we-are/media-information/)
 
+
+
+@SWOTcommunity Trudy and Simon
+[🌀🗺️ @eosdis-nasa @emit-sds aviso-calval.oceandatalab.com/?date=2026-10-10T12:00:05&timespan=1h&zoom=5&center=-13373031.099672_3039682.5557778&extent=-18069322.11686_728226.82075583_-8676740.0824845_5351138.2907998&products=3857_cmems_geos_current_vectorfield!3857_SWOT_L3_geos_current_v2_0_1_vectorfield!3857_SWOT_L2_swh_karin!3857_MFWAM_swell1_vectorfield!3857_MFWAM_swh_raster!3857_SWOT_L3_WINDWAVE_PART_tile_5km_box_10km!3857_SWOT_L3_roughness&opacity=20_20_100_100_60_100_100&stackLevel=120.039_140.006_120.035_50.043_90.023_140.002_10.001&filter=!+orbit1,+orbit21!+orbit1,+orbit21&selection=1111111](https://aviso-calval.oceandatalab.com/?date=2026-10-10T12:00:05&timespan=1h&zoom=5&center=-13373031.099672_3039682.5557778&extent=-18069322.11686_728226.82075583_-8676740.0824845_5351138.2907998&products=3857_cmems_geos_current_vectorfield!3857_SWOT_L3_geos_current_v2_0_1_vectorfield!3857_SWOT_L2_swh_karin!3857_MFWAM_swell1_vectorfield!3857_MFWAM_swh_raster!3857_SWOT_L3_WINDWAVE_PART_tile_5km_box_10km!3857_SWOT_L3_roughness&opacity=20_20_100_100_60_100_100&stackLevel=120.039_140.006_120.035_50.043_90.023_140.002_10.001&filter=!+orbit1,+orbit21!+orbit1,+orbit21&selection=1111111)
+<img   alt="image" src="https://github.com/user-attachments/assets/82d0be7f-9429-4310-ae31-7e6b72586051" />
+
 16 Oct 2026 - 15:00 UTC ...SIMON MOVING NORTHWESTWARD OFF THE COAST OF SOUTHERN BAJA CALIFORNIA... As of 8:00 AM MST Fri Oct 16 the center of Simon was located near 20.6, -109.5 with movement NW at 9 mph. The minimum central pressure was 1002 mb with maximum sustained winds of about 40 mph. @cityoflosangeles Trudy is trailing behind so e might have a big hunk of rain @cbs-news-data @doug-newman-nasa @eosdis
 
 ![https://cdn.star.nesdis.noaa.gov/FLOATER/EP202026/08/20262891310-20262891840-ABI-EP202026-08-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/EP202026/08/20262891310-20262891840-ABI-EP202026-08-1000x1000.gif) 
