@@ -9,7 +9,11 @@ mathjax: true
 
 [`WATCH` - _Who Should Be L.A.’s Mayor?_ @cityoflosangeles @la-county-isd](https://youtu.be/sH2CRsTVqrs?si=BdYxRgfbydL-ZgFW)
 [Councilmember.raman@lacity.org @nasa-jpl @eosdis-nasa](mailto:Councilmember.raman@lacity.org) // [Mayor Karen Bass](https://pahx.org/bios/bass-karen/)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/77e44039-3ba6-401e-91c0-abce204118ce" />
+
+[San Juan Capistrano, CA, USA](https://worldview.earthdata.nasa.gov/?v=-120.28865546369173,32.35939751783922,-116.17950782056576,34.381868623440276&as=2026-10-06-T00%3A00%3A00Z&ae=2026-10-16-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),DoS_International_Boundaries(hidden),Admin_Boundaries(hidden),Coastlines_15m,VIIRS_NOAA21_CorrectedReflectance_BandsM3-I3-M11,VIIRS_NOAA21_CorrectedReflectance_BandsM11-I2-I1,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&ab=on&s=-117.6628,33.5019&t=2026-10-16-T22%3A30%3A10Z)
+<img  alt="image" src="https://github.com/user-attachments/assets/8c1217b0-ed7a-4e25-b81f-a17bbf8adb98" />
 
 <img  alt="LC09_L1TP_041036_20261016_20261016_02_T1_TIR" src="https://github.com/user-attachments/assets/ddef0762-9682-4de0-8751-edb8425cf63d" />
 
