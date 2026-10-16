@@ -8,6 +8,9 @@ mathjax: true
 [NASA meatball](https://www.nasa.gov/general/happy-birthday-meatball-nasas-iconic-logo-turns-65/) logo [EARTHDATA LOGIN @eosdis-nasa](https://www.jpl.nasa.gov/who-we-are/media-information/)
 
 16 Oct 2026 - 15:00 UTC ...SIMON MOVING NORTHWESTWARD OFF THE COAST OF SOUTHERN BAJA CALIFORNIA... As of 8:00 AM MST Fri Oct 16 the center of Simon was located near 20.6, -109.5 with movement NW at 9 mph. The minimum central pressure was 1002 mb with maximum sustained winds of about 40 mph. @cityoflosangeles Trudy is trailing behind so e might have a big hunk of rain @cbs-news-data @doug-newman-nasa @eosdis
+
+![https://cdn.star.nesdis.noaa.gov/FLOATER/EP202026/08/20262891310-20262891840-ABI-EP202026-08-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/EP202026/08/20262891310-20262891840-ABI-EP202026-08-1000x1000.gif) 
+
 ![https://cdn.star.nesdis.noaa.gov/FLOATER/EP202026/GEOCOLOR/20262891310-20262891840-ABI-EP202026-GEOCOLOR-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/EP202026/GEOCOLOR/20262891310-20262891840-ABI-EP202026-GEOCOLOR-1000x1000.gif)
 
 ![https://cdn.star.nesdis.noaa.gov/FLOATER/EP212026/GEOCOLOR/20262891310-20262891840-ABI-EP212026-GEOCOLOR-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/EP212026/GEOCOLOR/20262891310-20262891840-ABI-EP212026-GEOCOLOR-1000x1000.gif)
