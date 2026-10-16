@@ -3,6 +3,16 @@ layout: default
 mathjax: true
 ---
 
+
+
+### Karen Bass VS Nithya Raman:
+
+[`WATCH` - _Who Should Be L.A.’s Mayor?_ @cityoflosangeles @la-county-isd](https://youtu.be/sH2CRsTVqrs?si=BdYxRgfbydL-ZgFW)
+[Councilmember.raman@lacity.org @nasa-jpl @eosdis-nasa](mailto:Councilmember.raman@lacity.org) // [Mayor Karen Bass](https://pahx.org/bios/bass-karen/)
+<img  alt="image" src="https://github.com/user-attachments/assets/77e44039-3ba6-401e-91c0-abce204118ce" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/89ab782e-44b0-44f5-870b-f876dead0c38" />
+
 ### How to Use @USGS EarthExplorer to Download Imagery
 By - [Earth Resources Observation and Science (EROS) Center usgs.gov/centers/eros @cITYoFlOSaNGELES @LA-COUNTY-ISD @NASA-JPL](https://www.usgs.gov/centers/eros)
 July 17, 2026
@@ -102,7 +112,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 ![https://ladsweb.modaps.eosdis.nasa.gov/img/logo.png @commercegov @nasa-jpl @cityoflosangeles](https://ladsweb.modaps.eosdis.nasa.gov/img/logo.png)
 
-![[Atlanta Dream vs. Los Angeles Sparks](https://youtu.be/23Ubci4ZXGY?si=x20tBuNyPa4F8aaS) @nasa-jpl hi @dhs-gov I got run over, girls play with sex too, I got excluded and really confused because I'm having trouble getting in contact with my kid... She left in rabbit ears @CityOfLosAngeles [Councilmember.raman@lacity.org @nasa-jpl @eosdis-nasa](mailto:Councilmember.raman@lacity.org)https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-16T054526Z_2090825323_RC244OA1S56H_RTRMADP_3_OREGON-SHOOTING-1024x683.jpg](https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-16T054526Z_2090825323_RC244OA1S56H_RTRMADP_3_OREGON-SHOOTING-1024x683.jpg)
+![[Atlanta Dream vs. Los Angeles Sparks](https://youtu.be/23Ubci4ZXGY?si=x20tBuNyPa4F8aaS) @nasa-jpl hi @dhs-gov I got run over, girls play with sex too, I got excluded and really confused because I'm having trouble getting in contact with my kid... She left in rabbit ears @CityOfLosAngeles [Councilmember.raman@lacity.org @nasa-jpl @eosdis-nasa](mailto:Councilmember.raman@lacity.org) ![https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-16T054526Z_2090825323_RC244OA1S56H_RTRMADP_3_OREGON-SHOOTING-1024x683.jpg](https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-16T054526Z_2090825323_RC244OA1S56H_RTRMADP_3_OREGON-SHOOTING-1024x683.jpg)
 
 [@CityOfLosAngeles goes.noaa.gov/floater.php?stormid=EP212026](https://goes.noaa.gov/floater.php?stormid=EP212026)
 16 Oct 2026 - 15:00 UTC ...HURRICANE WARNING ISSUED FOR PORTIONS OF THE COAST OF MEXICO... ...TRUDY FORECAST TO APPROACH THE SOUTHWESTERN AND WEST-CENTRAL COAST OF MEXICO THIS WEEKEND... As of 9:00 AM CST Fri Oct 16 the center of Trudy was located near 14.6, -102.5 with movement NNW at 5 mph. The minimum central pressure was 956 mb with maximum sustained winds of about 120 mph.
