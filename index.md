@@ -4,10 +4,10 @@ mathjax: true
 ---
 
 ### How to Use @USGS EarthExplorer to Download Imagery
-By Earth Resources Observation and Science (EROS) Center
+By - [Earth Resources Observation and Science (EROS) Center usgs.gov/centers/eros @cITYoFlOSaNGELES @LA-COUNTY-ISD @NASA-JPL](https://www.usgs.gov/centers/eros)
 July 17, 2026
-[usgs.gov/centers/eros @cITYoFlOSaNGELES @LA-COUNTY-ISD @NASA-JPL](https://www.usgs.gov/centers/eros)
-@ForAtlanta is Lana perms here ? She said "Out HEre in @StateofCalifornia" in a broadcast
+
+@ForAtlanta is [Lana](https://www.tiktok.com/@lanajharris/video/7496589297793994026?lang=en) perms here ? She said "Out HEre in @StateofCalifornia" in a broadcast
 [usgs.gov/media/videos/how-use-usgs-earthexplorer-download-imagery](https://www.usgs.gov/media/videos/how-use-usgs-earthexplorer-download-imagery)
 <img  alt="image" src="https://github.com/user-attachments/assets/a51358d0-bca2-4c61-a380-e659de2daaa6" />
 
