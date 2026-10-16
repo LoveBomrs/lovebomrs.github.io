@@ -11,13 +11,15 @@ mathjax: true
 
 ![https://cdn.star.nesdis.noaa.gov/FLOATER/EP202026/08/20262891310-20262891840-ABI-EP202026-08-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/EP202026/08/20262891310-20262891840-ABI-EP202026-08-1000x1000.gif) 
 
-![https://cdn.star.nesdis.noaa.gov/FLOATER/EP202026/GEOCOLOR/20262891310-20262891840-ABI-EP202026-GEOCOLOR-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/EP202026/GEOCOLOR/20262891310-20262891840-ABI-EP202026-GEOCOLOR-1000x1000.gif)
+![16 Oct 2026 - 15:00 UTC ...SIMON MOVING NORTHWESTWARD OFF THE COAST OF SOUTHERN BAJA CALIFORNIA... As of 8:00 AM MST Fri Oct 16 the center of Simon was located near 20.6, -109.5 with movement NW at 9 mph. The minimum central pressure was 1002 mb with maximum sustained winds of about 40 mph. @cityoflosangeles Trudy is trailing behind so e might have a big hunk of rain @cbs-news-data @doug-newman-nasa @eosdis https://cdn.star.nesdis.noaa.gov/FLOATER/EP202026/GEOCOLOR/20262891310-20262891840-ABI-EP202026-GEOCOLOR-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/EP202026/GEOCOLOR/20262891310-20262891840-ABI-EP202026-GEOCOLOR-1000x1000.gif)
 
-![https://cdn.star.nesdis.noaa.gov/FLOATER/EP212026/GEOCOLOR/20262891310-20262891840-ABI-EP212026-GEOCOLOR-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/EP212026/GEOCOLOR/20262891310-20262891840-ABI-EP212026-GEOCOLOR-1000x1000.gif)
+![ 16 Oct 2026 - 15:00 UTC ...SIMON MOVING NORTHWESTWARD OFF THE COAST OF SOUTHERN BAJA CALIFORNIA... As of 8:00 AM MST Fri Oct 16 the center of Simon was located near 20.6, -109.5 with movement NW at 9 mph. The minimum central pressure was 1002 mb with maximum sustained winds of about 40 mph. @cityoflosangeles Trudy is trailing behind so e might have a big hunk of rain @cbs-news-data @doug-newman-nasa @eosdis https://cdn.star.nesdis.noaa.gov/FLOATER/EP212026/GEOCOLOR/20262891310-20262891840-ABI-EP212026-GEOCOLOR-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/EP212026/GEOCOLOR/20262891310-20262891840-ABI-EP212026-GEOCOLOR-1000x1000.gif)
 
-![pace-chl_1km-conus-sSep 26, 2026-eOct 15, 2026](https://github.com/user-attachments/assets/f5964453-f868-4e67-a77a-85835e26c384)
+![16 Oct 2026 - 15:00 UTC ...SIMON MOVING NORTHWESTWARD OFF THE COAST OF SOUTHERN BAJA CALIFORNIA... As of 8:00 AM MST Fri Oct 16 the center of Simon was located near 20.6, -109.5 with movement NW at 9 mph. The minimum central pressure was 1002 mb with maximum sustained winds of about 40 mph. @cityoflosangeles Trudy is trailing behind so e might have a big hunk of rain @cbs-news-data @doug-newman-nasa @eosdis pace-chl_1km-conus-sSep 26, 2026-eOct 15, 2026](https://github.com/user-attachments/assets/f5964453-f868-4e67-a77a-85835e26c384)
 
-<img width="938" height="700" alt="pace-anomaly-conus-sSep 04, 2026-eOct 15, 2026" src="https://github.com/user-attachments/assets/503f0cdc-ec06-4529-8a84-c1fff566ab69" />
+<img   alt="esst06-sst_legacy-global-sOct 02, 2026 - 06_00 UTC-eOct 15, 2026 - 06_00 UTC" src="https://github.com/user-attachments/assets/7628fb43-06bd-4dc3-94a6-c5cff33ac7a8" />
+
+<img  alt="pace-anomaly-conus-sSep 04, 2026-eOct 15, 2026" src="https://github.com/user-attachments/assets/503f0cdc-ec06-4529-8a84-c1fff566ab69" />
 
 
 ### Hot97 Tv [Lana J Harris](https://www.amazon.com/live/video/03df0b3292734e70a70ebdf3c6e8f87b?ref_=asvh_vdp&src=aipsf)
