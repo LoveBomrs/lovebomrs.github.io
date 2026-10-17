@@ -3,6 +3,9 @@ layout: default
 mathjax: true
 ---
 
+@nasa-pds hi im going to catch up we had extreme weather and a lot of lost property in so cal , so im catching up ... im being threatened because of lana j harris tho, i dont know how she is doing, its her sex show, im just humiliated @ForAtlanta
+![https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/gwas/07/20262902040_GOES18-ABI-gwas-07-1800x1080.jpg](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/gwas/07/20262902040_GOES18-ABI-gwas-07-1800x1080.jpg) 
+
 // [B i z Markie - G0IN'0FF](https://youtu.be/D5s-oH8P004?si=qaQIc-vFCHf0OPLk) // [Living For The City · Stevie Wonder](https://youtu.be/ghLWjyOOLno?si=jA9xs4AR1PakdYuB) // [The World Is A Ghetto by War @CityOfLosAngeles](https://youtu.be/VIIbT89V7EI?list=RDghLWjyOOLno&t=143) // [Slippin' Into Darkness · War](https://youtu.be/pBNZevgJH1g?list=RDghLWjyOOLno) // [The Vision Of Rassan Medley: Dedication / Roll On `Kirk`? @nasa-jpl](https://youtu.be/n7Wjkg7UpK8?si=omvE1a8jdPp07PXO) // [Eric Burdon & War Paint It Black Live, 1970](https://youtu.be/tVPwuvf6LAI?list=RDtVPwuvf6LAI&t=20)
 
 ---
