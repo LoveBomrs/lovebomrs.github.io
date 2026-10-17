@@ -3,6 +3,11 @@ layout: default
 mathjax: true
 ---
 
+## BUbbleGumCrisis 
+### バブルガムクライシス [Wiki](https://en.wikipedia.org/wiki/Bubblegum_Crisis)
+[archive.org/details/dvdvolume_202509/DVDVolume.iso](https://archive.org/details/dvdvolume_202509/DVDVolume.iso) // [@nbcnews](https://www.peacocktv.com/watch-online/tv/bubblegum-crisis/5122311568381930112) // [reddit](https://www.reddit.com/r/retroanime/comments/1vq3k21/bubblegum_crisis1987_bubblegum_crisis_tokyo/?i=0) // [youtube](https://www.youtube.com/playlist?list=PLZs0gQed9tMTDna2-e2w-eO2hz0IWh9-4) // [tubi](https://tubitv.com/series/300020434/bubblegum-crisis-subbed) // [FandoM](https://bubblegumcrisis.fandom.com/wiki/Bubblegum_Crisis)
+[<video controls loading="lazy" poster="https://static.wikia.nocookie.net/bubblegumcrisis/images/5/52/19107f5a-849e-4f01-b51d-9253be3c358e.jpg" src="https://ia601604.us.archive.org/30/items/dvdvolume_202509/DVDVolume.mp4" />](https://ia601604.us.archive.org/30/items/dvdvolume_202509/DVDVolume.mp4)
+
 [BUBBLEGUM CRISIS - TINSEL CITY   Episode 01 (English Dub)](https://youtu.be/hR_EgONHRWE?t=28)
 <img   alt="image" src="https://github.com/user-attachments/assets/5b0bb971-3ed0-436b-a013-b958e46716dc" />
 
