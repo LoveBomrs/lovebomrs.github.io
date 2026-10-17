@@ -3,9 +3,32 @@ layout: default
 mathjax: true
 ---
 
-// [B i z Markie - G0IN'0FF](https://youtu.be/D5s-oH8P004?si=qaQIc-vFCHf0OPLk) // [Living For The City · Stevie Wonder](https://youtu.be/ghLWjyOOLno?si=jA9xs4AR1PakdYuB) // [The World Is A Ghetto by War @CityOfLosAngeles](https://youtu.be/VIIbT89V7EI?list=RDghLWjyOOLno&t=143) // [Slippin' Into Darkness · War](https://youtu.be/pBNZevgJH1g?list=RDghLWjyOOLno) // [The Vision Of Rassan Medley: Dedication / Roll On `Kirk`? @nasa-jpl](https://youtu.be/n7Wjkg7UpK8?si=omvE1a8jdPp07PXO)
+// [B i z Markie - G0IN'0FF](https://youtu.be/D5s-oH8P004?si=qaQIc-vFCHf0OPLk) // [Living For The City · Stevie Wonder](https://youtu.be/ghLWjyOOLno?si=jA9xs4AR1PakdYuB) // [The World Is A Ghetto by War @CityOfLosAngeles](https://youtu.be/VIIbT89V7EI?list=RDghLWjyOOLno&t=143) // [Slippin' Into Darkness · War](https://youtu.be/pBNZevgJH1g?list=RDghLWjyOOLno) // [The Vision Of Rassan Medley: Dedication / Roll On `Kirk`? @nasa-jpl](https://youtu.be/n7Wjkg7UpK8?si=omvE1a8jdPp07PXO) // [Eric Burdon & War Paint It Black Live, 1970](https://youtu.be/tVPwuvf6LAI?list=RDtVPwuvf6LAI&t=20)
 
 ---
+
+<img  alt="Screenshot 2026-10-17 140112" src="https://github.com/user-attachments/assets/b6a1ca03-d50d-43fb-a180-469c80c351f5" />
+
+@cityoflosangeles [https://www.nhc.noaa.gov/cyclones/](https://www.nhc.noaa.gov/cyclones/) 
+@nasa-jpl @weather-gov hi its rashard ill make a better report later [@nbcnews but simon](https://www.nhc.noaa.gov/mobile/text/refresh/MIATCPEP5+html/082332.shtml) seems to be above us disolving and [Trudy](https://goes.noaa.gov/floater.php?stormid=EP212026) now has lightning in the north portions as it heads this way @CityOfLosAngeles @rashardikelly 
+
+<img   alt="image @cityoflosangeles [https://www.nhc.noaa.gov/cyclones/](https://www.nhc.noaa.gov/cyclones/) 
+@nasa-jpl @weather-gov hi its rashard ill make a better report later [@nbcnews but simon](https://www.nhc.noaa.gov/mobile/text/refresh/MIATCPEP5+html/082332.shtml) seems to be above us disolving and [Trudy](https://goes.noaa.gov/floater.php?stormid=EP212026) now has lightning in the north portions as it heads this way @CityOfLosAngeles @rashardikelly "  src="https://github.com/user-attachments/assets/05f339b8-be0c-4cd5-81b7-567710432e5a" />
+<img   alt="image @cityoflosangeles [https://www.nhc.noaa.gov/cyclones/](https://www.nhc.noaa.gov/cyclones/) 
+@nasa-jpl @weather-gov hi its rashard ill make a better report later [@nbcnews but simon](https://www.nhc.noaa.gov/mobile/text/refresh/MIATCPEP5+html/082332.shtml) seems to be above us disolving and [Trudy](https://goes.noaa.gov/floater.php?stormid=EP212026) now has lightning in the north portions as it heads this way @CityOfLosAngeles @rashardikelly "  src="https://github.com/user-attachments/assets/b5bd20cd-8fd4-40f7-97b6-a0b068f5fe19" />
+<img  alt="image @cityoflosangeles [https://www.nhc.noaa.gov/cyclones/](https://www.nhc.noaa.gov/cyclones/) 
+@nasa-jpl @weather-gov hi its rashard ill make a better report later [@nbcnews but simon](https://www.nhc.noaa.gov/mobile/text/refresh/MIATCPEP5+html/082332.shtml) seems to be above us disolving and [Trudy](https://goes.noaa.gov/floater.php?stormid=EP212026) now has lightning in the north portions as it heads this way @CityOfLosAngeles @rashardikelly " src="https://github.com/user-attachments/assets/8ae3584c-2ff3-479c-9742-21b9d4215cf1" />
+
+
+
+
+![https://cdn.star.nesdis.noaa.gov/FLOATER/EP212026/DayNightCloudMicroCombo/20262901440-20262902010-ABI-EP212026-DayNightCloudMicroCombo-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/EP212026/DayNightCloudMicroCombo/20262901440-20262902010-ABI-EP212026-DayNightCloudMicroCombo-1000x1000.gif)
+[goes.noaa.gov/sector_band.php?sat=G18&sector=tpw&band=EXTENT3&length=12&dim=1](https://goes.noaa.gov/sector_band.php?sat=G18&sector=tpw&band=EXTENT3&length=12&dim=1)
+<img  alt="image" src="https://github.com/user-attachments/assets/d493b57f-a255-43f9-8b91-b0afb5354550" />
+
+
+![https://www.nhc.noaa.gov/storm_graphics/EP21/EP212026_key_messages.png](https://www.nhc.noaa.gov/storm_graphics/EP21/EP212026_key_messages.png) 
+
 
 ![https://tracipark.com/wp-content/uploads/2025/10/TRACI_LOGO_All_Horizontal_NEW_OLD_25-10-15_KEY.png](https://tracipark.com/wp-content/uploads/2025/10/TRACI_LOGO_All_Horizontal_NEW_OLD_25-10-15_KEY.png)
 [Traci Park](https://cd11.lacity.gov/about/traci-park), hi i dont know who needs the tool, but in completing my own tasks i fond it amazing! its Burn Severity that might be combines with land disturbance maps for troubleshooting [@nasa-jpl @esri `E`xperience.arcgis.com/experience/aff840a6cd8d4e49958f2b61982b5b11](https://experience.arcgis.com/experience/aff840a6cd8d4e49958f2b61982b5b11) ////////////// [The World Is A Ghetto by War @CityOfLosAngeles](https://youtu.be/VIIbT89V7EI?list=RDghLWjyOOLno&t=143)
