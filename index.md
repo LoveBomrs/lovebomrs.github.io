@@ -16,6 +16,8 @@ Extensive Damage, Unsteady Homes, Urgent Repairs: What’s Next?
 
 ![https://beachcomber.news/sites/default/files/bcrbanner_2c.jpg](https://beachcomber.news/sites/default/files/bcrbanner_2c.jpg)
 
+![https://www.nhc.noaa.gov/assets/images/DOC_logo.svg](https://www.nhc.noaa.gov/assets/images/DOC_logo.svg) 
+
 ---
 
 @nasa-pds hi im going to catch up we had extreme weather and a lot of lost property in so cal , so im catching up ... im being threatened because of lana j harris tho, i dont know how she is doing, im just less and less comfotable, shes pretty i got caught up on some affection and had to learn to navigate ...[BRENDA GOFORTH! @nasajpl  @ForAtlanta](https://www.instagram.com/p/DLGvyoAAD4q/) please look up anchor lana j harris she struggling, i got a black eye for using her virtual assistant service. She was at the Covid Freaknik and either got a new sex partner and he ants me dead or i she picked me an he got jealouse from some `WorkWife~ shit and she always dances provacatively if the older women are around @blackgirlscode and got horrifying uncommitted connections that have always seen me as an enemy, The deal she made @salesforce is close ended i just use her name to blog, no man can contain her and im still hoping i dont just get a memo that she died in pregnancy or is some super famous sex vixen like so and so became @newshour
