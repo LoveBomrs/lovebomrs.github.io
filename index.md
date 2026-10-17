@@ -3,6 +3,9 @@ layout: default
 mathjax: true
 ---
 
+[BUBBLEGUM CRISIS - TINSEL CITY   Episode 01 (English Dub)](https://youtu.be/hR_EgONHRWE?t=28)
+<img   alt="image" src="https://github.com/user-attachments/assets/5b0bb971-3ed0-436b-a013-b958e46716dc" />
+
 [Gunsmith Cats (Dub) Episode 1](https://youtu.be/LVPZfJKbMZc)
 <img   alt="image" src="https://github.com/user-attachments/assets/4dfd1377-6f48-4f9c-b077-d2ef93a3d0bd" />
 
