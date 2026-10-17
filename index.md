@@ -3,7 +3,12 @@ layout: default
 mathjax: true
 ---
 
-@nasa-pds hi im going to catch up we had extreme weather and a lot of lost property in so cal , so im catching up ... im being threatened because of lana j harris tho, i dont know how she is doing, its her sex show, im just humiliated @ForAtlanta
+@nasa-pds hi im going to catch up we had extreme weather and a lot of lost property in so cal , so im catching up ... im being threatened because of lana j harris tho, i dont know how she is doing, im just less and less comfotable, shes pretty i got caught up on some affection and had to learn to navigate ...[BRENDA GOFORTH! @nasajpl  @ForAtlanta](https://www.instagram.com/p/DLGvyoAAD4q/) please look up anchor lana j harris she struggling, i got a black eye for using her virtual assistant service. She was at the Covid Freaknik and either got a new sex partner and he ants me dead or i she picked me an he got jealouse from some `WorkWife~ shit and she always dances provacatively if the older women are around @blackgirlscode and got horrifying uncommitted connections that have always seen me as an enemy, The deal she made @salesforce is close ended i just use her name to blog, no man can contain her and im still hoping i dont just get a memo that she died in pregnancy or is some super famous sex vixen like so and so became @newshour
+
+@tiktok thanks @rashardikelly @nasa-pds @nasa-jpl @eosdis-nasa [https://www.tiktok.com/@lanajharris](https://www.tiktok.com/@lanajharris)
+<img alt="image" src="https://github.com/user-attachments/assets/c6138e7f-1cc5-4e4f-915d-7b2bd1702926" />
+
+ @nasa @deptofwar i dont want violence, you need to know im not a terrorist tho i am of east african descent, those are usually ppl disenfranchied by media isolation and dating corrupted by prostituion @la-county-isd @cityoflosangeles @cityofsantamonica 
 ![https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/gwas/07/20262902040_GOES18-ABI-gwas-07-1800x1080.jpg](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/gwas/07/20262902040_GOES18-ABI-gwas-07-1800x1080.jpg) 
 
 // [B i z Markie - G0IN'0FF](https://youtu.be/D5s-oH8P004?si=qaQIc-vFCHf0OPLk) // [Living For The City · Stevie Wonder](https://youtu.be/ghLWjyOOLno?si=jA9xs4AR1PakdYuB) // [The World Is A Ghetto by War @CityOfLosAngeles](https://youtu.be/VIIbT89V7EI?list=RDghLWjyOOLno&t=143) // [Slippin' Into Darkness · War](https://youtu.be/pBNZevgJH1g?list=RDghLWjyOOLno) // [The Vision Of Rassan Medley: Dedication / Roll On `Kirk`? @nasa-jpl](https://youtu.be/n7Wjkg7UpK8?si=omvE1a8jdPp07PXO) // [Eric Burdon & War Paint It Black Live, 1970](https://youtu.be/tVPwuvf6LAI?list=RDtVPwuvf6LAI&t=20)
