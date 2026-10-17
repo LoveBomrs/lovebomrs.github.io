@@ -3,7 +3,9 @@ layout: default
 mathjax: true
 ---
 
+[Gunsmith Cats (Dub) Episode 1](https://youtu.be/LVPZfJKbMZc)
 
+--- 
 
 # GOLD DIGGER PRANK PART 2
 [`WATCH` - https://youtu.be/lELwd1ca_Ac](https://youtu.be/lELwd1ca_Ac)
