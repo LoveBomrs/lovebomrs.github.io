@@ -3,12 +3,12 @@ layout: default
 mathjax: true
 ---
 
-// [B i z Markie - G0IN'0FF](https://youtu.be/D5s-oH8P004?si=qaQIc-vFCHf0OPLk) // [Living For The City · Stevie Wonder](https://youtu.be/ghLWjyOOLno?si=jA9xs4AR1PakdYuB)
+// [B i z Markie - G0IN'0FF](https://youtu.be/D5s-oH8P004?si=qaQIc-vFCHf0OPLk) // [Living For The City · Stevie Wonder](https://youtu.be/ghLWjyOOLno?si=jA9xs4AR1PakdYuB) // [The World Is A Ghetto by War @CityOfLosAngeles](https://youtu.be/VIIbT89V7EI?list=RDghLWjyOOLno&t=143)
 
 ---
 
 ![https://tracipark.com/wp-content/uploads/2025/10/TRACI_LOGO_All_Horizontal_NEW_OLD_25-10-15_KEY.png](https://tracipark.com/wp-content/uploads/2025/10/TRACI_LOGO_All_Horizontal_NEW_OLD_25-10-15_KEY.png)
-[Traci Park](https://cd11.lacity.gov/about/traci-park), hi i dont know who needs the tool, but in completing my own tasks i fond it amazing! its Burn Severity that might be combines with land disturbance maps for troubleshooting [@nasa-jpl https://experience.arcgis.com/experience/aff840a6cd8d4e49958f2b61982b5b11](https://experience.arcgis.com/experience/aff840a6cd8d4e49958f2b61982b5b11)
+[Traci Park](https://cd11.lacity.gov/about/traci-park), hi i dont know who needs the tool, but in completing my own tasks i fond it amazing! its Burn Severity that might be combines with land disturbance maps for troubleshooting [@nasa-jpl https://experience.arcgis.com/experience/aff840a6cd8d4e49958f2b61982b5b11](https://experience.arcgis.com/experience/aff840a6cd8d4e49958f2b61982b5b11) ////////////// [The World Is A Ghetto by War @CityOfLosAngeles](https://youtu.be/VIIbT89V7EI?list=RDghLWjyOOLno&t=143)
 <img alt="image" src="https://github.com/user-attachments/assets/dc799ac2-e753-46f4-83bc-3832716e6105" />
 <img  alt="image" src="https://github.com/user-attachments/assets/fdb07710-7ff2-4851-8e68-21cb688c4d9c" />
 
