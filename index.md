@@ -3,6 +3,13 @@ layout: default
 mathjax: true
 ---
 
+
+Replacing the Computer Aided Dispatch System for the Consolidated Fire
+Protection District of Los Angeles County
+[assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/2af2e449-e0a4-4ce5-a9c9-c3376c731929/Agenda%20102026_links.pdf#`page=16`](assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/2af2e449-e0a4-4ce5-a9c9-c3376c731929/Agenda%20102026_links.pdf#page=16)
+@nasa-jpl @deptofwar i dont want to get involved the wrong way and lose time from my scheduled work @nasa-pds @eosdis-nasa but its right up our alley [AndrewFeldman](https://scholar.google.com/citations?user=ypZWONYAAAAJ&hl=en) [_Board of Supervisors Agenda TUESDAY, OCTOBER 20, 2026_ @nasa-giss @la-county-isd @CityOfLosangeles](https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/2af2e449-e0a4-4ce5-a9c9-c3376c731929/Agenda%20102026_links.pdf#page=16) // [andrew.feldman@nasa.gov @nasa-develop @eosdis-nasa](mailto:andrew.feldman@nasa.gov) + [Councilmember.raman@lacity.org @nasa-jpl @eosdis-nasa @CityOfLosAngeles](mailto:Councilmember.raman@lacity.org)
+
+![https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ypZWONYAAAAJ&citpid=7](https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ypZWONYAAAAJ&citpid=7)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1107659422&color=%230085ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/hiphop-classics1" title="Hip Hop Classics" target="_blank" style="color: #cccccc; text-decoration: none;">Hip Hop Classics</a> · <a href="https://soundcloud.com/hiphop-classics1/diamond-d-the-psychotic" title="Diamond D &amp; The Psychotic Neurotics | I Went For Mine (1992)" target="_blank" style="color: #cccccc; text-decoration: none;">Diamond D &amp; The Psychotic Neurotics | I Went For Mine (1992)</a></div>
 
 @foratlanta [adickens@atlantaga.gov](mailto:adickens@atlantaga.gov) 
