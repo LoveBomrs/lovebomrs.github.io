@@ -4,6 +4,7 @@ mathjax: true
 ---
 
 [Gunsmith Cats (Dub) Episode 1](https://youtu.be/LVPZfJKbMZc)
+<img   alt="image" src="https://github.com/user-attachments/assets/4dfd1377-6f48-4f9c-b077-d2ef93a3d0bd" />
 
 --- 
 
