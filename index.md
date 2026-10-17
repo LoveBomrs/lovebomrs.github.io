@@ -8,11 +8,49 @@ mathjax: true
 ---
 
 
+#### Why Theme Parks Are Suddenly Shutting Down Extreme Rides
+[`WATCH` - https://youtu.be/2OHpSE3zFks?si=V6G-FCnsHKRtDMtB](https://youtu.be/2OHpSE3zFks?si=V6G-FCnsHKRtDMtB)
+<img  alt="image" src="https://github.com/user-attachments/assets/8c1696f1-aa14-4d0a-96b7-8a145cedf756" />
+
+### [Six Flags death](https://yandex.com/search/?text=six+flags+death&lr=20765&family=yes&search_source=yacom_desktop_common): [`WATCH`](https://youtu.be/UpxEZXaBZdY?si=GDtT0p9bwcRT5Dl9)
+State investigators seek answers about roller coaster mishap @newshour [`Link` - Man who died in Six Flags rollercoaster fall in Georgia was a father and educator @guardian](https://www.theguardian.com/us-news/2026/oct/13/six-flags-rollercoaster-death) // [Georgia police identify man who fatally fell off Six Flags roller coaster @nbcnews .com/news/us-news/six-flags-georgia-death-guests-say-man-fell-roller-coaster-rcna603097](https://www.nbcnews.com/news/us-news/six-flags-georgia-death-guests-say-man-fell-roller-coaster-rcna603097) 
+State investigators are searching for answers after a 42-year-old man died following a fall from the Goliath roller coaster at Six Flags Over Georgia. Authorities are investigating whether the tragedy was caused by a mechanical malfunction, a restraint system failure, operator error, or another factor.
+[`WATCH`](https://youtu.be/UpxEZXaBZdY?si=GDtT0p9bwcRT5Dl9)
+The investigation is being led by Georgia's Office of Commissioner of Insurance and Safety Fire, with officials reviewing inspection procedures, ride operations, and safety systems. Investigators are focusing on what went wrong and whether the Goliath ride's restraint system functioned properly.
+[`WATCH`](https://youtu.be/UpxEZXaBZdY?si=GDtT0p9bwcRT5Dl9)
+The victim, identified as Hassan Kariem, died after falling from the roller coaster, an incident that experts say is exceptionally rare. The tragedy has renewed questions about amusement park safety, ride inspections, and accountability as investigators work to determine exactly what happened.
+
+In this report, Channel 2 Action News examines:
+[`WATCH`](https://youtu.be/UpxEZXaBZdY?si=GDtT0p9bwcRT5Dl9)
+What investigators are looking for
+Whether a ride malfunction is being considered
+Questions surrounding the roller coaster's restraint system
+Six Flags' history of ride-related lawsuits
+What could happen next in the investigation
+
+Watch for the latest developments as officials work to uncover what caused this deadly roller coaster incident.
+
+READ MORE: https://2wsb.tv/4zBwGnS
+<img   alt="image" src="https://github.com/user-attachments/assets/8b1eac79-2937-4908-a04c-b1390888c514" />
+
+### NYC Liquid Attack, Six Flags Chaos & Georgia Sub-$1 Gas War
+[`WATCH` - https://youtu.be/XN4VaAuMUC8?si=aeTwme6b-PLHNV5t](https://youtu.be/XN4VaAuMUC8?si=aeTwme6b-PLHNV5t)
+Atlanta Teacher Dies After Fall From Six Flags’ 200-Foot Coaster | Hassan Kariem @lanajharris hi @deptofwar check his relationships @repkarenbass if he spent time in los angeles @Keishaforga [https://youtu.be/jbIGOzc4HZ8?t=242](https://youtu.be/jbIGOzc4HZ8?t=242) hi @NASAJPL i got punched in the face @hot97 thats all im saying about magic city @GavinNewsom @Whitehouse @deptofwar thats not fair @essencemag! @nasa-jpl @cityoflosangeles the castration threats are excessive!!! @newshour the fertility tampering is really scary @jaxa  @ESA @ForAtlanta
+<img   alt="image" src="https://github.com/user-attachments/assets/de1db695-12d1-49f0-84d0-857d69ed00a4" />
+
+Atlanta Teacher Dies After Fall From Six Flags’ 200-Foot Coaster @ForATLANTA @STATEOFCALiFORNiA @SACCOUNTY hi 
+[`WATCH` - https://youtu.be/jbIGOzc4HZ8?si=TsWYq9_a0vIKX5Lp](https://youtu.be/jbIGOzc4HZ8?si=TsWYq9_a0vIKX5Lp)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b48dc04e-5d4b-4483-8064-7e01f5aef0af" />
+
+Atlanta Teacher Dies After Fall From Six Flags’ 200-Foot Coaster
+[`WATCH` - https://youtu.be/jbIGOzc4HZ8?si=TsWYq9_a0vIKX5Lp](https://youtu.be/jbIGOzc4HZ8?si=TsWYq9_a0vIKX5Lp)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/cfdcec01-c4b3-46e0-a6ff-d541bbadd352" />
 
 
-[4 jpl water @La-County-iSD @nasa @deptofwar](https://science.jpl.nasa.gov/division/earth-science/water-and-ecosystems/) [@nasa-jpl fire.ca.gov/what-we-do/fire-resource-assessment-program/gis-mapping-and-data-analytics](https://www.fire.ca.gov/what-we-do/fire-resource-assessment-program/gis-mapping-and-data-analytics)
-[cityofsouthgate.org/files/sharedassets/public/v/1/government/departments/public-works/documents/2021-south-gate-water-and-sewer-standard-specifications.pdf](https://www.cityofsouthgate.org/files/sharedassets/public/v/1/government/departments/public-works/documents/2021-south-gate-water-and-sewer-standard-specifications.pdf)
-[January 2025 Windstorm and Critical Fire Events Bi-Weekly Emergency
+[4 jpl water @La-County-iSD @nasa @deptofwar](https://science.jpl.nasa.gov/division/earth-science/water-and-ecosystems/) ////// [@nasa-jpl fire.ca.gov/what-we-do/fire-resource-assessment-program/gis-mapping-and-data-analytics](https://www.fire.ca.gov/what-we-do/fire-resource-assessment-program/gis-mapping-and-data-analytics) ////// 
+[cityofsouthgate.org/files/sharedassets/public/v/1/government/departments/public-works/documents/2021-south-gate-water-and-sewer-standard-specifications.pdf](https://www.cityofsouthgate.org/files/sharedassets/public/v/1/government/departments/public-works/documents/2021-south-gate-water-and-sewer-standard-specifications.pdf) ///// [January 2025 Windstorm and Critical Fire Events Bi-Weekly Emergency
 Contracts Report @nasa-jpl @la-county-isd @cbs-news-data @nbcnews assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/2af2e449-e0a4-4ce5-a9c9-c3376c731929/Agenda%20102026_links.pdf#page=27](https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/2af2e449-e0a4-4ce5-a9c9-c3376c731929/Agenda%20102026_links.pdf#page=27) @Nasa-giss hi its [rashard](https://rashardikelly.github.io/) [Andrew @deptofwar @nasa](https://science.gsfc.nasa.gov/sci/bio/andrew.feldman) needs to update The [Los Angeles Board OF Supervisors @la-county-isd](https://bos.lacounty.gov/) on his work locally @nasa-jpl  ![https://www.lavote.gov/Image/logo.png](https://www.lavote.gov/Image/logo.png)
 
 ![https://science.jpl.nasa.gov/media/images/Word_cloud_scientists_keywords_20210209_v3.original.jpg](https://science.jpl.nasa.gov/media/images/Word_cloud_scientists_keywords_20210209_v3.original.jpg) 
