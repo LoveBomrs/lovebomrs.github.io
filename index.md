@@ -7,7 +7,6 @@ mathjax: true
 
 ---
 
-<img  alt="Screenshot 2026-10-17 140112" src="https://github.com/user-attachments/assets/b6a1ca03-d50d-43fb-a180-469c80c351f5" />
 
 @cityoflosangeles [https://www.nhc.noaa.gov/cyclones/](https://www.nhc.noaa.gov/cyclones/) 
 @nasa-jpl @weather-gov hi its rashard ill make a better report later [@nbcnews but simon](https://www.nhc.noaa.gov/mobile/text/refresh/MIATCPEP5+html/082332.shtml) seems to be above us disolving and [Trudy](https://goes.noaa.gov/floater.php?stormid=EP212026) now has lightning in the north portions as it heads this way @CityOfLosAngeles @rashardikelly 
