@@ -7,6 +7,11 @@ mathjax: true
 
 ---
 
+![https://tracipark.com/wp-content/uploads/2025/10/TRACI_LOGO_All_Horizontal_NEW_OLD_25-10-15_KEY.png](https://tracipark.com/wp-content/uploads/2025/10/TRACI_LOGO_All_Horizontal_NEW_OLD_25-10-15_KEY.png)
+[Traci Park](https://cd11.lacity.gov/about/traci-park), hi i dont know who needs the tool, but in completing my own tasks i fond it amazing! its Burn Severity that might be combines with land disturbance maps for troubleshooting [@nasa-jpl https://experience.arcgis.com/experience/aff840a6cd8d4e49958f2b61982b5b11](https://experience.arcgis.com/experience/aff840a6cd8d4e49958f2b61982b5b11)
+<img alt="image" src="https://github.com/user-attachments/assets/dc799ac2-e753-46f4-83bc-3832716e6105" />
+<img  alt="image" src="https://github.com/user-attachments/assets/fdb07710-7ff2-4851-8e68-21cb688c4d9c" />
+
 
 #### Why Theme Parks Are Suddenly Shutting Down Extreme Rides
 [`WATCH` - https://youtu.be/2OHpSE3zFks?si=V6G-FCnsHKRtDMtB](https://youtu.be/2OHpSE3zFks?si=V6G-FCnsHKRtDMtB)
