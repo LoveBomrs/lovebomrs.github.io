@@ -4,6 +4,16 @@ mathjax: true
 ---
 
 
+
+# GOLD DIGGER PRANK PART 2
+[`WATCH` - https://youtu.be/lELwd1ca_Ac](https://youtu.be/lELwd1ca_Ac)
+@Blackgirlscode hi for `Nyyear Price` hi my [bookkeeper latrice](https://www.facebook.com/thevirtiservway/photos/429488875825167/) went to dance411, and picked me up after one of the celeb girls could not handle @nasa in her life that close, we still friends and sometimes do business because she teaches young girls any way, i dont know what the women are deciding during whatever collapse is healing, but i am simply posting her because she is [latrice friend](https://www.amazon.com/shop/lanajharris/video/amzn1.vse.video.02e1d5d0bacc4d34b434d5fbfc92a25a?tag=lanaharris-20&linkCode=ssc&src=aipsf&originMarketplaceId=ATVPDKIKX0DER&product=B07SH1MKZ6&ref=cm_sw_cp_r_ib_dt_XiB8wQetrSLvQ) at some level . . and they like to keep up with each other with things that come into my recs, because a lot of dance411 @youtube recs got spliced... long story short i am not seeking any communication and if someone from the war dept calls you they are looking for that girl and she done stole some shit... hi @foratlanta `@` are literal mentions on @github in case u dont know mr price! @rashardikelly 
+![https://yt3.googleusercontent.com/V4BR9N8qg9QLOSB_72O3cvkr1oRV61Y-VIoTTF0ntRom104CbIB0gz5YAxwn9LAE6c7JG9hW=s160-c-k-c0x00ffffff-no-rj](https://yt3.googleusercontent.com/V4BR9N8qg9QLOSB_72O3cvkr1oRV61Y-VIoTTF0ntRom104CbIB0gz5YAxwn9LAE6c7JG9hW=s160-c-k-c0x00ffffff-no-rj)
+<img  alt="image" src="https://github.com/user-attachments/assets/d22388d3-554d-424f-bfe8-2cc41c67eb3b" />
+
+![https://yt3.googleusercontent.com/xke4ZUyMZO5oeKnNxwMmigOrgOT1PGr0Qqx-ZI3hOUMbM8G8CzKPPcmOFcm2jXQuyluwIlTPcQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/xke4ZUyMZO5oeKnNxwMmigOrgOT1PGr0Qqx-ZI3hOUMbM8G8CzKPPcmOFcm2jXQuyluwIlTPcQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+
+
 ## Hurricane Rachael Damage
 Extensive Damage, Unsteady Homes, Urgent Repairs: What’s Next?
 [`READ` - beachcomber.news/content/extensive-damage-unsteady-homes-urgent-repairs-whats-next](https://beachcomber.news/content/extensive-damage-unsteady-homes-urgent-repairs-what%E2%80%99s-next) //
