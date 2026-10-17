@@ -3,21 +3,31 @@ layout: default
 mathjax: true
 ---
 
-## BUbbleGumCrisis 
-### バブルガムクライシス [Wiki](https://en.wikipedia.org/wiki/Bubblegum_Crisis)
+// [B i z Markie - G0IN'0FF](https://youtu.be/D5s-oH8P004?si=qaQIc-vFCHf0OPLk) // [Living For The City · Stevie Wonder](https://youtu.be/ghLWjyOOLno?si=jA9xs4AR1PakdYuB) // [The World Is A Ghetto by War @CityOfLosAngeles](https://youtu.be/VIIbT89V7EI?list=RDghLWjyOOLno&t=143) // [Slippin' Into Darkness · War](https://youtu.be/pBNZevgJH1g?list=RDghLWjyOOLno) // [The Vision Of Rassan Medley: Dedication / Roll On `Kirk`? @nasa-jpl](https://youtu.be/n7Wjkg7UpK8?si=omvE1a8jdPp07PXO) // [Eric Burdon & War Paint It Black Live, 1970](https://youtu.be/tVPwuvf6LAI?list=RDtVPwuvf6LAI&t=20)
+
+---
+
+## 📼BUbbleGumCrisis 
+### バブルガムクライシス [Wiki](https://en.wikipedia.org/wiki/Bubblegum_Crisis) 
+/ [SoundTrack](https://archive.org/details/bubblegum-crisis-1-ongaku-hen?webamp=default)
 [archive.org/details/dvdvolume_202509/DVDVolume.iso](https://archive.org/details/dvdvolume_202509/DVDVolume.iso) // [@nbcnews](https://www.peacocktv.com/watch-online/tv/bubblegum-crisis/5122311568381930112) // [reddit](https://www.reddit.com/r/retroanime/comments/1vq3k21/bubblegum_crisis1987_bubblegum_crisis_tokyo/?i=0) // [youtube](https://www.youtube.com/playlist?list=PLZs0gQed9tMTDna2-e2w-eO2hz0IWh9-4) // [tubi](https://tubitv.com/series/300020434/bubblegum-crisis-subbed) // [FandoM](https://bubblegumcrisis.fandom.com/wiki/Bubblegum_Crisis)
 [<video controls loading="lazy" poster="https://static.wikia.nocookie.net/bubblegumcrisis/images/5/52/19107f5a-849e-4f01-b51d-9253be3c358e.jpg" src="https://ia601604.us.archive.org/30/items/dvdvolume_202509/DVDVolume.mp4" />](https://ia601604.us.archive.org/30/items/dvdvolume_202509/DVDVolume.mp4)
 
-[BUBBLEGUM CRISIS - TINSEL CITY   Episode 01 (English Dub)](https://youtu.be/hR_EgONHRWE?t=28)
+
+### バブルガムクライシス [Wiki](https://en.wikipedia.org/wiki/Bubblegum_Crisis) 
+/ [⏯️SoundTrack▶️](https://archive.org/details/bubblegum-crisis-1-ongaku-hen?webamp=default)
+![https://dn801705.us.archive.org/0/items/bubblegum-crisis-1-ongaku-hen/25172-1302021115.jpg?cnt=0](https://dn801705.us.archive.org/0/items/bubblegum-crisis-1-ongaku-hen/25172-1302021115.jpg?cnt=0) 
+
+[📼BUBBLEGUM CRISIS - TINSEL CITY   Episode 01 (English Dub)](https://youtu.be/hR_EgONHRWE?t=28)
 <img   alt="image" src="https://github.com/user-attachments/assets/5b0bb971-3ed0-436b-a013-b958e46716dc" />
 
-[Gunsmith Cats (Dub) Episode 1](https://youtu.be/LVPZfJKbMZc)
+[📼Gunsmith Cats (Dub) Episode 1](https://youtu.be/LVPZfJKbMZc)
 <img   alt="image" src="https://github.com/user-attachments/assets/4dfd1377-6f48-4f9c-b077-d2ef93a3d0bd" />
 
 --- 
 
 # GOLD DIGGER PRANK PART 2
-[`WATCH` - https://youtu.be/lELwd1ca_Ac](https://youtu.be/lELwd1ca_Ac)
+[🎥 `WATCH` - https://youtu.be/lELwd1ca_Ac](https://youtu.be/lELwd1ca_Ac)
 @Blackgirlscode hi for `Nyyear Price` hi my [bookkeeper latrice](https://www.facebook.com/thevirtiservway/photos/429488875825167/) went to dance411, and picked me up after one of the celeb girls could not handle @nasa in her life that close, we still friends and sometimes do business because she teaches young girls any way, i dont know what the women are deciding during whatever collapse is healing, but i am simply posting her because she is [latrice friend](https://www.amazon.com/shop/lanajharris/video/amzn1.vse.video.02e1d5d0bacc4d34b434d5fbfc92a25a?tag=lanaharris-20&linkCode=ssc&src=aipsf&originMarketplaceId=ATVPDKIKX0DER&product=B07SH1MKZ6&ref=cm_sw_cp_r_ib_dt_XiB8wQetrSLvQ) at some level . . and they like to keep up with each other with things that come into my recs, because a lot of dance411 @youtube recs got spliced... long story short i am not seeking any communication and if someone from the war dept calls you they are looking for that girl and she done stole some shit... hi @foratlanta `@` are literal mentions on @github in case u dont know mr price! @rashardikelly 
 ![https://yt3.googleusercontent.com/V4BR9N8qg9QLOSB_72O3cvkr1oRV61Y-VIoTTF0ntRom104CbIB0gz5YAxwn9LAE6c7JG9hW=s160-c-k-c0x00ffffff-no-rj](https://yt3.googleusercontent.com/V4BR9N8qg9QLOSB_72O3cvkr1oRV61Y-VIoTTF0ntRom104CbIB0gz5YAxwn9LAE6c7JG9hW=s160-c-k-c0x00ffffff-no-rj)
 <img  alt="image" src="https://github.com/user-attachments/assets/d22388d3-554d-424f-bfe8-2cc41c67eb3b" />
@@ -27,7 +37,7 @@ mathjax: true
 
 ## Hurricane Rachael Damage
 Extensive Damage, Unsteady Homes, Urgent Repairs: What’s Next?
-[`READ` - beachcomber.news/content/extensive-damage-unsteady-homes-urgent-repairs-whats-next](https://beachcomber.news/content/extensive-damage-unsteady-homes-urgent-repairs-what%E2%80%99s-next) //
+[📖 `READ` - beachcomber.news/content/extensive-damage-unsteady-homes-urgent-repairs-whats-next](https://beachcomber.news/content/extensive-damage-unsteady-homes-urgent-repairs-what%E2%80%99s-next) //
 [REMNANTS OF RACHEL ~>  nhc.noaa.gov/refresh/graphics_ep3+shtml/082051.shtml?gm_track](https://www.nhc.noaa.gov/refresh/graphics_ep3+shtml/082051.shtml?gm_track) @CityOfLosAngeles it dissolved in [Las Vegas](https://www.gov.nv.gov/)
 
 ![https://beachcomber.news/sites/default/files/styles/galleria_zoom/public/field/image/Peninsula.jpg @eosdis-nasa ](https://beachcomber.news/sites/default/files/styles/galleria_zoom/public/field/image/Peninsula.jpg)
