@@ -9,7 +9,7 @@ mathjax: true
 
 ## Why Protesters In [Albania](https://mashable.com/tech/yandex-outage-cloudflare-report-confirms-what-happened-with-the-bots) Are Fighting [Jared Kushner](https://www.amazon.com/stores/author/B09ZF9P8BM/about)
 
-
+[`wATCH` - https://youtu.be/eHo8K2T3aI0?t=128](https://youtu.be/eHo8K2T3aI0?t=128)
 
 [`READ` - Chris Brown & Usher Surprise MetLife Stadium With Shyne, Fabolous, & Meek Mill . . . @deptofwar can you tell usher and those other ppl I'm nmormal @nasa-jpl](https://www.hot97.com/news/chris-brown-usher-surprise-metlife-stadium-with-shyne-fabolous-meek-mill/) By [Tai Marie](https://www.hot97.com/author/tai-marie/) // [`READ` - Yandex outage: @Cloudflare confirms what really happened with Russian bots]()
 
