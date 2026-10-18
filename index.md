@@ -10,8 +10,8 @@ mathjax: true
 ## Why Protesters In [Albania](https://yandex.com/maps/10054/albania/?ll=20.100981%2C40.510963&z=8) Are Fighting [Jared Kushner](https://www.amazon.com/stores/author/B09ZF9P8BM/about)
 
 [`wATCH` - https://youtu.be/eHo8K2T3aI0?t=128](https://youtu.be/eHo8K2T3aI0?t=128)
-@ForAtlanta hi lana, I went to a [car show at Felix Chevorlet](https://youtu.be/2Uk6Fwrd_ts?t=42) . Thanks for chirping in my head, those ppl do it too. I did not get intimate or erotic with any girl at all... @blackgirlscode I just need her to pass me on... if its like that /// [
-[`READ` - Chris Brown & Usher Surprise MetLife Stadium With Shyne, Fabolous, & Meek Mill . . . @deptofwar can you tell usher and those other ppl I'm nmormal @nasa-jpl](https://www.hot97.com/news/chris-brown-usher-surprise-metlife-stadium-with-shyne-fabolous-meek-mill/) By [Tai Marie](https://www.hot97.com/author/tai-marie/) // [`READ` - Yandex outage: @Cloudflare confirms what really happened with Russian bots](https://mashable.com/tech/yandex-outage-cloudflare-report-confirms-what-happened-with-the-bots)
+@ForAtlanta hi lana, I went to a [car show at Felix Chevorlet](https://youtu.be/2Uk6Fwrd_ts?t=42) . Thanks for chirping in my head, those ppl do it too. I did not get intimate or erotic with any girl at all... [@blackgirlscode](https://www.wearebgc.org/) I just need her to pass me on... if its like that /// [Mayor Bass](https://mayor.lacity.gov/about-mayor-karen-bass) / [NiThya Raman](https://www.nithyaforthecity.com/?gad_source=1&gad_campaignid=24353412436&gbraid=0AAAABEtLJ2eNPR78nEuS4YX8DDJ6ugzsI&gclid=EAIaIQobChMI4vvXh9XElwMVXCNECB3KNBhcEAAYASAAEgIRAfD_BwE) Please go to the car show [Holly Mitchell @CityOFlosangeles](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) [@La-County-isd](https://hr.lacounty.gov/isd/)
+
 
 ![https://di-uploads-pod47.dealerinspire.com/felixchevrolet1/uploads/2026/09/OFFICIAL-FLYER-2-.png](https://di-uploads-pod47.dealerinspire.com/felixchevrolet1/uploads/2026/09/OFFICIAL-FLYER-2-.png) 
 
@@ -22,6 +22,8 @@ mathjax: true
 ![https://di-uploads-development.dealerinspire.com/felixchevrolet1/uploads/2025/10/logo-desktop-200h-1.png](https://di-uploads-development.dealerinspire.com/felixchevrolet1/uploads/2025/10/logo-desktop-200h-1.png)
 
 ![`READ` - Chris Brown & Usher Surprise MetLife Stadium With Shyne, Fabolous, & Meek Mill . . . @deptofwar can you tell usher and those other ppl I'm nmormal @nasa-jpl https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
+[`READ` - Chris Brown & Usher Surprise MetLife Stadium With Shyne, Fabolous, & Meek Mill . . . @deptofwar can you tell usher and those other ppl I'm nmormal @nasa-jpl](https://www.hot97.com/news/chris-brown-usher-surprise-metlife-stadium-with-shyne-fabolous-meek-mill/) By [Tai Marie](https://www.hot97.com/author/tai-marie/) // [`READ` - Yandex outage: @Cloudflare confirms what really happened with Russian bots](https://mashable.com/tech/yandex-outage-cloudflare-report-confirms-what-happened-with-the-bots) // [Pomona Swap Meet & Classic Car Show - October 11, 2026](https://youtu.be/uSyyxphdepg?si=AM9AdBYnK2v_tkMw)
 
 <iframe src="https://archive.org/embed/Felix_BoldKingCole" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
