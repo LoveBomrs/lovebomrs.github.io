@@ -8,6 +8,8 @@ mathjax: true
 
 [`READ` - Chris Brown & Usher Surprise MetLife Stadium With Shyne, Fabolous, & Meek Mill . . . @deptofwar can you tell usher and those other ppl I'm nmormal @nasa-jpl](https://www.hot97.com/news/chris-brown-usher-surprise-metlife-stadium-with-shyne-fabolous-meek-mill/) By [Tai Marie](https://www.hot97.com/author/tai-marie/)
 
+![`READ` - Chris Brown & Usher Surprise MetLife Stadium With Shyne, Fabolous, & Meek Mill . . . @deptofwar can you tell usher and those other ppl I'm nmormal @nasa-jpl https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
 <iframe src="https://archive.org/embed/Felix_BoldKingCole" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![https://dn710205.ca.archive.org/0/items/felix-the-cat-usa-1992-platform-nes/Cover%20%20Felix%20the%20Cat%20%28USA%29%20%281992%29%20%28Platform%29%20%28NES%29.jpg](https://dn710205.ca.archive.org/0/items/felix-the-cat-usa-1992-platform-nes/Cover%20%20Felix%20the%20Cat%20%28USA%29%20%281992%29%20%28Platform%29%20%28NES%29.jpg)
