@@ -5,6 +5,9 @@ mathjax: true
 
 // [B i z Markie - G0IN'0FF](https://youtu.be/D5s-oH8P004?si=qaQIc-vFCHf0OPLk) // [Living For The City · Stevie Wonder](https://youtu.be/ghLWjyOOLno?si=jA9xs4AR1PakdYuB) // [The World Is A Ghetto by War @CityOfLosAngeles](https://youtu.be/VIIbT89V7EI?list=RDghLWjyOOLno&t=143) // [Slippin' Into Darkness · War](https://youtu.be/pBNZevgJH1g?list=RDghLWjyOOLno) // [The Vision Of Rassan Medley: Dedication / Roll On `Kirk`? @nasa-jpl](https://youtu.be/n7Wjkg7UpK8?si=omvE1a8jdPp07PXO) // [Eric Burdon & War Paint It Black Live, 1970](https://youtu.be/tVPwuvf6LAI?list=RDtVPwuvf6LAI&t=20)
 
+[firms.modaps.eosdis.nasa.gov/usfs/map/#t:tsd;d:2026-10-16;@-117.537,33.381,12.468z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#t:tsd;d:2026-10-16;@-117.537,33.381,12.468z)
+<img alt="FIRMS_2026-10-16 @-117 537,33 381,12 468z" src="https://github.com/user-attachments/assets/f17778fd-b58b-45b4-a8d7-cec921139a24" />
+
 [@newshour worldview.earthdata.nasa.gov/?v=-118.45557502971903,33.02288478510652,-117.33554882789514,33.57414768131671&l](https://worldview.earthdata.nasa.gov/?v=-118.45557502971903,33.02288478510652,-117.33554882789514,33.57414768131671&l=Reference_Labels_15m,Admin_Boundaries(hidden),DoS_International_Boundaries(hidden),Coastlines_15m(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Day,VIIRS_SNPP_Thermal_Anomalies_375m_Night,VIIRS_NOAA21_CorrectedReflectance_BandsM3-I3-M11,VIIRS_SNPP_CorrectedReflectance_TrueColor,MODIS_Aqua_CorrectedReflectance_TrueColor,MODIS_Terra_CorrectedReflectance_TrueColor&lg=false&tr=australia_fires_2019_2020&t=2026-10-16-T15%3A25%3A24Z)
 
 <img alt="image" src="https://github.com/user-attachments/assets/8adb61be-73f9-4432-bc6f-fe4195f894cf" />
