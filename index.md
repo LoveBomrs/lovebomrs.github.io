@@ -5,8 +5,9 @@ mathjax: true
 
 // [B i z Markie - G0IN'0FF](https://youtu.be/D5s-oH8P004?si=qaQIc-vFCHf0OPLk) // [Living For The City · Stevie Wonder](https://youtu.be/ghLWjyOOLno?si=jA9xs4AR1PakdYuB) // [The World Is A Ghetto by War @CityOfLosAngeles](https://youtu.be/VIIbT89V7EI?list=RDghLWjyOOLno&t=143) // [Slippin' Into Darkness · War](https://youtu.be/pBNZevgJH1g?list=RDghLWjyOOLno) // [The Vision Of Rassan Medley: Dedication / Roll On `Kirk`? @nasa-jpl](https://youtu.be/n7Wjkg7UpK8?si=omvE1a8jdPp07PXO) // [Eric Burdon & War Paint It Black Live, 1970](https://youtu.be/tVPwuvf6LAI?list=RDtVPwuvf6LAI&t=20) //// [Common - The Light](https://youtu.be/OjHX7jf-znA?t=21)
 
+<iframe src="https://archive.org/embed/Felix_BoldKingCole" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-
+![https://dn710205.ca.archive.org/0/items/felix-the-cat-usa-1992-platform-nes/Cover%20%20Felix%20the%20Cat%20%28USA%29%20%281992%29%20%28Platform%29%20%28NES%29.jpg](https://dn710205.ca.archive.org/0/items/felix-the-cat-usa-1992-platform-nes/Cover%20%20Felix%20the%20Cat%20%28USA%29%20%281992%29%20%28Platform%29%20%28NES%29.jpg)
 
 [firms.modaps.eosdis.nasa.gov/usfs/map/#t:tsd;d:2026-10-16;@-117.537,33.381,12.468z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#t:tsd;d:2026-10-16;@-117.537,33.381,12.468z)
 <img alt="FIRMS_2026-10-16 @-117 537,33 381,12 468z" src="https://github.com/user-attachments/assets/f17778fd-b58b-45b4-a8d7-cec921139a24" />
