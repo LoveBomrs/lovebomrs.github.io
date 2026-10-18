@@ -7,16 +7,19 @@ mathjax: true
 
 
 
-## Why Protesters In [Albania](https://mashable.com/tech/yandex-outage-cloudflare-report-confirms-what-happened-with-the-bots) Are Fighting [Jared Kushner](https://www.amazon.com/stores/author/B09ZF9P8BM/about)
+## Why Protesters In [Albania]()https://yandex.com/maps/10054/albania/?ll=20.100981%2C40.510963&z=8 Are Fighting [Jared Kushner](https://www.amazon.com/stores/author/B09ZF9P8BM/about)
 
 [`wATCH` - https://youtu.be/eHo8K2T3aI0?t=128](https://youtu.be/eHo8K2T3aI0?t=128)
+@ForAtlanta hi lana, I went to a [car show at Felix Chevorlet](https://youtu.be/2Uk6Fwrd_ts?t=42) . Thanks for chirping in my head, those ppl do it too. I did not get intimate or erotic with any girl at all... @blackgirlscode I just need her to pass me on... if its like that /// [
+[`READ` - Chris Brown & Usher Surprise MetLife Stadium With Shyne, Fabolous, & Meek Mill . . . @deptofwar can you tell usher and those other ppl I'm nmormal @nasa-jpl](https://www.hot97.com/news/chris-brown-usher-surprise-metlife-stadium-with-shyne-fabolous-meek-mill/) By [Tai Marie](https://www.hot97.com/author/tai-marie/) // [`READ` - Yandex outage: @Cloudflare confirms what really happened with Russian bots](https://mashable.com/tech/yandex-outage-cloudflare-report-confirms-what-happened-with-the-bots)
 
-[`READ` - Chris Brown & Usher Surprise MetLife Stadium With Shyne, Fabolous, & Meek Mill . . . @deptofwar can you tell usher and those other ppl I'm nmormal @nasa-jpl](https://www.hot97.com/news/chris-brown-usher-surprise-metlife-stadium-with-shyne-fabolous-meek-mill/) By [Tai Marie](https://www.hot97.com/author/tai-marie/) // [`READ` - Yandex outage: @Cloudflare confirms what really happened with Russian bots]()
+![https://di-uploads-pod47.dealerinspire.com/felixchevrolet1/uploads/2026/09/OFFICIAL-FLYER-2-.png](https://di-uploads-pod47.dealerinspire.com/felixchevrolet1/uploads/2026/09/OFFICIAL-FLYER-2-.png) 
+
 
 <img   alt="image" src="https://github.com/user-attachments/assets/1e8f78e0-d6a5-489f-a525-dbfd528ec50a" />
 
 
-
+![https://di-uploads-development.dealerinspire.com/felixchevrolet1/uploads/2025/10/logo-desktop-200h-1.png](https://di-uploads-development.dealerinspire.com/felixchevrolet1/uploads/2025/10/logo-desktop-200h-1.png)
 
 ![`READ` - Chris Brown & Usher Surprise MetLife Stadium With Shyne, Fabolous, & Meek Mill . . . @deptofwar can you tell usher and those other ppl I'm nmormal @nasa-jpl https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
