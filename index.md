@@ -3,10 +3,20 @@ layout: default
 mathjax: true
 ---
 
-// [B i z Markie - G0IN'0FF](https://youtu.be/D5s-oH8P004?si=qaQIc-vFCHf0OPLk) // [Living For The City · Stevie Wonder](https://youtu.be/ghLWjyOOLno?si=jA9xs4AR1PakdYuB) // [The World Is A Ghetto by War @CityOfLosAngeles](https://youtu.be/VIIbT89V7EI?list=RDghLWjyOOLno&t=143) // [Slippin' Into Darkness · War](https://youtu.be/pBNZevgJH1g?list=RDghLWjyOOLno) // [The Vision Of Rassan Medley: Dedication / Roll On `Kirk`? @nasa-jpl](https://youtu.be/n7Wjkg7UpK8?si=omvE1a8jdPp07PXO) // [Eric Burdon & War Paint It Black Live, 1970](https://youtu.be/tVPwuvf6LAI?list=RDtVPwuvf6LAI&t=20) //// [Common - The Light](https://youtu.be/OjHX7jf-znA?t=21) // [Cypress Hill - Hits from the Bong](https://youtu.be/eMK4cfXj5c0?list=RDeMK4cfXj5c0) // [The Notorious B.I.G. - Everyday Struggle]()
+// [B i z Markie - G0IN'0FF](https://youtu.be/D5s-oH8P004?si=qaQIc-vFCHf0OPLk) // [Living For The City · Stevie Wonder](https://youtu.be/ghLWjyOOLno?si=jA9xs4AR1PakdYuB) // [The World Is A Ghetto by War @CityOfLosAngeles](https://youtu.be/VIIbT89V7EI?list=RDghLWjyOOLno&t=143) // [Slippin' Into Darkness · War](https://youtu.be/pBNZevgJH1g?list=RDghLWjyOOLno) // [The Vision Of Rassan Medley: Dedication / Roll On `Kirk`? @nasa-jpl](https://youtu.be/n7Wjkg7UpK8?si=omvE1a8jdPp07PXO) // [Eric Burdon & War Paint It Black Live, 1970](https://youtu.be/tVPwuvf6LAI?list=RDtVPwuvf6LAI&t=20) //// [Common - The Light](https://youtu.be/OjHX7jf-znA?t=21) // [Cypress Hill - Hits from the Bong](https://youtu.be/eMK4cfXj5c0?list=RDeMK4cfXj5c0) // [The Notorious B.I.G. - Everyday Struggle](https://youtu.be/Uz5o4EjCNLg?list=RDUz5o4EjCNLg)
 
 
-[`READ` - Chris Brown & Usher Surprise MetLife Stadium With Shyne, Fabolous, & Meek Mill . . . @deptofwar can you tell usher and those other ppl I'm nmormal @nasa-jpl](https://www.hot97.com/news/chris-brown-usher-surprise-metlife-stadium-with-shyne-fabolous-meek-mill/) By [Tai Marie](https://www.hot97.com/author/tai-marie/)
+
+## Why Protesters In [Albania](https://mashable.com/tech/yandex-outage-cloudflare-report-confirms-what-happened-with-the-bots) Are Fighting [Jared Kushner](https://www.amazon.com/stores/author/B09ZF9P8BM/about)
+
+
+
+[`READ` - Chris Brown & Usher Surprise MetLife Stadium With Shyne, Fabolous, & Meek Mill . . . @deptofwar can you tell usher and those other ppl I'm nmormal @nasa-jpl](https://www.hot97.com/news/chris-brown-usher-surprise-metlife-stadium-with-shyne-fabolous-meek-mill/) By [Tai Marie](https://www.hot97.com/author/tai-marie/) // [`READ` - Yandex outage: @Cloudflare confirms what really happened with Russian bots]()
+
+<img   alt="image" src="https://github.com/user-attachments/assets/1e8f78e0-d6a5-489f-a525-dbfd528ec50a" />
+
+
+
 
 ![`READ` - Chris Brown & Usher Surprise MetLife Stadium With Shyne, Fabolous, & Meek Mill . . . @deptofwar can you tell usher and those other ppl I'm nmormal @nasa-jpl https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
