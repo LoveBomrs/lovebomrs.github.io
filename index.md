@@ -10,6 +10,12 @@ mathjax: true
 
 
 ## @cia _StarGAte_
+### @ESA SECTION IV- ESP AND PSYCHOKINESIS
+[`READ` - https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500250024-6 @ESA @JAXA @blackGirlscode](https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500250024-6)
+<img alt="image" src="https://github.com/user-attachments/assets/71a4f496-4006-43da-a259-4280262fa1ff" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8aff92e4-a039-4d75-8578-c98a6bd6f082" />
+
 how bad was the movie? @nasa-jpl I don't know I was too young to comprehend. That means I liked it, and the creepy white guy is someonere in my common @CityOfLosAngeles path ... Cinema is like Rap music I have to learn a lot about life before I try again @blackgirlscode when I say bad, its like who been stalking @DeptOfWar @nasa @UsNAVY etc in SoCal @STateOfCalifornia and how do theymisinterpeteverything ? @foxBroadcasting I don't feel safe with your coverage of @nasa-jpl / @nasa-pds
 [cia.gov/readingroom/docs/CIA-RDP96-00789R002900010002-8.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002900010002-8.pdf)
 
