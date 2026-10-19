@@ -12,7 +12,12 @@ mathjax: true
 [@NASA Northcom.mil/Newsroom/News/Article/Article/4626281/space-forces-northern-changes-command-at-peterson-space-force-base/](https://www.northcom.mil/Newsroom/News/Article/Article/4626281/space-forces-northern-changes-command-at-peterson-space-force-base/)
 @Nasa @Nasa-JPL its news for us @CityOFLosANGELES
 we have some new leadership @la-cunty-isd @foratlanta [`READ` - ](https://www.spaceforce.mil/News/Article-Display/Article/4626378/space-forces-northern-changes-command-at-peterson-sfb/)
+
+![https://www.northcom.mil/Portals/28/Images/USNORTHCOMlogo80.png?ver=5mamO_2IeuGoF6c3Meqm9g%3d%3d](https://www.northcom.mil/Portals/28/Images/USNORTHCOMlogo80.png?ver=5mamO_2IeuGoF6c3Meqm9g%3d%3d) 
+
 ![https://media.defense.gov/2026/Oct/15/2004015224/500/500/0/261013-F-TD082-1003.JPG](https://media.defense.gov/2026/Oct/15/2004015224/500/500/0/261013-F-TD082-1003.JPG)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65c77071-6dc2-43a5-a6d3-57dfb8d4f7d5" />
 
 
 [Mr. Magic’s, “Rap Attack” featuring Marley Marl on 107.5 WBLS-FM New York City 1987](https://youtu.be/Nxnafd_e6KE?list=RDNxnafd_e6KE)
