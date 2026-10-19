@@ -8,23 +8,10 @@ mathjax: true
 
 ---
 
+<img alt="image" src="https://github.com/user-attachments/assets/c7c83944-9702-4fd1-ab73-4354705422b8" />
+
 [Don't Let Trump Distract You From Epstein Files + RADIOACTIVE Raw Shrimp In Walmart?! @ny](https://youtu.be/pNAxU1fHaEw) @DeptofWar 
 <img  alt="image" src="https://github.com/user-attachments/assets/e34c8a51-ed47-4ddb-82aa-38994405b933" />
-
-<img  alt="image" src="https://github.com/user-attachments/assets/4bc8b453-9ad6-4567-854d-c6e51ca080f9" />
-
-
-
-## Space Forces-Northern changes command at Peterson SFB
-[@NASA Northcom.mil/Newsroom/News/Article/Article/4626281/space-forces-northern-changes-command-at-peterson-space-force-base/](https://www.northcom.mil/Newsroom/News/Article/Article/4626281/space-forces-northern-changes-command-at-peterson-space-force-base/)
-@Nasa @Nasa-JPL its news for us @CityOFLosANGELES
-we have some new leadership @la-cunty-isd @foratlanta [`READ` - ](https://www.spaceforce.mil/News/Article-Display/Article/4626378/space-forces-northern-changes-command-at-peterson-sfb/)
-
-![https://www.northcom.mil/Portals/28/Images/USNORTHCOMlogo80.png?ver=5mamO_2IeuGoF6c3Meqm9g%3d%3d](https://www.northcom.mil/Portals/28/Images/USNORTHCOMlogo80.png) 
-
-![https://media.defense.gov/2026/Oct/15/2004015224/500/500/0/261013-F-TD082-1003.JPG](https://media.defense.gov/2026/Oct/15/2004015224/500/500/0/261013-F-TD082-1003.JPG)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/65c77071-6dc2-43a5-a6d3-57dfb8d4f7d5" />
 
 
 [Mr. Magic’s, “Rap Attack” featuring Marley Marl on 107.5 WBLS-FM New York City 1987](https://youtu.be/Nxnafd_e6KE?list=RDNxnafd_e6KE)
@@ -66,6 +53,24 @@ Community Board 3, PTA president of the Neighborhood School, and served as Presi
 President’s council in School District 1, in addition to numerous other organizations. ![https://rentguidelinesboard.cityofnewyork.us/wp-content/uploads/2019/08/RGB_logo.svg](https://rentguidelinesboard.cityofnewyork.us/wp-content/uploads/2019/08/RGB_logo.svg) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/16d93f41-95dc-40c8-a2e6-acbca04350f9" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4bc8b453-9ad6-4567-854d-c6e51ca080f9" />
+
+
+
+## Space Forces-Northern changes command at Peterson SFB
+[@NASA Northcom.mil/Newsroom/News/Article/Article/4626281/space-forces-northern-changes-command-at-peterson-space-force-base/](https://www.northcom.mil/Newsroom/News/Article/Article/4626281/space-forces-northern-changes-command-at-peterson-space-force-base/)
+@Nasa @Nasa-JPL its news for us @CityOFLosANGELES
+we have some new leadership @la-cunty-isd @foratlanta [`READ` - ](https://www.spaceforce.mil/News/Article-Display/Article/4626378/space-forces-northern-changes-command-at-peterson-sfb/)
+
+![https://www.northcom.mil/Portals/28/Images/USNORTHCOMlogo80.png?ver=5mamO_2IeuGoF6c3Meqm9g%3d%3d](https://www.northcom.mil/Portals/28/Images/USNORTHCOMlogo80.png) 
+
+![https://media.defense.gov/2026/Oct/15/2004015224/500/500/0/261013-F-TD082-1003.JPG](https://media.defense.gov/2026/Oct/15/2004015224/500/500/0/261013-F-TD082-1003.JPG)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/65c77071-6dc2-43a5-a6d3-57dfb8d4f7d5" />
+
+
 
 ![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05048/opgs/edr/fcam/FRB_845621905EDR_F1251326FHAZ00208M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05048/opgs/edr/fcam/FRB_845621905EDR_F1251326FHAZ00208M_.JPG)
 
