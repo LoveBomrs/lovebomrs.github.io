@@ -14,6 +14,7 @@ mathjax: true
 
 <img   alt="image" src="https://github.com/user-attachments/assets/8a82c4b9-a567-4661-b311-9f6cc033f000" />
 
+![https://www.harryepstein.com/cdn/shop/files/logo_white_plus1.png?v=1695374132&width=170](https://www.harryepstein.com/cdn/shop/files/logo_white_plus1.png?v=1695374132&width=170) 
 
 ![https://mars.nasa.gov/msl-raw-images/msss/05047/mhli/5047MH0009160021804535C00_DXXX.jpg](https://mars.nasa.gov/msl-raw-images/msss/05047/mhli/5047MH0009160021804535C00_DXXX.jpg)
 
