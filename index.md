@@ -4,6 +4,11 @@ mathjax: true
 ---
 
 
+### @howard-university-web-services `EpstienCase`for Lana
+[justice.gov/usao-sdny/press-release/file/1180481/dl](https://www.justice.gov/usao-sdny/press-release/file/1180481/dl)
+<img  alt="image @TheSpaceDevs it looks like we are funded for artemis3 pass to burbank quick!!!! @nbcnews @disney @hulu just be cool about the shit man, like im not your enemy 20th century fox sabotagged @nasa-jpl helpdesk!! the news would have never made ppl do stupid shit!!! i promise you!!! @foxnews @washingtonpost @Newshour [www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11) " src="https://github.com/user-attachments/assets/d246f48e-c776-4b35-b4af-bce1addc8300" />
+
+
 @TheSpaceDevs it looks like we are funded for artemis3 pass to burbank quick!!!! @nbcnews @disney @hulu just be cool about the shit man, like im not your enemy 20th century fox sabotagged @nasa-jpl helpdesk!! the news would have never made ppl do stupid shit!!! i promise you!!! @foxnews @washingtonpost @Newshour [www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11) 
 
 ```
