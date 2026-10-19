@@ -46,7 +46,8 @@ Epstein successfully orchestrated the first (and second) rent freeze for one-yea
 50-year history of the Rent Guidelines Board. This historic achievement has helped millions of
 New Yorkers preserve their affordable rent-stabilized apartments. He is the former chair of
 Community Board 3, PTA president of the Neighborhood School, and served as President of the
-President’s council in School District 1, in addition to numerous other organizations.
+President’s council in School District 1, in addition to numerous other organizations. ![https://rentguidelinesboard.cityofnewyork.us/wp-content/uploads/2019/08/RGB_logo.svg](https://rentguidelinesboard.cityofnewyork.us/wp-content/uploads/2019/08/RGB_logo.svg) 
+
 <img  alt="image" src="https://github.com/user-attachments/assets/16d93f41-95dc-40c8-a2e6-acbca04350f9" />
 
 ![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05048/opgs/edr/fcam/FRB_845621905EDR_F1251326FHAZ00208M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05048/opgs/edr/fcam/FRB_845621905EDR_F1251326FHAZ00208M_.JPG)
