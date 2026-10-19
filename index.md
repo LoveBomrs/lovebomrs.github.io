@@ -8,10 +8,15 @@ mathjax: true
 
 ---
 
+## Space Forces-Northern changes command at Peterson SFB
+[@NASA Northcom.mil/Newsroom/News/Article/Article/4626281/space-forces-northern-changes-command-at-peterson-space-force-base/](https://www.northcom.mil/Newsroom/News/Article/Article/4626281/space-forces-northern-changes-command-at-peterson-space-force-base/)
+@Nasa @Nasa-JPL its news for us @CityOFLosANGELES
+we have some new leadership @la-cunty-isd @foratlanta [`READ` - ](https://www.spaceforce.mil/News/Article-Display/Article/4626378/space-forces-northern-changes-command-at-peterson-sfb/)
+![https://media.defense.gov/2026/Oct/15/2004015224/500/500/0/261013-F-TD082-1003.JPG](https://media.defense.gov/2026/Oct/15/2004015224/500/500/0/261013-F-TD082-1003.JPG)
 
 
 [Mr. Magic’s, “Rap Attack” featuring Marley Marl on 107.5 WBLS-FM New York City 1987](https://youtu.be/Nxnafd_e6KE?list=RDNxnafd_e6KE)
-[@NewYorkCityCouncil ](https://council.nyc.gov/districts/) what are you guys dealing with in terms of [bethelites and sexuality](https://www.reddit.com/r/RelationshipsOver35/comments/127zxv1/i_feel_like_i_am_in_a_forced_celibacy_in_my/?rdt=40578) in your jurisdiction the results are needed @ForAtlanta and @CityOFLosAngeles [Sexless in The City webmd.com/sex-relationships/features/sexless-in-city](https://www.webmd.com/sex-relationships/features/sexless-in-city) // [@webmd-health-services](https://www.webmdhealthservices.com/) hi I complained in [midnight mission @CityOfLosAngeles](https://www.midnightmission.org/our-services/emergency-services/food/) about you guys and [@cdcgov](https://www.cdc.gov/index.html) doing everything wrong... I got doxxed and the girl I was interested in chose another partner it seems, but its the [Covid Patents](https://patentimages.storage.googleapis.com/31/23/d0/e63e0adde2fbad/US10130701.pdf) I think its all your fault!!! @DeptOfWar comms went down man some cloud provider is hosting @Whitehouse .gov in San Francisco, it may have moved but idk anyway 
+[@NewYorkCityCouncil ](https://council.nyc.gov/districts/) what are you guys dealing with in terms of [bethelites and sexuality](https://www.reddit.com/r/RelationshipsOver35/comments/127zxv1/i_feel_like_i_am_in_a_forced_celibacy_in_my/?rdt=40578) in your jurisdiction the results are needed @ForAtlanta and @CityOFLosAngeles [Sexless in The City webmd.com/sex-relationships/features/sexless-in-city](https://www.webmd.com/sex-relationships/features/sexless-in-city) // [@webmd-health-services](https://www.webmdhealthservices.com/) hi I complained in [midnight mission @CityOfLosAngeles](https://www.midnightmission.org/our-services/emergency-services/food/) about you guys and [@cdcgov](https://www.cdc.gov/index.html) doing everything wrong... I got doxxed and the girl I was interested in chose another partner it seems, but its the [Covid Patents](https://patentimages.storage.googleapis.com/31/23/d0/e63e0adde2fbad/US10130701.pdf) I think its all your fault!!! [@DeptOfWar ](https://www.war.gov/News/) comms went down man some cloud provider is hosting @Whitehouse .gov in San Francisco, it may have moved but idk anyway 
 
 
 [@cityoflosangeles `whats the truth?` @usdoj council.nyc.gov/district-2/](https://council.nyc.gov/district-2/)
