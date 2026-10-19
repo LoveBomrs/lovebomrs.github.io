@@ -4,7 +4,7 @@ mathjax: true
 ---
 
 
-[Mr. Magic’s, “Rap Attack” featuring Marley Marl on 107.5 WBLS-FM New York City 1987](https://youtu.be/Nxnafd_e6KE?list=RDNxnafd_e6KE) // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU) // [The Chemical Brothers - Exit Planet Dust + Singles/Remixes 93-96 ](https://youtu.be/F5GoHBzknUs?si=_fwaHl7VfEky8ZMF)
+[Mr. Magic’s, “Rap Attack” featuring Marley Marl on 107.5 WBLS-FM New York City 1987](https://youtu.be/Nxnafd_e6KE?list=RDNxnafd_e6KE) // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU) // [The Chemical Brothers - Exit Planet Dust + Singles/Remixes 93-96 ](https://youtu.be/F5GoHBzknUs?si=_fwaHl7VfEky8ZMF) // [Stereo MC's – DJ-Kicks: (1999)](https://youtu.be/HfSTdtuhfHM?si=PE2P35wFQZFlsGCO)
 
 ---
 
