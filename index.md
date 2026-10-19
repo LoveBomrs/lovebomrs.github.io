@@ -11,7 +11,44 @@ mathjax: true
 
 
 [Mr. Magic’s, “Rap Attack” featuring Marley Marl on 107.5 WBLS-FM New York City 1987](https://youtu.be/Nxnafd_e6KE?list=RDNxnafd_e6KE)
-@NewYorkCityCouncil what are you guys dealing with in terms of [bethelites and sexuality](https://www.reddit.com/r/RelationshipsOver35/comments/127zxv1/i_feel_like_i_am_in_a_forced_celibacy_in_my/?rdt=40578) in your jurisdiction the results are needed @ForAtlanta and @CityOFLosAngeles [Sexless in The City webmd.com/sex-relationships/features/sexless-in-city](https://www.webmd.com/sex-relationships/features/sexless-in-city) // @webmd-health-services hi I complained in [midnight mission @CityOfLosAngeles](https://www.midnightmission.org/our-services/emergency-services/food/) about you guys and @cdcgov doing everything wrong... I got doxxed and the girl I was interested in chose another partner it seems, but its the [Covid Patents](https://patentimages.storage.googleapis.com/31/23/d0/e63e0adde2fbad/US10130701.pdf) I think its all your fault!!! @DeptOfWar comms went down man some cloud provider is hosting @Whitehouse .gov in San Francisco, it may have moved but idk 
+[@NewYorkCityCouncil ](https://council.nyc.gov/districts/) what are you guys dealing with in terms of [bethelites and sexuality](https://www.reddit.com/r/RelationshipsOver35/comments/127zxv1/i_feel_like_i_am_in_a_forced_celibacy_in_my/?rdt=40578) in your jurisdiction the results are needed @ForAtlanta and @CityOFLosAngeles [Sexless in The City webmd.com/sex-relationships/features/sexless-in-city](https://www.webmd.com/sex-relationships/features/sexless-in-city) // [@webmd-health-services](https://www.webmdhealthservices.com/) hi I complained in [midnight mission @CityOfLosAngeles](https://www.midnightmission.org/our-services/emergency-services/food/) about you guys and [@cdcgov](https://www.cdc.gov/index.html) doing everything wrong... I got doxxed and the girl I was interested in chose another partner it seems, but its the [Covid Patents](https://patentimages.storage.googleapis.com/31/23/d0/e63e0adde2fbad/US10130701.pdf) I think its all your fault!!! @DeptOfWar comms went down man some cloud provider is hosting @Whitehouse .gov in San Francisco, it may have moved but idk anyway 
+
+
+[@cityoflosangeles `whats the truth?` @usdoj council.nyc.gov/district-2/](https://council.nyc.gov/district-2/)
+Biography:
+
+[Council Member Epstein](https://intro.nyc/councilmembers/harvey-d-epstein) represents the 2nd District in the City Council, representing Greenwich
+Village, the Lower East Side, the East Village, Midtown South-Flatiron-Union Square, Gramercy,
+and Murray Hill-Kips Bay. Epstein previously served as the Assembly Member for District 74,
+covering much of the same district, since 2018.
+
+Council Member Epstein has been a community leader for almost 30 years. Before joining the
+Assembly in 2018, he served 14 years on Community Board 3, including as board chair, where
+he tackled critical land use issues and fought for community needs. As a public school parent,
+he served as president of the District 1 President’s Council and numerous PTAs, advocating for
+equity and excellence in education. His activism extends to protecting low-wage workers,
+preserving local daycare centers, and championing diversity in public school admissions. As a
+former Co-President of CoDA, a strategist for progressive campaigns, as well as his earlier work
+with The Legal Aid Society and the Urban Justice Center, he’s been a driving force for change in
+our communities for decades.
+
+During his tenure in [the State Assembly](https://nyassembly.gov/), Council Member Epstein passed over 50 bills that have
+become law and worked tirelessly on numerous efforts to protect tenants and preserve and
+expand affordable housing in New York State. He helped pass legislation that provided funding
+for public schools, after school programs, early childhood education, higher education, and
+transit, created more employment opportunities for people with disabilities, protected consumer
+rights, expanded early voting for New Yorkers, helped codify Roe v. Wade in the State of New
+York protecting a woman’s right to choose, and advocated on numerous pieces of legislation to
+reach net-zero greenhouse gas emissions.
+
+During his five-year tenure as a tenant member of the Rent Guidelines Board, Council Member
+Epstein successfully orchestrated the first (and second) rent freeze for one-year leases in the
+50-year history of the Rent Guidelines Board. This historic achievement has helped millions of
+New Yorkers preserve their affordable rent-stabilized apartments. He is the former chair of
+Community Board 3, PTA president of the Neighborhood School, and served as President of the
+President’s council in School District 1, in addition to numerous other organizations.
+<img  alt="image" src="https://github.com/user-attachments/assets/16d93f41-95dc-40c8-a2e6-acbca04350f9" />
+
 ![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05048/opgs/edr/fcam/FRB_845621905EDR_F1251326FHAZ00208M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05048/opgs/edr/fcam/FRB_845621905EDR_F1251326FHAZ00208M_.JPG)
 
 [Young Thug Mansion Raided by Police During RICO Arrest](https://youtu.be/AOnJgX1wi5Y?si=0V9rCK7m9KJe6ij_) // [Young Thug - Check ](https://youtu.be/p0x6FEDV-ig?list=RDp0x6FEDV-ig) // [Young Thug " Worth It"](https://youtu.be/mwTOJCwjCok?list=RDmwTOJCwjCok) // [SZA - Saturn](https://youtu.be/V2G8ESoDXm8) // [🚀 Suivez en direct le décollage de la mission MMX : destination les lunes de Mars ! @nasa-jpl @esa](https://youtu.be/0KGWnQ8sFTw)
