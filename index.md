@@ -7,6 +7,7 @@ mathjax: true
 
 ---
 
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/02012/ids/edr/browse/ncam/NLF_2012_0845558514_441ECM_N0920000NCAM00501_01_295J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/02012/ids/edr/browse/ncam/NLF_2012_0845558514_441ECM_N0920000NCAM00501_01_295J01_1200.jpg)
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/02012/ids/edr/browse/ncam/NLG_2012_0845558799_566ECM_N0920000NCAM00500_00_2I4J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/02012/ids/edr/browse/ncam/NLG_2012_0845558799_566ECM_N0920000NCAM00500_00_2I4J01_1200.jpg)
 
 
