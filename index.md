@@ -3,9 +3,21 @@ layout: default
 mathjax: true
 ---
 
-[The Chemical Brothers - Exit Planet Dust + Singles/Remixes 93-96 ](https://youtu.be/F5GoHBzknUs?si=_fwaHl7VfEky8ZMF)
+
+[Mr. Magic’s, “Rap Attack” featuring Marley Marl on 107.5 WBLS-FM New York City 1987](https://youtu.be/Nxnafd_e6KE?list=RDNxnafd_e6KE) // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU) // [The Chemical Brothers - Exit Planet Dust + Singles/Remixes 93-96 ](https://youtu.be/F5GoHBzknUs?si=_fwaHl7VfEky8ZMF)
 
 ---
+
+
+## @cia _StarGAte_
+how bad was the movie? @nasa-jpl I don't know I was too young to comprehend. Cinema is like Rap music I have to learn a lot about life before I try again @blackgirlscode when I say bad, its like who been stalking @DeptOfWar @nasa @UsNAVY etc in SoCal @STateOfCalifornia and how do theymisinterpeteverything ? @foxBroadcasting I don't feel safe with your coverage of @nasa-jpl / @nasa-pds
+[cia.gov/readingroom/docs/CIA-RDP96-00789R002900010002-8.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002900010002-8.pdf)
+
+<img alt="image" src="https://github.com/user-attachments/assets/0811bccc-4dac-459d-a400-0c6de518ad5b" />
+
+
+[(My VHS Saga #22) Sci-Fi, FOX (WOC)](https://archive.org/details/my-vhs-saga-part-22-woc)
+<iframe src="https://archive.org/embed/my-vhs-saga-part-22-woc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>****
 
 ### @howard-university-web-services `EpstienCase`for [Lana](https://www.youtube.com/watch?v=CH-WrSogg3A)
 [justice.gov/usao-sdny/press-release/file/1180481/dl](https://www.justice.gov/usao-sdny/press-release/file/1180481/dl)
