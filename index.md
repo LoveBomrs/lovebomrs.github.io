@@ -3,7 +3,24 @@ layout: default
 mathjax: true
 ---
 
-# outage @nasa-jpl [ElasticSearch](https://www.elastic.co/elasticsearch) outage
+
+@nasa-pds goldstone website is not responding from longbeach `Your connection is not private
+Attackers might be trying to steal your information from www.gdscc.nasa.gov (for example, passwords, messages, or credit cards). Learn more about this warning
+net::ERR_CERT_COMMON_NAME_INVALID` 
+<img  alt="image" src="https://github.com/user-attachments/assets/e6bae403-734e-4fe3-9ccc-b286758d79b8" />
+
+
+@nasa-jpl im going to figure out a more confirmable way to let the facilities and educators, researchers, etc @teslamotors so forth so and so and so on.. But we have 3 unitws talking from [Mars](https://www.nhm.ac.uk/discover/planet-mars.html) in [canberrra](https://www.cdscc.nasa.gov/), 2 Space Telescopes in [Mardid](https://www.mdscc.nasa.gov/index.php/en/start/) and two units in [Goldstone @StateOfCalifornia @CityOfLosAngeles](https://www.gdscc.nasa.gov/) transmitting data from the [sun](https://science.nasa.gov/heliophysics/)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/3bc33565-cf8b-4768-afee-f569c3c765ec" />
+
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1154196106&color=%234b67ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nija-music" title="Nija" target="_blank" style="color: #cccccc; text-decoration: none;">Nija</a> · <a href="https://soundcloud.com/nija-music/on-call" title="On Call" target="_blank" style="color: #cccccc; text-decoration: none;">On Call</a></div>
+
+![https://www.cdscc.nasa.gov/graphics/tracking_banner130.png](https://www.cdscc.nasa.gov/graphics/tracking_banner130.png) 
+
+### outage @nasa-jpl [ElasticSearch](https://www.elastic.co/elasticsearch) outage
 @doug-newman-nasa , i saw in a [changelog](https://www.earthdata.nasa.gov/data/alerts-outages/release-seadas-12.0.0) the addition of 12gb to the [SeaDAS](https://www.earthdata.nasa.gov/data/tools/seadas) JVM [heap config](https://docs.oracle.com/en/java/javase/25/core/heap-and-heap-memory.html), i wanna know how big things are at that scale, but i guess i need to finish what i was assigned, cool details tho @nasa-giss _@Elastic [Elasticsearch](https://github.com/elastic/elasticsearch) is an open source, distributed search and analytics engine built for speed, scale, and AI applications. As a retrieval platform, it stores structured, unstructured, and vector data in real time — delivering fast hybrid and vector search, powering observability and security analytics, and enabling AI-driven applications with high performance, accuracy, and relevance._ - [elastic.co/](https://www.elastic.co/)
 
 
