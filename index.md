@@ -4,7 +4,17 @@ mathjax: true
 ---
 
 # outage @nasa-jpl [ElasticSearch](https://www.elastic.co/elasticsearch) outage
-@doug-newman-nasa , i saw in a changelog the addition of 15gb to the JVM heap config, i wanna know how big things are at that scale, but i guess i need to finish what i was assigned, cool details tho @nasa-giss Elasticsearch is an open source, distributed search and analytics engine built for speed, scale, and AI applications. As a retrieval platform, it stores structured, unstructured, and vector data in real time — delivering fast hybrid and vector search, powering observability and security analytics, and enabling AI-driven applications with high performance, accuracy, and relevance.
+@doug-newman-nasa , i saw in a changelog the addition of 15gb to the JVM heap config, i wanna know how big things are at that scale, but i guess i need to finish what i was assigned, cool details tho @nasa-giss _@Elastic [Elasticsearch](https://github.com/elastic/elasticsearch) is an open source, distributed search and analytics engine built for speed, scale, and AI applications. As a retrieval platform, it stores structured, unstructured, and vector data in real time — delivering fast hybrid and vector search, powering observability and security analytics, and enabling AI-driven applications with high performance, accuracy, and relevance._ - [elastic.co/](https://www.elastic.co/)
+
+
+
+@podaac @doug-newman-nasa @emit-sds _can i come into work on the 28th to help?_ 
+>PO.DAAC: October 28, 11:00 a.m. to 8:00 p.m. ET
+>[@lacmta HollyMitchell @forAtlanta @la-county-isd](https://2urbangirls.com/2025/10/county-supervisor-holly-mitchell-awards-1-7m-in-grants-to-local-nonprofits/) //// [Mayor Karen Bass @CityOfLosAngeles](https://hoodline.com/2026/10/horvath-breaks-from-bass-endorses-raman-for-l-a-mayor-in-runoff/) // [SWOTcommunity?](https://swot.jpl.nasa.gov/)
+>
+>![https://img.hoodline.com/2026/10/horvath-breaks-from-bass-endorses-raman-for-l-a-mayor-in-runoff-1.webp?max-h=442&w=760&fit=crop&crop=faces,center](https://img.hoodline.com/2026/10/horvath-breaks-from-bass-endorses-raman-for-l-a-mayor-in-runoff-1.webp?max-h=442&w=760&fit=crop&crop=faces,center) 
+<img   alt="image" src="https://github.com/user-attachments/assets/20154bf6-bcc3-4ef7-81f3-d80a8a8de90a" />
+
 
 ![https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt9b5f83fd3758c54c/6aa7d5f57c24e5d521d4b8c1/homepage-hero-diagram.svg @longbeachinnovationteam hi its [rashard @NASA-JPL / @EOSDiS-NASA / @USGS](https://rashardikelly.github.io/) @La-County-iSD we have guset speakers at [LongBeachCityHall](https://locator.lacounty.gov/lac/Location/3176635/long-beach-city-hall) , but i forgot to write the company name down, i just left a [roll on kirk](youtube.com/watch?v=F1B9Fk_SgI0) response and got online [@FoxNews @FoxBroadCasting](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/SexAndBehavior1.pdf) im just saying now i know he related to [xibiht](https://www.youtube.com/watch?v=k_8Jlq9n3Kw) and they may have thought they were throwing me a bone . . . @Blackgirlscode ///// @ForAtlanta i want to talk about the girls that were in my life, they used to act like the deer pictured, but since they got involved with other men their endocrine systems changed, every truth they gave me is a lie for their new partner and i just got side swiped @cityoflosangeles, im real about @nasa-pds and promise not to bring intentional harm onto the city's growth... I do not want to harm anyone that has a relationship with any of my past lovers](https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt9b5f83fd3758c54c/6aa7d5f57c24e5d521d4b8c1/homepage-hero-diagram.svg) 
 
