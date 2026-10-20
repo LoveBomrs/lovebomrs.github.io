@@ -4,7 +4,7 @@ mathjax: true
 ---
 
 
-[Mr. Magic’s, “Rap Attack” featuring Marley Marl on 107.5 WBLS-FM New York City 1987](https://youtu.be/Nxnafd_e6KE?list=RDNxnafd_e6KE) // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU) // [The Chemical Brothers - Exit Planet Dust + Singles/Remixes 93-96 ](https://youtu.be/F5GoHBzknUs?si=_fwaHl7VfEky8ZMF) // [Stereo MC's – DJ-Kicks: (1999)](https://youtu.be/HfSTdtuhfHM?si=PE2P35wFQZFlsGCO) // [The Avalanches - Since I Left You](https://youtu.be/PC3luNmE15E) // [Tiny Confronts T.I. About His Infidelities : T.I. & Tiny: The Family Hustle](https://youtu.be/enaSRtX_nmE?si=lvHmG0_F_UnTEi4L) // [T.I. & Tiny's Relationship Timeline : T.I. & Tiny: The Family Hustle](https://youtu.be/YrrHIfPHho4) // 
+[Mr. Magic’s, “Rap Attack” featuring Marley Marl on 107.5 WBLS-FM New York City 1987](https://youtu.be/Nxnafd_e6KE?list=RDNxnafd_e6KE) // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU) // [The Chemical Brothers - Exit Planet Dust + Singles/Remixes 93-96 ](https://youtu.be/F5GoHBzknUs?si=_fwaHl7VfEky8ZMF) // [Stereo MC's – DJ-Kicks: (1999)](https://youtu.be/HfSTdtuhfHM?si=PE2P35wFQZFlsGCO) // [The Avalanches - Since I Left You](https://youtu.be/PC3luNmE15E) // [Tiny Confronts T.I. About His Infidelities : T.I. & Tiny: The Family Hustle](https://youtu.be/enaSRtX_nmE?si=lvHmG0_F_UnTEi4L) // [T.I. & Tiny's Relationship Timeline : T.I. & Tiny: The Family Hustle](https://youtu.be/YrrHIfPHho4) // [🧊](https://portal.ice.gov/)
 
 
 ---
@@ -13,9 +13,13 @@ mathjax: true
 
 # Floridian Security
 Gov De Snatis
+We have Floridian Security in two buildings and they are super unprofessional, I think some of them disrupt me sleeping at times @la-county-isd [lacourt.ca.gov/home](https://www.lacourt.ca.gov/home)  . . . [Karen Bass](https://www.congress.gov/member/karen-bass/B001270) were you lonely and Hired a Floridian firm for Federal Lobby Roles? 
+![https://lascpubstorage.blob.core.windows.net/cpw/LIBWEBRESOURCE-8-LacourtHeaderLogo.png](https://lascpubstorage.blob.core.windows.net/cpw/LIBWEBRESOURCE-8-LacourtHeaderLogo.png)
+![https://www.flgov.com/eog/sites/default/files/img/ron-desantis-inaugeration.png
+![https://www.ice.gov/themes/custom/dhs_uswds/logo.svg](https://www.ice.gov/themes/custom/dhs_uswds/logo.svg)
 
-
-
+![https://lascpubstorage.blob.core.windows.net/cpw/LIBWEBRESOURCE-148-NewsCenterImage-Edited.jpeg](https://lascpubstorage.blob.core.windows.net/cpw/LIBWEBRESOURCE-148-NewsCenterImage-Edited.jpeg) 
+![https://patch.com/img/cdn20/users/26494162/20250305/022742/styles/patch_image/public/image-3-5-25-at-1125am___05142626827.jpg?width=1200](https://patch.com/img/cdn20/users/26494162/20250305/022742/styles/patch_image/public/image-3-5-25-at-1125am___05142626827.jpg?width=1200) 
 
 @esa sENTINEL-1 S1D_IW_GRDH_1SDV_20261005T233519_20261005T233544_004887_00931F_ACB2
 <img  alt="S1D_IW_GRDH_1SDV_20261005T233519_20261005T233544_004887_00931F_ACB2" src="https://github.com/user-attachments/assets/7906219c-e9b9-4d4a-9285-ca09189ec388" />
