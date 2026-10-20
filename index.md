@@ -3,6 +3,9 @@ layout: default
 mathjax: true
 ---
 
+[Fact-checking Karen Bass, Nithya Raman's claims on LAPD, LAFD @nbcnews](https://youtu.be/ZumBCyXCyO4?si=4WqoNww_f0dd9xOO) /// 
+<img  alt="image" src="https://github.com/user-attachments/assets/9568ed15-ecfa-4d14-ad10-aeaf692bb903" />
+
 ### The Vortex turns 25 
 @nasa-jpl i did a test run standup here, i dont know how that affected me @blackgirlscode i had to tonality test, well anyone that wants to be welcome to return needs that, the city is too big its not @CityOfLosAngeles but ... 
 [atlantamagazine.com/dining-news/vortex-turns-25/](https://www.atlantamagazine.com/dining-news/vortex-turns-25/)
