@@ -14,6 +14,9 @@ mathjax: true
 
 <img   alt="image @ForAtlanta is this gitl Muna and Lana J HArris ? " src="https://github.com/user-attachments/assets/f91c9dbf-57dc-4c44-af7e-d8ecac98736c" />
 
+<img  alt="image" src="https://github.com/user-attachments/assets/6bf6b3a3-e5b6-4f5d-a923-6e2595cad5f4" />
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/f9361f16-2be5-4ed7-ad7e-0dc6efaffa7a" />
 
 [_`GetAdvice @Blackgirlscode`_](https://iyanla.com/personal-message/)
