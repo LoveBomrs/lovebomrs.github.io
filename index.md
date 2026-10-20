@@ -3,6 +3,18 @@ layout: default
 mathjax: true
 ---
 
+## Rashard Kelly 
+MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
+
+<div class="tupperware">
+  
+<img  alt="image" src="https://github.com/user-attachments/assets/4d630ca7-4b80-47bc-b84d-b154165f0dab" />
+<img alt="image" src="https://github.com/user-attachments/assets/4a20b224-7e7b-465c-8ada-9d0462df6d01" />
+
+</div>  
+
+<img   alt="image" src="https://github.com/user-attachments/assets/1cb7570d-56d4-47cb-8ce4-7a625e169adb" />
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A340652593&color=%234b67ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tokyojetz01" title="Tokyo Jetz" target="_blank" style="color: #cccccc; text-decoration: none;">Tokyo Jetz</a> · <a href="https://soundcloud.com/tokyojetz01/trust-no-nigga" title="Trust No Nigga" target="_blank" style="color: #cccccc; text-decoration: none;">Trust No Nigga</a></div>
 
 @nasa-pds goldstone website is not responding from longbeach `Your connection is not private
