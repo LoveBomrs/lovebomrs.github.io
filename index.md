@@ -4,7 +4,7 @@ mathjax: true
 ---
 
 # outage @nasa-jpl [ElasticSearch](https://www.elastic.co/elasticsearch) outage
-@doug-newman-nasa , i saw in a changelog the addition of 15gb to the JVM heap config, i wanna know how big things are at that scale, but i guess i need to finish what i was assigned, cool details tho @nasa-giss _@Elastic [Elasticsearch](https://github.com/elastic/elasticsearch) is an open source, distributed search and analytics engine built for speed, scale, and AI applications. As a retrieval platform, it stores structured, unstructured, and vector data in real time — delivering fast hybrid and vector search, powering observability and security analytics, and enabling AI-driven applications with high performance, accuracy, and relevance._ - [elastic.co/](https://www.elastic.co/)
+@doug-newman-nasa , i saw in a [changelog](https://www.earthdata.nasa.gov/data/alerts-outages/release-seadas-12.0.0) the addition of 12gb to the [SeaDAS](https://www.earthdata.nasa.gov/data/tools/seadas) JVM [heap config](https://docs.oracle.com/en/java/javase/25/core/heap-and-heap-memory.html), i wanna know how big things are at that scale, but i guess i need to finish what i was assigned, cool details tho @nasa-giss _@Elastic [Elasticsearch](https://github.com/elastic/elasticsearch) is an open source, distributed search and analytics engine built for speed, scale, and AI applications. As a retrieval platform, it stores structured, unstructured, and vector data in real time — delivering fast hybrid and vector search, powering observability and security analytics, and enabling AI-driven applications with high performance, accuracy, and relevance._ - [elastic.co/](https://www.elastic.co/)
 
 
 
