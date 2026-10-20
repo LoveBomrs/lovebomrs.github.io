@@ -9,6 +9,7 @@ mathjax: true
 [@CityOFLOSANGELES KAren Bass](https://www.congress.gov/member/karen-bass/B001270) : down [https://ra5hard.github.io/hr](https://ra5hard.github.io/hr)
 <img  alt="image" src="https://github.com/user-attachments/assets/ff8255f5-f2e5-4695-98c5-64df889edd3c" />
 
+<img   alt="image" src="https://github.com/user-attachments/assets/e3ad6d33-6a87-44dc-a5bf-a853ffa2f8cd" />
 
 /// [@CityOfLosAngeles  youtube.com/maxinewaters](https://www.youtube.com/maxinewaters)
 @ForAtlanta is this gitl Muna and Lana J HArris ? 
