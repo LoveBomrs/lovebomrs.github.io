@@ -3,10 +3,15 @@ layout: default
 mathjax: true
 ---
 
-
+[@CityOfLosAngeles  youtu.be/4v0XyjtGmUU?t=52](https://youtu.be/4v0XyjtGmUU?t=52) good luck [NiThyia]()
 <img   alt="image" src="https://github.com/user-attachments/assets/a530247e-f36e-4a0d-b72b-357f6cd82486" />
 
-[Fact-checking Karen Bass, Nithya Raman's claims on LAPD, LAFD @nbcnews](https://youtu.be/ZumBCyXCyO4?si=4WqoNww_f0dd9xOO) /// [@CityOfLosAngeles  youtube.com/maxinewaters](https://www.youtube.com/maxinewaters)
+[Fact-checking Karen Bass, Nithya Raman's claims on LAPD, LAFD @nbcnews](https://youtu.be/ZumBCyXCyO4?si=4WqoNww_f0dd9xOO) 
+
+![https://images.squarespace-cdn.com/content/v1/5ec1eaf861328f478583cff6/c31eac56-3d62-4beb-8a56-c0c3caf033e9/New+Logos.png @isro @deptofwar ](https://images.squarespace-cdn.com/content/v1/5ec1eaf861328f478583cff6/c31eac56-3d62-4beb-8a56-c0c3caf033e9/New+Logos.png)
+
+
+/// [@CityOfLosAngeles  youtube.com/maxinewaters](https://www.youtube.com/maxinewaters)
 @ForAtlanta is this gitl Muna and Lana J HArris ? 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/f91c9dbf-57dc-4c44-af7e-d8ecac98736c" />
