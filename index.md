@@ -3,7 +3,117 @@ layout: default
 mathjax: true
 ---
 
-# outage @nasa-jpl [ElasticSearch](https://www.elastic.co/elasticsearch) outage
+@nasa-jpl i took that picture after erika abandoned us... @nasa-pds 
+<img  alt="image" src="https://github.com/user-attachments/assets/bcf3246b-c676-4acb-9170-54b4d99faa31" />
+
+[@CityOFLOSANGELES KAren Bass](https://www.congress.gov/member/karen-bass/B001270) : down [https://ra5hard.github.io/hr](https://ra5hard.github.io/hr)
+<img  alt="image" src="https://github.com/user-attachments/assets/ff8255f5-f2e5-4695-98c5-64df889edd3c" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/e3ad6d33-6a87-44dc-a5bf-a853ffa2f8cd" />
+
+/// [@CityOfLosAngeles  youtube.com/maxinewaters](https://www.youtube.com/maxinewaters)
+@ForAtlanta is this gitl Muna and Lana J HArris ? 
+
+<img   alt="image @ForAtlanta is this gitl Muna and Lana J HArris ? " src="https://github.com/user-attachments/assets/f91c9dbf-57dc-4c44-af7e-d8ecac98736c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6bf6b3a3-e5b6-4f5d-a923-6e2595cad5f4" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f9361f16-2be5-4ed7-ad7e-0dc6efaffa7a" />
+
+[_`GetAdvice @Blackgirlscode`_](https://iyanla.com/personal-message/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/15878e57-c3be-4006-9c05-cc84d41d4d04" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/b64e397b-83df-48b3-9424-fe1ab4cf83ae" />
+
+
+[ @cityoflosangeles github.com/rashardikelly](https://github.com/rashardikelly)
+
+<img  alt="image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
+  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
+I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
+@repkarenbass @SupervisorHollyJMitchell @fox5atlanta" src="https://github.com/user-attachments/assets/7c04db7a-1dfc-4f90-a4d3-1c198cddb85c" />
+<img   alt="imag  image image  @nasa-jpl @nasa-pds i can stop smoking cold turkey if i need to @blackgirlscode @la-county-isd @deptofwar image @nasa-jpl im going to figure out a more confirmable way to let the facilities and educators, researchers, etc @teslamotors so forth so and so and so on.. But we have 3 unitws talking from [Mars](https://www.nhm.ac.uk/discover/planet-mars.html) in [canberrra](https://www.cdscc.nasa.gov/), 2 Space Telescopes in [Mardid](https://www.mdscc.nasa.gov/index.php/en/start/) and two units in [Goldstone @StateOfCalifornia @CityOfLosAngeles](https://www.gdscc.nasa.gov/) transmitting data from the [sun](https://science.nasa.gov/heliophysics/) e" src="https://github.com/user-attachments/assets/dae40224-80cd-47e5-b733-aee45baf6af3" />
+
+
+<img   alt=" image image  @nasa-jpl @nasa-pds i can stop smoking cold turkey if i need to @blackgirlscode @la-county-isd @deptofwar image @nasa-jpl im going to figure out a more confirmable way to let the facilities and educators, researchers, etc @teslamotors so forth so and so and so on.. But we have 3 unitws talking from [Mars](https://www.nhm.ac.uk/discover/planet-mars.html) in [canberrra](https://www.cdscc.nasa.gov/), 2 Space Telescopes in [Mardid](https://www.mdscc.nasa.gov/index.php/en/start/) and two units in [Goldstone @StateOfCalifornia @CityOfLosAngeles](https://www.gdscc.nasa.gov/) transmitting data from the [sun](https://science.nasa.gov/heliophysics/)" src="https://github.com/user-attachments/assets/b05c006e-eb0c-42c9-8479-d16e68baccd4" />
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1010922571&color=%234b67ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tokyojetz01" title="Tokyo Jetz" target="_blank" style="color: #cccccc; text-decoration: none;">Tokyo Jetz</a> · <a href="https://soundcloud.com/tokyojetz01/yak-feat-jackboy" title="YAK (feat. Jackboy)" target="_blank" style="color: #cccccc; text-decoration: none;">YAK (feat. Jackboy)</a></div>
+
+<img alt="image image  @nasa-jpl @nasa-pds i can stop smoking cold turkey if i need to @blackgirlscode @la-county-isd @deptofwar " src="https://github.com/user-attachments/assets/fcf73314-f471-4bcf-9106-a0baa8e4c964" />
+
+
+
+<img alt="image  @nasa-jpl @nasa-pds i can stop smoking cold turkey if i need to @blackgirlscode @la-county-isd @deptofwar " src="https://github.com/user-attachments/assets/030396a2-eeec-4354-a552-6e568e1af4f9" />
+
+<img   alt="image @nasa-jpl @nasa-pds i can stop smoking cold turkey if i need to @blackgirlscode @la-county-isd" src="https://github.com/user-attachments/assets/d0c38043-4e02-4e5a-929a-84382caf53ea" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cba4b729-1f72-4944-b85e-d6d2e7f577cd" />
+
+
+[@CityOfLosAngeles  youtu.be/4v0XyjtGmUU?t=52](https://youtu.be/4v0XyjtGmUU?t=52) good luck [NiThyia]()
+<img   alt="image" src="https://github.com/user-attachments/assets/a530247e-f36e-4a0d-b72b-357f6cd82486" />
+
+[Fact-checking Karen Bass, Nithya Raman's claims on LAPD, LAFD @nbcnews](https://youtu.be/ZumBCyXCyO4?si=4WqoNww_f0dd9xOO) 
+
+![https://images.squarespace-cdn.com/content/v1/5ec1eaf861328f478583cff6/c31eac56-3d62-4beb-8a56-c0c3caf033e9/New+Logos.png @isro @deptofwar ](https://images.squarespace-cdn.com/content/v1/5ec1eaf861328f478583cff6/c31eac56-3d62-4beb-8a56-c0c3caf033e9/New+Logos.png)
+
+
+/// [@CityOfLosAngeles  youtube.com/maxinewaters](https://www.youtube.com/maxinewaters)
+@ForAtlanta is this gitl Muna and Lana J HArris ? 
+
+<img   alt="image @ForAtlanta is this gitl Muna and Lana J HArris ? " src="https://github.com/user-attachments/assets/f91c9dbf-57dc-4c44-af7e-d8ecac98736c" />
+
+[https://www.youtube.com/maxinewaters](https://www.youtube.com/maxinewaters) 
+<img  alt="image" src="https://github.com/user-attachments/assets/9568ed15-ecfa-4d14-ad10-aeaf692bb903" />
+
+### The Vortex turns 25 
+@nasa-jpl i did a test run standup here, i dont know how that affected me @blackgirlscode i had to tonality test, well anyone that wants to be welcome to return needs that, the city is too big its not @CityOfLosAngeles but ... 
+[atlantamagazine.com/dining-news/vortex-turns-25/](https://www.atlantamagazine.com/dining-news/vortex-turns-25/)
+![https://www.atlantamagazine.com/wp-content/uploads/sites/4/2017/04/Little-5-Points-Exterior.jpg](https://www.atlantamagazine.com/wp-content/uploads/sites/4/2017/04/Little-5-Points-Exterior.jpg) 
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A127431138&color=%234b67ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/cigarette-brandy-2011" title="Cigarette - Brandy (new unreleased song)" target="_blank" style="color: #cccccc; text-decoration: none;">Cigarette - Brandy (new unreleased song)</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1937447156&color=%234b67ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nija-music" title="Nija" target="_blank" style="color: #cccccc; text-decoration: none;">Nija</a> · <a href="https://soundcloud.com/nija-music/unruly" title="Unruly" target="_blank" style="color: #cccccc; text-decoration: none;">Unruly</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A165902089&color=%234b67ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandyunreleased" title="BrandyUnreleased" target="_blank" style="color: #cccccc; text-decoration: none;">BrandyUnreleased</a> · <a href="https://soundcloud.com/brandyunreleased/cigarette" title="Cigarette" target="_blank" style="color: #cccccc; text-decoration: none;">Cigarette</a></div>
+
+## Rashard Kelly 
+MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
+
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/1cb7570d-56d4-47cb-8ce4-7a625e169adb" />
+
+<div class="tupperware">
+  
+<img  alt="image" src="https://github.com/user-attachments/assets/4d630ca7-4b80-47bc-b84d-b154165f0dab" />
+<img alt="image" src="https://github.com/user-attachments/assets/4a20b224-7e7b-465c-8ada-9d0462df6d01" />
+
+</div>  
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A340652593&color=%234b67ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tokyojetz01" title="Tokyo Jetz" target="_blank" style="color: #cccccc; text-decoration: none;">Tokyo Jetz</a> · <a href="https://soundcloud.com/tokyojetz01/trust-no-nigga" title="Trust No Nigga" target="_blank" style="color: #cccccc; text-decoration: none;">Trust No Nigga</a></div>
+
+@nasa-pds goldstone website is not responding from longbeach `Your connection is not private
+Attackers might be trying to steal your information from www.gdscc.nasa.gov (for example, passwords, messages, or credit cards). Learn more about this warning
+net::ERR_CERT_COMMON_NAME_INVALID` 
+<img  alt="image" src="https://github.com/user-attachments/assets/e6bae403-734e-4fe3-9ccc-b286758d79b8" />
+
+
+@nasa-jpl im going to figure out a more confirmable way to let the facilities and educators, researchers, etc @teslamotors so forth so and so and so on.. But we have 3 unitws talking from [Mars](https://www.nhm.ac.uk/discover/planet-mars.html) in [canberrra](https://www.cdscc.nasa.gov/), 2 Space Telescopes in [Mardid](https://www.mdscc.nasa.gov/index.php/en/start/) and two units in [Goldstone @StateOfCalifornia @CityOfLosAngeles](https://www.gdscc.nasa.gov/) transmitting data from the [sun](https://science.nasa.gov/heliophysics/)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/3bc33565-cf8b-4768-afee-f569c3c765ec" />
+
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1154196106&color=%234b67ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nija-music" title="Nija" target="_blank" style="color: #cccccc; text-decoration: none;">Nija</a> · <a href="https://soundcloud.com/nija-music/on-call" title="On Call" target="_blank" style="color: #cccccc; text-decoration: none;">On Call</a></div>
+
+![https://www.cdscc.nasa.gov/graphics/tracking_banner130.png](https://www.cdscc.nasa.gov/graphics/tracking_banner130.png) 
+
+### outage @nasa-jpl [ElasticSearch](https://www.elastic.co/elasticsearch) outage
 @doug-newman-nasa , i saw in a [changelog](https://www.earthdata.nasa.gov/data/alerts-outages/release-seadas-12.0.0) the addition of 12gb to the [SeaDAS](https://www.earthdata.nasa.gov/data/tools/seadas) JVM [heap config](https://docs.oracle.com/en/java/javase/25/core/heap-and-heap-memory.html), i wanna know how big things are at that scale, but i guess i need to finish what i was assigned, cool details tho @nasa-giss _@Elastic [Elasticsearch](https://github.com/elastic/elasticsearch) is an open source, distributed search and analytics engine built for speed, scale, and AI applications. As a retrieval platform, it stores structured, unstructured, and vector data in real time — delivering fast hybrid and vector search, powering observability and security analytics, and enabling AI-driven applications with high performance, accuracy, and relevance._ - [elastic.co/](https://www.elastic.co/)
 
 
