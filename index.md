@@ -9,6 +9,20 @@ mathjax: true
 ---
 
 
+
+## HOT 97 News Live! 10/19/26
+Lana Thanks for Covering [NoKings](https://www.nokings.org/) 
+[`WATCH` - HOT 97 News Live! 10/19/26 - youtu.be/OGiQlX3CFvc?t=1785](https://youtu.be/OGiQlX3CFvc?t=1785) ///// [Hundreds gather for "No Kings" rally in downtown Los Angeles, pushing voter participation - `Channel3000` ](https://www.channel3000.com/news/national-and-world-news/hundreds-gather-for-no-kings-rally-in-downtown-los-angeles-pushing-voter-participation/article_9ae83ee5-1d32-5f34-816f-15a440c2f0c4.html) // [@blackgirlscode](https://youtu.be/PC3luNmE15E?t=1185)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/049c5339-fccf-4c56-9f07-d2ad0725e2a1" />
+
+
+![https://images.squarespace-cdn.com/content/v1/6810f35a92c2904fa082829a/ffe64808-1ddd-4238-a5f9-3a8045959299/No+Kings+Crown+Icon_Crown_ForDarkBackgrounds.png?format=1500w](https://images.squarespace-cdn.com/content/v1/6810f35a92c2904fa082829a/ffe64808-1ddd-4238-a5f9-3a8045959299/No+Kings+Crown+Icon_Crown_ForDarkBackgrounds.png?format=1500w) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/29627a30-39d7-4fe1-a0d9-eb51a20fbd2d" />
+
+[Tiny Confronts T.I. About His Infidelities : T.I. & Tiny: The Family Hustle](https://youtu.be/enaSRtX_nmE?si=lvHmG0_F_UnTEi4L) // [T.I. & Tiny's Relationship Timeline | T.I. & Tiny: The Family Hustle](https://youtu.be/YrrHIfPHho4) // 
+
 <img   alt="image" src="https://github.com/user-attachments/assets/6bc44418-901f-486a-80da-a8a12cd46bd5" />
 
 @LANAJHARRis hi its rashard @NASAJPL @DEPTOFWAR [https://github.com/virtiserv/virtiserv.github.io/commit/a805c022ad5df59e9fddfcaf15318986a80d4643](https://github.com/virtiserv/virtiserv.github.io/commit/a805c022ad5df59e9fddfcaf15318986a80d4643) <~ there are books in there that can prep everyone for court @RepKArenBassits los angeles in pdf @cagovernor
