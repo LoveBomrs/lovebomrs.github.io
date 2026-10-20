@@ -4,6 +4,34 @@ layout: default
 
 
 
+
+# Floridian Security
+Gov De Snatis
+We have Floridian Security in two buildings is that legal since it is [@CityOfLosAngeles ? @DEptOfWar](https://rashardikelly.github.io/checking_in) they so scary i was cutting through a parking lot and the dude went for his gun!!! [@nasa-jpl  @la-county-isd](https://rashardikelly.github.io/checking_in)  [lacourt.ca.gov/home](https://www.lacourt.ca.gov/home)  . . . [Karen Bass](https://www.congress.gov/member/karen-bass/B001270) were you lonely and Hired a Floridian firm for Federal Lobby Roles? /// [https://github.com/pkhanpara/uscis-case-status](https://github.com/pkhanpara/uscis-case-status) 
+
+![https://lascpubstorage.blob.core.windows.net/cpw/LIBWEBRESOURCE-8-LacourtHeaderLogo.png](https://lascpubstorage.blob.core.windows.net/cpw/LIBWEBRESOURCE-8-LacourtHeaderLogo.png)
+
+![https://www.flgov.com/eog/sites/default/files/img/ron-desantis-inaugeration.png](https://www.flgov.com/eog/sites/default/files/img/ron-desantis-inaugeration.png) 
+
+![https://www.ice.gov/themes/custom/dhs_uswds/logo.svg](https://www.ice.gov/themes/custom/dhs_uswds/logo.svg)
+
+![https://lascpubstorage.blob.core.windows.net/cpw/LIBWEBRESOURCE-148-NewsCenterImage-Edited.jpeg](https://lascpubstorage.blob.core.windows.net/cpw/LIBWEBRESOURCE-148-NewsCenterImage-Edited.jpeg) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1538df09-b240-442c-b5d5-c61ec049b352" />
+
+
+## Setup
+[https://uscis-tracker.github.io/](https://uscis-tracker.github.io/) 
+Create these four **Actions secrets** on the repo (Settings → Secrets and variables → Actions):
+
+| Secret | Value |
+|---|---|
+| `CASE_NUMBER` | Your receipt number (3 letters + 10 digits) |
+| `FROM_EMAIL` | Sender address, must be a [verified sender](https://docs.sendgrid.com/ui/sending-email/sender-verification) on SendGrid |
+| `TO_EMAIL` | Where to send notifications |
+| `SENDGRID_API_KEY` | A SendGrid API key with Mail Send permission |
+
+
 # outage @nasa-jpl [ElasticSearch](https://www.elastic.co/elasticsearch) outage
 @doug-newman-nasa , i saw in a [changelog](https://www.earthdata.nasa.gov/data/alerts-outages/release-seadas-12.0.0) the addition of 12gb to the [SeaDAS](https://www.earthdata.nasa.gov/data/tools/seadas) JVM [heap config](https://docs.oracle.com/en/java/javase/25/core/heap-and-heap-memory.html), i wanna know how big things are at that scale, but i guess i need to finish what i was assigned, cool details tho @nasa-giss _@Elastic [Elasticsearch](https://github.com/elastic/elasticsearch) is an open source, distributed search and analytics engine built for speed, scale, and AI applications. As a retrieval platform, it stores structured, unstructured, and vector data in real time — delivering fast hybrid and vector search, powering observability and security analytics, and enabling AI-driven applications with high performance, accuracy, and relevance._ - [elastic.co/](https://www.elastic.co/)
 
@@ -52,20 +80,6 @@ layout: default
 ---
 
 
-
-# Floridian Security
-Gov De Snatis
-We have Floridian Security in two buildings and they are super unprofessional, I think some of them disrupt me sleeping at times @la-county-isd [lacourt.ca.gov/home](https://www.lacourt.ca.gov/home)  . . . [Karen Bass](https://www.congress.gov/member/karen-bass/B001270) were you lonely and Hired a Floridian firm for Federal Lobby Roles? 
-
-![https://lascpubstorage.blob.core.windows.net/cpw/LIBWEBRESOURCE-8-LacourtHeaderLogo.png](https://lascpubstorage.blob.core.windows.net/cpw/LIBWEBRESOURCE-8-LacourtHeaderLogo.png)
-
-![https://www.flgov.com/eog/sites/default/files/img/ron-desantis-inaugeration.png](https://www.flgov.com/eog/sites/default/files/img/ron-desantis-inaugeration.png) 
-
-![https://www.ice.gov/themes/custom/dhs_uswds/logo.svg](https://www.ice.gov/themes/custom/dhs_uswds/logo.svg)
-
-![https://lascpubstorage.blob.core.windows.net/cpw/LIBWEBRESOURCE-148-NewsCenterImage-Edited.jpeg](https://lascpubstorage.blob.core.windows.net/cpw/LIBWEBRESOURCE-148-NewsCenterImage-Edited.jpeg) 
-
-![https://patch.com/img/cdn20/users/26494162/20250305/022742/styles/patch_image/public/image-3-5-25-at-1125am___05142626827.jpg?width=1200](https://patch.com/img/cdn20/users/26494162/20250305/022742/styles/patch_image/public/image-3-5-25-at-1125am___05142626827.jpg) 
 
 @esa sENTINEL-1 S1D_IW_GRDH_1SDV_20261005T233519_20261005T233544_004887_00931F_ACB2
 
