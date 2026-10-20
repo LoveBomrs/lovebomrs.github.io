@@ -9,6 +9,14 @@ mathjax: true
 ---
 
 
+<img   alt="image" src="https://github.com/user-attachments/assets/6bc44418-901f-486a-80da-a8a12cd46bd5" />
+
+@LANAJHARRis hi its rashard @NASAJPL @DEPTOFWAR [https://github.com/virtiserv/virtiserv.github.io/commit/a805c022ad5df59e9fddfcaf15318986a80d4643](https://github.com/virtiserv/virtiserv.github.io/commit/a805c022ad5df59e9fddfcaf15318986a80d4643) <~ there are books in there that can prep everyone for court @RepKArenBassits los angeles in pdf @cagovernor
+• @GavinNewsom;;;;;;;;;;;;;;;; [https://youtu.be/PC3luNmE15E?t=744](https://youtu.be/PC3luNmE15E?t=744) @funkflex somone is mad at me and i hope ican recover whatever im supposed to be for @lanajharris 
+[Tiny Confronts T.I. About His Infidelities | T.I. & Tiny: The Family Hustle <~ @ https://youtu.be/enaSRtX_nmE?t=1](https://youtu.be/enaSRtX_nmE?t=1)
+<img alt="image" src="https://github.com/user-attachments/assets/87326993-7af7-4be2-b017-9eca3a6b95ec" />
+
+
 ## @cia _StarGAte_
 ### @ESA SECTION IV- ESP AND PSYCHOKINESIS
 [`READ` - https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500250024-6 @ESA @JAXA @blackGirlscode](https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500250024-6)
