@@ -11,6 +11,18 @@ mathjax: true
 
 
 
+# Floridian Security
+Gov De Snatis
+
+
+[EMIT_L2A_RFL_001_20250720T203012_2520113_019"](https://search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G3623488550-LPCLOUD&q=emit&sb[0]=-80.62838%2C28.22075%2C-80.60118%2C28.83806&lat=28.60785675&long=-80.81838963476112&zoom=9.485988094323856)
+<img  alt="EMIT_L2A_RFL_001_20250720T203012_2520113_019" src="https://github.com/user-attachments/assets/11cc0c8b-6f1b-465f-94f6-4ee40ff9fec2" />
+
+@ASFADMIN [search.asf.alaska.edu/#/?polygon=POLYGON((-87.6403%2023.8051,-77.1183%2023.8051,-77.1183%2031.5474,-87.6403%2031.5474,-87.6403%2023.8051))&zoom=5.525&center=-91.993,24.190&resultsLoaded=true&granule=NISAR_L0_PR_RRSD_033_105_A_161S_20261019T111652_20261019T111818_P05023_F_J_001](https://search.asf.alaska.edu/#/?polygon=POLYGON((-87.6403%2023.8051,-77.1183%2023.8051,-77.1183%2031.5474,-87.6403%2031.5474,-87.6403%2023.8051))&zoom=5.525&center=-91.993,24.190&resultsLoaded=true&granule=NISAR_L0_PR_RRSD_033_105_A_161S_20261019T111652_20261019T111818_P05023_F_J_001)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51f482d6-e855-41aa-8c3a-7741345a115b" />
+
+
+
 ## HOT 97 News Live! 10/19/26
 Lana Thanks for Covering [NoKings](https://www.nokings.org/) 
 [`WATCH` - HOT 97 News Live! 10/19/26 - youtu.be/OGiQlX3CFvc?t=1785](https://youtu.be/OGiQlX3CFvc?t=1785) ///// [Hundreds gather for "No Kings" rally in downtown Los Angeles, pushing voter participation - `Channel3000` ](https://www.channel3000.com/news/national-and-world-news/hundreds-gather-for-no-kings-rally-in-downtown-los-angeles-pushing-voter-participation/article_9ae83ee5-1d32-5f34-816f-15a440c2f0c4.html) // [@blackgirlscode](https://youtu.be/PC3luNmE15E?t=1185)
