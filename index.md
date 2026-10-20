@@ -42,7 +42,7 @@ S1D_IW_GRDH_1SDV_20261015T111824_20261015T111853_005025_0097F7_1163 [A Sentinel-
 <img  alt="EMIT_L2A_RFL_001_20250720T203012_2520113_019" src="https://github.com/user-attachments/assets/11cc0c8b-6f1b-465f-94f6-4ee40ff9fec2" />
 
 @ASFADMIN [search.asf.alaska.edu/#/?polygon=POLYGON((-87.6403%2023.8051,-77.1183%2023.8051,-77.1183%2031.5474,-87.6403%2031.5474,-87.6403%2023.8051))&zoom=5.525&center=-91.993,24.190&resultsLoaded=true&granule=NISAR_L0_PR_RRSD_033_105_A_161S_20261019T111652_20261019T111818_P05023_F_J_001](https://search.asf.alaska.edu/#/?polygon=POLYGON((-87.6403%2023.8051,-77.1183%2023.8051,-77.1183%2031.5474,-87.6403%2031.5474,-87.6403%2023.8051))&zoom=5.525&center=-91.993,24.190&resultsLoaded=true&granule=NISAR_L0_PR_RRSD_033_105_A_161S_20261019T111652_20261019T111818_P05023_F_J_001)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51f482d6-e855-41aa-8c3a-7741345a115b" />
+<img  alt="image" src="https://github.com/user-attachments/assets/51f482d6-e855-41aa-8c3a-7741345a115b" />
 
 
 
@@ -64,12 +64,14 @@ Lana Thanks for Covering [NoKings](https://www.nokings.org/)
 @LANAJHARRis hi its rashard @NASAJPL @DEPTOFWAR [https://github.com/virtiserv/virtiserv.github.io/commit/a805c022ad5df59e9fddfcaf15318986a80d4643](https://github.com/virtiserv/virtiserv.github.io/commit/a805c022ad5df59e9fddfcaf15318986a80d4643) <~ there are books in there that can prep everyone for court @RepKArenBassits los angeles in pdf @cagovernor
 • @GavinNewsom;;;;;;;;;;;;;;;; [https://youtu.be/PC3luNmE15E?t=744](https://youtu.be/PC3luNmE15E?t=744) @funkflex somone is mad at me and i hope ican recover whatever im supposed to be for @lanajharris 
 [Tiny Confronts T.I. About His Infidelities | T.I. & Tiny: The Family Hustle <~ @ https://youtu.be/enaSRtX_nmE?t=1](https://youtu.be/enaSRtX_nmE?t=1)
+
 <img alt="image" src="https://github.com/user-attachments/assets/87326993-7af7-4be2-b017-9eca3a6b95ec" />
 
 
 ## @cia _StarGAte_
 ### @ESA SECTION IV- ESP AND PSYCHOKINESIS
 [`READ` - https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500250024-6 @ESA @JAXA @blackGirlscode](https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500250024-6)
+
 <img alt="image" src="https://github.com/user-attachments/assets/71a4f496-4006-43da-a259-4280262fa1ff" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/8aff92e4-a039-4d75-8578-c98a6bd6f082" />
@@ -81,10 +83,12 @@ how bad was the movie? @nasa-jpl I don't know I was too young to comprehend. Tha
 
 
 [(My VHS Saga #22) Sci-Fi, FOX (WOC)](https://archive.org/details/my-vhs-saga-part-22-woc)
+
 <iframe src="https://archive.org/embed/my-vhs-saga-part-22-woc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>****
 
 ### @howard-university-web-services `EpstienCase`for [Lana](https://www.youtube.com/watch?v=CH-WrSogg3A)
 [justice.gov/usao-sdny/press-release/file/1180481/dl](https://www.justice.gov/usao-sdny/press-release/file/1180481/dl)
+
 <img  alt="image @TheSpaceDevs it looks like we are funded for artemis3 pass to burbank quick!!!! @nbcnews @disney @hulu just be cool about the shit man, like im not your enemy 20th century fox sabotagged @nasa-jpl helpdesk!! the news would have never made ppl do stupid shit!!! i promise you!!! @foxnews @washingtonpost @Newshour [www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11) " src="https://github.com/user-attachments/assets/d246f48e-c776-4b35-b4af-bce1addc8300" />
 
 
