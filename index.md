@@ -4,6 +4,11 @@ mathjax: true
 ---
 
 
+/// [@CityOfLosAngeles  youtube.com/maxinewaters](https://www.youtube.com/maxinewaters)
+@ForAtlanta is this gitl Muna and Lana J HArris ? 
+
+<img   alt="image @ForAtlanta is this gitl Muna and Lana J HArris ? " src="https://github.com/user-attachments/assets/f91c9dbf-57dc-4c44-af7e-d8ecac98736c" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/f9361f16-2be5-4ed7-ad7e-0dc6efaffa7a" />
 
 [_`GetAdvice @Blackgirlscode`_](https://iyanla.com/personal-message/)
@@ -49,7 +54,7 @@ I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the 
 /// [@CityOfLosAngeles  youtube.com/maxinewaters](https://www.youtube.com/maxinewaters)
 @ForAtlanta is this gitl Muna and Lana J HArris ? 
 
-<img   alt="image" src="https://github.com/user-attachments/assets/f91c9dbf-57dc-4c44-af7e-d8ecac98736c" />
+<img   alt="image @ForAtlanta is this gitl Muna and Lana J HArris ? " src="https://github.com/user-attachments/assets/f91c9dbf-57dc-4c44-af7e-d8ecac98736c" />
 
 [https://www.youtube.com/maxinewaters](https://www.youtube.com/maxinewaters) 
 <img  alt="image" src="https://github.com/user-attachments/assets/9568ed15-ecfa-4d14-ad10-aeaf692bb903" />
