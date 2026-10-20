@@ -3,7 +3,15 @@ layout: default
 mathjax: true
 ---
 
-[Fact-checking Karen Bass, Nithya Raman's claims on LAPD, LAFD @nbcnews](https://youtu.be/ZumBCyXCyO4?si=4WqoNww_f0dd9xOO) /// 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/a530247e-f36e-4a0d-b72b-357f6cd82486" />
+
+[Fact-checking Karen Bass, Nithya Raman's claims on LAPD, LAFD @nbcnews](https://youtu.be/ZumBCyXCyO4?si=4WqoNww_f0dd9xOO) /// [@CityOfLosAngeles  youtube.com/maxinewaters](https://www.youtube.com/maxinewaters)
+@ForAtlanta is this gitl Muna and Lana J HArris ? 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/f91c9dbf-57dc-4c44-af7e-d8ecac98736c" />
+
+[https://www.youtube.com/maxinewaters](https://www.youtube.com/maxinewaters) 
 <img  alt="image" src="https://github.com/user-attachments/assets/9568ed15-ecfa-4d14-ad10-aeaf692bb903" />
 
 ### The Vortex turns 25 
