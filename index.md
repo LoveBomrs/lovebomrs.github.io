@@ -3,6 +3,7 @@ layout: default
 mathjax: true
 ---
 
+@nasa-jpl i took that picture after erika abandoned us... @nasa-pds 
 <img  alt="image" src="https://github.com/user-attachments/assets/bcf3246b-c676-4acb-9170-54b4d99faa31" />
 
 [@CityOFLOSANGELES KAren Bass](https://www.congress.gov/member/karen-bass/B001270) : down [https://ra5hard.github.io/hr](https://ra5hard.github.io/hr)
