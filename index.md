@@ -12,6 +12,8 @@ mathjax: true
 >PO.DAAC: October 28, 11:00 a.m. to 8:00 p.m. ET
 >[@lacmta HollyMitchell @forAtlanta @la-county-isd](https://2urbangirls.com/2025/10/county-supervisor-holly-mitchell-awards-1-7m-in-grants-to-local-nonprofits/) //// [Mayor Karen Bass @CityOfLosAngeles](https://hoodline.com/2026/10/horvath-breaks-from-bass-endorses-raman-for-l-a-mayor-in-runoff/) // [SWOTcommunity?](https://swot.jpl.nasa.gov/)
 
+<img  alt="Screenshot 2026-10-20 131051" src="https://github.com/user-attachments/assets/4fccbf34-72fe-43fa-a2ee-20d50cfbe640" />
+
 <img   alt="image" src="https://github.com/user-attachments/assets/20154bf6-bcc3-4ef7-81f3-d80a8a8de90a" />
 
 ![https://img.hoodline.com/2026/10/horvath-breaks-from-bass-endorses-raman-for-l-a-mayor-in-runoff-1.webp?max-h=442&w=760&fit=crop&crop=faces,center](https://img.hoodline.com/2026/10/horvath-breaks-from-bass-endorses-raman-for-l-a-mayor-in-runoff-1.webp?max-h=442&w=760&fit=crop&crop=faces,center) 
