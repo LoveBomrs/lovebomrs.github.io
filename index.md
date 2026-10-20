@@ -3,6 +3,22 @@ layout: default
 mathjax: true
 ---
 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f9361f16-2be5-4ed7-ad7e-0dc6efaffa7a" />
+
+[_`GetAdvice @Blackgirlscode`_](https://iyanla.com/personal-message/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/15878e57-c3be-4006-9c05-cc84d41d4d04" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/b64e397b-83df-48b3-9424-fe1ab4cf83ae" />
+
+
+[ @cityoflosangeles github.com/rashardikelly](https://github.com/rashardikelly)
+
+<img  alt="image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
+  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
+I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
+@repkarenbass @SupervisorHollyJMitchell @fox5atlanta" src="https://github.com/user-attachments/assets/7c04db7a-1dfc-4f90-a4d3-1c198cddb85c" />
 <img   alt="imag  image image  @nasa-jpl @nasa-pds i can stop smoking cold turkey if i need to @blackgirlscode @la-county-isd @deptofwar image @nasa-jpl im going to figure out a more confirmable way to let the facilities and educators, researchers, etc @teslamotors so forth so and so and so on.. But we have 3 unitws talking from [Mars](https://www.nhm.ac.uk/discover/planet-mars.html) in [canberrra](https://www.cdscc.nasa.gov/), 2 Space Telescopes in [Mardid](https://www.mdscc.nasa.gov/index.php/en/start/) and two units in [Goldstone @StateOfCalifornia @CityOfLosAngeles](https://www.gdscc.nasa.gov/) transmitting data from the [sun](https://science.nasa.gov/heliophysics/) e" src="https://github.com/user-attachments/assets/dae40224-80cd-47e5-b733-aee45baf6af3" />
 
 
