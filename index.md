@@ -14,18 +14,23 @@ mathjax: true
 # Floridian Security
 Gov De Snatis
 We have Floridian Security in two buildings and they are super unprofessional, I think some of them disrupt me sleeping at times @la-county-isd [lacourt.ca.gov/home](https://www.lacourt.ca.gov/home)  . . . [Karen Bass](https://www.congress.gov/member/karen-bass/B001270) were you lonely and Hired a Floridian firm for Federal Lobby Roles? 
+
 ![https://lascpubstorage.blob.core.windows.net/cpw/LIBWEBRESOURCE-8-LacourtHeaderLogo.png](https://lascpubstorage.blob.core.windows.net/cpw/LIBWEBRESOURCE-8-LacourtHeaderLogo.png)
 
 ![https://www.flgov.com/eog/sites/default/files/img/ron-desantis-inaugeration.png](https://www.flgov.com/eog/sites/default/files/img/ron-desantis-inaugeration.png) 
+
 ![https://www.ice.gov/themes/custom/dhs_uswds/logo.svg](https://www.ice.gov/themes/custom/dhs_uswds/logo.svg)
 
 ![https://lascpubstorage.blob.core.windows.net/cpw/LIBWEBRESOURCE-148-NewsCenterImage-Edited.jpeg](https://lascpubstorage.blob.core.windows.net/cpw/LIBWEBRESOURCE-148-NewsCenterImage-Edited.jpeg) 
-![https://patch.com/img/cdn20/users/26494162/20250305/022742/styles/patch_image/public/image-3-5-25-at-1125am___05142626827.jpg?width=1200](https://patch.com/img/cdn20/users/26494162/20250305/022742/styles/patch_image/public/image-3-5-25-at-1125am___05142626827.jpg?width=1200) 
+
+![https://patch.com/img/cdn20/users/26494162/20250305/022742/styles/patch_image/public/image-3-5-25-at-1125am___05142626827.jpg?width=1200](https://patch.com/img/cdn20/users/26494162/20250305/022742/styles/patch_image/public/image-3-5-25-at-1125am___05142626827.jpg) 
 
 @esa sENTINEL-1 S1D_IW_GRDH_1SDV_20261005T233519_20261005T233544_004887_00931F_ACB2
+
 <img  alt="S1D_IW_GRDH_1SDV_20261005T233519_20261005T233544_004887_00931F_ACB2" src="https://github.com/user-attachments/assets/7906219c-e9b9-4d4a-9285-ca09189ec388" />
 
 S1D_IW_GRDH_1SDV_20261015T111824_20261015T111853_005025_0097F7_1163 [A Sentinel-1 Level 1 synthetic aperture radar (SAR) image must be processed before it can be used for visualization or analysis. @ERSI ](https://learn.arcgis.com/en/projects/process-sentinel-1-sar-data/) // [Synthetic aperture radar raster types](https://doc.esri.com/en/arcgis-pro/latest/help/data/imagery/sar-raster-types.html)
+
 <img alt="S1D_IW_GRDH_1SDV_20261015T111824_20261015T111853_005025_0097F7_1163" src="https://github.com/user-attachments/assets/18e52ae0-c735-437b-b7bd-a94543baa35d" />
 
 ![https://www.esa.int/eologos/images/sentinel-1_neg.jpg](https://www.esa.int/eologos/images/sentinel-1_neg.jpg) 
