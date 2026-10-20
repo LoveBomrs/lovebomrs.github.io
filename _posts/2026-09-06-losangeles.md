@@ -23,6 +23,7 @@ permalink: losangeles
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
 
 
+<img alt="image" src="https://github.com/user-attachments/assets/63b18b23-fbba-4c99-8133-2f3ed5aabc23" />
 
 
  # The Town of the Queen of Angels
