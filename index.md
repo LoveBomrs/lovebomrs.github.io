@@ -3,6 +3,9 @@ layout: default
 mathjax: true
 ---
 
+<img alt="image image  @nasa-jpl @nasa-pds i can stop smoking cold turkey if i need to @blackgirlscode @la-county-isd @deptofwar " src="https://github.com/user-attachments/assets/fcf73314-f471-4bcf-9106-a0baa8e4c964" />
+
+
 
 <img alt="image  @nasa-jpl @nasa-pds i can stop smoking cold turkey if i need to @blackgirlscode @la-county-isd @deptofwar " src="https://github.com/user-attachments/assets/030396a2-eeec-4354-a552-6e568e1af4f9" />
 
