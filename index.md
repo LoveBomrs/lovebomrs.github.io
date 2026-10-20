@@ -4,6 +4,23 @@ mathjax: true
 ---
 
 
+
+@longbeachinnovationteam hi its [rashard @NASA-JPL / @EOSDiS-NASA / @USGS](https://rashardikelly.github.io/) @La-County-iSD we have guset speakers at [LongBeachCityHall](https://locator.lacounty.gov/lac/Location/3176635/long-beach-city-hall) , but i forgot to write the company name down, i just left a [roll on kirk](youtube.com/watch?v=F1B9Fk_SgI0) response and got online [@FoxNews @FoxBroadCasting](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/SexAndBehavior1.pdf) im just saying now i know he related to [xibiht](https://www.youtube.com/watch?v=k_8Jlq9n3Kw) and they may have thought they were throwing me a bone . . . @Blackgirlscode ///// @ForAtlanta i want to talk about the girls that were in my life, they used to act like the deer pictured, but since they got involved with other men their endocrine systems changed, every truth they gave me is a lie for their new partner and i just got side swiped @cityoflosangeles, im real about @nasa-pds and promise not to bring intentional harm onto the city's growth... I do not want to harm anyone that has a relationship with any of my past lovers
+<im  alt="image" src="https://github.com/user-attachments/assets/c58b3968-0eb1-4115-9599-e79feef5f4eb" />
+
+<div class="tupperware">
+  
+<img  alt="image" src="https://github.com/user-attachments/assets/4d630ca7-4b80-47bc-b84d-b154165f0dab" />
+<img alt="image" src="https://github.com/user-attachments/assets/4a20b224-7e7b-465c-8ada-9d0462df6d01" />
+
+</div> 
+
+![https://ra5hard.github.io/assets/img/luckyGirl.png](https://ra5hard.github.io/assets/img/luckyGirl.png)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/64f21b3a-a598-499a-8381-01418cc4d7bf" />
+
+
 [Mr. Magic’s, “Rap Attack” featuring Marley Marl on 107.5 WBLS-FM New York City 1987](https://youtu.be/Nxnafd_e6KE?list=RDNxnafd_e6KE) // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU) // [The Chemical Brothers - Exit Planet Dust + Singles/Remixes 93-96 ](https://youtu.be/F5GoHBzknUs?si=_fwaHl7VfEky8ZMF) // [Stereo MC's – DJ-Kicks: (1999)](https://youtu.be/HfSTdtuhfHM?si=PE2P35wFQZFlsGCO) // [The Avalanches - Since I Left You](https://youtu.be/PC3luNmE15E) // [Tiny Confronts T.I. About His Infidelities : T.I. & Tiny: The Family Hustle](https://youtu.be/enaSRtX_nmE?si=lvHmG0_F_UnTEi4L) // [T.I. & Tiny's Relationship Timeline : T.I. & Tiny: The Family Hustle](https://youtu.be/YrrHIfPHho4) // [🧊](https://portal.ice.gov/)
 
 
