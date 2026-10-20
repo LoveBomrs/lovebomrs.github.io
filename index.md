@@ -3,10 +3,22 @@ layout: default
 mathjax: true
 ---
 
+# outage @nasa-jpl [ElasticSearch](https://www.elastic.co/elasticsearch) outage
+@doug-newman-nasa , i saw in a changelog the addition of 15gb to the JVM heap config, i wanna know how big things are at that scale, but i guess i need to finish what i was assigned, cool details tho @nasa-giss Elasticsearch is an open source, distributed search and analytics engine built for speed, scale, and AI applications. As a retrieval platform, it stores structured, unstructured, and vector data in real time — delivering fast hybrid and vector search, powering observability and security analytics, and enabling AI-driven applications with high performance, accuracy, and relevance.
+
+![https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt9b5f83fd3758c54c/6aa7d5f57c24e5d521d4b8c1/homepage-hero-diagram.svg @longbeachinnovationteam hi its [rashard @NASA-JPL / @EOSDiS-NASA / @USGS](https://rashardikelly.github.io/) @La-County-iSD we have guset speakers at [LongBeachCityHall](https://locator.lacounty.gov/lac/Location/3176635/long-beach-city-hall) , but i forgot to write the company name down, i just left a [roll on kirk](youtube.com/watch?v=F1B9Fk_SgI0) response and got online [@FoxNews @FoxBroadCasting](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/SexAndBehavior1.pdf) im just saying now i know he related to [xibiht](https://www.youtube.com/watch?v=k_8Jlq9n3Kw) and they may have thought they were throwing me a bone . . . @Blackgirlscode ///// @ForAtlanta i want to talk about the girls that were in my life, they used to act like the deer pictured, but since they got involved with other men their endocrine systems changed, every truth they gave me is a lie for their new partner and i just got side swiped @cityoflosangeles, im real about @nasa-pds and promise not to bring intentional harm onto the city's growth... I do not want to harm anyone that has a relationship with any of my past lovers](https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt9b5f83fd3758c54c/6aa7d5f57c24e5d521d4b8c1/homepage-hero-diagram.svg) 
+
+<img   alt="Screenshot 2026-10-20 131051 @longbeachinnovationteam hi its [rashard @NASA-JPL / @EOSDiS-NASA / @USGS](https://rashardikelly.github.io/) @La-County-iSD we have guset speakers at [LongBeachCityHall](https://locator.lacounty.gov/lac/Location/3176635/long-beach-city-hall) , but i forgot to write the company name down, i just left a [roll on kirk](youtube.com/watch?v=F1B9Fk_SgI0) response and got online [@FoxNews @FoxBroadCasting](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/SexAndBehavior1.pdf) im just saying now i know he related to [xibiht](https://www.youtube.com/watch?v=k_8Jlq9n3Kw) and they may have thought they were throwing me a bone . . . @Blackgirlscode ///// @ForAtlanta i want to talk about the girls that were in my life, they used to act like the deer pictured, but since they got involved with other men their endocrine systems changed, every truth they gave me is a lie for their new partner and i just got side swiped @cityoflosangeles, im real about @nasa-pds and promise not to bring intentional harm onto the city's growth... I do not want to harm anyone that has a relationship with any of my past lovers" src="https://github.com/user-attachments/assets/25784487-01c3-46b4-b5c0-a9abee4e972d" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/64f21b3a-a598-499a-8381-01418cc4d7bf" />
 
 
 @longbeachinnovationteam hi its [rashard @NASA-JPL / @EOSDiS-NASA / @USGS](https://rashardikelly.github.io/) @La-County-iSD we have guset speakers at [LongBeachCityHall](https://locator.lacounty.gov/lac/Location/3176635/long-beach-city-hall) , but i forgot to write the company name down, i just left a [roll on kirk](youtube.com/watch?v=F1B9Fk_SgI0) response and got online [@FoxNews @FoxBroadCasting](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/SexAndBehavior1.pdf) im just saying now i know he related to [xibiht](https://www.youtube.com/watch?v=k_8Jlq9n3Kw) and they may have thought they were throwing me a bone . . . @Blackgirlscode ///// @ForAtlanta i want to talk about the girls that were in my life, they used to act like the deer pictured, but since they got involved with other men their endocrine systems changed, every truth they gave me is a lie for their new partner and i just got side swiped @cityoflosangeles, im real about @nasa-pds and promise not to bring intentional harm onto the city's growth... I do not want to harm anyone that has a relationship with any of my past lovers
+
 <im  alt="image" src="https://github.com/user-attachments/assets/c58b3968-0eb1-4115-9599-e79feef5f4eb" />
+
+<img alt="Screenshot 2026-10-20 132536" src="https://github.com/user-attachments/assets/738bc76e-223d-4857-aa0e-4d2ee14676d7" />
+
 
 <div class="tupperware">
   
@@ -17,8 +29,6 @@ mathjax: true
 
 ![https://ra5hard.github.io/assets/img/luckyGirl.png](https://ra5hard.github.io/assets/img/luckyGirl.png)
 
-
-<img  alt="image" src="https://github.com/user-attachments/assets/64f21b3a-a598-499a-8381-01418cc4d7bf" />
 
 
 [Mr. Magic’s, “Rap Attack” featuring Marley Marl on 107.5 WBLS-FM New York City 1987](https://youtu.be/Nxnafd_e6KE?list=RDNxnafd_e6KE) // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU) // [The Chemical Brothers - Exit Planet Dust + Singles/Remixes 93-96 ](https://youtu.be/F5GoHBzknUs?si=_fwaHl7VfEky8ZMF) // [Stereo MC's – DJ-Kicks: (1999)](https://youtu.be/HfSTdtuhfHM?si=PE2P35wFQZFlsGCO) // [The Avalanches - Since I Left You](https://youtu.be/PC3luNmE15E) // [Tiny Confronts T.I. About His Infidelities : T.I. & Tiny: The Family Hustle](https://youtu.be/enaSRtX_nmE?si=lvHmG0_F_UnTEi4L) // [T.I. & Tiny's Relationship Timeline : T.I. & Tiny: The Family Hustle](https://youtu.be/YrrHIfPHho4) // [🧊](https://portal.ice.gov/)
