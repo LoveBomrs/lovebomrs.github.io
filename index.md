@@ -3,6 +3,22 @@ layout: default
 mathjax: true
 ---
 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+ -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
+ -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/63b18b23-fbba-4c99-8133-2f3ed5aabc23" />
+
 
 <img   alt=" image image  @nasa-jpl @nasa-pds i can stop smoking cold turkey if i need to @blackgirlscode @la-county-isd @deptofwar image @nasa-jpl im going to figure out a more confirmable way to let the facilities and educators, researchers, etc @teslamotors so forth so and so and so on.. But we have 3 unitws talking from [Mars](https://www.nhm.ac.uk/discover/planet-mars.html) in [canberrra](https://www.cdscc.nasa.gov/), 2 Space Telescopes in [Mardid](https://www.mdscc.nasa.gov/index.php/en/start/) and two units in [Goldstone @StateOfCalifornia @CityOfLosAngeles](https://www.gdscc.nasa.gov/) transmitting data from the [sun](https://science.nasa.gov/heliophysics/)" src="https://github.com/user-attachments/assets/b05c006e-eb0c-42c9-8479-d16e68baccd4" />
 
@@ -40,6 +56,28 @@ git push origin master
 
 <img  alt="Screenshot 2026-10-20 7 25 57 PM" src="https://github.com/user-attachments/assets/f6b7a6b0-c986-43f3-81af-195cf48c610b" />
 
+
+
+# Writing mathematical expressions
+
+Use Markdown to display mathematical expressions on GitHub. [GitHubDoc](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions) @la-county-isd [Supervisor Janice Hahn](https://www.youtube.com/@SupJaniceHahn) // [@SupervisorLindseyP.Horvath](https://www.youtube.com/channel/UC1nFvaK_2b6u8eQ0XU_OFbQ)
+
+`**The Cauchy-Schwarz Inequality**`\
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
+**The Cauchy-Schwarz Inequality**
+
+```math
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)+
+This expression uses `\$` to display a dollar sign: $`\sqrt{\$4}`$
+```
+
+# $a^2 + b^2 = c^2$
+## $ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $
+$$\begin{eqnarray}
+x' &=& &x \sin\phi &+& z \cos\phi \\
+z' &=& - &x \cos\phi &+& z \sin\phi \\
+\end{eqnarray}$$
 
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
@@ -901,7 +939,7 @@ Last observation: 16 Oct 2026 - 02:05 UTC
 
 <img alt="image" src="https://github.com/user-attachments/assets/d30aa730-3e85-4a0a-b7c6-25452d1a324b" />
 
-
+```
 ![https://www.earthdata.nasa.gov/themes/custom/project/hds_earthdata/nasa-logo.svg](https://www.earthdata.nasa.gov/themes/custom/project/hds_earthdata/nasa-logo.svg) 
 @ForAtlanta hi [Lana J HArris](https://www.tiktok.com/@lanajharris) , your [@Tiktok - https://www.tiktok.com/@lanajharris](https://www.tiktok.com/@lanajharris) still broke 
 ![https://p16-common-sign.tiktokc610&shp=a5d48078&shcp=81f88b70&idc=useast5](https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9ec307ecfec2f6b0f0b69b50482b8aae~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=4e24f1b8&x-expires=1792285200&x-signature=QYc4XfYIA65xn%2FwogFunQdQlw7g%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5)
@@ -930,6 +968,21 @@ Last observation: 16 Oct 2026 - 02:05 UTC
 We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System ( @EoDIS-nasa).
 
 
+
+
+[DJ Roc Raida (RIP) - The X-Men  Old Skool (1996) - Mixtape Cassette - @thedailybeatdrop](https://youtu.be/pyi2krVtpi8?list=RDpyi2krVtpi8&t=51) <~ old [Hot97](https://www.hot97.com/) <~ @BLACKGiRLSCODE
+
+## Atlanta[!](https://youtu.be/_nsDBUyLWcU)
+_Martin Luther King Jr. came of age in one of the fastest growing cities in the United States._ - [Changing Atlanta](https://science.nasa.gov/earth/earth-observatory/changing-atlanta-147806/)
+[A-Town Players - Wassup Wassup ( Bankhead Bounce ) Atlanta Classic 1995](https://youtu.be/J90bUNuJ20k) // [Dance411 @disney @nasa-jpl](https://youtu.be/P1K-uC-ZQso?is=8LQ8ZHTm8IU1Dzr2) +++ [Whatz Up, Whatz Up (A-Town T.V. Track) - _Playa Poncho_](https://www.youtube.com/watch?v=T9sMDuSfUSQ) & [Future - Incredible (HNDRXX)](https://youtu.be/VCaxeHxmZws?si=vyOnVn070tNvdPG1)
+
+### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
+
+[wclk.com/](https://www.wclk.com/)
+
+<iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/wclk-919-fm-10717?embed=true" frameborder="0"></iframe>
+
+
 ## Atlanta[!](https://youtu.be/_nsDBUyLWcU)
 _Martin Luther King Jr. came of age in one of the fastest growing cities in the United States._ - [Changing Atlanta](https://science.nasa.gov/earth/earth-observatory/changing-atlanta-147806/)
 [A-Town Players - Wassup Wassup ( Bankhead Bounce ) Atlanta Classic 1995](https://youtu.be/J90bUNuJ20k) // [Dance411 @disney @nasa-jpl](https://youtu.be/P1K-uC-ZQso?is=8LQ8ZHTm8IU1Dzr2) +++ [Whatz Up, Whatz Up (A-Town T.V. Track) - _Playa Poncho_](https://www.youtube.com/watch?v=T9sMDuSfUSQ) & [Future - Incredible (HNDRXX)](https://youtu.be/VCaxeHxmZws?si=vyOnVn070tNvdPG1)
@@ -945,20 +998,6 @@ _Martin Luther King Jr. came of age in one of the fastest growing cities in the 
 [@foratlanta @deptofwar](https://apps.usgs.gov/hivis/camera/GA_Peachtree_Creek_at_Atlanta) keisha have some one from the army corp check on the stations @usgs thanks rashard @rashardikelly @nasa-jpl @eodis-nasa @doug-newman-nasa [https://apps.usgs.gov/hivis/camera/GA_Peachtree_Creek_at_Atlanta](https://apps.usgs.gov/hivis/camera/GA_Peachtree_Creek_at_Atlanta) hi @netflix whatever went on over covid i hope you guys all healing up as well 💯
 
 <img  alt="image [@foratlanta @deptofwar](https://apps.usgs.gov/hivis/camera/GA_Peachtree_Creek_at_Atlanta) keisha have some one from the army corp check on the stations @usgs thanks rashard @rashardikelly @nasa-jpl @eodis-nasa @doug-newman-nasa  " src="https://github.com/user-attachments/assets/f0b58ffd-81e4-4a90-a906-b81daf5728aa" />
-
-
-[DJ Roc Raida (RIP) - The X-Men  Old Skool (1996) - Mixtape Cassette - @thedailybeatdrop](https://youtu.be/pyi2krVtpi8?list=RDpyi2krVtpi8&t=51) <~ old [Hot97](https://www.hot97.com/) <~ @BLACKGiRLSCODE
-
-## Atlanta[!](https://youtu.be/_nsDBUyLWcU)
-_Martin Luther King Jr. came of age in one of the fastest growing cities in the United States._ - [Changing Atlanta](https://science.nasa.gov/earth/earth-observatory/changing-atlanta-147806/)
-[A-Town Players - Wassup Wassup ( Bankhead Bounce ) Atlanta Classic 1995](https://youtu.be/J90bUNuJ20k) // [Dance411 @disney @nasa-jpl](https://youtu.be/P1K-uC-ZQso?is=8LQ8ZHTm8IU1Dzr2) +++ [Whatz Up, Whatz Up (A-Town T.V. Track) - _Playa Poncho_](https://www.youtube.com/watch?v=T9sMDuSfUSQ) & [Future - Incredible (HNDRXX)](https://youtu.be/VCaxeHxmZws?si=vyOnVn070tNvdPG1)
-
-### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
-
-[wclk.com/](https://www.wclk.com/)
-
-<iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/wclk-919-fm-10717?embed=true" frameborder="0"></iframe>
-
 <img alt=" [@foratlanta @deptofwar](https://apps.usgs.gov/hivis/camera/GA_Peachtree_Creek_at_Atlanta) keisha have some one from the army corp check on the stations @usgs thanks rashard @rashardikelly @nasa-jpl @eodis-nasa @doug-newman-nasa [https://apps.usgs.gov/hivis/camera/GA_Peachtree_Creek_at_Atlanta](https://apps.usgs.gov/hivis/camera/GA_Peachtree_Creek_at_Atlanta) hi @netflix whatever went on over covid i hope you guys all healing up as well 💯 GA_Peachtree_Creek_at_Atlanta___2026-10-01T21-45-26Z" src="https://github.com/user-attachments/assets/f4473bbd-e886-4583-8675-b1dc37bcde2c" />
 
 [@foratlanta @deptofwar](https://apps.usgs.gov/hivis/camera/GA_Peachtree_Creek_at_Atlanta) keisha have some one from the army corp check on the stations @usgs thanks rashard @rashardikelly @nasa-jpl @eodis-nasa @doug-newman-nasa [https://apps.usgs.gov/hivis/camera/GA_Peachtree_Creek_at_Atlanta](https://apps.usgs.gov/hivis/camera/GA_Peachtree_Creek_at_Atlanta) hi @netflix whatever went on over covid i hope you guys all healing up as well 💯
@@ -2379,7 +2418,7 @@ this is persevere FRF_0207_0685312912_283RAD_N0071836FHAZ02008_0A00LLJ01 @nasa-p
 [DHs-GOV https://advocacy4oromia.org/article/three-types-of-oromo-marriage/](https://advocacy4oromia.org/article/three-types-of-oromo-marriage/) <~ [@CityOFLOSANGELES KarenBass](https://www.congress.gov/member/karen-bass/B001270) / [MAxine Waters](https://waters.house.gov/)
 @CityofSantaMonica the patriarch on the wall in [saint-augustine.org/](https://www.saint-augustine.org/) is in danger @la-county-isd for its links to the local east african population, the guy looks like [nipsey hussel](https://media.pitchfork.com/photos/5e2713b3bd711c00097d52f7/2:1/w_1600,c_limit/Nipsey-Hussle.jpg)... And im somaliEthoiAmerican so thats they guy tthat settled america and some other tribes with knowledge are trying to blot us out and defile all our women hi @blackgirlscode @Whitehouse 
 <img  alt="image image image @Cityoflosangeles @Nasa-jpl its rashard this is an account with kashdoll from @blackgirlscode we were a couple in atlanta @ForAtlanta as well but she dance at magic aand we got separated... idk what to do im so confused i tried my hardest to get back right bill ... [youtube.com/@thakasartukellyselassie6468](https://www.youtube.com/@thakasartukellyselassie6468) @nasa-pds @dhs-gov im so sorry, the girls at dance411 started calling me thaka in california because they are east african and i was their computer resource in the neeighborhood, the thaka are a class of wisemen in our county particularly the Oromo... So it was like saying Wiz or Wizard and they guys destroyed our freedom and we were all locked up in the mental hospital, i dont know if lil yaghty good or bad but young thug was in the mental hospital with me, and the orderlies said its time to cut the cord and clipped the string on my red shorts from my lunchtime jiu jitsu @Nbcnews i am going to up my professionalism for an east african bride even if i missed lana j harris, i wanna keep my promise and i get a lot pat sajack i hope you got peace with men @la-county-isd image @Howard-university-web-services @Blackgirlscode hi latrice, there are a couple girls that identify themselves to me as latrice and I am intimate, or have been. You people my color and size are under ethic cleansing orders by los angeles's destitution mob... So I'm lonely and the girls are talking via some sonic weapon that send concentrated beams into a human and they are talking like a telephone. The yold me as Latrice to use virtiserv LLC like I planned to and I am still with @nasa-jpl so @USSF-ORBiT / spaceforce.mil is my parent company under @whitehouse, I don't want to embarrass you, did you get angry at my gist on @github ? IDK if to say congrats, but I will never pollute your bedroom! @ForAtlanta after Dance411 the girls have kept me on a string, but now as they age I want to make sure any desired connections are legal in the eyes of the state. I don't want to support the pro adultery movement ... Im sorry if I could not see you Latrice. You broke up with me because I wrote your name in my graffiti peice. I had to see who was safe in the company of my kid. So guess what, I did it for coral. Thanks for telling me to buy her a bed - rashard ... @CityOfLosAngeles @nasa-jpl whatever [LatriceFitzpatrick]() is not something I want to abandon, but with the details, how she acts and the bedroom breaking in Atlanta and Alpharetta I need gentle closure that does not include castration threats @nfl @newshour ... I'll write more later @hulu @netflix and @disney I'm just trying to get out of everyone's way, I really like my new job @eodis-nasa earth observation distributed systems /// @doug-newman-nasa I will not pollute our platoon @nasa / @nasa-pds with adultery... I have the California constitution and Keisha BOttoms is still working to resolve Erika's abandonment and treasonus coup participation with playboy enterprises @deptofwar @whitehouse " src="https://github.com/user-attachments/assets/bf6aae21-2b3a-49f9-8664-2d39965c09e7" />
-
+```
 
 # Writing mathematical expressions
 
