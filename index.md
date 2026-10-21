@@ -15,7 +15,17 @@ mathjax: true
 
  [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 
+@nasa-jpl I am scared @ForAtlanta that there are hetero hitmen out to hurt me @la-county-isd I'm scared and exhausted with no clear answers from authority @NEWSHOUR [@CBS-NEWS-DATA @NBCNEWS @BBC @FORATLANTA](https://ntrs.nasa.gov/citations/19900004096) ////////// @doug-newman-nasa following @USSF-ORBiT clear documentation and the [@NASa Neptune Travelers Guide](https://ntrs.nasa.gov/api/citations/19900004096/downloads/19900004096.pdf) I will not show up for the ingest, bc I can disrupt other staffing especially academia during the elections, they said I had to contribue - [@rashard @nasa-pds @fecgov @usgs @Doug-newman-nasa ](https://ntrs.nasa.gov/citations/19900004096)
 
+### Data Alerts and Outages
+Track the release and updates of datasets and keep track of outages. [https://www.earthdata.nasa.gov/data/alerts-outages/ingest-archive-migration-interrupt-data-ingestion-oct.-28-30](https://www.earthdata.nasa.gov/data/alerts-outages/ingest-archive-migration-interrupt-data-ingestion-oct.-28-30) 
+[https://www.earthdata.nasa.gov/data/alerts-outages](https://www.earthdata.nasa.gov/data/alerts-outages) 
+
+[`READ` @BLACKGiRLSCODE ntrs.nasa.gov/api/citations/19900004096/downloads/19900004096.pdf](https://ntrs.nasa.gov/api/citations/19900004096/downloads/19900004096.pdf) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5ca70e94-27f5-4e77-a2ed-238778281063" />
+
+Ingest & Archive Migration to Interrupt Data Ingestion on Oct. 28-30 
 <img   alt="image @microsoftresearch @fecgov " src="https://github.com/user-attachments/assets/58f56084-5450-46b2-ac9a-1d83172526bd" />
 
 [https://github.com/ @fecgov](https://github.com/fecgov)
