@@ -15,7 +15,15 @@ mathjax: true
 
  [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 
- 
+
+[@eosdis-nasa search.earthdata.nasa.gov/search/granules?p=C2076106409-LPCLOUD&pg](https://search.earthdata.nasa.gov/search/granules?p=C2076106409-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4373089614-LPCLOUD&q=ecostress&sb[0]=-119.78057%2C33.57907%2C-117.47374%2C34.70152&lat=33.8354304&long=-118.55110672990115&zoom=9.730776867603046) 
+
+<img alt="ECOv002_L3T_JET_46801_004_11SLT_20261006T160105_0713_02_ETinstUncertainty" src="https://github.com/user-attachments/assets/e1f9b12f-22da-4963-a921-3e55ccb84e1a" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/23a7003d-49bb-4100-9eb0-cc28c721f88a" />
+
+ <img alt="ECOv002_L3T_JET_46801_004_11SLT_20261006T160105_0713_02" src="https://github.com/user-attachments/assets/d11d542d-2a3d-4b8c-a1b6-242737bbf4ed" />
+
 
 <img alt="AV520260605t203258_004_L1B_RDN_dd573c59_RDN_BROWSE @emit-sds " src="https://github.com/user-attachments/assets/38a3dab6-c9bf-4791-9b46-7b7687d3d073" />
 
