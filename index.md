@@ -14,6 +14,20 @@ mathjax: true
 <img   alt="image" src="https://github.com/user-attachments/assets/bd3c2088-7eb6-47c1-a97d-7bc6bafa050a" />
 
 
+```git
+https://github.com/holetoanotheruniverse40/_virtiserv.git
+
+git checkout -b holetoanotheruniverse40-patch-3 master
+git pull https://github.com/holetoanotheruniverse40/_virtiserv.git patch-3
+
+git checkout master
+git merge --no-ff holetoanotheruniverse40-patch-3
+git push origin master
+```
+
+
+<img  alt="Screenshot 2026-10-20 7 25 57 PM" src="https://github.com/user-attachments/assets/f6b7a6b0-c986-43f3-81af-195cf48c610b" />
+
 @nasa-jpl i took that picture after erika abandoned us... @nasa-pds 
 <img  alt="image" src="https://github.com/user-attachments/assets/bcf3246b-c676-4acb-9170-54b4d99faa31" />
 
