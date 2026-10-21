@@ -85,10 +85,6 @@ z' &=& - &x \cos\phi &+& z \sin\phi \\
 
 <img  alt="image" src="https://github.com/user-attachments/assets/5107415c-6d41-4c55-97b5-ac7514ebe928" />
 
-[wclk.com/](https://www.wclk.com/)
-
-<iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/wclk-919-fm-10717?embed=true" frameborder="0"></iframe>
-
 
 @nasa-jpl i took that picture after erika abandoned us... @nasa-pds 
 <img  alt="image" src="https://github.com/user-attachments/assets/bcf3246b-c676-4acb-9170-54b4d99faa31" />
