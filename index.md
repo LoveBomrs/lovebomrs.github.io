@@ -24,7 +24,7 @@ mathjax: true
 <iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/wclk-919-fm-10717?embed=true" frameborder="0"></iframe>
 
 
-[@nasa-jpl rashardmro.tumblr.com](https://rashardmro.tumblr.com/archive) //// [@deptofwar rashardmro.tumblr.com/`archive`](https://rashardmro.tumblr.com/archive)
+[@nasa-jpl rashardmro.tumblr.com](https://rashardmro.tumblr.com) //// [@deptofwar rashardmro.tumblr.com/`archive`](https://rashardmro.tumblr.com/archive)
 <img  alt="image" src="https://github.com/user-attachments/assets/a3a5f0fb-fc3c-4be3-b2f8-e6d9e6d34b52" />
 
 
