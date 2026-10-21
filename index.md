@@ -8,6 +8,10 @@ mathjax: true
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A693520531&color=%230075ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/joshua-calhoun-780374481" title="joshua calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">joshua calhoun</a> · <a href="https://soundcloud.com/joshua-calhoun-780374481/goodie-mob-soul-food-full-album" title="Goodie Mob - Soul Food (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">Goodie Mob - Soul Food (Full Album)</a></div>
 
+##  HOT 97 News Live! 10/20/26
+[`WATCH` - https://www.youtube.com/watch?v=Ar5X_yp2tv4](https://www.youtube.com/watch?v=Ar5X_yp2tv4) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/bd3c2088-7eb6-47c1-a97d-7bc6bafa050a" />
 
 
 @nasa-jpl i took that picture after erika abandoned us... @nasa-pds 
