@@ -13,11 +13,28 @@ mathjax: true
   
 </picture>
 
- -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
- -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
+ [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
+
 
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
+@podaac @nasa-jpl hi @eosdis-na
+
+<img alt="Screenshot 2026-10-21 10 46 30 AM" src="https://github.com/user-attachments/assets/b6c3704c-de0c-4ef5-a2af-97409a38edfb" />
+
+
+<img alt="imerglate-rrlate000-global-sOct 20, 2026 - 17_00 UTC-eOct 21, 2026 - 03_00 UTC" src="https://github.com/user-attachments/assets/a9e9b596-81af-48b1-9536-630901824503" />
+
+[https://worldview.earthdata.nasa.gov/?v=-318.15534011238293,-70.34526681887263,112.56000441203348,141.6474418142386&as=2026-10-10-T00%3A00%3A00Z&ae=2026-10-20-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Admin_Boundaries(hidden),DoS_International_Boundaries(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&al=true&ab=on&t=2026-10-20-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-318.15534011238293,-70.34526681887263,112.56000441203348,141.6474418142386&as=2026-10-10-T00%3A00%3A00Z&ae=2026-10-20-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Admin_Boundaries(hidden),DoS_International_Boundaries(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&al=true&ab=on&t=2026-10-20-T00%3A00%3A00Z) 
+
+<img alt="nasa-worldview-2026 OCT 10-to-2026 OCT 20" src="https://github.com/user-attachments/assets/68a6576c-bcaa-4d19-9721-2ea5c8b84b63" />
+
+[https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,aqua_crc,earth;@-104.5,36.8,4.8z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,aqua_crc,earth;@-104.5,36.8,4.8z)
+
+<img  alt="FIRMS_24hrs,24hrs @-104 5,36 8,4 8z" src="https://github.com/user-attachments/assets/76b28c2b-135b-4419-a9d2-b3299f643165" />
+
+<img  alt="goeswestabifulldisk-00p47um-sOct 21, 2026 - 14_20 UTC-eOct 21, 2026 - 17_30 UTC" src="https://github.com/user-attachments/assets/45372f9a-3f20-44eb-bd23-b4536f25b058" />
+
 
 [wclk.com/ @FoRAtlantA](https://www.wclk.com/)
 
