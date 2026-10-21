@@ -18,7 +18,13 @@ mathjax: true
 
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
-@podaac @nasa-jpl hi @eosdis-na
+
+
+
+### New [GEMx](https://impact.earthdata.nasa.gov/casei/campaign/GEMx/) Airborne Facility Instruments Data Released
+<img   alt="image" src="https://github.com/user-attachments/assets/5af5d850-3655-4e0b-9b8d-9e271b45e6fa" />
+
+@podaac @nasa-jpl hi @eosdis-nasa I made an observation . . . if there is a cold thermal anomaly it may be a [tropical depression](https://www.usgs.gov/programs/cmhrp/news/approaching-storms), maybe its the air swirling around and water going high cooling off and coming back to get measured . . . @nasa-openscapes hi [The @USGS Coastal and Marine Hazards and Resources Program @la-county-isd @CityOfLosAngeles](https://www.usgs.gov/programs/cmhrp/news/approaching-storms) // ![https://impact.earthdata.nasa.gov/casei/static/3b73e899d8f70762aa4b6b0d8a9ff1b7/8aeee/835ad237-6145-4aaf-8ca5-22f4be373556..webp](https://impact.earthdata.nasa.gov/casei/static/3b73e899d8f70762aa4b6b0d8a9ff1b7/8aeee/835ad237-6145-4aaf-8ca5-22f4be373556..webp) //
 
 <img alt="Screenshot 2026-10-21 10 46 30 AM" src="https://github.com/user-attachments/assets/b6c3704c-de0c-4ef5-a2af-97409a38edfb" />
 
