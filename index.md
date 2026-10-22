@@ -24,6 +24,15 @@ mathjax: true
 [`WATCH` - https://youtu.be/pltXs4LTU9s?t=276](https://youtu.be/pltXs4LTU9s?t=276)
 <img alt="image" src="https://github.com/user-attachments/assets/76ac1f03-a588-45b1-9a46-36d48d59a750" />
 
+
+U.S. Central Command Civilian Harm Report
+ [@cityoflosangeles @FEMA _KarenbASS_ @LA-County-isd](https://www3.centcom.mil/civiliancasualtyreporting)
+ re violence against fathers
+
+U.S. Central Command takes all reports of civilian harm seriously and maintains processes to conduct thorough assessments using all available information that may factor into findings. Please include the date and location of the incident, as well as any other details that can help the assessment. If you don't have an e-mail address, ensure a phone number is provided so we can reach you: ![https://www.centcom.mil/Portals/6/Official_CENTCOM_Seal.png](https://www.centcom.mil/Portals/6/Official_CENTCOM_Seal.png) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/e2f7fbec-c367-46ee-8905-f9aba07c5923" />
+
 ![https://media.defense.gov/2025/Jan/28/2003633313/825/780/0/250127-D-TT977-1051.JPG](https://media.defense.gov/2025/Jan/28/2003633313/825/780/0/250127-D-TT977-1051.JPG) 
 
 Readout of Secretary of War Pete Hegeth's Meeting With His Excellency Dr. Mohamed Irfaan Ali, the President and Commander-in-Chief of the Co-operative Republic of Guyana [@deptofwar war.gov/News/Releases/Release/Article/4631060/readout-of-secretary-of-war-pete-hegeths-meeting-with-his-excellency-dr-mohamed/](https://www.war.gov/News/Releases/Release/Article/4631060/readout-of-secretary-of-war-pete-hegeths-meeting-with-his-excellency-dr-mohamed/)
