@@ -1,4 +1,4 @@
----
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2010ad93-6a62-494c-9077-526d5b9e1a32" />---
 layout: default
 mathjax: true
 ---
@@ -25,11 +25,15 @@ mathjax: true
 
 <img alt="image" src="https://github.com/user-attachments/assets/76ac1f03-a588-45b1-9a46-36d48d59a750" />
 
-[Atari JaguarPitfall - The Mayan Adventure (World) @cITYoFsANTAmONICA @NASA-JPL](https://www.retrogames.cc/jaguar-games/pitfall-the-mayan-adventure-world.html)
+[Atari Jaguar  - Pitfall - The Mayan Adventure (World) @cITYoFsANTAmONICA @NASA-JPL](https://www.retrogames.cc/jaguar-games/pitfall-the-mayan-adventure-world.html)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/f2e2de5d-ce3e-49d0-9ed7-c590c1cf6796" />
 
+[Atari JaguarRayman (World)](https://www.retrogames.cc/jaguar-games/rayman-world.html)
 <img alt="image" src="https://github.com/user-attachments/assets/d7aaecce-e42e-49f4-b139-0e9b50a924f5" />
+
+[@cITYoFsANTAmONICA ](https://www.retrogames.cc/jaguar-games/rayman-world.html)
+<img   alt="image" src="https://github.com/user-attachments/assets/14b70a95-d6e2-4d35-9c83-c54df3f8382a" />
 
 
 [Atari Jaguar - Alien vs Predator (World)](https://www.retrogames.cc/jaguar-games/alien-vs-predator-world.html)
