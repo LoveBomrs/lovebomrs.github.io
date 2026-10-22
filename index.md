@@ -1431,6 +1431,9 @@ Coastal erosion leads to crack in Laguna Beach cliffside under PCH](https://yout
 State investigators seek answers about roller coaster mishap @newshour [`Link` - Man who died in Six Flags rollercoaster fall in Georgia was a father and educator @guardian](https://www.theguardian.com/us-news/2026/oct/13/six-flags-rollercoaster-death) // [Georgia police identify man who fatally fell off Six Flags roller coaster @nbcnews .com/news/us-news/six-flags-georgia-death-guests-say-man-fell-roller-coaster-rcna603097](https://www.nbcnews.com/news/us-news/six-flags-georgia-death-guests-say-man-fell-roller-coaster-rcna603097) 
 State investigators are searching for answers after a 42-year-old man died following a fall from the Goliath roller coaster at Six Flags Over Georgia. Authorities are investigating whether the tragedy was caused by a mechanical malfunction, a restraint system failure, operator error, or another factor.
 [`WATCH`](https://youtu.be/UpxEZXaBZdY?si=GDtT0p9bwcRT5Dl9)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b4e9211a-c297-4533-a958-7520334af2b6" />
+
 The investigation is being led by Georgia's Office of Commissioner of Insurance and Safety Fire, with officials reviewing inspection procedures, ride operations, and safety systems. Investigators are focusing on what went wrong and whether the Goliath ride's restraint system functioned properly.
 [`WATCH`](https://youtu.be/UpxEZXaBZdY?si=GDtT0p9bwcRT5Dl9)
 The victim, identified as Hassan Kariem, died after falling from the roller coaster, an incident that experts say is exceptionally rare. The tragedy has renewed questions about amusement park safety, ride inspections, and accountability as investigators work to determine exactly what happened.
