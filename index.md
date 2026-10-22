@@ -14,12 +14,19 @@ mathjax: true
 </picture>
 
 
-[Queen Latifah, Yo-Yo, TLC, MC Lyte, Nefertiti, Salt-N-Pepa, Patra, Meshell Ndegeocello - Freedom @nasa-pds](https://youtu.be/qxyxqVDjSzs?list=RDqxyxqVDjSzs&t=117) // [Big Boi - Shine Blockas ft. Gucci Mane](https://youtu.be/3GK23f_xtZY?list=RDqxyxqVDjSzs&t=21) // [Goodie Mob - Black Ice ](https://youtu.be/F9ULbmCvmxY?list=RDqxyxqVDjSzs) // [Makaveli - To Live & Die In L.A. (Official Music Video) @cityoflosangeles _Mayor Karen Bass_ For MAyor 2026 `MostCovidParties` @bbc](https://youtu.be/fDjMSiECbgg?list=RDqxyxqVDjSzs&t=169) //  [The High & Mighty feat. Mos Def & Mad Skillz "B-Boy Document 99"](https://youtu.be/21uOvcK__M0?list=RDqxyxqVDjSzs&t=19)
+[Queen Latifah, Yo-Yo, TLC, MC Lyte, Nefertiti, Salt-N-Pepa, Patra, Meshell Ndegeocello - Freedom @nasa-pds](https://youtu.be/qxyxqVDjSzs?list=RDqxyxqVDjSzs&t=117) // [Big Boi - Shine Blockas ft. Gucci Mane](https://youtu.be/3GK23f_xtZY?list=RDqxyxqVDjSzs&t=21) // [Goodie Mob - Black Ice ](https://youtu.be/F9ULbmCvmxY?list=RDqxyxqVDjSzs) // [Makaveli - To Live & Die In L.A. (Official Music Video) @cityoflosangeles _Mayor Karen Bass_ For MAyor 2026 `MostCovidParties` @bbc](https://youtu.be/fDjMSiECbgg?list=RDqxyxqVDjSzs&t=169) //  [The High & Mighty feat. Mos Def & Mad Skillz "B-Boy Document 99"](https://youtu.be/21uOvcK__M0?list=RDqxyxqVDjSzs&t=19) // [Chlöe - Live at Blue Note Los Angeles (Full Show)](https://youtu.be/5nEZbH9nsA4?list=RD5nEZbH9nsA4) // 
 
 ---
 
  [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 
+# Inside [Pete Hegseth](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)’s Secret Mission To Israel
+<img alt="image" src="https://github.com/user-attachments/assets/76ac1f03-a588-45b1-9a46-36d48d59a750" />
+
+![https://media.defense.gov/2025/Jan/28/2003633313/825/780/0/250127-D-TT977-1051.JPG](https://media.defense.gov/2025/Jan/28/2003633313/825/780/0/250127-D-TT977-1051.JPG) 
+
+Readout of Secretary of War Pete Hegeth's Meeting With His Excellency Dr. Mohamed Irfaan Ali, the President and Commander-in-Chief of the Co-operative Republic of Guyana [@deptofwar war.gov/News/Releases/Release/Article/4631060/readout-of-secretary-of-war-pete-hegeths-meeting-with-his-excellency-dr-mohamed/](https://www.war.gov/News/Releases/Release/Article/4631060/readout-of-secretary-of-war-pete-hegeths-meeting-with-his-excellency-dr-mohamed/)
+<img alt="image" src="https://github.com/user-attachments/assets/cb048fe0-aa74-4309-91eb-78d97e5540e7" />
 
 [@nasa-jpl don't hurt me @blackgirlscode Atari Jaguar - White Men Can't Jump (World)](https://www.retrogames.cc/jaguar-games/white-men-can-t-jump-world.html)
 ![https://static.wikia.nocookie.net/gamia_gamepedia_en/images/6/6d/White_men_cant_jump.jpg](https://static.wikia.nocookie.net/gamia_gamepedia_en/images/6/6d/White_men_cant_jump.jpg) 
