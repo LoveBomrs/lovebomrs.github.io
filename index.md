@@ -13,9 +13,14 @@ mathjax: true
   
 </picture>
 
+
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 
+[@nasa-jpl @blackgirlscode https://omar.house.gov/](https://omar.house.gov/) 
+![https://omar.house.gov/sites/evo-subsites/omar-evo.house.gov/files/twocolorlogo.png background](https://omar.house.gov/sites/evo-subsites/omar-evo.house.gov/files/twocolorlogo.png) 
 
+[Rep. Ilhan Omar addresses marriage, immigration fraud claims](https://www.msn.com/en-us/news/other/rep-ilhan-omar-addresses-marriage-immigration-fraud-claims/ar-AA2fMcrA?ocid=hpmsn&cvid=6ada5e4041c94cea990f69c8db185b49&ei=10)
 
 
 <iframe src="https://archive.org/embed/136339277" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
