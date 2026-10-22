@@ -20,6 +20,9 @@ mathjax: true
 
 [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 
+@NBCNEWS GOES East ABI: CONUS [@NASA-JPL @EOSDIS-NASA https://weather.ndc.nasa.gov/sport/viewer/?dataset=goeseastabiconus&product=10p35um](https://weather.ndc.nasa.gov/sport/viewer/?dataset=goeseastabiconus&product=10p35um)
+<img   alt="goeseastabiconus-10p35um-sOct 22, 2026 - 00_41 UTC-eOct 22, 2026 - 02_16 UTC" src="https://github.com/user-attachments/assets/dbb0eaf1-7184-4d3c-a589-645755a2d290" />
+
 # Inside [Pete Hegseth](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)’s Secret Mission To Israel
 [`WATCH` - https://youtu.be/pltXs4LTU9s?t=276](https://youtu.be/pltXs4LTU9s?t=276)
 
@@ -33,7 +36,7 @@ mathjax: true
 <img  alt="image" src="https://github.com/user-attachments/assets/2010ad93-6a62-494c-9077-526d5b9e1a32" />
 <img alt="image" src="https://github.com/user-attachments/assets/d7aaecce-e42e-49f4-b139-0e9b50a924f5" />
 
-[@cITYoFsANTAmONICA ](https://www.retrogames.cc/jaguar-games/rayman-world.html)
+[@cITYoFsANTAmONICA jaguar-games/rayman-world.html ](https://www.retrogames.cc/jaguar-games/rayman-world.html)
 <img   alt="image" src="https://github.com/user-attachments/assets/14b70a95-d6e2-4d35-9c83-c54df3f8382a" />
 
 
