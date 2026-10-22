@@ -14,7 +14,7 @@ mathjax: true
 </picture>
 
 
-[Queen Latifah, Yo-Yo, TLC, MC Lyte, Nefertiti, Salt-N-Pepa, Patra, Meshell Ndegeocello - Freedom @nasa-pds](https://youtu.be/qxyxqVDjSzs?list=RDqxyxqVDjSzs&t=117) // [Big Boi - Shine Blockas ft. Gucci Mane](https://youtu.be/3GK23f_xtZY?list=RDqxyxqVDjSzs&t=21)
+[Queen Latifah, Yo-Yo, TLC, MC Lyte, Nefertiti, Salt-N-Pepa, Patra, Meshell Ndegeocello - Freedom @nasa-pds](https://youtu.be/qxyxqVDjSzs?list=RDqxyxqVDjSzs&t=117) // [Big Boi - Shine Blockas ft. Gucci Mane](https://youtu.be/3GK23f_xtZY?list=RDqxyxqVDjSzs&t=21) // [oodie Mob - Black Ice ](https://youtu.be/F9ULbmCvmxY?list=RDqxyxqVDjSzs)
 
 ---
 
