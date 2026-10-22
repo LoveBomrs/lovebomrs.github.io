@@ -14,11 +14,20 @@ mathjax: true
 </picture>
 
 
-[Queen Latifah, Yo-Yo, TLC, MC Lyte, Nefertiti, Salt-N-Pepa, Patra, Meshell Ndegeocello - Freedom @nasa-pds](https://youtu.be/qxyxqVDjSzs?list=RDqxyxqVDjSzs&t=117)
+[Queen Latifah, Yo-Yo, TLC, MC Lyte, Nefertiti, Salt-N-Pepa, Patra, Meshell Ndegeocello - Freedom @nasa-pds](https://youtu.be/qxyxqVDjSzs?list=RDqxyxqVDjSzs&t=117) // [Big Boi - Shine Blockas ft. Gucci Mane](https://youtu.be/3GK23f_xtZY?list=RDqxyxqVDjSzs&t=21)
+
+---
 
  [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 
-<img width="1148" height="572" alt="GIOVANNI-outputij3Vfhd2" src="https://github.com/user-attachments/assets/1f0d65c3-efda-4904-84d4-1579ac4c4b8a" />
+
+ @whitehouse, idk if anyone on but please tell [Lana J HArris @Commercegov @Blackgirlscode](https://www.facebook.com/lanaonlocation/reels/) I'm going to take a break to play a few games to clear my head real quick , like ~10min before I suffer your gossip bit - @rashardikelly @nasa-jpl @eosdis-nasa 
+[Queen Latifah, Yo-Yo, TLC, MC Lyte, Nefertiti, Salt-N-Pepa, Patra, Meshell Ndegeocello - Freedom ](https://youtu.be/qxyxqVDjSzs?list=RDqxyxqVDjSzs&t=183)
+
+ <img  alt="image" src="https://github.com/user-attachments/assets/6c4cac38-5ac6-48d6-a520-90a96d92c75d" />
+
+
+<img  alt="GIOVANNI-outputij3Vfhd2" src="https://github.com/user-attachments/assets/1f0d65c3-efda-4904-84d4-1579ac4c4b8a" />
 
 <img   alt="GIOVANNI-outputJ2BmiWI5" src="https://github.com/user-attachments/assets/7e851ac7-1e23-4673-8621-9e903957ce0d" />
 
