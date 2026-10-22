@@ -18,11 +18,19 @@ mathjax: true
 
 ---
 
- [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
+[![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 
 # Inside [Pete Hegseth](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)’s Secret Mission To Israel
 [`WATCH` - https://youtu.be/pltXs4LTU9s?t=276](https://youtu.be/pltXs4LTU9s?t=276)
+
 <img alt="image" src="https://github.com/user-attachments/assets/76ac1f03-a588-45b1-9a46-36d48d59a750" />
+
+[Atari JaguarPitfall - The Mayan Adventure (World) @cITYoFsANTAmONICA @NASA-JPL](https://www.retrogames.cc/jaguar-games/pitfall-the-mayan-adventure-world.html)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/f2e2de5d-ce3e-49d0-9ed7-c590c1cf6796" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/d7aaecce-e42e-49f4-b139-0e9b50a924f5" />
+
 
 [Atari Jaguar - Alien vs Predator (World)](https://www.retrogames.cc/jaguar-games/alien-vs-predator-world.html)
 <img  alt="image" src="https://github.com/user-attachments/assets/65d1191a-c146-4b32-a723-f34d11ca57ff" />
