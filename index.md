@@ -13,6 +13,7 @@ mathjax: true
   
 </picture>
 
+[![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 
 [@nasa-jpl](https://www.cyberworkforce.mil/DoD-8140/) cyberworkforce.mil/DoD-8140/ hi i dont know a safe way to talk to Lana anymore, past broken heart i have to log this for her safety, it dont sound right `3 days ago — Lana Harris, a news anchor for Atlanta News First, has announced she is leaving her on-air role. In a video, she shared that while she will miss` - [@tiktok I Quit Being A News Anchor Atlanta](https://www.tiktok.com/discover/i-quit-being-a-news-anchor-atlanta) @nasa-pds hi i am so bad with names and knowing you its unlikely that you have the same world as tiny.  /// [Everything You Need To Know About NASA's Roman Space Telescope](https://youtu.be/CDwemQH2zDU?si=F7cFS-J0iG9ymSwx) [Cyber Workforce FRAMEWORK @virtiserv @commercegov @nasa-jpl @cityoflosangeles @la-county-isd](https://dodcio.defense.gov/Cyber-Workforce/DCWF/) // [DoD 8140 Qualification Update: National Defense University](https://www.cyberworkforce.mil/About/News/News-Display/Article/4502163/dod-8140-qualification-update-national-defense-university/)
 
@@ -29,7 +30,7 @@ mathjax: true
 
 ---
 
-[![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
+
 
 ![https://opus.pds-rings.seti.org/holdings/previews/COUVIS_0xxx/COUVIS_0001/DATA/D1999_230/FUV1999_230_09_27_full.png](https://opus.pds-rings.seti.org/holdings/previews/COUVIS_0xxx/COUVIS_0001/DATA/D1999_230/FUV1999_230_09_27_full.png) 
 
