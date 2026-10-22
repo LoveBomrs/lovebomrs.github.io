@@ -25,8 +25,10 @@ mathjax: true
 <img alt="image" src="https://github.com/user-attachments/assets/76ac1f03-a588-45b1-9a46-36d48d59a750" />
 
 [Atari Jaguar - Alien vs Predator (World)](https://www.retrogames.cc/jaguar-games/alien-vs-predator-world.html)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/65d1191a-c146-4b32-a723-f34d11ca57ff" />
+
 U.S. Central Command Civilian Harm Report
- [@cityoflosangeles @FEMA _KarenbASS_ @LA-County-isd](https://www3.centcom.mil/civiliancasualtyreporting)
+ [@cityoflosangeles @FEMA _KarenbASS_ @LA-County-isd www3.centcom.mil/civiliancasualtyreporting) @blackgirlscode @foratlanta @bbc](https://www3.centcom.mil/civiliancasualtyreporting)
  re violence against fathers
 
 U.S. Central Command takes all reports of civilian harm seriously and maintains processes to conduct thorough assessments using all available information that may factor into findings. Please include the date and location of the incident, as well as any other details that can help the assessment. If you don't have an e-mail address, ensure a phone number is provided so we can reach you: ![https://www.centcom.mil/Portals/6/Official_CENTCOM_Seal.png](https://www.centcom.mil/Portals/6/Official_CENTCOM_Seal.png) 
