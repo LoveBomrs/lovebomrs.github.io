@@ -32,6 +32,8 @@ mathjax: true
 [locator.ice.gov/odls/#/search @SnowThaProduct  hi #rashard @NASAJPL](https://locator.ice.gov/odls/#/search)
 <img alt="image" src="https://github.com/user-attachments/assets/c5e37df6-036c-4afe-b80f-35589a4a4a33" />
 
+<img alt="image" src="https://github.com/user-attachments/assets/22b4e48a-9174-4b1b-a571-c4e3e1b1f144" />
+
 
 [watch - What Happens When The AI Grid Runs Out Of Power?](https://youtu.be/5rAeQ-GZ2OA?t=65)
 
