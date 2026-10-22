@@ -15,6 +15,10 @@ mathjax: true
 
  [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 
+<img width="1148" height="572" alt="GIOVANNI-outputij3Vfhd2" src="https://github.com/user-attachments/assets/1f0d65c3-efda-4904-84d4-1579ac4c4b8a" />
+
+<img   alt="GIOVANNI-outputJ2BmiWI5" src="https://github.com/user-attachments/assets/7e851ac7-1e23-4673-8621-9e903957ce0d" />
+
 [Near Mogadishu](https://search.earthdata.nasa.gov/search/granules?p=C2763266360-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G2821036915-LPCLOUD&ff=Map%20Imagery&lat=1.5&long=45.547919329501916&zoom=8.518957754126149)
 ##### @NASA Shuttle Radar Topography Mission Global 1 arc second V003 _N01E045.SRTMGL1.2.jpg_
 <img   alt="N01E045 SRTMGL1 2" src="https://github.com/user-attachments/assets/248d763d-99fe-454a-aaab-fd6781f01f72" />
