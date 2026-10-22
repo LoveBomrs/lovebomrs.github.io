@@ -20,6 +20,12 @@ mathjax: true
 
 [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 
+
+// [Rashan Ali Talks Growing Up In Decatur, GA, Tyler Perry, All The Queens Men, And Atlanta Music Scene @foratlanta ](https://youtu.be/CypOIqP_FUI?si=_5d7Cqzq6wMxiFnE)
+
+
+
+
 [@nasa-jpl @blackgirlscode https://omar.house.gov/](https://omar.house.gov/) 
 ![https://omar.house.gov/sites/evo-subsites/omar-evo.house.gov/files/twocolorlogo.png background](https://omar.house.gov/sites/evo-subsites/omar-evo.house.gov/files/twocolorlogo.png) 
 
@@ -43,6 +49,7 @@ mathjax: true
 @forAtlanta hi im trying to get in touch with Keisha Bottoms im following @nasa / @deptofwar guidelines, like whatever went down over covid freaknik i am my own individual and not out to take down my spouse's sexual partners @github
 ![https://githubuniverse.com/nav-logo-26.webp](https://githubuniverse.com/nav-logo-26.webp) 
 [https://www.retrogames.cc/arcade-games/riding-fight-ver-1-0a.html](https://www.retrogames.cc/arcade-games/riding-fight-ver-1-0a.html) // [Arcade - Rolling Thunder (rev 2)](https://www.retrogames.cc/arcade-games/rolling-thunder-rev-2.html)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/fcfa6f48-980f-4d4d-b8f4-795f42dbb2cd" />
 
 
@@ -60,10 +67,13 @@ mathjax: true
 ![https://www.arcade-museum.com/images-game/47/after-burner-ii-47127.jpg](https://www.arcade-museum.com/images-game/47/after-burner-ii-47127.jpg) 
 
 @whitehouse @foratlanta @nasa-jpl HR just notes for things in eyes.nasa.gov there is something not congifured, but i dont have time its in the text fikles [@blackgirlscode @webassembly](https://developer.mozilla.org/en-US/docs/WebAssembly) so the poster is not from my session `https://dn600300.us.archive.org/0/items/screen-recording-2024-07-22-12.43.01-pm/NamcoRidgeRacer2webAssemblyGoogleChromeRecording2026-10-22lanaJharrisisLatrice111342.mp4`
+
 ### Namco System 22 [ridgeracer.fandom.com/wiki/Namco_System_22](https://ridgeracer.fandom.com/wiki/Namco_System_22)
 [Namco System 22 Ridge Racer 2 issue](https://forums.arcade-museum.com/threads/namco-system-22-ridge-racer-2-issue.467554/)
 [wiki](https://en.wikipedia.org/wiki/Ridge_Racer_2) /// [https://www.system16.com/hardware.php?id=537](https://www.system16.com/hardware.php?id=537) // [https://namco.fandom.com/wiki/Namco_System_22](https://namco.fandom.com/wiki/Namco_System_22) 
+
 ![https://thumb.wikimedia.org/wikipedia/en/thumb/6/64/Ridge_Racer_2_Flyer.png/250px-Ridge_Racer_2_Flyer.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail](https://thumb.wikimedia.org/wikipedia/en/thumb/6/64/Ridge_Racer_2_Flyer.png/250px-Ridge_Racer_2_Flyer.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail) 
+
 [<video controls loading="lazy" poster="https://www.system16.com/screens/ridgeracer2_a.png" src="https://dn600300.us.archive.org/0/items/screen-recording-2024-07-22-12.43.01-pm/NamcoRidgeRacer2webAssemblyGoogleChromeRecording2026-10-22lanaJharrisisLatrice111342.mp4" />](https://dn600300.us.archive.org/0/items/screen-recording-2024-07-22-12.43.01-pm/NamcoRidgeRacer2webAssemblyGoogleChromeRecording2026-10-22lanaJharrisisLatrice111342.mp4)
 
 [gamoover.net/Forums/index.php?topic=44493.0](https://www.gamoover.net/Forums/index.php?topic=44493.0)
