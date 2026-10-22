@@ -21,6 +21,9 @@ mathjax: true
  [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 
 
+[@nasa-jpl don't hurt me @blackgirlscode Atari Jaguar - White Men Can't Jump (World)](https://www.retrogames.cc/jaguar-games/white-men-can-t-jump-world.html)
+![https://static.wikia.nocookie.net/gamia_gamepedia_en/images/6/6d/White_men_cant_jump.jpg](https://static.wikia.nocookie.net/gamia_gamepedia_en/images/6/6d/White_men_cant_jump.jpg) 
+
 [Atari JaguarTempest 2000 (World)](https://www.retrogames.cc/jaguar-games/tempest-2000-world.html)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/11b7dd11-e7d6-43d2-a27e-87ca8fdacbc5" />
