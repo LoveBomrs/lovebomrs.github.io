@@ -20,6 +20,15 @@ mathjax: true
 
  [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 
+
+[Atari JaguarTempest 2000 (World)](https://www.retrogames.cc/jaguar-games/tempest-2000-world.html)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/11b7dd11-e7d6-43d2-a27e-87ca8fdacbc5" />
+
+[Makaveli - To Live & Die In L.A. (Official Music Video) @cityoflosangeles _Mayor Karen Bass For MAyor 2026 `MostCovidParties @usatoday](https://youtu.be/fDjMSiECbgg?list=RDqxyxqVDjSzs&t=169)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4b6b4438-91eb-4ea1-ac8b-81a168b1b8bc" />
+
 [Atari JaguarFlashback - The Quest for Identity (World) (En,Fr)](https://www.retrogames.cc/jaguar-games/flashback-the-quest-for-identity-world-en-fr.html)
 <img  alt="image" src="https://github.com/user-attachments/assets/c4743b48-3c78-4b53-8c32-1e5aceb1fe20" />
 
