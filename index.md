@@ -15,11 +15,23 @@ mathjax: true
   
 </picture>
 
-<iframe src="https://archive.org/embed/136339277" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
 [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 
-[Love Under New Management · Miki Howard](https://youtu.be/SReOKWeSKRM?list=RDSReOKWeSKRM) @nasa-jpl lana is starting to get outof the way, please giv her time, ill always support [virtiserv till iget an order from @nasa / @ussf-orbit](https://www.facebook.com/thevirtiservway/) she use instagram @newshour . . . i tried @gatech @caltech but she use instagram 
+_bouncingCats_
+```html
+`<iframe src="https://archive.org/embed/136339277" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+```
+
+
+[Love Under New Management · Miki Howard](https://youtu.be/SReOKWeSKRM?list=RDSReOKWeSKRM) @nasa-jpl lana is starting to get older ill always support [virtiserv till iget an order from @nasa / @ussf-orbit](https://www.facebook.com/thevirtiservway/) she use instagram @newshour . . . i tried @gatech @caltech but she use instagram 
+
+
+🔴 Makkah Live  المكرمه
+[`WATCH` - youtu.be/IGEHE6fw-3U](https://youtu.be/IGEHE6fw-3U)
+<img alt="image" src="https://github.com/user-attachments/assets/e59bf951-ecbd-46e9-85e3-3ec3282f8333" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/c0ff2b55-ff83-4cf5-bcd8-959ae197ace8" />
+
 
 # ምርጥ የጎንደር ዘፈኖች ስብስብ
 [`WATCH` - @nasa-jpl she on saturday night live but know the story @nbcnews @forAtlanta https://youtu.be/CAPJmS9T8Sg?list=RDCAPJmS9T8Sg&t=185](https://youtu.be/CAPJmS9T8Sg?list=RDCAPJmS9T8Sg&t=185) 
