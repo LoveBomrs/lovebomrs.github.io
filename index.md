@@ -21,10 +21,15 @@ mathjax: true
 [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 
 
-// [Rashan Ali Talks Growing Up In Decatur, GA, Tyler Perry, All The Queens Men, And Atlanta Music Scene @foratlanta ](https://youtu.be/CypOIqP_FUI?si=_5d7Cqzq6wMxiFnE) // [Healthcare Fraud Takedown Announcement October 2026 @usdoj](https://youtu.be/mfUy4YzABkc?t=25) // [10.22.26. Coco Jones Gracefully Responds to Racist Heckler](https://youtu.be/LcMe2VY_iHk?t=1)
+// [Rashan Ali Talks Growing Up In Decatur, GA, Tyler Perry, All The Queens Men, And Atlanta Music Scene @foratlanta ](https://youtu.be/CypOIqP_FUI?si=_5d7Cqzq6wMxiFnE) // [Healthcare Fraud Takedown Announcement October 2026 @usdoj](https://youtu.be/mfUy4YzABkc?t=25) // [10.22.26. Coco Jones Gracefully Responds to Racist Heckler](https://youtu.be/LcMe2VY_iHk?t=1) // [@NASA Digital Marketing - Interview with Veronica McGregor: Social Media Minute](https://youtu.be/arZVDCIC0S4?si=OAbFpPl5p9tQKCMu)
 
 
 # newws
+
+### Snow Tha Product Calls Out Trump Supporters
+, Former Management & Ice
+<img alt="image" src="https://github.com/user-attachments/assets/c5e37df6-036c-4afe-b80f-35589a4a4a33" />
+
 
 [watch - What Happens When The AI Grid Runs Out Of Power?](https://youtu.be/5rAeQ-GZ2OA?t=65)
 
