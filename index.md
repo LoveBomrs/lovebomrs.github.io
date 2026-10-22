@@ -23,7 +23,10 @@ _bouncingCats_
 ```
 
 
-[Love Under New Management · Miki Howard](https://youtu.be/SReOKWeSKRM?list=RDSReOKWeSKRM) @nasa-jpl lana is starting to get older ill always support [virtiserv till iget an order from @nasa / @ussf-orbit](https://www.facebook.com/thevirtiservway/) she use instagram @newshour . . . i tried @gatech @caltech but she use instagram 
+[@eosdis-nasa](https://youtu.be/2eL5kUn-b-k?t=34) hi im going to look at the chem fire in ohio, leaving the sandbox as suggested, i get it lana you are a groupie its cool
+<img  alt="image" src="https://github.com/user-attachments/assets/bf47e1ec-98c2-493d-8cba-84c5103ae43d" />
+
+[Love Under New Management · Miki Howard](https://youtu.be/SReOKWeSKRM?list=RDSReOKWeSKRM) @nasa-jpl lana is starting to get older ill always support [virtiserv till iget an order from @nasa / @ussf-orbit](https://www.facebook.com/thevirtiservway/) she use instagram @newshour . . . i tried @gatech @caltech but she use instagram [‘Proof’s in the pudding’: Fresh trouble for Ilhan Omar as DNA evidence collected in fraud probe]()
 
 
 🔴 Makkah Live  المكرمه
@@ -68,6 +71,7 @@ hi i dont know a safe way to talk to Lana anymore, past broken heart i have to l
 [@nasa-jpl](https://www.cyberworkforce.mil/DoD-8140/) cyberworkforce.mil/DoD-8140/ @t.i @v103 @KeishaforGA @BLACKGiRLSCODE
 <img  alt="image" src="https://github.com/user-attachments/assets/75d4bdf8-c15e-4785-98f0-fc548f8729ca" />
 
+[BLACKGiRLSCODE NASA-JPL @CiTYOFLOSANGELES](](https://youtu.be/2eL5kUn-b-k?t=34)) 
 
 [@nasa-jpl @blackgirlscode https://omar.house.gov/](https://omar.house.gov/) 
 ![https://omar.house.gov/sites/evo-subsites/omar-evo.house.gov/files/twocolorlogo.png background](https://omar.house.gov/sites/evo-subsites/omar-evo.house.gov/files/twocolorlogo.png) 
