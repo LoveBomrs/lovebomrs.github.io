@@ -13,7 +13,131 @@ mathjax: true
   
 </picture>
 
- [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
+[![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
+
+
+---
+
+[@nasa-jpl `Sponsor Me`? @eosdis-nasa - githubuniverse.com](https://githubuniverse.com/)  @Cityoflosangeles [ra5hard.github.io](ra5hard.github.io)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a4d99dfd-88f0-4623-9274-86711f174409" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/27ccefac-edc6-476b-8b9a-428592e4584e" />
+
+@forAtlanta hi im trying to get in touch with Keisha Bottoms im following @nasa / @deptofwar guidelines, like whatever went down over covid freaknik i am my own individual and not out to take down my spouse's sexual partners @github
+![https://githubuniverse.com/nav-logo-26.webp](https://githubuniverse.com/nav-logo-26.webp) 
+[https://www.retrogames.cc/arcade-games/riding-fight-ver-1-0a.html](https://www.retrogames.cc/arcade-games/riding-fight-ver-1-0a.html) // [Arcade - Rolling Thunder (rev 2)](https://www.retrogames.cc/arcade-games/rolling-thunder-rev-2.html)
+
+[<video controls loading="lazy" poster="https://static.wikia.nocookie.net/bubblegumcrisis/images/5/52/19107f5a-849e-4f01-b51d-9253be3c358e.jpg" src="https://ia601604.us.archive.org/30/items/dvdvolume_202509/DVDVolume.mp4" />](https://ia601604.us.archive.org/30/items/dvdvolume_202509/DVDVolume.mp4)
+
+
+[<video controls loading="lazy" poster="https://static.wikia.nocookie.net/bubblegumcrisis/images/5/52/19107f5a-849e-4f01-b51d-9253be3c358e.jpg" src="https://ia601604.us.archive.org/30/items/dvdvolume_202509/DVDVolume.mp4" />](https://ia601604.us.archive.org/30/items/dvdvolume_202509/DVDVolume.mp4)
+
+
+[@nasa-jpl](https://www.cyberworkforce.mil/DoD-8140/) cyberworkforce.mil/DoD-8140/ hi i dont know a safe way to talk to Lana anymore, past broken heart i have to log this for her safety, it dont sound right `3 days ago — Lana Harris, a news anchor for Atlanta News First, has announced she is leaving her on-air role. In a video, she shared that while she will miss` - [@tiktok I Quit Being A News Anchor Atlanta](https://www.tiktok.com/discover/i-quit-being-a-news-anchor-atlanta) @nasa-pds hi i am so bad with names and knowing you its unlikely that you have the same world as tiny.  /// [Everything You Need To Know About NASA's Roman Space Telescope](https://youtu.be/CDwemQH2zDU?si=F7cFS-J0iG9ymSwx) [Cyber Workforce FRAMEWORK @virtiserv @commercegov @nasa-jpl @cityoflosangeles @la-county-isd](https://dodcio.defense.gov/Cyber-Workforce/DCWF/) // [DoD 8140 Qualification Update: National Defense University](https://www.cyberworkforce.mil/About/News/News-Display/Article/4502163/dod-8140-qualification-update-national-defense-university/)
+
+
+![https://www.cyberworkforce.mil/portals/157/Images/seal/8140-seal-325px.png](https://www.cyberworkforce.mil/portals/157/Images/seal/8140-seal-325px.png) 
+![https://dodcio.defense.gov/Portals/0/DoD-Icon-simple.png?ver=twX85R9vCzEldBV9NkynlA%3d%3d](https://dodcio.defense.gov/Portals/0/DoD-Icon-simple.png?ver=twX85R9vCzEldBV9NkynlA%3d%3d) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/bdacba26-4aed-4c7f-aa9d-d5a990f0cae5" />
+
+
+
+
+[Queen Latifah, Yo-Yo, TLC, MC Lyte, Nefertiti, Salt-N-Pepa, Patra, Meshell Ndegeocello - Freedom @nasa-pds](https://youtu.be/qxyxqVDjSzs?list=RDqxyxqVDjSzs&t=117) // [Big Boi - Shine Blockas ft. Gucci Mane](https://youtu.be/3GK23f_xtZY?list=RDqxyxqVDjSzs&t=21) // [Goodie Mob - Black Ice ](https://youtu.be/F9ULbmCvmxY?list=RDqxyxqVDjSzs) // [Makaveli - To Live & Die In L.A. (Official Music Video) @cityoflosangeles _Mayor Karen Bass_ For MAyor 2026 `MostCovidParties` @bbc](https://youtu.be/fDjMSiECbgg?list=RDqxyxqVDjSzs&t=169) //  [The High & Mighty feat. Mos Def & Mad Skillz "B-Boy Document 99"](https://youtu.be/21uOvcK__M0?list=RDqxyxqVDjSzs&t=19) // [Chlöe - Live at Blue Note Los Angeles (Full Show)](https://youtu.be/5nEZbH9nsA4?list=RD5nEZbH9nsA4) // 
+
+---
+
+
+
+![https://opus.pds-rings.seti.org/holdings/previews/COUVIS_0xxx/COUVIS_0001/DATA/D1999_230/FUV1999_230_09_27_full.png](https://opus.pds-rings.seti.org/holdings/previews/COUVIS_0xxx/COUVIS_0001/DATA/D1999_230/FUV1999_230_09_27_full.png) 
+
+### @ForAtlanta @nasa @usdoj @rashardikelly 
+[@blackgirlscode](https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000600320004-3.pdf) at times [@cia @lacountyDPH.gov/readingroom/docs/CIA-RDP96-00792R000600320004-3.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000600320004-3.pdf)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/e6996409-f6db-489e-ac49-7f035ebbf8d4" />
+
+[https://www.cia.gov/readingroom/search/site/DST-1810S-387-75](https://www.cia.gov/readingroom/search/site/DST-1810S-387-75)
+<img alt="image" src="https://github.com/user-attachments/assets/31c6a158-ca3a-43a7-ad70-d249f99c24f0" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/0254c9cf-fb02-4cef-a027-cf6013d49f52" />
+
+<img alt="goeswestabifulldisk-ntmicroadvanced-sOct 21, 2026 - 23_00 UTC-eOct 22, 2026 - 02_10 UTC" src="https://github.com/user-attachments/assets/b5119aef-f688-439d-b9bc-415e20a5a2d7" />
+
+
+@ABCNEWS @CiTYOFLOSANGELES we gotta get a good solution to `@abcnews` @cbs-news-data they not on this map its illegal from that unit [https://weather.ndc.nasa.gov/sport/viewer/?dataset=goeswestabifulldisk&product=10p35um](https://weather.ndc.nasa.gov/sport/viewer/?dataset=goeswestabifulldisk&product=10p35um)
+<img alt="goeswestabifulldisk-10p35um-sOct 21, 2026 - 23_00 UTC-eOct 22, 2026 - 02_10 UTC" src="https://github.com/user-attachments/assets/20b40388-0c2f-4c8e-9a45-a40a147d496f" />
+
+@NBCNEWS GOES East ABI: CONUS [@NASA-JPL @EOSDIS-NASA https://weather.ndc.nasa.gov/sport/viewer/?dataset=goeseastabiconus&product=10p35um](https://weather.ndc.nasa.gov/sport/viewer/?dataset=goeseastabiconus&product=10p35um)
+<img   alt="goeseastabiconus-10p35um-sOct 22, 2026 - 00_41 UTC-eOct 22, 2026 - 02_16 UTC" src="https://github.com/user-attachments/assets/dbb0eaf1-7184-4d3c-a589-645755a2d290" />
+
+# Inside [Pete Hegseth](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)’s Secret Mission To Israel
+[`WATCH` - https://youtu.be/pltXs4LTU9s?t=276](https://youtu.be/pltXs4LTU9s?t=276)
+
+<img alt="image" src="https://github.com/user-attachments/assets/76ac1f03-a588-45b1-9a46-36d48d59a750" />
+
+[Atari Jaguar  - Pitfall - The Mayan Adventure (World) @cITYoFsANTAmONICA @NASA-JPL](https://www.retrogames.cc/jaguar-games/pitfall-the-mayan-adventure-world.html)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/f2e2de5d-ce3e-49d0-9ed7-c590c1cf6796" />
+
+[Atari JaguarRayman (World)](https://www.retrogames.cc/jaguar-games/rayman-world.html)
+<img  alt="image" src="https://github.com/user-attachments/assets/2010ad93-6a62-494c-9077-526d5b9e1a32" />
+<img alt="image" src="https://github.com/user-attachments/assets/d7aaecce-e42e-49f4-b139-0e9b50a924f5" />
+
+[@cITYoFsANTAmONICA jaguar-games/rayman-world.html ](https://www.retrogames.cc/jaguar-games/rayman-world.html)
+<img   alt="image" src="https://github.com/user-attachments/assets/14b70a95-d6e2-4d35-9c83-c54df3f8382a" />
+
+
+[Atari Jaguar - Alien vs Predator (World)](https://www.retrogames.cc/jaguar-games/alien-vs-predator-world.html)
+<img  alt="image" src="https://github.com/user-attachments/assets/65d1191a-c146-4b32-a723-f34d11ca57ff" />
+
+![https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Atari_Jaguar_logo.svg/3840px-Atari_Jaguar_logo.svg.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Atari_Jaguar_logo.svg/3840px-Atari_Jaguar_logo.svg.png) 
+
+U.S. Central Command Civilian Harm Report
+ [@cityoflosangeles @FEMA _KarenbASS_ @LA-County-isd www3.centcom.mil/civiliancasualtyreporting) @blackgirlscode @foratlanta @bbc](https://www3.centcom.mil/civiliancasualtyreporting)
+ re violence against fathers
+
+U.S. Central Command takes all reports of civilian harm seriously and maintains processes to conduct thorough assessments using all available information that may factor into findings. Please include the date and location of the incident, as well as any other details that can help the assessment. If you don't have an e-mail address, ensure a phone number is provided so we can reach you: ![https://www.centcom.mil/Portals/6/Official_CENTCOM_Seal.png](https://www.centcom.mil/Portals/6/Official_CENTCOM_Seal.png) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/e2f7fbec-c367-46ee-8905-f9aba07c5923" />
+
+![https://media.defense.gov/2025/Jan/28/2003633313/825/780/0/250127-D-TT977-1051.JPG](https://media.defense.gov/2025/Jan/28/2003633313/825/780/0/250127-D-TT977-1051.JPG) 
+
+Readout of Secretary of War Pete Hegeth's Meeting With His Excellency Dr. Mohamed Irfaan Ali, the President and Commander-in-Chief of the Co-operative Republic of Guyana [@deptofwar war.gov/News/Releases/Release/Article/4631060/readout-of-secretary-of-war-pete-hegeths-meeting-with-his-excellency-dr-mohamed/](https://www.war.gov/News/Releases/Release/Article/4631060/readout-of-secretary-of-war-pete-hegeths-meeting-with-his-excellency-dr-mohamed/)
+<img alt="image" src="https://github.com/user-attachments/assets/cb048fe0-aa74-4309-91eb-78d97e5540e7" />
+
+[@nasa-jpl don't hurt me @blackgirlscode Atari Jaguar - White Men Can't Jump (World)](https://www.retrogames.cc/jaguar-games/white-men-can-t-jump-world.html)
+![https://static.wikia.nocookie.net/gamia_gamepedia_en/images/6/6d/White_men_cant_jump.jpg](https://static.wikia.nocookie.net/gamia_gamepedia_en/images/6/6d/White_men_cant_jump.jpg) 
+
+[Atari JaguarTempest 2000 (World)](https://www.retrogames.cc/jaguar-games/tempest-2000-world.html)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/11b7dd11-e7d6-43d2-a27e-87ca8fdacbc5" />
+
+[Makaveli - To Live & Die In L.A. (Official Music Video) @cityoflosangeles _Mayor Karen Bass For MAyor 2026 `MostCovidParties @usatoday](https://youtu.be/fDjMSiECbgg?list=RDqxyxqVDjSzs&t=169)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4b6b4438-91eb-4ea1-ac8b-81a168b1b8bc" />
+
+[Atari JaguarFlashback - The Quest for Identity (World) (En,Fr)](https://www.retrogames.cc/jaguar-games/flashback-the-quest-for-identity-world-en-fr.html)
+<img  alt="image" src="https://github.com/user-attachments/assets/c4743b48-3c78-4b53-8c32-1e5aceb1fe20" />
+
+
+ @whitehouse, idk if anyone on but please tell [Lana J HArris @Commercegov @Blackgirlscode](https://www.facebook.com/lanaonlocation/reels/) I'm going to take a break to play a few games to clear my head real quick , like ~10min before I suffer your gossip bit - @rashardikelly @nasa-jpl @eosdis-nasa 
+[Queen Latifah, Yo-Yo, TLC, MC Lyte, Nefertiti, Salt-N-Pepa, Patra, Meshell Ndegeocello - Freedom ](https://youtu.be/qxyxqVDjSzs?list=RDqxyxqVDjSzs&t=183)
+
+ <img  alt="image" src="https://github.com/user-attachments/assets/6c4cac38-5ac6-48d6-a520-90a96d92c75d" />
+
+
+<img  alt="GIOVANNI-outputij3Vfhd2" src="https://github.com/user-attachments/assets/1f0d65c3-efda-4904-84d4-1579ac4c4b8a" />
+
+<img   alt="GIOVANNI-outputJ2BmiWI5" src="https://github.com/user-attachments/assets/7e851ac7-1e23-4673-8621-9e903957ce0d" />
+
+[Near Mogadishu](https://search.earthdata.nasa.gov/search/granules?p=C2763266360-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G2821036915-LPCLOUD&ff=Map%20Imagery&lat=1.5&long=45.547919329501916&zoom=8.518957754126149)
+##### @NASA Shuttle Radar Topography Mission Global 1 arc second V003 _N01E045.SRTMGL1.2.jpg_
+<img   alt="N01E045 SRTMGL1 2" src="https://github.com/user-attachments/assets/248d763d-99fe-454a-aaab-fd6781f01f72" />
+
+[@nasa-jpl @foratlanta](https://www.lapl.org/)
+<img  alt="image" src="https://github.com/user-attachments/assets/94ef2aa4-0b0e-440f-91f6-8d44c52c08a5" />
 
 <img alt="ECOv002_L3T_JET_46806_016_11SKT_20261007T000922_0713_01 (1) 
 Behavior Crime, Aggression in Sexuality for Holly Mitchell KEisha Bottoms Karen Bass and Mrs Newsom
