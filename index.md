@@ -3,6 +3,9 @@ layout: default
 mathjax: true
 ---
 
+<iframe src="https://archive.org/embed/136339277" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   
   <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
@@ -23,7 +26,6 @@ mathjax: true
 [Rep. Ilhan Omar addresses marriage, immigration fraud claims](https://www.msn.com/en-us/news/other/rep-ilhan-omar-addresses-marriage-immigration-fraud-claims/ar-AA2fMcrA?ocid=hpmsn&cvid=6ada5e4041c94cea990f69c8db185b49&ei=10)
 
 
-<iframe src="https://archive.org/embed/136339277" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [https://archive.org/details/arcade_aburner2](https://archive.org/details/arcade_aburner2)
 <img  alt="image" src="https://github.com/user-attachments/assets/17030a06-a1a8-4596-ac25-e6264b73aab8" />
