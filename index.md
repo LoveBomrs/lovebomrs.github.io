@@ -24,6 +24,15 @@ mathjax: true
 // [Rashan Ali Talks Growing Up In Decatur, GA, Tyler Perry, All The Queens Men, And Atlanta Music Scene @foratlanta ](https://youtu.be/CypOIqP_FUI?si=_5d7Cqzq6wMxiFnE) // [Healthcare Fraud Takedown Announcement October 2026 @usdoj](https://youtu.be/mfUy4YzABkc?t=25)
 
 
+# newws
+[`watch` - Six Flags Roller Coaster Incident, ICE Building Fire & Jail Lawsuit](https://youtu.be/Xj7YiBWrsWU) // 
+[`watch` - Vigil held for Clark Atlanta student killed in crash @FEMA @NASA-JPL](https://youtu.be/FE41fFi7H1E?si=QKP8nmOze4OUHbyu)
+<img   alt="image" src="https://github.com/user-attachments/assets/44b84631-0eb8-46ee-b7b9-d93e5b512560" />
+
+hi i dont know a safe way to talk to Lana anymore, past broken heart i have to log this for her safety, it dont sound right `3 days ago — Lana Harris, a news anchor for Atlanta News First, has announced she is leaving her on-air role. In a video, she shared that while she will miss` - [@tiktok I Quit Being A News Anchor Atlanta](https://www.tiktok.com/discover/i-quit-being-a-news-anchor-atlanta) @nasa-pds hi i am so bad with names and knowing you its unlikely that you have the same world as tiny.  /// [Everything You Need To Know About NASA's Roman Space Telescope](https://youtu.be/CDwemQH2zDU?si=F7cFS-J0iG9ymSwx) [Cyber Workforce FRAMEWORK @virtiserv @commercegov @nasa-jpl @cityoflosangeles @la-county-isd](https://dodcio.defense.gov/Cyber-Workforce/DCWF/) // [DoD 8140 Qualification Update: National Defense University](https://www.cyberworkforce.mil/About/News/News-Display/Article/4502163/dod-8140-qualification-update-national-defense-university/) @SupervisorLindseyP.Horvath @SupervisorHollyJMitchell
+ - rashard @Lanajharris hi im sorry im not normal, i bit off something too big for me, i feel too isolated anyway ... @PrettyHustleChannel im on a reduced load @NASAJPL healing, im not mad at her, im just sick from separation 
+[@nasa-jpl](https://www.cyberworkforce.mil/DoD-8140/) cyberworkforce.mil/DoD-8140/ @t.i @v103 @KeishaforGA @BLACKGiRLSCODE
+<img  alt="image" src="https://github.com/user-attachments/assets/75d4bdf8-c15e-4785-98f0-fc548f8729ca" />
 
 
 [@nasa-jpl @blackgirlscode https://omar.house.gov/](https://omar.house.gov/) 
