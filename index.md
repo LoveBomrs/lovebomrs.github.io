@@ -25,6 +25,11 @@ mathjax: true
 
 
 # newws
+
+[watch - What Happens When The AI Grid Runs Out Of Power?](https://youtu.be/5rAeQ-GZ2OA?t=65)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0cb047e6-209e-49d4-b370-70d40085d887" />
+
 [`watch` - Six Flags Roller Coaster Incident, ICE Building Fire & Jail Lawsuit](https://youtu.be/Xj7YiBWrsWU) // 
 [`watch` - Vigil held for Clark Atlanta student killed in crash @FEMA @NASA-JPL](https://youtu.be/FE41fFi7H1E?si=QKP8nmOze4OUHbyu)
 <img   alt="image" src="https://github.com/user-attachments/assets/44b84631-0eb8-46ee-b7b9-d93e5b512560" />
