@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2010ad93-6a62-494c-9077-526d5b9e1a32" />---
+---
 layout: default
 mathjax: true
 ---
@@ -30,6 +30,7 @@ mathjax: true
 <img   alt="image" src="https://github.com/user-attachments/assets/f2e2de5d-ce3e-49d0-9ed7-c590c1cf6796" />
 
 [Atari JaguarRayman (World)](https://www.retrogames.cc/jaguar-games/rayman-world.html)
+<img  alt="image" src="https://github.com/user-attachments/assets/2010ad93-6a62-494c-9077-526d5b9e1a32" />
 <img alt="image" src="https://github.com/user-attachments/assets/d7aaecce-e42e-49f4-b139-0e9b50a924f5" />
 
 [@cITYoFsANTAmONICA ](https://www.retrogames.cc/jaguar-games/rayman-world.html)
