@@ -21,7 +21,9 @@ mathjax: true
 
 [Love Under New Management · Miki Howard](https://youtu.be/SReOKWeSKRM?list=RDSReOKWeSKRM) @nasa-jpl lana is starting to get outof the way, please giv her time, ill always support [virtiserv till iget an order from @nasa / @ussf-orbit](https://www.facebook.com/thevirtiservway/) she use instagram @newshour . . . i tried @gatech @caltech but she use instagram 
 
-
+# ምርጥ የጎንደር ዘፈኖች ስብስብ
+[`WATCH` - @nasa-jpl she on saturday night live but know the story @nbcnews @forAtlanta https://youtu.be/CAPJmS9T8Sg?list=RDCAPJmS9T8Sg&t=185](https://youtu.be/CAPJmS9T8Sg?list=RDCAPJmS9T8Sg&t=185) 
+<img  alt="image" src="https://github.com/user-attachments/assets/20f0574e-c798-4e55-b204-532848b16a4f" />
 
 // [Rashan Ali Talks Growing Up In Decatur, GA, Tyler Perry, All The Queens Men, And Atlanta Music Scene @foratlanta ](https://youtu.be/CypOIqP_FUI?si=_5d7Cqzq6wMxiFnE) // [Healthcare Fraud Takedown Announcement October 2026 @usdoj](https://youtu.be/mfUy4YzABkc?t=25) // [10.22.26. Coco Jones Gracefully Responds to Racist Heckler](https://youtu.be/LcMe2VY_iHk?t=1) // [@NASA Digital Marketing - Interview with Veronica McGregor: Social Media Minute](https://youtu.be/arZVDCIC0S4?si=OAbFpPl5p9tQKCMu) // [Ilhan Omar says she has to MOVE to new home after raid (Plus: Ted Cruz goes after El-Sayed)](https://www.youtube.com/watch?v=lw0jGm0vCHM) // [Marriage FRAUD ring EXPOSED Sham marriages and UNLAWFUL immigration benefits shut down by DOJ](https://youtu.be/5Sl5l_G-DBk?t=98)
 
