@@ -25,7 +25,9 @@ mathjax: true
 <img alt="image" src="https://github.com/user-attachments/assets/76ac1f03-a588-45b1-9a46-36d48d59a750" />
 
 [Atari Jaguar - Alien vs Predator (World)](https://www.retrogames.cc/jaguar-games/alien-vs-predator-world.html)
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/65d1191a-c146-4b32-a723-f34d11ca57ff" />
+<img  alt="image" src="https://github.com/user-attachments/assets/65d1191a-c146-4b32-a723-f34d11ca57ff" />
+
+![https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Atari_Jaguar_logo.svg/3840px-Atari_Jaguar_logo.svg.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Atari_Jaguar_logo.svg/3840px-Atari_Jaguar_logo.svg.png) 
 
 U.S. Central Command Civilian Harm Report
  [@cityoflosangeles @FEMA _KarenbASS_ @LA-County-isd www3.centcom.mil/civiliancasualtyreporting) @blackgirlscode @foratlanta @bbc](https://www3.centcom.mil/civiliancasualtyreporting)
