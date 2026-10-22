@@ -26,7 +26,7 @@ mathjax: true
 
 # newws
 
-[`WATCH` - Artificial Sunlight In Space & Hyper-Realistic AI Tech @nasa-pds @nasa-jpl](https://youtu.be/7AUFRPlNDPU?si=WF6B8K2PsDe1DGie)
+[`WATCH` - Artificial Sunlight In Space & Hyper-Realistic AI Tech @nasa-pds @nasa-jpl @CityOfLosAngeles ](https://youtu.be/7AUFRPlNDPU?si=WF6B8K2PsDe1DGie)
 <img  alt="image" src="https://github.com/user-attachments/assets/36490bde-7526-42ec-b3dd-d9d1a4308806" />
 
 
