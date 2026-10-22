@@ -28,6 +28,8 @@ mathjax: true
 
 ### Snow Tha Product Calls Out Trump Supporters
 , Former Management & Ice
+[`WATCH` - https://youtu.be/yMKEsEyoark](https://youtu.be/yMKEsEyoark)
+[locator.ice.gov/odls/#/search @SnowThaProduct  hi #rashard @NASAJPL](https://locator.ice.gov/odls/#/search)
 <img alt="image" src="https://github.com/user-attachments/assets/c5e37df6-036c-4afe-b80f-35589a4a4a33" />
 
 
