@@ -20,6 +20,9 @@ mathjax: true
 
  [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 
+[Atari JaguarFlashback - The Quest for Identity (World) (En,Fr)](https://www.retrogames.cc/jaguar-games/flashback-the-quest-for-identity-world-en-fr.html)
+<img  alt="image" src="https://github.com/user-attachments/assets/c4743b48-3c78-4b53-8c32-1e5aceb1fe20" />
+
 
  @whitehouse, idk if anyone on but please tell [Lana J HArris @Commercegov @Blackgirlscode](https://www.facebook.com/lanaonlocation/reels/) I'm going to take a break to play a few games to clear my head real quick , like ~10min before I suffer your gossip bit - @rashardikelly @nasa-jpl @eosdis-nasa 
 [Queen Latifah, Yo-Yo, TLC, MC Lyte, Nefertiti, Salt-N-Pepa, Patra, Meshell Ndegeocello - Freedom ](https://youtu.be/qxyxqVDjSzs?list=RDqxyxqVDjSzs&t=183)
