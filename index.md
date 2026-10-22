@@ -20,6 +20,16 @@ mathjax: true
 
 [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 
+### @ForAtlanta @nasa @usdoj @rashardikelly 
+[@blackgirlscode](https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000600320004-3.pdf) at times [@cia @lacountyDPH.gov/readingroom/docs/CIA-RDP96-00792R000600320004-3.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000600320004-3.pdf)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/e6996409-f6db-489e-ac49-7f035ebbf8d4" />
+
+[https://www.cia.gov/readingroom/search/site/DST-1810S-387-75](https://www.cia.gov/readingroom/search/site/DST-1810S-387-75)
+<img alt="image" src="https://github.com/user-attachments/assets/31c6a158-ca3a-43a7-ad70-d249f99c24f0" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/0254c9cf-fb02-4cef-a027-cf6013d49f52" />
+
 <img alt="goeswestabifulldisk-ntmicroadvanced-sOct 21, 2026 - 23_00 UTC-eOct 22, 2026 - 02_10 UTC" src="https://github.com/user-attachments/assets/b5119aef-f688-439d-b9bc-415e20a5a2d7" />
 
 
