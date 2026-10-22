@@ -16,6 +16,15 @@ mathjax: true
 [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 
 
+
+
+<iframe src="https://archive.org/embed/136339277" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[https://archive.org/details/arcade_aburner2](https://archive.org/details/arcade_aburner2)
+<img  alt="image" src="https://github.com/user-attachments/assets/17030a06-a1a8-4596-ac25-e6264b73aab8" />
+
+
+
 ---
 
 [@nasa-jpl `Sponsor Me`? @eosdis-nasa - githubuniverse.com](https://githubuniverse.com/)  @Cityoflosangeles [ra5hard.github.io](ra5hard.github.io)
@@ -28,11 +37,33 @@ mathjax: true
 ![https://githubuniverse.com/nav-logo-26.webp](https://githubuniverse.com/nav-logo-26.webp) 
 [https://www.retrogames.cc/arcade-games/riding-fight-ver-1-0a.html](https://www.retrogames.cc/arcade-games/riding-fight-ver-1-0a.html) // [Arcade - Rolling Thunder (rev 2)](https://www.retrogames.cc/arcade-games/rolling-thunder-rev-2.html)
 
-[<video controls loading="lazy" poster="https://static.wikia.nocookie.net/bubblegumcrisis/images/5/52/19107f5a-849e-4f01-b51d-9253be3c358e.jpg" src="https://ia601604.us.archive.org/30/items/dvdvolume_202509/DVDVolume.mp4" />](https://ia601604.us.archive.org/30/items/dvdvolume_202509/DVDVolume.mp4)
+
+### After Burner II (アフターバーナーII?)
+[link](https://sega.fandom.com/wiki/After_Burner_II) [`play` - archive.org/details/arcade_aburner2](https://archive.org/details/arcade_aburner2) // [After Burner II – Developer Interviews](https://shmuplations.com/afterburner/) // @USNAVY @nasa [https://www.arcade-museum.com/Videogame/after-burner-ii](https://www.arcade-museum.com/Videogame/after-burner-ii)
 
 
-[<video controls loading="lazy" poster="https://static.wikia.nocookie.net/bubblegumcrisis/images/5/52/19107f5a-849e-4f01-b51d-9253be3c358e.jpg" src="https://ia601604.us.archive.org/30/items/dvdvolume_202509/DVDVolume.mp4" />](https://ia601604.us.archive.org/30/items/dvdvolume_202509/DVDVolume.mp4)
 
+[<video controls loading="lazy" poster="https://www.arcade-museum.com/images-game/47/after-burner-ii-47127.jpg" src="https://dn600300.us.archive.org/0/items/screen-recording-2024-07-22-12.43.01-pm/SegaAfterBurner2webAssemblyGoogleChromeRecording2026-10-22lanaJharrisisLatrice111342.mp4" />](https://dn600300.us.archive.org/0/items/screen-recording-2024-07-22-12.43.01-pm/SegaAfterBurner2webAssemblyGoogleChromeRecording2026-10-22lanaJharrisisLatrice111342.mp4)
+
+![https://shmuplations.com/wp-content/uploads/2021/12/afterburner06.jpg](https://shmuplations.com/wp-content/uploads/2021/12/afterburner06.jpg) 
+
+![https://images.launchbox-app.com/bd4ff013-5b3e-4a7a-8027-91e920b7ff22.jpg](https://images.launchbox-app.com/bd4ff013-5b3e-4a7a-8027-91e920b7ff22.jpg) 
+
+![https://www.arcade-museum.com/images-game/47/after-burner-ii-47127.jpg](https://www.arcade-museum.com/images-game/47/after-burner-ii-47127.jpg) 
+
+@whitehouse @foratlanta @nasa-jpl HR just notes for things in eyes.nasa.gov there is something not congifured, but i dont have time its in the text fikles [@blackgirlscode @webassembly](https://developer.mozilla.org/en-US/docs/WebAssembly) so the poster is not from my session `https://dn600300.us.archive.org/0/items/screen-recording-2024-07-22-12.43.01-pm/NamcoRidgeRacer2webAssemblyGoogleChromeRecording2026-10-22lanaJharrisisLatrice111342.mp4`
+### Namco System 22 [ridgeracer.fandom.com/wiki/Namco_System_22](https://ridgeracer.fandom.com/wiki/Namco_System_22)
+[Namco System 22 Ridge Racer 2 issue](https://forums.arcade-museum.com/threads/namco-system-22-ridge-racer-2-issue.467554/)
+[wiki](https://en.wikipedia.org/wiki/Ridge_Racer_2) /// [https://www.system16.com/hardware.php?id=537](https://www.system16.com/hardware.php?id=537) // [https://namco.fandom.com/wiki/Namco_System_22](https://namco.fandom.com/wiki/Namco_System_22) 
+![https://thumb.wikimedia.org/wikipedia/en/thumb/6/64/Ridge_Racer_2_Flyer.png/250px-Ridge_Racer_2_Flyer.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail](https://thumb.wikimedia.org/wikipedia/en/thumb/6/64/Ridge_Racer_2_Flyer.png/250px-Ridge_Racer_2_Flyer.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail) 
+[<video controls loading="lazy" poster="https://www.system16.com/screens/ridgeracer2_a.png" src="https://dn600300.us.archive.org/0/items/screen-recording-2024-07-22-12.43.01-pm/NamcoRidgeRacer2webAssemblyGoogleChromeRecording2026-10-22lanaJharrisisLatrice111342.mp4" />](https://dn600300.us.archive.org/0/items/screen-recording-2024-07-22-12.43.01-pm/NamcoRidgeRacer2webAssemblyGoogleChromeRecording2026-10-22lanaJharrisisLatrice111342.mp4)
+
+[gamoover.net/Forums/index.php?topic=44493.0](https://www.gamoover.net/Forums/index.php?topic=44493.0)
+[gamoovernet.pixhotel.fr/pics/v2/2023/02/23/20230223203838-Little_Rabbit-RideRacerDeluxe3screens.jpeg](https://gamoovernet.pixhotel.fr/pics/v2/2023/02/23/20230223203838-Little_Rabbit-RideRacerDeluxe3screens.jpeg)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/c0046f4a-ce8e-4d7e-9043-a3af3fcb15d3" />
+
+![https://static.wikia.nocookie.net/namco/images/1/16/Sys22_point_rom_pcb_01.jpg](https://static.wikia.nocookie.net/namco/images/1/16/Sys22_point_rom_pcb_01.jpg) 
 
 [@nasa-jpl](https://www.cyberworkforce.mil/DoD-8140/) cyberworkforce.mil/DoD-8140/ hi i dont know a safe way to talk to Lana anymore, past broken heart i have to log this for her safety, it dont sound right `3 days ago — Lana Harris, a news anchor for Atlanta News First, has announced she is leaving her on-air role. In a video, she shared that while she will miss` - [@tiktok I Quit Being A News Anchor Atlanta](https://www.tiktok.com/discover/i-quit-being-a-news-anchor-atlanta) @nasa-pds hi i am so bad with names and knowing you its unlikely that you have the same world as tiny.  /// [Everything You Need To Know About NASA's Roman Space Telescope](https://youtu.be/CDwemQH2zDU?si=F7cFS-J0iG9ymSwx) [Cyber Workforce FRAMEWORK @virtiserv @commercegov @nasa-jpl @cityoflosangeles @la-county-isd](https://dodcio.defense.gov/Cyber-Workforce/DCWF/) // [DoD 8140 Qualification Update: National Defense University](https://www.cyberworkforce.mil/About/News/News-Display/Article/4502163/dod-8140-qualification-update-national-defense-university/)
 
