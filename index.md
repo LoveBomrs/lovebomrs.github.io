@@ -3,7 +3,6 @@ layout: default
 mathjax: true
 ---
 
-<iframe src="https://archive.org/embed/136339277" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
@@ -16,9 +15,12 @@ mathjax: true
   
 </picture>
 
-
+<iframe src="https://archive.org/embed/136339277" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
+
+[Love Under New Management · Miki Howard](https://youtu.be/SReOKWeSKRM?list=RDSReOKWeSKRM) @nasa-jpl lana is starting to get outof the way, please giv her time, ill always support [virtiserv till iget an order from @nasa / @ussf-orbit](https://www.facebook.com/thevirtiservway/) she use instagram @newshour . . . i tried @gatech @caltech but she use instagram 
+
 
 
 // [Rashan Ali Talks Growing Up In Decatur, GA, Tyler Perry, All The Queens Men, And Atlanta Music Scene @foratlanta ](https://youtu.be/CypOIqP_FUI?si=_5d7Cqzq6wMxiFnE) // [Healthcare Fraud Takedown Announcement October 2026 @usdoj](https://youtu.be/mfUy4YzABkc?t=25) // [10.22.26. Coco Jones Gracefully Responds to Racist Heckler](https://youtu.be/LcMe2VY_iHk?t=1) // [@NASA Digital Marketing - Interview with Veronica McGregor: Social Media Minute](https://youtu.be/arZVDCIC0S4?si=OAbFpPl5p9tQKCMu) // [Ilhan Omar says she has to MOVE to new home after raid (Plus: Ted Cruz goes after El-Sayed)](https://www.youtube.com/watch?v=lw0jGm0vCHM) // [Marriage FRAUD ring EXPOSED Sham marriages and UNLAWFUL immigration benefits shut down by DOJ](https://youtu.be/5Sl5l_G-DBk?t=98)
