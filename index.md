@@ -18,6 +18,17 @@ mathjax: true
 🎼📻 [Guilty Simpson - Man's World](https://youtu.be/VEDBFzDnIRM?list=RDVEDBFzDnIRM) // [Petty People · Sadat X](https://youtu.be/rKV9xM8f5yI?si=Cd72wzSI16zJTTuJ) // [Aaliyah Tribute: Normani - Rock The Boat](https://youtu.be/2Rf_XHe6Ztc?list=RD2Rf_XHe6Ztc&t=15)  // [Love Under New Management · Miki Howard](https://youtu.be/SReOKWeSKRM?list=RDSReOKWeSKRM)  // 🎤🎵 // [Rapture  - Anita Baker `1986`](https://youtu.be/jqZjsscpj1E?si=tt11H84j3jke7a7U) // [Friends And Strangers · Ronnie Laws `1977`](https://youtu.be/nRCun0fCr_U) // [Life In Paradise · Ronnie Laws](https://youtu.be/gm32Ev5muTU) // [Ronnie Laws ~ Flame🔥🔥🔥](https://youtu.be/-1K8rFKk7zc?list=RD-1K8rFKk7zc)
 
 
+![https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/landsat-10/landsat_timeline_May2026.png?w=2048&h=1150&fit=clip&crop=faces%2Cfocalpoint](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/landsat-10/landsat_timeline_May2026.png?w=2048&h=1150&fit=clip&crop=faces%2Cfocalpoint)
+@CiTYOFLOSANGELES hi @STATEOFCALiFORNAiA @doug-newman-nasa 
+
+Emergency Response Imagery: [Long Beach District MAp @CityOfLosAngeles @CityOFSantaMonica](https://www.longbeach.gov/globalassets/ti/media-library/documents/resources/map-catalog/council_small_8.5x11l_photos) /// MALiBU : Kelsey Pettijohn
+City ClerK [Pettijohn@malibucity.org](mailto:Pettijohn@malibucity.org)
+[@HollyJMitchell@bos.lacounty.gov @la-county-isd @LACMTA ](mailto:@HollyJMitchell@bos.lacounty.gov)  can u fwd to mayor bass im trying to get longgbeach covered @ksc-nasa-social@mail.nasa.gov  @Gordon, Seth W (JPL-5145)[JPL Employee]  hi ! i dont want to step on anyones toes in case its filed under nasa, however BelmonT Shore and Malibu need coverage
+_@Landsat 10 Mission Details_ [`READ`](https://science.nasa.gov/mission/landsat-10/mission-details/)
+![https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/media/images/2026-05-8461-Landsat%20_Missions_timeline_graphic.png?itok=JhMkATIA](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/media/images/2026-05-8461-Landsat%20_Missions_timeline_graphic.png?itok=JhMkATIA)
+
+<img alt="image" src="https://github.com/user-attachments/assets/a2125462-e8c3-4def-91e0-372066619b85" />
+
 
 
 [@nasa-jpl longbeach.gov/globalassets/ti/media-library/documents/resources/map-catalog/council_small_8.5x11l_photos](https://www.longbeach.gov/globalassets/ti/media-library/documents/resources/map-catalog/council_small_8.5x11l_photos) 
