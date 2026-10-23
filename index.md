@@ -17,6 +17,23 @@ mathjax: true
 
 🎼📻 [Guilty Simpson - Man's World](https://youtu.be/VEDBFzDnIRM?list=RDVEDBFzDnIRM) // [Petty People · Sadat X](https://youtu.be/rKV9xM8f5yI?si=Cd72wzSI16zJTTuJ) // [Aaliyah Tribute: Normani - Rock The Boat](https://youtu.be/2Rf_XHe6Ztc?list=RD2Rf_XHe6Ztc&t=15)  // [Love Under New Management · Miki Howard](https://youtu.be/SReOKWeSKRM?list=RDSReOKWeSKRM)  // 🎤🎵 // [Rapture  - Anita Baker `1986`](https://youtu.be/jqZjsscpj1E?si=tt11H84j3jke7a7U) // [Friends And Strangers · Ronnie Laws `1977`](https://youtu.be/nRCun0fCr_U) // [Life In Paradise · Ronnie Laws](https://youtu.be/gm32Ev5muTU) // [Ronnie Laws ~ Flame🔥🔥🔥](https://youtu.be/-1K8rFKk7zc?list=RD-1K8rFKk7zc)
 
+
+# Lrads 
+
+
+[`WATCH` - LRAD vs "Volunteers" - Field Test](https://youtu.be/Gi3WBwR8yeo)
+
+<img alt="image" src="https://github.com/user-attachments/assets/6b60a237-ee94-4e34-b58f-c10221bf43e9" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0abc6607-3890-4a0e-a97c-f692740cc5fd" />
+
+
+[maximumrocknroll.com/wp-content/uploads/2020/06/LRADS.pdf](https://www.maximumrocknroll.com/wp-content/uploads/2020/06/LRADS.pdf)
+<img alt="image" src="https://github.com/user-attachments/assets/a683bf1c-413b-4bae-84f2-a53404cdba94" />
+
+
+![https://prd-sc102-cdn.rtx.com/-/media/themes/raytheon-technologies/rtx-shared/rtx-theme/images/rtx_logo.svg?rev=57e660dbd2ee4ef6895a84799210c5bf&rid=a5829bdc17c74537842441a8a1b055f2&w=354&hash=8D05565DA9D752EAC71DCCB8C57E972A](https://prd-sc102-cdn.rtx.com/-/media/themes/raytheon-technologies/rtx-shared/rtx-theme/images/rtx_logo.svg?rev=57e660dbd2ee4ef6895a84799210c5bf&rid=a5829bdc17c74537842441a8a1b055f2&w=354&hash=8D05565DA9D752EAC71DCCB8C57E972A) 
+
 <img  alt="image hi i dont know a safe way to talk to Lana anymore, past broken heart i have to log this for her safety, it dont sound right `3 days ago — Lana Harris, a news anchor for Atlanta News First, has announced she is leaving her on-air role. In a video, she shared that while she will miss` - [@tiktok I Quit Being A News Anchor Atlanta](https://www.tiktok.com/discover/i-quit-being-a-news-anchor-atlanta) @nasa-pds hi i am so bad with names and knowing you its unlikely that you have the same world as tiny.  /// [Everything You Need To Know About NASA's Roman Space Telescope](https://youtu.be/CDwemQH2zDU?si=F7cFS-J0iG9ymSwx) [Cyber Workforce FRAMEWORK @virtiserv @commercegov @nasa-jpl @cityoflosangeles @la-county-isd](https://dodcio.defense.gov/Cyber-Workforce/DCWF/) // [DoD 8140 Qualification Update: National Defense University](https://www.cyberworkforce.mil/About/News/News-Display/Article/4502163/dod-8140-qualification-update-national-defense-university/) @SupervisorLindseyP.Horvath @SupervisorHollyJMitchell" src="https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png" />
 
 [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
