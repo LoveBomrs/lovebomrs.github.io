@@ -21,7 +21,8 @@ mathjax: true
 # Colorado
 
 ### [The Wiz (1978) (Full Movie)](https://archive.org/details/the-wiz-1978-full-movie)
-[movies.fandom.com/wiki/The_Wiz/Credits](https://movies.fandom.com/wiki/The_Wiz/Credits) // [https://en.wikipedia.org/wiki/The_Wiz_(film)](https://en.wikipedia.org/wiki/The_Wiz_(film)) + [`WikiTALK`: @deptofwar en.wikipedia.org/wiki/Talk:The_Wiz_(film)](https://en.wikipedia.org/wiki/Talk:The_Wiz_(film))
+[movies.fandom.com/wiki/The_Wiz/Credits](https://movies.fandom.com/wiki/The_Wiz/Credits) // [https://en.wikipedia.org/wiki/The_Wiz_(film)](https://en.wikipedia.org/wiki/The_Wiz_(film)) + [`WikiTALK`: @deptofwar en.wikipedia.org/wiki/Talk:The_Wiz_(film)](https://en.wikipedia.org/wiki/Talk:The_Wiz_(film)) ///  
+
 <iframe src="https://archive.org/embed/the-wiz-1978-full-movie" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <img  alt="image" src="https://github.com/user-attachments/assets/e00d4de2-b2d2-4e68-ac03-9dbca1c9263b" />
