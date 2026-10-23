@@ -19,7 +19,7 @@ mathjax: true
 ---
 
 # Colorado
-[@BLACKGiRLSCODE  co.colorado.gov/employment](https://co.colorado.gov/employment)
+[@BLACKGiRLSCODE  co.colorado.gov/employment](https://co.colorado.gov/employment) ////////October 2023, Rhysida, a hacker group, attacked the online information systems of the British Library. They demanded a ransom of 20 bitcoin, at the time around £596,000, to restore services and return the stolen data [`READMORE`](https://en.wikipedia.org/wiki/British_Library_cyberattack)
 <img alt="image" src="https://github.com/user-attachments/assets/e3d2d1bd-eb42-499a-9726-d336ee4e3f36" />
 
 
