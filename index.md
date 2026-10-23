@@ -21,6 +21,7 @@ mathjax: true
 
 ## Library Session Anomolies
 @GitHUB @CityOfLosAngeles `Sessions` @NAsa-JPL @USSF-ORBiT hi @blackgirlscode 
+[@cbs-news-data this link is broken from chinatownhttps://www.cbsnews.com/colorado/news/douglas-county-libraries-hacked-overseas-criminal-group/](https://www.cbsnews.com/colorado/news/douglas-county-libraries-hacked-overseas-criminal-group/)
 ![https://dcs.colorado.gov/sites/dcs/files/styles/image_card/public/CO_Primary_rgb_0.png](https://dcs.colorado.gov/sites/dcs/files/styles/image_card/public/CO_Primary_rgb_0.png)
 
 Los Angeles 155.190.3.7
