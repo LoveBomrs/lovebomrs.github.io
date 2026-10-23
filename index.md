@@ -23,7 +23,8 @@ mathjax: true
 @GitHUB @CityOfLosAngeles `Sessions` @NAsa-JPL @USSF-ORBiT hi @blackgirlscode 
 [@cbs-news-data this link is broken from chinatownhttps://www.cbsnews.com/colorado/news/douglas-county-libraries-hacked-overseas-criminal-group/](https://www.cbsnews.com/colorado/news/douglas-county-libraries-hacked-overseas-criminal-group/)
 ![https://dcs.colorado.gov/sites/dcs/files/styles/image_card/public/CO_Primary_rgb_0.png](https://dcs.colorado.gov/sites/dcs/files/styles/image_card/public/CO_Primary_rgb_0.png)
-
+![https://www.clicweb.org/wp-content/themes/genesis-sample/images/header.png](https://www.clicweb.org/wp-content/themes/genesis-sample/images/header.png) 
+[Libraries Under Attack - https://www.clicweb.org/libraries-under-attack/](https://www.clicweb.org/libraries-under-attack/)
 Los Angeles 155.190.3.7
 active
 Your current session
