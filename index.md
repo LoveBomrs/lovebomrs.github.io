@@ -26,6 +26,12 @@ by The Library of Congress](https://www.flickr.com/photos/library_of_congress/al
 <iframe src="https://archive.org/embed/the-wiz-1978-full-movie" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
+Mars Perseverance Sol 2017: Front Left Hazard Avoidance Camera (Hazcam)
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/02017/ids/edr/browse/fcam/FLF_2017_0846009802_035ECM_N0920000FHAZ00215_01_275J01_800.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/02017/ids/edr/browse/fcam/FLF_2017_0846009802_035ECM_N0920000FHAZ00215_01_275J01_800.jpg)
+
+
+<img  alt="ezgif-resized" src="https://github.com/user-attachments/assets/79432169-1473-4d4b-b24a-f952f867544d" />
+
 <img  alt="_mars nasa gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05048_opgs_edr_ncam_NLB_845620829EDR_F1251326NCAM00225M_" src="https://github.com/user-attachments/assets/5f3ae4d9-2342-45ce-a930-9e3e4b418048" />
 
 <img  alt="ezgif-make @nasa-jpl @nasa-pds r" src="https://github.com/user-attachments/assets/95d3bec9-4a1c-4751-8c37-3989639129f9" />
