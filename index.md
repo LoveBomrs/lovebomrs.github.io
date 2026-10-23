@@ -22,9 +22,15 @@ mathjax: true
 [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 
 
+[`READ` - @NASA PLANETARY DEFENSE STRATEGY AND ACTION PLAN](https://www.nasa.gov/wp-content/uploads/2023/06/nasa_-_planetary_defense_strategy_-_final-508.pdf) // 
+[Musk’s clash with Ukraine accelerates demand for Starlink alternatives. Few exist](https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html) // [\Trump says Musk restored Ukraine's Starlink access ... @teslamotors ](https://www.reuters.com/business/media-telecom/trump-asks-musk-lift-ukraine-starlink-restrictions-wsj-reports-2026-10-22/) 
+_NASA’s Planetary Defense Coordination Office (PDCO) manages the primary global defense system for finding, tracking, and mitigating Near-Earth Objects (NEOs) that threaten the planet_ - [science.nasa.gov/planetary-defense/](https://science.nasa.gov/planetary-defense/)
 
+[`READ` - @NASA PLANETARY DEFENSE STRATEGY AND ACTION PLAN](https://www.nasa.gov/wp-content/uploads/2023/06/nasa_-_planetary_defense_strategy_-_final-508.pdf) 
 
-[\Trump says Musk restored Ukraine's Starlink access ... @teslamotors ](https://www.reuters.com/business/media-telecom/trump-asks-musk-lift-ukraine-starlink-restrictions-wsj-reports-2026-10-22/) 
+<img  alt="image" src="https://github.com/user-attachments/assets/e6c8ffe3-4122-44c8-99db-2ca15cb7cc85" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ec13e4ba-b73e-4779-8706-1b9c0389d18c" />
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/bdff2fd0-382e-4b5c-8e38-2baa71452172" />
