@@ -27,6 +27,7 @@ by The Library of Congress](https://www.flickr.com/photos/library_of_congress/al
 
 
 ### Colored mother and child, Little Rock, Arkansas
+![https://tile.loc.gov/storage-services/service/pnp/fsa/8a16000/8a16100/8a16168v.jpg](https://tile.loc.gov/storage-services/service/pnp/fsa/8a16000/8a16100/8a16168v.jpg)
 [https://www.loc.gov/pictures/item/2017729940/](https://www.loc.gov/pictures/item/2017729940/)
 <img  alt="2179047660_3db4aab41c_o" src="https://github.com/user-attachments/assets/c83ce124-8f3c-49b0-a3c6-a2dad4e420bd" />
 
