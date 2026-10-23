@@ -20,12 +20,12 @@ mathjax: true
 
 
 ## Library Session Anomolies
-@GitHUB @CityOfLosAngeles `Sessions` @NAsa-JPL @USSF-ORBiT hi @blackgirlscode 
+[Knowledge Held Hostage: What the British Library Ransomware Attack Can Teach Us @newshour](https://crl.acrl.org/index.php/crl/article/view/26408/34343) @GitHUB @CityOfLosAngeles `Sessions` @NAsa-JPL @USSF-ORBiT hi @blackgirlscode 
 [@cbs-news-data this link is broken from chinatownhttps://www.cbsnews.com/colorado/news/douglas-county-libraries-hacked-overseas-criminal-group/](https://www.cbsnews.com/colorado/news/douglas-county-libraries-hacked-overseas-criminal-group/) // [Denver Public Library shuts down its computer network after detecting ransomware
 The system is up and running after a blackout lasting about 24 hours.](https://denverite.com/2019/11/14/denver-public-library-shuts-down-its-computer-network-after-detecting-ransomware/) 
 ![https://dcs.colorado.gov/sites/dcs/files/styles/image_card/public/CO_Primary_rgb_0.png](https://dcs.colorado.gov/sites/dcs/files/styles/image_card/public/CO_Primary_rgb_0.png)
 ![https://www.clicweb.org/wp-content/themes/genesis-sample/images/header.png](https://www.clicweb.org/wp-content/themes/genesis-sample/images/header.png) 
-[Libraries Under Attack - https://www.clicweb.org/libraries-under-attack/](https://www.clicweb.org/libraries-under-attack/)
+[Libraries Under Attack - https://www.clicweb.org/libraries-under-attack/](https://www.clicweb.org/libraries-under-attack/) // [r/Denver - Auraria Library website has been hacked](https://www.reddit.com/r/Denver/comments/3lgs1o/auraria_library_website_has_been_hacked/?rdt=47123)
 Los Angeles 155.190.3.7
 active
 Your current session
