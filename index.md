@@ -19,6 +19,10 @@ mathjax: true
 
 
 
+# [Kash Doll - KD Diary ](https://youtu.be/25VCq8iHTVo?si=S62ZizU_Sc2mBe3n)
+<img  alt="image" src="https://github.com/user-attachments/assets/2ee7f138-4f03-4912-91f3-d3477ed12b39" />
+
+
 [Keisha Bottoms](https://www.instagram.com/reel/De0ArLwx6t3/) hi [Erika and Constancia](https://www.facebook.com/essence/posts/the-search-for-erika-renee-johnson-kelly-ended-this-week/10158235880782855/) parted up my identity and [@KashDoll @blackgirlscode](https://youtu.be/25VCq8iHTVo?si=S62ZizU_Sc2mBe3n) too, I don't know what Lana Latrice and likely Ella MAi did... but I need help because I'm slow at my job!!!! and its not faiR [💰signup.aws.com/starter#/paymentinformation @nasa-jpl](https://signup.aws.com/starter#/paymentinformation) I can finish @longbeachinnovation team but there are somethings you need cash to keep stable at work and get the justification in after its demonstrated that it was need for testing
 <img alt="image" src="https://github.com/user-attachments/assets/f4582dc4-a881-4ff7-bb09-b45d9bee1400" />
 
