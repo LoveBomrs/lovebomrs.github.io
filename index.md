@@ -21,7 +21,8 @@ mathjax: true
 
 [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 
-
+[https://forum.earthdata.nasa.gov/viewtopic.php?t=475&sid=7b1d275faaafe5a0f1f2eca7427347bb](https://forum.earthdata.nasa.gov/viewtopic.php?t=475&sid=7b1d275faaafe5a0f1f2eca7427347bb) . /// [Belmont Shore https://earthexplorer.usgs.gov/](https://earthexplorer.usgs.gov/)
+<img  alt="image" src="https://github.com/user-attachments/assets/20e95a16-a917-4cf2-b296-5274d51d932c" />
 
 <img   alt="image @eosdis hi @cityoflosangeles im planning to work on long beach and getting the hurricane damage documented @landsat @nasa-jpl @usgs hiu Blackgirlscode @whitehouse @forAtlanta @fbiCyber hello uim just logging in @dhs--gov" src="https://github.com/user-attachments/assets/2784d63d-3e60-402f-b07e-66d76afd99ae" />
 
