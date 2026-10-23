@@ -21,6 +21,8 @@ mathjax: true
 
 ## Library Session Anomolies
 @GitHUB @CityOfLosAngeles `Sessions` @NAsa-JPL @USSF-ORBiT hi @blackgirlscode 
+![https://co.colorado.gov/themes/custom/co_tailwind/logo.svg](https://co.colorado.gov/themes/custom/co_tailwind/logo.svg) 
+
 Los Angeles 155.190.3.7
 active
 Your current session
@@ -29,7 +31,7 @@ Los Angeles 155.190.3.5
 active
 Last accessed on Oct 23, 2026
 Seen in US
-Denver 155.190.9.5
+[Denver](https://co.colorado.gov/county/denver) 155.190.9.5
 active
 Last accessed on Oct 23, 2026
 Seen in US
