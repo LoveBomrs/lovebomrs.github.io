@@ -21,9 +21,15 @@ mathjax: true
 # Colorado
 
 ### [The Wiz (1978) (Full Movie)](https://archive.org/details/the-wiz-1978-full-movie)
-[movies.fandom.com/wiki/The_Wiz/Credits](https://movies.fandom.com/wiki/The_Wiz/Credits) // [https://en.wikipedia.org/wiki/The_Wiz_(film)](https://en.wikipedia.org/wiki/The_Wiz_(film)) + [`WikiTALK`: @deptofwar @cityofgary & @nasa-pds en.wikipedia.org/wiki/Talk:The_Wiz_(film)](https://en.wikipedia.org/wiki/Talk:The_Wiz_(film)) ///  [@nasa-jpl Federal Writers' Project: Slave Narrative Project, Vol. 4, Georgia, Part 3, Kendricks-Styles @bbc ](https://www.loc.gov/item/mesn043/) _ [World War II color footage--Liberation of Paris](https://www.loc.gov/item/2020600751/)
+[movies.fandom.com/wiki/The_Wiz/Credits](https://movies.fandom.com/wiki/The_Wiz/Credits) // [https://en.wikipedia.org/wiki/The_Wiz_(film)](https://en.wikipedia.org/wiki/The_Wiz_(film)) + [`WikiTALK`: @deptofwar @cityofgary & @nasa-pds en.wikipedia.org/wiki/Talk:The_Wiz_(film)](https://en.wikipedia.org/wiki/Talk:The_Wiz_(film)) ///  [@nasa-jpl Federal Writers' Project: Slave Narrative Project, Vol. 4, Georgia, Part 3, Kendricks-Styles @bbc ](https://www.loc.gov/item/mesn043/) _ [World War II color footage--Liberation of Paris](https://www.loc.gov/item/2020600751/) // [1930s-40s in Color
+by The Library of Congress](https://www.flickr.com/photos/library_of_congress/albums/72157603671370361/)
 
 <iframe src="https://archive.org/embed/the-wiz-1978-full-movie" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<img  alt="2179047660_3db4aab41c_o" src="https://github.com/user-attachments/assets/c83ce124-8f3c-49b0-a3c6-a2dad4e420bd" />
+
+https://www.flickr.com/photos/library_of_congress/2179046738/in/album-72157603671370361
+<img   alt="image" src="https://github.com/user-attachments/assets/67bb9494-54bd-43aa-a7b9-f09718ab4b5d" />
 
 
 [Ansel Adams](https://www.kenrockwell.com/tech/zone.htm)'s Photographs of Japanese-American Internment at Manzanar
