@@ -18,6 +18,14 @@ mathjax: true
 
 ---
 
+
+## HOT 97 News Live! 10/23/26
+[`WATCH` - https://youtu.be/yMewwpyJvkQ](https://youtu.be/yMewwpyJvkQ)
+<img alt="image" src="https://github.com/user-attachments/assets/a4fb32b3-f3e2-4feb-af85-7f40b359ba6c" />
+
+<img  alt="image [@BLACKGiRLSCODE  co.colorado.gov/employment](https://co.colorado.gov/employment) ////////October 2023, Rhysida, a hacker group, attacked the online information systems of the British Library. They demanded a ransom of 20 bitcoin, at the time around £596,000, to restore services and return the stolen data [`READMORE`](https://en.wikipedia.org/wiki/British_Library_cyberattack) + [@DiSNEY @HULU _`CheckSubs`_](https://archive.org/download/the-wiz-1978-full-movie/Subs/) that's some scaryass shit! [@netflix https://archive.org/download/the-wiz-1978-full-movie/The.Wiz.1978.1080p.BluRay.x264.AAC5.1-LAMA.mp4](https://archive.org/download/the-wiz-1978-full-movie/The.Wiz.1978.1080p.BluRay.x264.AAC5.1-LAMA.mp4) - rashard @eosdis-nasa / @nasa-jpl " src="https://github.com/user-attachments/assets/1561ac31-a915-4077-a42b-3fba02ec87ee" />
+
+
 # Colorado
 ## [The Wiz (1978) (Full Movie)](https://archive.org/details/the-wiz-1978-full-movie)
 [movies.fandom.com/wiki/The_Wiz/Credits](https://movies.fandom.com/wiki/The_Wiz/Credits) // [https://en.wikipedia.org/wiki/The_Wiz_(film)](https://en.wikipedia.org/wiki/The_Wiz_(film)) + [`WikiTALK`: @deptofwar @cityofgary & @nasa-pds en.wikipedia.org/wiki/Talk:The_Wiz_(film)](https://en.wikipedia.org/wiki/Talk:The_Wiz_(film)) ///  [@nasa-jpl Federal Writers' Project: Slave Narrative Project, Vol. 4, Georgia, Part 3, Kendricks-Styles @bbc ](https://www.loc.gov/item/mesn043/) _ [World War II color footage--Liberation of Paris](https://www.loc.gov/item/2020600751/) // [1930s-40s in Color
