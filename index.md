@@ -25,7 +25,11 @@ by The Library of Congress](https://www.flickr.com/photos/library_of_congress/al
 
 <iframe src="https://archive.org/embed/the-wiz-1978-full-movie" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63ec1197-7512-45fe-aa18-3ed5cac64b82" />
+<img   alt="_mars nasa gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05049_opgs_edr_ncam_NRB_845709478EDR_S1251326NCAM00594M_" src="https://github.com/user-attachments/assets/b5fc9fe5-5c01-4b90-8a1a-f8de2d941468" />
+
+Curiosity @nasa-pds
+![https://mars.nasa.gov/msl-raw-images/msss/05050/mcam/5050MR1101690002601675C00_DXXX.jpg](https://mars.nasa.gov/msl-raw-images/msss/05050/mcam/5050MR1101690002601675C00_DXXX.jpg) 
+<img alt="image" src="https://github.com/user-attachments/assets/63ec1197-7512-45fe-aa18-3ed5cac64b82" />
 
 
 ### Children of [sharecroppers](https://www.repeatercouncil.org/), [Little Rock](https://www.youtube.com/watch?v=tXJOvihczms), [Arkansas](https://governor.arkansas.gov/)
