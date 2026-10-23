@@ -18,6 +18,13 @@ mathjax: true
 🎼📻 [Guilty Simpson - Man's World](https://youtu.be/VEDBFzDnIRM?list=RDVEDBFzDnIRM) // [Petty People · Sadat X](https://youtu.be/rKV9xM8f5yI?si=Cd72wzSI16zJTTuJ) // [Aaliyah Tribute: Normani - Rock The Boat](https://youtu.be/2Rf_XHe6Ztc?list=RD2Rf_XHe6Ztc&t=15)  // [Love Under New Management · Miki Howard](https://youtu.be/SReOKWeSKRM?list=RDSReOKWeSKRM)  // 🎤🎵 // [Rapture  - Anita Baker `1986`](https://youtu.be/jqZjsscpj1E?si=tt11H84j3jke7a7U) // [Friends And Strangers · Ronnie Laws `1977`](https://youtu.be/nRCun0fCr_U) // [Life In Paradise · Ronnie Laws](https://youtu.be/gm32Ev5muTU) // [Ronnie Laws ~ Flame🔥🔥🔥](https://youtu.be/-1K8rFKk7zc?list=RD-1K8rFKk7zc)
 
 
+# @Landsat Missions: Contact Us
+Thank you.  Your message has been sent.
+<img alt="image @landsat v Emergency Response Imagery: [Long Beach District MAp @CityOfLosAngeles @CityOFSantaMonica](https://www.longbeach.gov/globalassets/ti/media-library/documents/resources/map-catalog/council_small_8.5x11l_photos) /// MALiBU : Kelsey Pettijohn
+City ClerK [Pettijohn@malibucity.org](mailto:Pettijohn@malibucity.org)
+[@HollyJMitchell@bos.lacounty.gov @la-county-isd @LACMTA ](mailto:@HollyJMitchell@bos.lacounty.gov)  can u fwd to mayor bass im trying to get longgbeach covered @ksc-nasa-social@mail.nasa.gov  @Gordon, Seth W (JPL-5145)[JPL Employee]  hi ! i dont want to step on anyones toes in case its filed under nasa, however BelmonT Shore and Malibu need coverage " src="https://github.com/user-attachments/assets/bc5f5861-9eb5-4765-af8e-6db78b514c7f" />
+
+
 ![https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/landsat-10/landsat_timeline_May2026.png?w=2048&h=1150&fit=clip&crop=faces%2Cfocalpoint](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/landsat-10/landsat_timeline_May2026.png?w=2048&h=1150&fit=clip&crop=faces%2Cfocalpoint)
 @CiTYOFLOSANGELES hi @STATEOFCALiFORNAiA @doug-newman-nasa 
 
