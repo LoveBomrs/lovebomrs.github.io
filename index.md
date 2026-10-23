@@ -21,7 +21,7 @@ mathjax: true
 # Colorado
 
 ### [The Wiz (1978) (Full Movie)](https://archive.org/details/the-wiz-1978-full-movie)
-
+[movies.fandom.com/wiki/The_Wiz/Credits](https://movies.fandom.com/wiki/The_Wiz/Credits) // [https://en.wikipedia.org/wiki/The_Wiz_(film)](https://en.wikipedia.org/wiki/The_Wiz_(film)) + [`WikiTALK`: @deptofwar en.wikipedia.org/wiki/Talk:The_Wiz_(film)](https://en.wikipedia.org/wiki/Talk:The_Wiz_(film))
 <iframe src="https://archive.org/embed/the-wiz-1978-full-movie" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [@BLACKGiRLSCODE  co.colorado.gov/employment](https://co.colorado.gov/employment) ////////October 2023, Rhysida, a hacker group, attacked the online information systems of the British Library. They demanded a ransom of 20 bitcoin, at the time around £596,000, to restore services and return the stolen data [`READMORE`](https://en.wikipedia.org/wiki/British_Library_cyberattack) + [@DiSNEY @HULU _`CheckSubs`_](https://archive.org/download/the-wiz-1978-full-movie/Subs/) that's some scaryass shit! [@netflix https://archive.org/download/the-wiz-1978-full-movie/The.Wiz.1978.1080p.BluRay.x264.AAC5.1-LAMA.mp4](https://archive.org/download/the-wiz-1978-full-movie/The.Wiz.1978.1080p.BluRay.x264.AAC5.1-LAMA.mp4) - rashard @eosdis-nasa / @nasa-jpl 
