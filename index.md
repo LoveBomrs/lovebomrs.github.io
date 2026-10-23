@@ -21,6 +21,7 @@ mathjax: true
 # Colorado
 
 ### [The Wiz (1978) (Full Movie)](https://archive.org/details/the-wiz-1978-full-movie)
+
 <iframe src="https://archive.org/embed/the-wiz-1978-full-movie" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [@BLACKGiRLSCODE  co.colorado.gov/employment](https://co.colorado.gov/employment) ////////October 2023, Rhysida, a hacker group, attacked the online information systems of the British Library. They demanded a ransom of 20 bitcoin, at the time around £596,000, to restore services and return the stolen data [`READMORE`](https://en.wikipedia.org/wiki/British_Library_cyberattack) + [@DiSNEY @HULU _`CheckSubs`_](https://archive.org/download/the-wiz-1978-full-movie/Subs/) that's some scaryass shit! [@netflix https://archive.org/download/the-wiz-1978-full-movie/The.Wiz.1978.1080p.BluRay.x264.AAC5.1-LAMA.mp4](https://archive.org/download/the-wiz-1978-full-movie/The.Wiz.1978.1080p.BluRay.x264.AAC5.1-LAMA.mp4) - rashard @eosdis-nasa / @nasa-jpl 
@@ -58,6 +59,9 @@ Seen in US
 <img   alt="image" src="https://github.com/user-attachments/assets/32ccc8df-c33e-47f6-b806-a037f6d8fc32" />
 
 ![https://denverite.com/cdn-cgi/image/width=1248,quality=75,format=auto/https://wp-denverite.s3.amazonaws.com/wp-content/uploads/sites/4/2019/11/181212-DPLBROADWAY-DOWNTOWN-PUBLIC-LIBRARY-BUILDING-KEVINJBEATY-15-thin.jpg](https://denverite.com/cdn-cgi/image/width=1248,quality=75,format=auto/https://wp-denverite.s3.amazonaws.com/wp-content/uploads/sites/4/2019/11/181212-DPLBROADWAY-DOWNTOWN-PUBLIC-LIBRARY-BUILDING-KEVINJBEATY-15-thin.jpg) 
+
+[Bookworms Beware: Hackers Launch Cyberattacks On Libraries Globally](https://cybersecurityventures.com/bookworms-beware-hackers-launch-cyberattacks-on-libraries-globally/)
+![https://cybersecurityventures.com/wp-content/uploads/2024/02/blogphoto1-1024x683.jpg](https://cybersecurityventures.com/wp-content/uploads/2024/02/blogphoto1-1024x683.jpg) 
 
 ![https://co.colorado.gov/themes/custom/co_tailwind/logo.svg](https://co.colorado.gov/themes/custom/co_tailwind/logo.svg) 
 
