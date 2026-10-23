@@ -18,6 +18,10 @@ mathjax: true
 
 ---
 
+# Colorado
+[@BLACKGiRLSCODE  co.colorado.gov/employment](https://co.colorado.gov/employment)
+<img alt="image" src="https://github.com/user-attachments/assets/e3d2d1bd-eb42-499a-9726-d336ee4e3f36" />
+
 
 ## Library Session Anomolies
 [Knowledge Held Hostage: What the British Library Ransomware Attack Can Teach Us @newshour](https://crl.acrl.org/index.php/crl/article/view/26408/34343) @GitHUB [@CityOfLosAngeles `Sessions` @NAsa-JPL](https://dcs.colorado.gov/ids/state-branding) @USSF-ORBiT hi @blackgirlscode 
