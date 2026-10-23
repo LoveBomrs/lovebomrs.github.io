@@ -25,6 +25,12 @@ by The Library of Congress](https://www.flickr.com/photos/library_of_congress/al
 
 <iframe src="https://archive.org/embed/the-wiz-1978-full-movie" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+
+<img  alt="_mars nasa gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05048_opgs_edr_ncam_NLB_845620829EDR_F1251326NCAM00225M_" src="https://github.com/user-attachments/assets/5f3ae4d9-2342-45ce-a930-9e3e4b418048" />
+
+<img  alt="ezgif-make @nasa-jpl @nasa-pds r" src="https://github.com/user-attachments/assets/95d3bec9-4a1c-4751-8c37-3989639129f9" />
+
+
 <img   alt="_mars nasa gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05049_opgs_edr_ncam_NRB_845709478EDR_S1251326NCAM00594M_" src="https://github.com/user-attachments/assets/b5fc9fe5-5c01-4b90-8a1a-f8de2d941468" />
 
 Curiosity @nasa-pds
