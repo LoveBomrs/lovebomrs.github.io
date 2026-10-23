@@ -21,7 +21,7 @@ mathjax: true
 
 ## Library Session Anomolies
 @GitHUB @CityOfLosAngeles `Sessions` @NAsa-JPL @USSF-ORBiT hi @blackgirlscode 
-![https://co.colorado.gov/themes/custom/co_tailwind/logo.svg](https://co.colorado.gov/themes/custom/co_tailwind/logo.svg) 
+![https://dcs.colorado.gov/sites/dcs/files/styles/image_card/public/CO_Primary_rgb_0.png](https://dcs.colorado.gov/sites/dcs/files/styles/image_card/public/CO_Primary_rgb_0.png)
 
 Los Angeles 155.190.3.7
 active
@@ -43,8 +43,10 @@ Los Angeles 155.190.3.6
 active
 Last accessed on Oct 22, 2026
 Seen in US
+
 <img   alt="image" src="https://github.com/user-attachments/assets/32ccc8df-c33e-47f6-b806-a037f6d8fc32" />
 
+![https://co.colorado.gov/themes/custom/co_tailwind/logo.svg](https://co.colorado.gov/themes/custom/co_tailwind/logo.svg) 
 
 # Cassini @nasa-pds
 I have not made it to the color ones, still working on closeout [Michael Jackson - Of The Wall ](https://youtu.be/stnnBVvwsy8?list=RDstnnBVvwsy8)
