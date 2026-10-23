@@ -15,7 +15,7 @@ mathjax: true
 </picture>
 
 
-🎼📻 [Guilty Simpson - Man's World](https://youtu.be/VEDBFzDnIRM?list=RDVEDBFzDnIRM) // [Petty People · Sadat X](https://youtu.be/rKV9xM8f5yI?si=Cd72wzSI16zJTTuJ) // [Aaliyah Tribute: Normani - Rock The Boat](https://youtu.be/2Rf_XHe6Ztc?list=RD2Rf_XHe6Ztc&t=15)  // [Love Under New Management · Miki Howard](https://youtu.be/SReOKWeSKRM?list=RDSReOKWeSKRM)  // 🎤🎵
+🎼📻 [Guilty Simpson - Man's World](https://youtu.be/VEDBFzDnIRM?list=RDVEDBFzDnIRM) // [Petty People · Sadat X](https://youtu.be/rKV9xM8f5yI?si=Cd72wzSI16zJTTuJ) // [Aaliyah Tribute: Normani - Rock The Boat](https://youtu.be/2Rf_XHe6Ztc?list=RD2Rf_XHe6Ztc&t=15)  // [Love Under New Management · Miki Howard](https://youtu.be/SReOKWeSKRM?list=RDSReOKWeSKRM)  // 🎤🎵 // [Rapture  - Anita Baker `1986`](https://youtu.be/jqZjsscpj1E?si=tt11H84j3jke7a7U) // [Friends And Strangers · Ronnie Laws `1977`](https://youtu.be/nRCun0fCr_U)
 
 <img  alt="image hi i dont know a safe way to talk to Lana anymore, past broken heart i have to log this for her safety, it dont sound right `3 days ago — Lana Harris, a news anchor for Atlanta News First, has announced she is leaving her on-air role. In a video, she shared that while she will miss` - [@tiktok I Quit Being A News Anchor Atlanta](https://www.tiktok.com/discover/i-quit-being-a-news-anchor-atlanta) @nasa-pds hi i am so bad with names and knowing you its unlikely that you have the same world as tiny.  /// [Everything You Need To Know About NASA's Roman Space Telescope](https://youtu.be/CDwemQH2zDU?si=F7cFS-J0iG9ymSwx) [Cyber Workforce FRAMEWORK @virtiserv @commercegov @nasa-jpl @cityoflosangeles @la-county-isd](https://dodcio.defense.gov/Cyber-Workforce/DCWF/) // [DoD 8140 Qualification Update: National Defense University](https://www.cyberworkforce.mil/About/News/News-Display/Article/4502163/dod-8140-qualification-update-national-defense-university/) @SupervisorLindseyP.Horvath @SupervisorHollyJMitchell" src="https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png" />
 
@@ -26,7 +26,7 @@ mathjax: true
 ###  HOT 97 News Live! 10/22/26
 [`WATCH` - https://youtu.be/bwF7_VQbBFs?t=1313](https://youtu.be/bwF7_VQbBFs?t=1313)
 ebola is that same shit on m,y ass in la.... acid and arsenic in the street @nasa-jpl  bullshit + murder 
- <img width="1296" height="1032" alt="image" src="https://github.com/user-attachments/assets/b12c8ac5-7f34-48a3-9c71-b55e301c33d0" />
+ <img   alt="image" src="https://github.com/user-attachments/assets/b12c8ac5-7f34-48a3-9c71-b55e301c33d0" />
 
 <img   alt="image" src="https://github.com/user-attachments/assets/0c863ba4-da9a-4a87-93c3-688d40bade1d" />
 
@@ -40,7 +40,7 @@ _NASA’s Planetary Defense Coordination Office (PDCO) manages the primary globa
 
 [Lana J HArris](https://www.google.com/search?q=lana+hot97+yotube&rlz=1CASLJZ_enUS1237&oq=lana+hot97+yotube&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigATIHCAQQIRiPAjIHCAUQIRiPAtIBCDMxOTFqMGo0qAIBsAIB8QU6rKW-izOrxfEFOqylvoszq8U&sourceid=chrome&ie=UTF-8) 
 
-<img width="648" height="249" alt="image" src="https://github.com/user-attachments/assets/78c9101a-f8a4-4638-9cce-4c787db598b1" />
+<img   alt="image" src="https://github.com/user-attachments/assets/78c9101a-f8a4-4638-9cce-4c787db598b1" />
 
 ![https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
 
