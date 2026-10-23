@@ -25,7 +25,7 @@ mathjax: true
 The system is up and running after a blackout lasting about 24 hours.](https://denverite.com/2019/11/14/denver-public-library-shuts-down-its-computer-network-after-detecting-ransomware/) 
 ![https://dcs.colorado.gov/sites/dcs/files/styles/image_card/public/CO_Primary_rgb_0.png](https://dcs.colorado.gov/sites/dcs/files/styles/image_card/public/CO_Primary_rgb_0.png)
 ![https://www.clicweb.org/wp-content/themes/genesis-sample/images/header.png](https://www.clicweb.org/wp-content/themes/genesis-sample/images/header.png) 
-[Libraries Under Attack - https://www.clicweb.org/libraries-under-attack/](https://www.clicweb.org/libraries-under-attack/) // [r/Denver - Auraria Library website has been hacked](https://www.reddit.com/r/Denver/comments/3lgs1o/auraria_library_website_has_been_hacked/?rdt=47123)
+[Libraries Under Attack - https://www.clicweb.org/libraries-under-attack/](https://www.clicweb.org/libraries-under-attack/) // [r/Denver - Auraria Library website has been hacked](https://www.reddit.com/r/Denver/comments/3lgs1o/auraria_library_website_has_been_hacked/?rdt=47123) // [Red Alert: Russian Hackers Hit Colorado in “Moonlight Maze” Invasion](https://www.westword.com/news/russian-cyberattacks-invaded-colorado-in-moonlight-maze-campaign-9269380/)
 Los Angeles 155.190.3.7
 active
 Your current session
