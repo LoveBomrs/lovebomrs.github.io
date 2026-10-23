@@ -25,6 +25,11 @@ mathjax: true
 
 <iframe src="https://archive.org/embed/the-wiz-1978-full-movie" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+
+[Ansel Adams](https://www.kenrockwell.com/tech/zone.htm)'s Photographs of Japanese-American Internment at Manzanar
+[Japanese-American Internment at Manzanar @JAXA loc.gov/pictures/collection/manz/](https://www.loc.gov/pictures/collection/manz/)
+![ @JAXA @ESA @Blackgirlscode https://www.loc.gov/pictures/static/data/manz/banner.jpg](https://www.loc.gov/pictures/static/data/manz/banner.jpg)  
+
 ### Tuskegee Airmen
 Photojournalist Toni Frissell documented the 332nd Fighter Group at air base in southern Italy in March 1945. She photographed the African-American squadron officers, pilots, and ground crew preparing for active duty; runway conditions and on-base radio broadcaster at work. Commanding Officer Colonel Benjamin O. Davis briefing pilots, also known as Tuskegee Airmen.
 [loc.gov/pictures/search/?q=LOT%2012447-1&fi=number&op=PHRASE&va=exact&co!=coll&sg=true&st=gallery](https://www.loc.gov/pictures/search/?q=LOT%2012447-1&fi=number&op=PHRASE&va=exact&co!=coll&sg=true&st=gallery) // [https://www.loc.gov/pictures/item/89706156/](https://www.loc.gov/pictures/item/89706156/)
