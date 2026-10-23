@@ -29,10 +29,11 @@ mathjax: true
 
 
 [maximumrocknroll.com/wp-content/uploads/2020/06/LRADS.pdf](https://www.maximumrocknroll.com/wp-content/uploads/2020/06/LRADS.pdf)
+
 <img alt="image" src="https://github.com/user-attachments/assets/a683bf1c-413b-4bae-84f2-a53404cdba94" />
 
 
-![https://prd-sc102-cdn.rtx.com/-/media/themes/raytheon-technologies/rtx-shared/rtx-theme/images/rtx_logo.svg?rev=57e660dbd2ee4ef6895a84799210c5bf&rid=a5829bdc17c74537842441a8a1b055f2&w=354&hash=8D05565DA9D752EAC71DCCB8C57E972A](https://prd-sc102-cdn.rtx.com/-/media/themes/raytheon-technologies/rtx-shared/rtx-theme/images/rtx_logo.svg?rev=57e660dbd2ee4ef6895a84799210c5bf&rid=a5829bdc17c74537842441a8a1b055f2&w=354&hash=8D05565DA9D752EAC71DCCB8C57E972A) 
+![https://prd-sc102-cdn.rtx.com/-/media/themes/raytheon-technologies/rtx-shared/rtx-theme/images/rtx_logo.svg?rev=57e660dbd2ee4ef6895a84799210c5bf&rid=a5829bdc17c74537842441a8a1b055f2&w=354&hash=8D05565DA9D752EAC71DCCB8C57E972A](https://prd-sc102-cdn.rtx.com/-/media/themes/raytheon-technologies/rtx-shared/rtx-theme/images/rtx_logo.svg) 
 
 <img  alt="image hi i dont know a safe way to talk to Lana anymore, past broken heart i have to log this for her safety, it dont sound right `3 days ago — Lana Harris, a news anchor for Atlanta News First, has announced she is leaving her on-air role. In a video, she shared that while she will miss` - [@tiktok I Quit Being A News Anchor Atlanta](https://www.tiktok.com/discover/i-quit-being-a-news-anchor-atlanta) @nasa-pds hi i am so bad with names and knowing you its unlikely that you have the same world as tiny.  /// [Everything You Need To Know About NASA's Roman Space Telescope](https://youtu.be/CDwemQH2zDU?si=F7cFS-J0iG9ymSwx) [Cyber Workforce FRAMEWORK @virtiserv @commercegov @nasa-jpl @cityoflosangeles @la-county-isd](https://dodcio.defense.gov/Cyber-Workforce/DCWF/) // [DoD 8140 Qualification Update: National Defense University](https://www.cyberworkforce.mil/About/News/News-Display/Article/4502163/dod-8140-qualification-update-national-defense-university/) @SupervisorLindseyP.Horvath @SupervisorHollyJMitchell" src="https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png" />
 
