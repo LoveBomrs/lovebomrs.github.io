@@ -20,7 +20,7 @@ mathjax: true
 
 
 ## Library Session Anomolies
-[Knowledge Held Hostage: What the British Library Ransomware Attack Can Teach Us @newshour](https://crl.acrl.org/index.php/crl/article/view/26408/34343) @GitHUB @CityOfLosAngeles `Sessions` @NAsa-JPL @USSF-ORBiT hi @blackgirlscode 
+[Knowledge Held Hostage: What the British Library Ransomware Attack Can Teach Us @newshour](https://crl.acrl.org/index.php/crl/article/view/26408/34343) @GitHUB [@CityOfLosAngeles `Sessions` @NAsa-JPL](https://dcs.colorado.gov/ids/state-branding) @USSF-ORBiT hi @blackgirlscode 
 [@cbs-news-data this link is broken from chinatownhttps://www.cbsnews.com/colorado/news/douglas-county-libraries-hacked-overseas-criminal-group/](https://www.cbsnews.com/colorado/news/douglas-county-libraries-hacked-overseas-criminal-group/) // [Denver Public Library shuts down its computer network after detecting ransomware
 The system is up and running after a blackout lasting about 24 hours.](https://denverite.com/2019/11/14/denver-public-library-shuts-down-its-computer-network-after-detecting-ransomware/) 
 ![https://dcs.colorado.gov/sites/dcs/files/styles/image_card/public/CO_Primary_rgb_0.png](https://dcs.colorado.gov/sites/dcs/files/styles/image_card/public/CO_Primary_rgb_0.png)
