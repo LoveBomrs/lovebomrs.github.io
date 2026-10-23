@@ -22,13 +22,28 @@ mathjax: true
 [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 
 
-[`READ` - @NASA PLANETARY DEFENSE STRATEGY AND ACTION PLAN](https://www.nasa.gov/wp-content/uploads/2023/06/nasa_-_planetary_defense_strategy_-_final-508.pdf) // 
+
+###  HOT 97 News Live! 10/22/26
+[`WATCH` - https://youtu.be/bwF7_VQbBFs?t=1313](https://youtu.be/bwF7_VQbBFs?t=1313)
+ebola is that same shit on m,y ass in la.... acid and arsenic in the street @nasa-jpl  bullshit + murder 
+ <img width="1296" height="1032" alt="image" src="https://github.com/user-attachments/assets/b12c8ac5-7f34-48a3-9c71-b55e301c33d0" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/0c863ba4-da9a-4a87-93c3-688d40bade1d" />
+
+[`READ` - @NASA PLANETARY DEFENSE STRATEGY AND ACTION PLAN](https://www.nasa.gov/wp-content/uploads/2023/06/nasa_-_planetary_defense_strategy_-_final-508.pdf) // [`PlaYLiST @DeptofWAR `The Lana Rundown`](https://www.youtube.com/playlist?list=PLnI3_4-DmlVMeAyoGVrLpBhio4C6e4EVe)
 [Musk’s clash with Ukraine accelerates demand for Starlink alternatives. Few exist](https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html) // [\Trump says Musk restored Ukraine's Starlink access ... @teslamotors ](https://www.reuters.com/business/media-telecom/trump-asks-musk-lift-ukraine-starlink-restrictions-wsj-reports-2026-10-22/) 
 _NASA’s Planetary Defense Coordination Office (PDCO) manages the primary global defense system for finding, tracking, and mitigating Near-Earth Objects (NEOs) that threaten the planet_ - [science.nasa.gov/planetary-defense/](https://science.nasa.gov/planetary-defense/)
 
 [`READ` - @NASA PLANETARY DEFENSE STRATEGY AND ACTION PLAN](https://www.nasa.gov/wp-content/uploads/2023/06/nasa_-_planetary_defense_strategy_-_final-508.pdf) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/e6c8ffe3-4122-44c8-99db-2ca15cb7cc85" />
+
+[Lana J HArris](https://www.google.com/search?q=lana+hot97+yotube&rlz=1CASLJZ_enUS1237&oq=lana+hot97+yotube&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigATIHCAQQIRiPAjIHCAUQIRiPAtIBCDMxOTFqMGo0qAIBsAIB8QU6rKW-izOrxfEFOqylvoszq8U&sourceid=chrome&ie=UTF-8) 
+
+<img width="648" height="249" alt="image" src="https://github.com/user-attachments/assets/78c9101a-f8a4-4638-9cce-4c787db598b1" />
+
+![https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+
 
 <img   alt="image" src="https://github.com/user-attachments/assets/ec13e4ba-b73e-4779-8706-1b9c0389d18c" />
 
