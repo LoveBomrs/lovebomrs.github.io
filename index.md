@@ -15,11 +15,13 @@ mathjax: true
 </picture>
 
 
-🎼📻 [Guilty Simpson - Man's World](https://youtu.be/VEDBFzDnIRM?list=RDVEDBFzDnIRM) // [Petty People · Sadat X](https://youtu.be/rKV9xM8f5yI?si=Cd72wzSI16zJTTuJ) // [Aaliyah Tribute: Normani - Rock The Boat](https://youtu.be/2Rf_XHe6Ztc?list=RD2Rf_XHe6Ztc&t=15)  // [Love Under New Management · Miki Howard](https://youtu.be/SReOKWeSKRM?list=RDSReOKWeSKRM)  // 🎤🎵 // [Rapture  - Anita Baker `1986`](https://youtu.be/jqZjsscpj1E?si=tt11H84j3jke7a7U) // [Friends And Strangers · Ronnie Laws `1977`](https://youtu.be/nRCun0fCr_U) // [Life In Paradise · Ronnie Laws](https://youtu.be/gm32Ev5muTU) // [Ronnie Laws ~ Flame🔥🔥🔥](https://youtu.be/-1K8rFKk7zc?list=RD-1K8rFKk7zc) // [Kash Doll - KD Diary ](https://youtu.be/25VCq8iHTVo?si=S62ZizU_Sc2mBe3n)
+🎼📻 [Guilty Simpson - Man's World](https://youtu.be/VEDBFzDnIRM?list=RDVEDBFzDnIRM) // [Petty People · Sadat X](https://youtu.be/rKV9xM8f5yI?si=Cd72wzSI16zJTTuJ) // [Aaliyah Tribute: Normani - Rock The Boat](https://youtu.be/2Rf_XHe6Ztc?list=RD2Rf_XHe6Ztc&t=15)  // [Love Under New Management · Miki Howard](https://youtu.be/SReOKWeSKRM?list=RDSReOKWeSKRM)  // 🎤🎵 // [Rapture  - Anita Baker `1986`](https://youtu.be/jqZjsscpj1E?si=tt11H84j3jke7a7U) // [Friends And Strangers · Ronnie Laws `1977`](https://youtu.be/nRCun0fCr_U) // [Life In Paradise · Ronnie Laws](https://youtu.be/gm32Ev5muTU) // [Ronnie Laws ~ Flame🔥🔥🔥](https://youtu.be/-1K8rFKk7zc?list=RD-1K8rFKk7zc) // [Kash Doll - KD Diary ](https://youtu.be/25VCq8iHTVo?si=S62ZizU_Sc2mBe3n) // [Roy Ayers Ubiquity ~ Everybody Loves The Sunshine 1974](https://youtu.be/9EhIBv_qAlI?list=RD9EhIBv_qAlI) // [Gil Scott Heron - Angel Dust](https://youtu.be/pRQgviNNZEM?list=RDpRQgviNNZEM)
 
 
 
 # [Kash Doll - KD Diary ](https://youtu.be/25VCq8iHTVo?si=S62ZizU_Sc2mBe3n)
+[@whitehouse @blackgirlscode](https://youtu.be/pRQgviNNZEM?list=RDpRQgviNNZEM)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/2ee7f138-4f03-4912-91f3-d3477ed12b39" />
 
 
