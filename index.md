@@ -25,6 +25,14 @@ mathjax: true
 
 <iframe src="https://archive.org/embed/the-wiz-1978-full-movie" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+### Tuskegee Airmen
+Photojournalist Toni Frissell documented the 332nd Fighter Group at air base in southern Italy in March 1945. She photographed the African-American squadron officers, pilots, and ground crew preparing for active duty; runway conditions and on-base radio broadcaster at work. Commanding Officer Colonel Benjamin O. Davis briefing pilots, also known as Tuskegee Airmen.
+[loc.gov/pictures/search/?q=LOT%2012447-1&fi=number&op=PHRASE&va=exact&co!=coll&sg=true&st=gallery](https://www.loc.gov/pictures/search/?q=LOT%2012447-1&fi=number&op=PHRASE&va=exact&co!=coll&sg=true&st=gallery) // [https://www.loc.gov/pictures/item/89706156/](https://www.loc.gov/pictures/item/89706156/)
+[Members of the Army Air Force 332nd Fighter Group in a briefing room, Ramitelli, Italy]
+Digital ID: (digital file from original item, entire contact sheet) ppmsca 40815 http://hdl.loc.gov/loc.pnp/ppmsca.40815
+Reproduction Number: LC-DIG-ppmsca-40815 (digital file from original item, entire contact sheet)
+Repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+![@nasa-jpl fwd to Glenn in regards to howard @whitehouse](https://tile.loc.gov/storage-services/service/pnp/ppmsca/40800/40815v.jpg)
 ![https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c11000/3c11100/3c11174v.jpg](https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c11000/3c11100/3c11174v.jpg)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/cedebbef-ef68-4c6a-98eb-513df11818c4" />
