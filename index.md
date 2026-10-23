@@ -25,8 +25,13 @@ by The Library of Congress](https://www.flickr.com/photos/library_of_congress/al
 
 <iframe src="https://archive.org/embed/the-wiz-1978-full-movie" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63ec1197-7512-45fe-aa18-3ed5cac64b82" />
 
-### Colored mother and child, Little Rock, Arkansas
+
+### Children of [sharecroppers](https://www.repeatercouncil.org/), [Little Rock](https://www.youtube.com/watch?v=tXJOvihczms), [Arkansas](https://governor.arkansas.gov/)
+![https://tile.loc.gov/storage-services/service/pnp/fsa/8a16000/8a16100/8a16176v.jpg](https://tile.loc.gov/storage-services/service/pnp/fsa/8a16000/8a16100/8a16176v.jpg)
+
+### Colored mother and child, [Little Rock](https://www.youtube.com/watch?v=tXJOvihczms),  [Arkansas](https://governor.arkansas.gov/)
 ![https://tile.loc.gov/storage-services/service/pnp/fsa/8a16000/8a16100/8a16168v.jpg](https://tile.loc.gov/storage-services/service/pnp/fsa/8a16000/8a16100/8a16168v.jpg)
 [https://www.loc.gov/pictures/item/2017729940/](https://www.loc.gov/pictures/item/2017729940/)
 <img  alt="2179047660_3db4aab41c_o" src="https://github.com/user-attachments/assets/c83ce124-8f3c-49b0-a3c6-a2dad4e420bd" />
