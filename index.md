@@ -21,7 +21,8 @@ mathjax: true
 
 ## Library Session Anomolies
 @GitHUB @CityOfLosAngeles `Sessions` @NAsa-JPL @USSF-ORBiT hi @blackgirlscode 
-[@cbs-news-data this link is broken from chinatownhttps://www.cbsnews.com/colorado/news/douglas-county-libraries-hacked-overseas-criminal-group/](https://www.cbsnews.com/colorado/news/douglas-county-libraries-hacked-overseas-criminal-group/)
+[@cbs-news-data this link is broken from chinatownhttps://www.cbsnews.com/colorado/news/douglas-county-libraries-hacked-overseas-criminal-group/](https://www.cbsnews.com/colorado/news/douglas-county-libraries-hacked-overseas-criminal-group/) // [Denver Public Library shuts down its computer network after detecting ransomware
+The system is up and running after a blackout lasting about 24 hours.](https://denverite.com/2019/11/14/denver-public-library-shuts-down-its-computer-network-after-detecting-ransomware/) 
 ![https://dcs.colorado.gov/sites/dcs/files/styles/image_card/public/CO_Primary_rgb_0.png](https://dcs.colorado.gov/sites/dcs/files/styles/image_card/public/CO_Primary_rgb_0.png)
 ![https://www.clicweb.org/wp-content/themes/genesis-sample/images/header.png](https://www.clicweb.org/wp-content/themes/genesis-sample/images/header.png) 
 [Libraries Under Attack - https://www.clicweb.org/libraries-under-attack/](https://www.clicweb.org/libraries-under-attack/)
@@ -47,6 +48,8 @@ Last accessed on Oct 22, 2026
 Seen in US
 
 <img   alt="image" src="https://github.com/user-attachments/assets/32ccc8df-c33e-47f6-b806-a037f6d8fc32" />
+
+![https://denverite.com/cdn-cgi/image/width=1248,quality=75,format=auto/https://wp-denverite.s3.amazonaws.com/wp-content/uploads/sites/4/2019/11/181212-DPLBROADWAY-DOWNTOWN-PUBLIC-LIBRARY-BUILDING-KEVINJBEATY-15-thin.jpg](https://denverite.com/cdn-cgi/image/width=1248,quality=75,format=auto/https://wp-denverite.s3.amazonaws.com/wp-content/uploads/sites/4/2019/11/181212-DPLBROADWAY-DOWNTOWN-PUBLIC-LIBRARY-BUILDING-KEVINJBEATY-15-thin.jpg) 
 
 ![https://co.colorado.gov/themes/custom/co_tailwind/logo.svg](https://co.colorado.gov/themes/custom/co_tailwind/logo.svg) 
 
