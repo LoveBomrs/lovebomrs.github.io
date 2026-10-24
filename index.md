@@ -13,6 +13,15 @@ mathjax: true
   
 </picture>
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Efp_U051x1A?si=a76zrD5HeCHezXts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[youtube.com/@djjazzyjeff](https://www.youtube.com/@djjazzyjeff)
+![https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
+<img  alt="EMIT_L2A_RFL_001_20260410T191459_2610012_044" src="https://github.com/user-attachments/assets/3af7bea3-461f-4a0c-a635-4f18d2559d9e" />
+
+
 [youtube.com/@QuestloveSupreme](https://www.youtube.com/@QuestloveSupreme)
 ![https://yt3.googleusercontent.com/teXGlrJJjS57rm3X_1JRifMAGZ_oTD7y8BKtA0jF3KfXZ-sJOc2kP62TIezGLSBk0KLLr_67UkA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/teXGlrJJjS57rm3X_1JRifMAGZ_oTD7y8BKtA0jF3KfXZ-sJOc2kP62TIezGLSBk0KLLr_67UkA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
 
