@@ -22,6 +22,11 @@ mathjax: true
 [@cityofphiladelphia phila.gov/](https://www.phila.gov/) ++ [@nasa-jpl @emit-sds @ucla phila.gov/departments/mayor/](https://www.phila.gov/departments/mayor/)
 ![@CityOFLOSANGELES _KARENBASS @LACMTA HOLLY J MiTCHELL @LA-COUNTY_iSD KeishA BOTTOMS @ForATLANTA @Cityofsantamonica](https://www.phila.gov/media/20250902211359/the-mayor-1-1.png) 
 
+
+[@esa @eu-cdse browser.dataspace.copernicus.eu/?zoom=10&lat=39.77635&](https://browser.dataspace.copernicus.eu/?zoom=10&lat=39.77635&lng=-75.06958&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FQOXe6woObsqiioBkZOOb2K3iqtxkfkXjdUuQTqyKmhQVNkH5yv%2B5fAsf16TIymCLUjD1%2BJjhnfehiNDBUKe6FE%2F3d91qNhRFHkaPn2%2BRq1btvfjbqbwSS&datasetId=S2_L2A_CDAS&fromTime=2026-10-21T00%3A00%3A00.000Z&toTime=2026-10-21T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE&panel=layers)
+<img   alt="2026-10-21-00_00_2026-10-21-23_59_Sentinel-2_L2A_False_color" src="https://github.com/user-attachments/assets/da46a1c3-75c4-49fe-a197-42326a4cabcc" />
+
+
 @asfadmin [these files](https://search.asf.alaska.edu/#/?zoom=11.763&center=-75.275,39.881&polygon=POLYGON((-75.2334%2039.909,-75.0468%2039.909,-75.0468%2040.0163,-75.2334%2040.0163,-75.2334%2039.909))&resultsLoaded=true&granule=OPERA_L2_RTC-S1_T106-225766-IW2_20251119T225923Z_20251120T023101Z_S1A_30_v1.0&dataset=OPERA-S1) are ofter ~8mb, and thats too heavy for [http](https://developer.mozilla.org/en-US/docs/Web/HTTP) imo can we optimize them for @eosdis-nasa ops ? [rashard - @nasa-pds @cityofphiladelphia _Mayor Cherelle L. Parker_ ](https://rashardikelly.github.io/)
 <img  alt="image" src="https://github.com/user-attachments/assets/66b1b7ec-ca97-46ef-b2db-2575e03de90e" />
 
