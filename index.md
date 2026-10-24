@@ -13,6 +13,10 @@ mathjax: true
   
 </picture>
 
+[@eosdis-nasa @cityofphiladelphia](https://www.youtube.com/watch?v=_RAxbusrfTk)
+[<video loop controls loading="auto" poster="https://github.com/user-attachments/assets/0498f0ab-0c58-4eca-9ca5-3cc42690d33d" src="https://github.com/virtiserv/virtiserv.github.io/raw/refs/heads/master/assets/video/ECOv002_L2T_LSTE_46465_009_18TVK_20260915T044406_0713_01_LST.mp4" />](https://github.com/virtiserv/virtiserv.github.io/raw/refs/heads/master/assets/video/ECOv002_L2T_LSTE_46465_009_18TVK_20260915T044406_0713_01_LST.mp4)
+
+
 <img alt="ECOv002_L2T_LSTE_46819_009_18TVK_20261007T201445_0713_01_LST" src="https://github.com/user-attachments/assets/8fb21d12-2898-4b77-b513-52efdbc756c3" />
 
 
@@ -25,8 +29,10 @@ mathjax: true
 ![https://tile.loc.gov/storage-services/service/pnp/ppmsc/01200/01253v.jpg](https://tile.loc.gov/storage-services/service/pnp/ppmsc/01200/01253v.jpg) 
 
 [`ECOv002_L2T_LSTE_46937_009_18TVK_20261015T104029_0713_01_ANiMAtiON` surface water `Highlights` @nasa-jpl @cityoflosangeles  @eosdis-nasa @cityofphiladelphia](https://www.phila.gov/media/20190904121144/District_Council_RCO_Contacts.pdf)
+
 <img  alt="ezgif-maker" src="https://github.com/user-attachments/assets/0498f0ab-0c58-4eca-9ca5-3cc42690d33d" />
-<img   alt="ezgif-resized" src="https://github.com/user-attachments/assets/fef291ee-eda0-4c38-a1c0-2f7af1bf16e4" />
+
+<img  alt="ezgif-resized" src="https://github.com/user-attachments/assets/fef291ee-eda0-4c38-a1c0-2f7af1bf16e4" />
 
 
 ## Planetary Defenders:
