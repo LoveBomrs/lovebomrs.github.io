@@ -13,6 +13,12 @@ mathjax: true
   
 </picture>
 
+<img  alt="image" src="https://github.com/user-attachments/assets/d488e927-15f1-4a66-9e2f-8bedf37ae9e6" />
+
+
+<img  alt="EMIT_L1B_RAD_001_20260410T191459_2610012_044" src="https://github.com/user-attachments/assets/13b8ede9-6939-43b3-aeb8-ba8a00e5be33" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/377834f9-7184-4010-b845-7316cdd90d54" />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Efp_U051x1A?si=a76zrD5HeCHezXts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
