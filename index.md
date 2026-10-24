@@ -13,7 +13,7 @@ mathjax: true
   
 </picture>
 
-[📺Yung Miami Emotional w/ New Album, Missing JT, Tyla Situation & Drake Leaving Her on 📱Read📱](https://youtu.be/5M_ggaI-ais) //
+[📺Yung Miami Emotional w/ New Album, Missing JT, Tyla Situation & Drake Leaving Her on 📱Read📱](https://youtu.be/5M_ggaI-ais) // [Miki Howard's Journey Through Music, Struggle, and Resilience](https://youtu.be/d8iYVyhG4jE) // [The Roots - Pass The Popcorn](https://youtu.be/0etlTq8eNzk?list=RD0etlTq8eNzk)
 
 
 --- 
