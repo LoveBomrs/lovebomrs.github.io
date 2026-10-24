@@ -14,72 +14,152 @@ mathjax: true
 </picture>
 
 
+## Planetary Defenders:
+How would humanity respond if we discovered an asteroid headed for Earth? NASA’s Planetary Defenders is a gripping documentary that delves into the high-stakes world of asteroid detection and planetary defense.
+[`WATCH` - _Planetary Defenders Documentary_ plus.nasa.gov/video/planetary-defenders/](https://plus.nasa.gov/video/planetary-defenders/) // [Planetary Defenders: This Is Not an Exercise](https://plus.nasa.gov/video/planetary-defenders-this-is-not-an-exercise/)
+<img  alt="image" src="https://github.com/user-attachments/assets/6b0bc022-7c13-4abf-aa6e-b7a2842fbf69" />
+![https://plus.nasa.gov/wp-content/uploads/2025/04/planetary-defenders-title.png](https://plus.nasa.gov/wp-content/uploads/2025/04/planetary-defenders-title.png)
+
+
+[@Blackgirlscode](https://science.nasa.gov/planetary-defense-neoo/) [DART](https://science.nasa.gov/planetary-defense-dart/) was a test to see if we could move an asteroid and we did ... _NASA’s Double Asteroid Redirection Test (DART), built and managed by the Johns Hopkins Applied Physics Laboratory (APL) for NASA’s Planetary Defense Coordination Office (PDCO), was the world’s first planetary defense technology demonstration that validated one technique of asteroid deflection using a kinetic impactor spacecraft. Launched November 24, 2021, on a SpaceX Falcon 9 rocket from [Space Launch Complex 4 East at Vandenberg Space Force Base](https://www.google.com/search?q=Space+Launch+Complex+4+East+at+Vandenberg+Space+Force+Base&rlz=1C1GCEJ_enUS1237US1237&oq=Space+Launch+Complex+4+East+at+Vandenberg+Space+Force+Base&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyBwgDEAAY7wUyBwgEEAAY7wXSAQc0NDZqMGo3qAIAsAIA&sourceid=chrome&source=chrome.ob&ie=UTF-8#lrd=0x80ec23f079af29c3:0xe002d5ad4d9c26cb,1,,,,) in California_  [science.nasa.gov/mission/neo-surveyor/](https://science.nasa.gov/mission/neo-surveyor/)
+<img   alt="Screenshot 2026-10-24 111908" src="https://github.com/user-attachments/assets/ddb7a5ca-6580-4083-82c6-477259da2893" />
+
+![https://assets.science.nasa.gov/dynamicimage/assets/science/missions/neo-surveyor/assets/NEO%20Surveyor%20Mission%20ID_Color_on%20Dark%20Background.tif?w=1536](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/neo-surveyor/assets/NEO%20Surveyor%20Mission%20ID_Color_on%20Dark%20Background.tif?w=1536) 
+
+# Launching 2027
+
+<iframe src="https://eyes.nasa.gov/apps/solar-system/#/sc_neo_surveyor?interactPrompt=true&minorMoons=true&heliosphere=true" allowfullscreen ></iframe>
+
+<img  alt="Screenshot 2026-10-24 105956" src="https://github.com/user-attachments/assets/9dadaade-51d8-4091-b2c7-02d5418d8094" />
+
+<img   alt="Screenshot 2026-10-24 105616" src="https://github.com/user-attachments/assets/1d09f804-0f87-42c5-9fbf-d1b3a2f30310" />
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="@eosdis-nasa @cityofphiladelphia @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+[`ECOv002_L2T_LSTE_46937_009_18TVK_20261015T104029_0713_01_water` surface water @eosdis-nasa @cityofphiladelphia](https://www.phila.gov/media/20190904121144/District_Council_RCO_Contacts.pdf)
+<img   alt="ECOv002_L2T_LSTE_46937_009_18TVK_20261015T104029_0713_01_water surface water @eosdis-nasa @cityofphiladelphia" src="https://github.com/user-attachments/assets/28994d51-fd14-4ae4-a9d5-360753889b26" />
+
+
+<img  alt="ECOv002_L2T_LSTE_46937_009_18TVK_20261015T104029_0713_01_height @eosdis-nasa @cityofphiladelphia " src="https://github.com/user-attachments/assets/f01a9888-dac9-464b-9350-a06b575f4908" />
+
+<img  alt="ECOv002_L2T_LSTE_46937_009_18TVK_20261015T104029_0713_01_LST @eosdis-nasa @cityofphiladelphia" src="https://github.com/user-attachments/assets/e093a7fc-b1a9-4238-b110-376bac7c86c0" />
+
+<img  alt="ECOv002_L2T_LSTE_46937_009_18TVK_20261015T104029_0713_01 @UCLA @EMiT-sds @septadev @eosdis-nasa @cityofphiladelphia  @hulu just sayin " src="https://github.com/user-attachments/assets/f8080cf0-e626-4518-8106-47c1b211bd0c" />
+
+
+[youtube.com/@djjazzyjeff](https://www.youtube.com/@djjazzyjeff)
+![@septadev @eosdis-nasa @cityofphiladelphia yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj @foratlanta @blackgirlscode @nasa-giss ](https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
+
+# What’s Really Happening At [Trump’s Rallies](https://www.whitehouse.gov/trumptv/)?
+[`WATCH` - youtube.com/watch?v=MYTNTCv3pTM @septadev @eosdis-nasa](https://www.youtube.com/watch?v=MYTNTCv3pTM)
+<img   alt="image @deptofwar @ibm @whitehouse @septadev @eosdis-nasa @cityofphiladelphia  @cityoflosangeles @nbcnews " src="https://github.com/user-attachments/assets/8ed96d7e-eae4-45d5-9c02-55b827096e59" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/2ce91e30-9a84-46f7-8a3a-9e4003a35d10" />
+
+[youtube.com/@HOT97ontv](https://www.youtube.com/@HOT97ontv)
+![ @septadev @eosdis-nasa @cityofphiladelphia  yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
+[youtube.com/@TheDonLemonShow](https://www.youtube.com/@TheDonLemonShow)
+![https://yt3.googleusercontent.com/0q0k8OwddMaXUjbqqFkDAPN9R2U3MOJlSxE8iCea6r2DDRzBwDVqkYoVKPalJjFMDMKcYJqb5A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/0q0k8OwddMaXUjbqqFkDAPN9R2U3MOJlSxE8iCea6r2DDRzBwDVqkYoVKPalJjFMDMKcYJqb5A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
+
+<img  alt="EMIT_L1B_RAD_001_20260608T195005_2615913_031" src="https://github.com/user-attachments/assets/5e6dd020-35c1-441f-89dd-024a0bc81342" />
+
+
+[youtube.com/@djjazzyjeff](https://www.youtube.com/@djjazzyjeff)
+![@septadev @eosdis-nasa @cityofphiladelphia yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj @foratlanta @blackgirlscode @nasa-giss ](https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
+
+<img alt=" @cityofphiladelphia EMIT_L1B_RAD_001_20240408T144006_2409910_002" src="https://github.com/user-attachments/assets/e2a9afa6-16e8-42f2-8038-cf76aa801e39" />
+
+
+[search.earthdata.nasa.gov/search/granules @foratlanta @blackgirlscode @nasa-giss @septadev @eosdis-nasa](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G3085246915-LPCLOUD&q=emit&sb[0]=-75.21489%2C39.92603%2C-75.1255%2C39.98833&lat=39.579574550000004&long=-75.3972945044481&zoom=9.282472009123916)
+<img  alt="EMIT_L1B_RAD_001_20240610T133826_2416209_011" src="https://github.com/user-attachments/assets/b06b29ac-0c90-4c5a-9222-d69585c44d06" />
+
+[@nasa ibm.com/think/topics/threat-actor](https://www.ibm.com/think/topics/threat-actor)
+<img  alt="image" src="https://github.com/user-attachments/assets/d488e927-15f1-4a66-9e2f-8bedf37ae9e6" />
+
+
+<img  alt="EMIT_L1B_RAD_001_20260410T191459_2610012_044" src="https://github.com/user-attachments/assets/13b8ede9-6939-43b3-aeb8-ba8a00e5be33" />
+
+[youtube.com/@djjazzyjeff](https://www.youtube.com/@djjazzyjeff)
+![@septadev @eosdis-nasa @cityofphiladelphia yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj @foratlanta @blackgirlscode @nasa-giss ](https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/377834f9-7184-4010-b845-7316cdd90d54" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e9b454bb-f670-4768-b328-c1aa728682bd" />
+
+
+[EMIT_L2A_RFL_001_20250623T142846_2517409_015](https://search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4133735707-LPCLOUD&q=emit&sb[0]=-75.21489%2C39.92603%2C-75.1255%2C39.98833&lat=40.017749800000004&long=-75.43277824468085&zoom=8.017758855689912)
+<img  alt="EMIT_L2A_RFL_001_20260410T191459_2610012_044" src="https://github.com/user-attachments/assets/3af7bea3-461f-4a0c-a635-4f18d2559d9e" />
+
+
+[youtube.com/@QuestloveSupreme](https://www.youtube.com/@QuestloveSupreme)
+![https://yt3.googleusercontent.com/teXGlrJJjS57rm3X_1JRifMAGZ_oTD7y8BKtA0jF3KfXZ-sJOc2kP62TIezGLSBk0KLLr_67UkA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/teXGlrJJjS57rm3X_1JRifMAGZ_oTD7y8BKtA0jF3KfXZ-sJOc2kP62TIezGLSBk0KLLr_67UkA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Efp_U051x1A?si=a76zrD5HeCHezXts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Philly @cityofphiladelphia from @LongBeachInnovationTeam @La-county-isd @emit-sds @eodis-nasa @nasa-jpl @CityOFLOSANGELES @CityOFSANTAMONiCA @SACCOUNTY hi @BlackgirlscodE](https://search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G2938626345-LPCLOUD&q=emit&sb[0]=-75.21489%2C39.92603%2C-75.1255%2C39.98833&lat=40.02074815&long=-75.38190638297873&zoom=8.028693886330881)
+<img alt="EMIT_L2A_RFL_001_20240416T175513_2410712_034 @foratlanta @blackgirlscode @nasa-giss @septadev @eosdis-nasa" src="https://github.com/user-attachments/assets/e42fe131-576f-40cc-968c-55efd2b517f0" />
+
+
+        "name": "EMIT_L2A_RFL_001_20260418T161006_2610810_023.nc",
+        "sizeInBytes": 1851144403,
+        "format": "NETCDF-4",
+        "checksum": {
+          "value": "4dbf2983dd8acf847d45e01734f4bb9fb2489e6c3823eb62c7345285c585fbb333c1d4091601057265e019e064caa8cfd0c8466b7cea7a055130d93a62a345bf",
+          "algorithm": "SHA-512"
+
+<img   alt=" @foratlanta @blackgirlscode @nasa-giss @septadev @eosdis-nasa loggin in! image" src="https://github.com/user-attachments/assets/1acb25cd-6743-45bf-9711-8293174d3c2a" />
+
+
+## Planetary Defenders:
+How would humanity respond if we discovered an asteroid headed for Earth? NASA’s Planetary Defenders is a gripping documentary that delves into the high-stakes world of asteroid detection and planetary defense.
+[`WATCH` - _Planetary Defenders Documentary_ plus.nasa.gov/video/planetary-defenders/](https://plus.nasa.gov/video/planetary-defenders/) // [Planetary Defenders: This Is Not an Exercise](https://plus.nasa.gov/video/planetary-defenders-this-is-not-an-exercise/)
+<img  alt="image" src="https://github.com/user-attachments/assets/6b0bc022-7c13-4abf-aa6e-b7a2842fbf69" />
+![https://plus.nasa.gov/wp-content/uploads/2025/04/planetary-defenders-title.png](https://plus.nasa.gov/wp-content/uploads/2025/04/planetary-defenders-title.png)
+
+
+[@Blackgirlscode](https://science.nasa.gov/planetary-defense-neoo/) [DART](https://science.nasa.gov/planetary-defense-dart/) was a test to see if we could move an asteroid and we did ... _NASA’s Double Asteroid Redirection Test (DART), built and managed by the Johns Hopkins Applied Physics Laboratory (APL) for NASA’s Planetary Defense Coordination Office (PDCO), was the world’s first planetary defense technology demonstration that validated one technique of asteroid deflection using a kinetic impactor spacecraft. Launched November 24, 2021, on a SpaceX Falcon 9 rocket from [Space Launch Complex 4 East at Vandenberg Space Force Base](https://www.google.com/search?q=Space+Launch+Complex+4+East+at+Vandenberg+Space+Force+Base&rlz=1C1GCEJ_enUS1237US1237&oq=Space+Launch+Complex+4+East+at+Vandenberg+Space+Force+Base&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyBwgDEAAY7wUyBwgEEAAY7wXSAQc0NDZqMGo3qAIAsAIA&sourceid=chrome&source=chrome.ob&ie=UTF-8#lrd=0x80ec23f079af29c3:0xe002d5ad4d9c26cb,1,,,,) in California_  [science.nasa.gov/mission/neo-surveyor/](https://science.nasa.gov/mission/neo-surveyor/)
+<img   alt="Screenshot 2026-10-24 111908" src="https://github.com/user-attachments/assets/ddb7a5ca-6580-4083-82c6-477259da2893" />
+
+![https://assets.science.nasa.gov/dynamicimage/assets/science/missions/neo-surveyor/assets/NEO%20Surveyor%20Mission%20ID_Color_on%20Dark%20Background.tif?w=1536](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/neo-surveyor/assets/NEO%20Surveyor%20Mission%20ID_Color_on%20Dark%20Background.tif?w=1536) 
+
+# Launching 2027
+
+<iframe src="https://eyes.nasa.gov/apps/solar-system/#/sc_neo_surveyor?interactPrompt=true&minorMoons=true&heliosphere=true" allowfullscreen ></iframe>
+
+<img  alt="Screenshot 2026-10-24 105956" src="https://github.com/user-attachments/assets/9dadaade-51d8-4091-b2c7-02d5418d8094" />
+
+<img   alt="Screenshot 2026-10-24 105616" src="https://github.com/user-attachments/assets/1d09f804-0f87-42c5-9fbf-d1b3a2f30310" />
+
+🎼📻 [Guilty Simpson - Man's World](https://youtu.be/VEDBFzDnIRM?list=RDVEDBFzDnIRM) // [Petty People · Sadat X](https://youtu.be/rKV9xM8f5yI?si=Cd72wzSI16zJTTuJ) // [Aaliyah Tribute: Normani - Rock The Boat](https://youtu.be/2Rf_XHe6Ztc?list=RD2Rf_XHe6Ztc&t=15)  // [Love Under New Management · Miki Howard](https://youtu.be/SReOKWeSKRM?list=RDSReOKWeSKRM)  // 🎤🎵 // [Rapture  - Anita Baker `1986`](https://youtu.be/jqZjsscpj1E?si=tt11H84j3jke7a7U) // [Friends And Strangers · Ronnie Laws `1977`](https://youtu.be/nRCun0fCr_U) // [Life In Paradise · Ronnie Laws](https://youtu.be/gm32Ev5muTU) // [Ronnie Laws ~ Flame🔥🔥🔥](https://youtu.be/-1K8rFKk7zc?list=RD-1K8rFKk7zc) // [Kash Doll - KD Diary ](https://youtu.be/25VCq8iHTVo?si=S62ZizU_Sc2mBe3n) // [Roy Ayers Ubiquity ~ Everybody Loves The Sunshine 1974](https://youtu.be/9EhIBv_qAlI?list=RD9EhIBv_qAlI) // [Gil Scott Heron - Angel Dust](https://youtu.be/pRQgviNNZEM?list=RDpRQgviNNZEM) // [Michael Jackson - Of The Wall ](https://youtu.be/stnnBVvwsy8?list=RDstnnBVvwsy8)
+
+---
+
+
+## HOT 97 News Live! 10/23/26
+[`WATCH` - https://youtu.be/yMewwpyJvkQ](https://youtu.be/yMewwpyJvkQ)
+<img alt="image" src="https://github.com/user-attachments/assets/a4fb32b3-f3e2-4feb-af85-7f40b359ba6c" />
+
+<img  alt="image [@BLACKGiRLSCODE  co.colorado.gov/employment](https://co.colorado.gov/employment) ////////October 2023, Rhysida, a hacker group, attacked the online information systems of the British Library. They demanded a ransom of 20 bitcoin, at the time around £596,000, to restore services and return the stolen data [`READMORE`](https://en.wikipedia.org/wiki/British_Library_cyberattack) + [@DiSNEY @HULU _`CheckSubs`_](https://archive.org/download/the-wiz-1978-full-movie/Subs/) that's some scaryass shit! [@netflix https://archive.org/download/the-wiz-1978-full-movie/The.Wiz.1978.1080p.BluRay.x264.AAC5.1-LAMA.mp4](https://archive.org/download/the-wiz-1978-full-movie/The.Wiz.1978.1080p.BluRay.x264.AAC5.1-LAMA.mp4) - rashard @eosdis-nasa / @nasa-jpl " src="https://github.com/user-attachments/assets/1561ac31-a915-4077-a42b-3fba02ec87ee" />
+
+
+
  @blackgirlscode @septadev @whitehouse @deptofwar comms test ask jazzy jeff how he went off @youtube @nasa-jpl @nbcnews
 <img   alt="image @blackgirlscode @septadev @whitehouse @deptofwar comms test ask jazzy jeff how he went off @youtube @nasa-jpl @nbcnews" src="https://github.com/user-attachments/assets/e88a676c-e672-4aa8-9802-ff2379561c36" />
  
-1
-2
-3
-4
-5
-6
-7
-8
-9
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
- 
- 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
- 
- XP
-
 
 
 @ReneciaNENE
@@ -1087,128 +1167,6 @@ Unable to connect to chat. Please try again later.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Efp_U051x1A?si=a76zrD5HeCHezXts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ```
-
-<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
-  
-  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
-  
-  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
-  
-  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="@eosdis-nasa @cityofphiladelphia @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
-  
-</picture>
-
-[`ECOv002_L2T_LSTE_46937_009_18TVK_20261015T104029_0713_01_water` surface water @eosdis-nasa @cityofphiladelphia](https://www.phila.gov/media/20190904121144/District_Council_RCO_Contacts.pdf)
-<img   alt="ECOv002_L2T_LSTE_46937_009_18TVK_20261015T104029_0713_01_water surface water @eosdis-nasa @cityofphiladelphia" src="https://github.com/user-attachments/assets/28994d51-fd14-4ae4-a9d5-360753889b26" />
-
-
-<img  alt="ECOv002_L2T_LSTE_46937_009_18TVK_20261015T104029_0713_01_height @eosdis-nasa @cityofphiladelphia " src="https://github.com/user-attachments/assets/f01a9888-dac9-464b-9350-a06b575f4908" />
-
-<img  alt="ECOv002_L2T_LSTE_46937_009_18TVK_20261015T104029_0713_01_LST @eosdis-nasa @cityofphiladelphia" src="https://github.com/user-attachments/assets/e093a7fc-b1a9-4238-b110-376bac7c86c0" />
-
-<img  alt="ECOv002_L2T_LSTE_46937_009_18TVK_20261015T104029_0713_01 @UCLA @EMiT-sds @septadev @eosdis-nasa @cityofphiladelphia  @hulu just sayin " src="https://github.com/user-attachments/assets/f8080cf0-e626-4518-8106-47c1b211bd0c" />
-
-
-[youtube.com/@djjazzyjeff](https://www.youtube.com/@djjazzyjeff)
-![@septadev @eosdis-nasa @cityofphiladelphia yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj @foratlanta @blackgirlscode @nasa-giss ](https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
-
-
-# What’s Really Happening At [Trump’s Rallies](https://www.whitehouse.gov/trumptv/)?
-[`WATCH` - youtube.com/watch?v=MYTNTCv3pTM @septadev @eosdis-nasa](https://www.youtube.com/watch?v=MYTNTCv3pTM)
-<img   alt="image @deptofwar @ibm @whitehouse @septadev @eosdis-nasa @cityofphiladelphia  @cityoflosangeles @nbcnews " src="https://github.com/user-attachments/assets/8ed96d7e-eae4-45d5-9c02-55b827096e59" />
-
-<img   alt="image" src="https://github.com/user-attachments/assets/2ce91e30-9a84-46f7-8a3a-9e4003a35d10" />
-
-[youtube.com/@HOT97ontv](https://www.youtube.com/@HOT97ontv)
-![ @septadev @eosdis-nasa @cityofphiladelphia  yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
-
-[youtube.com/@TheDonLemonShow](https://www.youtube.com/@TheDonLemonShow)
-![https://yt3.googleusercontent.com/0q0k8OwddMaXUjbqqFkDAPN9R2U3MOJlSxE8iCea6r2DDRzBwDVqkYoVKPalJjFMDMKcYJqb5A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/0q0k8OwddMaXUjbqqFkDAPN9R2U3MOJlSxE8iCea6r2DDRzBwDVqkYoVKPalJjFMDMKcYJqb5A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
-
-
-<img  alt="EMIT_L1B_RAD_001_20260608T195005_2615913_031" src="https://github.com/user-attachments/assets/5e6dd020-35c1-441f-89dd-024a0bc81342" />
-
-
-[youtube.com/@djjazzyjeff](https://www.youtube.com/@djjazzyjeff)
-![@septadev @eosdis-nasa @cityofphiladelphia yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj @foratlanta @blackgirlscode @nasa-giss ](https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
-
-
-<img alt=" @cityofphiladelphia EMIT_L1B_RAD_001_20240408T144006_2409910_002" src="https://github.com/user-attachments/assets/e2a9afa6-16e8-42f2-8038-cf76aa801e39" />
-
-
-[search.earthdata.nasa.gov/search/granules @foratlanta @blackgirlscode @nasa-giss @septadev @eosdis-nasa](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G3085246915-LPCLOUD&q=emit&sb[0]=-75.21489%2C39.92603%2C-75.1255%2C39.98833&lat=39.579574550000004&long=-75.3972945044481&zoom=9.282472009123916)
-<img  alt="EMIT_L1B_RAD_001_20240610T133826_2416209_011" src="https://github.com/user-attachments/assets/b06b29ac-0c90-4c5a-9222-d69585c44d06" />
-
-[@nasa ibm.com/think/topics/threat-actor](https://www.ibm.com/think/topics/threat-actor)
-<img  alt="image" src="https://github.com/user-attachments/assets/d488e927-15f1-4a66-9e2f-8bedf37ae9e6" />
-
-
-<img  alt="EMIT_L1B_RAD_001_20260410T191459_2610012_044" src="https://github.com/user-attachments/assets/13b8ede9-6939-43b3-aeb8-ba8a00e5be33" />
-
-[youtube.com/@djjazzyjeff](https://www.youtube.com/@djjazzyjeff)
-![@septadev @eosdis-nasa @cityofphiladelphia yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj @foratlanta @blackgirlscode @nasa-giss ](https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
-
-
-<img   alt="image" src="https://github.com/user-attachments/assets/377834f9-7184-4010-b845-7316cdd90d54" />
-
-
-<img  alt="image" src="https://github.com/user-attachments/assets/e9b454bb-f670-4768-b328-c1aa728682bd" />
-
-
-[EMIT_L2A_RFL_001_20250623T142846_2517409_015](https://search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4133735707-LPCLOUD&q=emit&sb[0]=-75.21489%2C39.92603%2C-75.1255%2C39.98833&lat=40.017749800000004&long=-75.43277824468085&zoom=8.017758855689912)
-<img  alt="EMIT_L2A_RFL_001_20260410T191459_2610012_044" src="https://github.com/user-attachments/assets/3af7bea3-461f-4a0c-a635-4f18d2559d9e" />
-
-
-[youtube.com/@QuestloveSupreme](https://www.youtube.com/@QuestloveSupreme)
-![https://yt3.googleusercontent.com/teXGlrJJjS57rm3X_1JRifMAGZ_oTD7y8BKtA0jF3KfXZ-sJOc2kP62TIezGLSBk0KLLr_67UkA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/teXGlrJJjS57rm3X_1JRifMAGZ_oTD7y8BKtA0jF3KfXZ-sJOc2kP62TIezGLSBk0KLLr_67UkA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Efp_U051x1A?si=a76zrD5HeCHezXts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[Philly @cityofphiladelphia from @LongBeachInnovationTeam @La-county-isd @emit-sds @eodis-nasa @nasa-jpl @CityOFLOSANGELES @CityOFSANTAMONiCA @SACCOUNTY hi @BlackgirlscodE](https://search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G2938626345-LPCLOUD&q=emit&sb[0]=-75.21489%2C39.92603%2C-75.1255%2C39.98833&lat=40.02074815&long=-75.38190638297873&zoom=8.028693886330881)
-<img alt="EMIT_L2A_RFL_001_20240416T175513_2410712_034 @foratlanta @blackgirlscode @nasa-giss @septadev @eosdis-nasa" src="https://github.com/user-attachments/assets/e42fe131-576f-40cc-968c-55efd2b517f0" />
-
-
-        "name": "EMIT_L2A_RFL_001_20260418T161006_2610810_023.nc",
-        "sizeInBytes": 1851144403,
-        "format": "NETCDF-4",
-        "checksum": {
-          "value": "4dbf2983dd8acf847d45e01734f4bb9fb2489e6c3823eb62c7345285c585fbb333c1d4091601057265e019e064caa8cfd0c8466b7cea7a055130d93a62a345bf",
-          "algorithm": "SHA-512"
-
-<img   alt=" @foratlanta @blackgirlscode @nasa-giss @septadev @eosdis-nasa loggin in! image" src="https://github.com/user-attachments/assets/1acb25cd-6743-45bf-9711-8293174d3c2a" />
-
-
-## Planetary Defenders:
-How would humanity respond if we discovered an asteroid headed for Earth? NASA’s Planetary Defenders is a gripping documentary that delves into the high-stakes world of asteroid detection and planetary defense.
-[`WATCH` - _Planetary Defenders Documentary_ plus.nasa.gov/video/planetary-defenders/](https://plus.nasa.gov/video/planetary-defenders/) // [Planetary Defenders: This Is Not an Exercise](https://plus.nasa.gov/video/planetary-defenders-this-is-not-an-exercise/)
-<img  alt="image" src="https://github.com/user-attachments/assets/6b0bc022-7c13-4abf-aa6e-b7a2842fbf69" />
-![https://plus.nasa.gov/wp-content/uploads/2025/04/planetary-defenders-title.png](https://plus.nasa.gov/wp-content/uploads/2025/04/planetary-defenders-title.png)
-
-
-[@Blackgirlscode](https://science.nasa.gov/planetary-defense-neoo/) [DART](https://science.nasa.gov/planetary-defense-dart/) was a test to see if we could move an asteroid and we did ... _NASA’s Double Asteroid Redirection Test (DART), built and managed by the Johns Hopkins Applied Physics Laboratory (APL) for NASA’s Planetary Defense Coordination Office (PDCO), was the world’s first planetary defense technology demonstration that validated one technique of asteroid deflection using a kinetic impactor spacecraft. Launched November 24, 2021, on a SpaceX Falcon 9 rocket from [Space Launch Complex 4 East at Vandenberg Space Force Base](https://www.google.com/search?q=Space+Launch+Complex+4+East+at+Vandenberg+Space+Force+Base&rlz=1C1GCEJ_enUS1237US1237&oq=Space+Launch+Complex+4+East+at+Vandenberg+Space+Force+Base&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyBwgDEAAY7wUyBwgEEAAY7wXSAQc0NDZqMGo3qAIAsAIA&sourceid=chrome&source=chrome.ob&ie=UTF-8#lrd=0x80ec23f079af29c3:0xe002d5ad4d9c26cb,1,,,,) in California_  [science.nasa.gov/mission/neo-surveyor/](https://science.nasa.gov/mission/neo-surveyor/)
-<img   alt="Screenshot 2026-10-24 111908" src="https://github.com/user-attachments/assets/ddb7a5ca-6580-4083-82c6-477259da2893" />
-
-![https://assets.science.nasa.gov/dynamicimage/assets/science/missions/neo-surveyor/assets/NEO%20Surveyor%20Mission%20ID_Color_on%20Dark%20Background.tif?w=1536](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/neo-surveyor/assets/NEO%20Surveyor%20Mission%20ID_Color_on%20Dark%20Background.tif?w=1536) 
-
-# Launching 2027
-
-<iframe src="https://eyes.nasa.gov/apps/solar-system/#/sc_neo_surveyor?interactPrompt=true&minorMoons=true&heliosphere=true" allowfullscreen ></iframe>
-
-<img  alt="Screenshot 2026-10-24 105956" src="https://github.com/user-attachments/assets/9dadaade-51d8-4091-b2c7-02d5418d8094" />
-
-<img   alt="Screenshot 2026-10-24 105616" src="https://github.com/user-attachments/assets/1d09f804-0f87-42c5-9fbf-d1b3a2f30310" />
-
-🎼📻 [Guilty Simpson - Man's World](https://youtu.be/VEDBFzDnIRM?list=RDVEDBFzDnIRM) // [Petty People · Sadat X](https://youtu.be/rKV9xM8f5yI?si=Cd72wzSI16zJTTuJ) // [Aaliyah Tribute: Normani - Rock The Boat](https://youtu.be/2Rf_XHe6Ztc?list=RD2Rf_XHe6Ztc&t=15)  // [Love Under New Management · Miki Howard](https://youtu.be/SReOKWeSKRM?list=RDSReOKWeSKRM)  // 🎤🎵 // [Rapture  - Anita Baker `1986`](https://youtu.be/jqZjsscpj1E?si=tt11H84j3jke7a7U) // [Friends And Strangers · Ronnie Laws `1977`](https://youtu.be/nRCun0fCr_U) // [Life In Paradise · Ronnie Laws](https://youtu.be/gm32Ev5muTU) // [Ronnie Laws ~ Flame🔥🔥🔥](https://youtu.be/-1K8rFKk7zc?list=RD-1K8rFKk7zc) // [Kash Doll - KD Diary ](https://youtu.be/25VCq8iHTVo?si=S62ZizU_Sc2mBe3n) // [Roy Ayers Ubiquity ~ Everybody Loves The Sunshine 1974](https://youtu.be/9EhIBv_qAlI?list=RD9EhIBv_qAlI) // [Gil Scott Heron - Angel Dust](https://youtu.be/pRQgviNNZEM?list=RDpRQgviNNZEM) // [Michael Jackson - Of The Wall ](https://youtu.be/stnnBVvwsy8?list=RDstnnBVvwsy8)
-
----
-
-
-## HOT 97 News Live! 10/23/26
-[`WATCH` - https://youtu.be/yMewwpyJvkQ](https://youtu.be/yMewwpyJvkQ)
-<img alt="image" src="https://github.com/user-attachments/assets/a4fb32b3-f3e2-4feb-af85-7f40b359ba6c" />
-
-<img  alt="image [@BLACKGiRLSCODE  co.colorado.gov/employment](https://co.colorado.gov/employment) ////////October 2023, Rhysida, a hacker group, attacked the online information systems of the British Library. They demanded a ransom of 20 bitcoin, at the time around £596,000, to restore services and return the stolen data [`READMORE`](https://en.wikipedia.org/wiki/British_Library_cyberattack) + [@DiSNEY @HULU _`CheckSubs`_](https://archive.org/download/the-wiz-1978-full-movie/Subs/) that's some scaryass shit! [@netflix https://archive.org/download/the-wiz-1978-full-movie/The.Wiz.1978.1080p.BluRay.x264.AAC5.1-LAMA.mp4](https://archive.org/download/the-wiz-1978-full-movie/The.Wiz.1978.1080p.BluRay.x264.AAC5.1-LAMA.mp4) - rashard @eosdis-nasa / @nasa-jpl " src="https://github.com/user-attachments/assets/1561ac31-a915-4077-a42b-3fba02ec87ee" />
-
 
 # Colorado
 ## [The Wiz (1978) (Full Movie)](https://archive.org/details/the-wiz-1978-full-movie)
