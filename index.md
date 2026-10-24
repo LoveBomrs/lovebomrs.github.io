@@ -13,6 +13,8 @@ mathjax: true
   
 </picture>
 
+
+ @blackgirlscode @septadev @whitehouse @deptofwar comms test ask jazzy jeff how he went off @youtube @nasa-jpl @nbcnews
 <img   alt="image @blackgirlscode @septadev @whitehouse @deptofwar comms test ask jazzy jeff how he went off @youtube @nasa-jpl @nbcnews" src="https://github.com/user-attachments/assets/e88a676c-e672-4aa8-9802-ff2379561c36" />
  
 1
@@ -2587,6 +2589,1091 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 [~~🛢️worldview.earthdata.nasa.gov/?v=-130.74235708825978,20.321326618520786 @nasa-jpl @la-county-isd @cityoflosangeles I think I found the oil slick status🛢️!~~](https://worldview.earthdata.nasa.gov/?v=-130.74235708825978,20.321326618520786,-109.62154868347638,30.716724505250113&l=Reference_Labels_15m,Admin_Boundaries(hidden),DoS_International_Boundaries(hidden),Coastlines_15m(hidden),VIIRS_CrIS_NOAA20_BT_Band33_Fusion_Night,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2026-10-15-T18%3A14%3A01Z)
 
 <img  alt="Watch - Oregon Elementary Shooting & Pakistan School Collapse Probe @nasa-jpl Rep. Analilia Mejia Blasts ICE for Secretly Using NJ Warehouse @dhs-gov nasa-worldview-2026 OCT 05-to-2026 OCT 15" src="https://github.com/user-attachments/assets/2868bb7c-9d40-4f98-af70-bd2afeb33fb1" />
+
+
+ @blackgirlscode @septadev @whitehouse @deptofwar comms test ask jazzy jeff how he went off @youtube @nasa-jpl @nbcnews
+<img   alt="image @blackgirlscode @septadev @whitehouse @deptofwar comms test ask jazzy jeff how he went off @youtube @nasa-jpl @nbcnews" src="https://github.com/user-attachments/assets/e88a676c-e672-4aa8-9802-ff2379561c36" />
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ XP
+
+
+
+@ReneciaNENE
+​
+
+#2
+​yes it is
+
+
+@lisalove4183
+​
+
+#1
+​they can't break my soul
+
+
+@pierre6108
+​​💥💥💥💥💪👌
+
+
+@CreativitingUs2016
+​​Next episode
+
+
+@ladypheonixfire
+​​🎂💐🎁🎈🎈🎈
+
+
+@L302bay
+​​lost ✌🏽w m3
+
+
+@lisalove4183
+​
+
+#1
+​@Gina E💖 Hello Sis happy Saturday gtsy
+
+
+@ridd-one
+​​siiiiick
+
+
+@VLifeWithMario
+​​❤
+
+
+@louloulou3997
+​
+
+#3
+​LisaLove that's right !!! ❤🌹
+
+
+@CreativitingUs2016
+​​Hi @ginae8773
+
+
+@ginae8773
+​​Hey My Sis @ Lisa 💋
+
+
+@L302bay
+​​👀🦴
+
+
+@lisalove4183
+​
+
+#1
+​@Loulou 💯💯💯💯🖐
+
+
+@ridd-one
+​​timeless
+
+
+@ginae8773
+​​❣@ creativingUs
+
+
+@louloulou3997
+​
+
+#3
+​LisaLove !!! 🙏🌹😘❤
+
+
+@ginae8773
+​​AYEEEE 🙌🏾🙌🏾🙌🏾🙌🏾🙌🏾
+
+
+@ladypheonixfire
+​​I never knew a lulu love like this...
+
+
+@louloulou3997
+​
+
+#3
+​LisaLove call me Lila🙏🌹
+
+
+@niquehawks874
+​​🗣 S/O to all 🎉celebrating their Earthday's ♎/♏🍨🎂🍷🎈🍺🎁🥃🎊
+
+
+@L302bay
+​​old light under the back 🐝
+
+
+@L302bay
+​​🤣😂🤣🐝
+
+
+@lisalove4183
+​
+
+#1
+​@Lila ❤ Sending hugs
+
+
+@sethuu__m
+​​Umdala brazo!!!!
+
+
+@pierre6108
+​​✊ merci au manifestants français force à vous
+
+
+@ridd-one
+​​the legend phil
+
+
+@mowade75
+​​🔥🔥🔥🔥🔥
+
+
+@ReneciaNENE
+​
+
+#3
+​nice🌿🔥🌬
+
+
+@ladypheonixfire
+​​COME onnnnnnnn
+
+
+@louloulou3997
+​
+
+#2
+​sweet LisaLove thank you !!! Hugs back yo you !!! 🤗❤🙏😘
+
+
+@lisalove4183
+​
+
+#1
+​the 🥁🥁🥁🥁
+
+
+@ellensilva8566
+​​can you phil it?!
+
+
+@L302bay
+​​gtown L🫠
+
+
+@ridd-one
+​​haha ellen
+
+
+@schnoodlevideo
+​​Let’s gooooooo
+
+
+@DJcromestyle
+​​Raaaaaaaaaaaaaaain
+
+
+@markuse7372
+​​🔥 😎 🎸 🤘
+
+
+@lisalove4183
+​
+
+#1
+​❤❤❤❤
+
+
+@ridd-one
+​​q tip
+
+
+@gbaldwin2423
+​​We can RIIIDDDEEEE !!! CMON CMON CMON !!!
+
+
+@lisalove4183
+​
+
+#1
+​@Lila ❤ Your welcome
+
+
+@zitozentinel
+​​finger-red-number-one
+
+
+@thakasartukellyselassie6468
+​​@TheDonLemonShow y you dont fuck with me @NASAJPL ?
+
+
+@christopheratwell7758
+​​Play some 2Pac
+
+
+@latoshavance7314
+​​💃🏾💃🏾💃🏾💃🏾💃🏾💃🏾
+
+
+@ellensilva8566
+​​fine young thing!💞
+
+
+@zitozentinel
+​​glasses-purple-yellow-diamond
+
+
+@latoshavance7314
+​​🖤🖤🖤🖤🖤
+
+
+@thakasartukellyselassie6468
+​​@TheDonLemonShow is it @LANAJHARRis that shit do smell good nigga sup @T.i.
+
+
+@mathewmcfool
+​​Chanté Moore - It's Alright @ginae8773 you forgot about that one huh?
+
+
+@IamDjSweet.T
+​​💯🔥🔥🔥🔥💃🏽💃🏽
+
+
+@zitozentinel
+​​trophy-yellow-smiling
+
+
+@mathewmcfool
+​​Chanté Moore - Love's Taken Over @lisalove4183 remember that one?
+
+
+@ridd-one
+​​jazzy in the pocket
+
+
+@zitozentinel
+​​rocket-red-countdown-liftoff
+
+
+@lisalove4183
+​
+
+#1
+​Drinks 🥃🥃🥃🥃🥃🥃🥃🥃🥃 Toast To Dj Jazzy Jeff 🎤 for bringing us these positive vibes 🔥
+
+
+@latoshavance7314
+​​🔥🔥🔥🔥🔥
+
+
+@thakasartukellyselassie6468
+​​@NASA-pds is @TheDonLemonShow cool ? like is he tryig to disrupt my love life as well ? like loatto city man im sus as fuck on that nigga @repkarenbass @WHiTEHOUSE
+
+
+@latoshavance7314
+​​rocket-red-countdown-liftoffrocket-red-countdown-liftoffrocket-red-countdown-liftoff
+
+
+@latoshavance7314
+​​face-turquoise-music-noteface-turquoise-music-noteface-turquoise-music-noteface-turquoise-music-noteperson-pink-swaying-hairperson-pink-swaying-hairperson-pink-swaying-hair
+
+
+@zitozentinel
+​​🧐
+
+
+@lisalove4183
+​
+
+#1
+​@Mathewmcfool yes I do ❤ Hello and happy Saturday
+
+
+@ginae8773
+​​Hey my Crazy Brother @ mathewmcfool ❣ No I didn't 😉
+
+
+@ReneciaNENE
+​
+
+#3
+​✨✨
+
+
+@ridd-one
+​​dope set once again
+
+
+@louloulou3997
+​
+
+#2
+​pierre6108 Merci !!! Ce n'est que le début. Manifestationset crimes raciste 🥹🥹 Pengo Bossio Wangui paix à sa Belle Âme. 🥹❤🙏
+
+
+@mathewmcfool
+​​@ginae8773 just checking :)
+
+
+@denzelmccrary3626
+​​Stevie
+
+
+@zitozentinel
+​​👾👾👾
+
+
+@ellensilva8566
+​​what's up everybody!?
+
+
+@mathewmcfool
+​​@lisalove4183 PEACE QUEEN 👑
+
+
+@IamDjSweet.T
+​​🎚🎶🎛🎵🔊🔊🔊🔊
+
+
+@CreativitingUs2016
+​​Hi Matthew
+
+
+@zitozentinel
+​​🙈🙉🙊
+
+
+@latoshavance7314
+​​🙌🏾🙌🏾🙌🏾🙌🏾🔥🔥🔥🔥
+
+
+@ellensilva8566
+​​nice!!!
+
+
+@christopheratwell7758
+​​Hey!
+
+
+@niquehawks874
+​​🔥🔥🔥🔥🔥
+
+
+@ginae8773
+​​@ mathewmcfool 😉💋
+
+
+@gbaldwin2423
+​​🤯🤯🤯
+
+
+@doubloon1359
+​​yes
+
+
+@christopheratwell7758
+​​King of Pop
+
+
+@bafanancwana1566
+​​My dad is weird but he loves your music so it’s ok
+
+
+@lisalove4183
+​
+
+#1
+​love over hate🌎❤🌎❤🌎
+
+
+@doubloon1359
+​​mj sample sick homez
+
+
+@mathewmcfool
+​​👋 YOOOOOO! @CreativitingUs2016 what's up!
+
+
+@marcuscarpenter6898
+​​Salutary
+
+
+@ridd-one
+​​💥💥💥
+
+
+@bboymac84
+​​Gettem Jeff
+
+
+@CreativitingUs2016
+​​The man, the myth, the legend
+
+
+@ReneciaNENE
+​
+
+#3
+​🔥🔥🔥jeff went off
+
+
+@zitozentinel
+​​🕸
+
+
+@bafanancwana1566
+​​My dad said love it
+
+
+@bboymac84
+​​hand-pink-waving
+
+
+@niquehawks874
+​​👋🏾 Heyyy @mathewmcfool gtsy fam 💙
+
+
+@CreativitingUs2016
+​​@matthewmcfool nothing much
+
+
+@bafanancwana1566
+​​I mean 🔥🔥
+
+
+@ladypheonixfire
+​​🎸🎸🎸
+
+
+@zitozentinel
+​​🍰
+
+
+@pierre6108
+​​💥💥💥❤‍🔥
+
+
+@ladypheonixfire
+​​Chaka❤❤❤❤
+
+
+@VexedPeril
+​​oh, tekken, indefinitely
+
+
+@zitozentinel
+​​🔥
+
+
+@mathewmcfool
+​​@niquehawks874 PEACE QUEEN 👑 💯 GTSY2 face-turquoise-covering-eyes
+
+
+@zitozentinel
+​​🎇🎇🎇
+
+
+@ridd-one
+​​capleton
+
+
+@zitozentinel
+​​🧨
+
+
+@gbaldwin2423
+​​CAPELTON
+
+
+@ridd-one
+​​🔊🔊🔊
+
+
+@niquehawks874
+​​You already know bubble wrap 👑🌺🌺🌺🌺🌺🌺🌺🌺
+
+
+@zitozentinel
+​​🎃
+
+
+@warriormc1986
+​​🔥🔥🔥
+
+
+@zitozentinel
+​​🎯🎯🎯🎯
+
+
+@lisalove4183
+​
+
+#1
+​party over here 💃💃💃💃💃💃💃💃💃💃💃
+
+
+@ridd-one
+​​LIGHTA
+
+
+@VexedPeril
+​​indoobitabley
+
+
+@pierre6108
+​​✊👌🫈🕺
+
+
+@latoshavance7314
+​​rocket-red-countdown-liftoffrocket-red-countdown-liftoffrocket-red-countdown-liftoffrocket-red-countdown-liftofffinger-red-number-onefinger-red-number-onefinger-red-number-one
+
+
+@ReneciaNENE
+​
+
+#3
+​dope
+
+
+@zitozentinel
+​​🪁🪁
+
+
+@niquehawks874
+​​🫰🏽🫰🏽🫰🏽🫰🏽🫰🏽🫰🏽🫰🏽
+
+
+@louloulou3997
+​
+
+#2
+​magnifique !!!! JazzyJeff !!!! ❤🎶❤🎶❤🌎🌎🌎🌎
+
+
+@djjazzyjeff
+​​Lets Go!!
+
+
+@ellensilva8566
+​​this, right here, is why I love tech! unbelievable being here with you all!
+
+
+@zitozentinel
+​​♠
+
+
+@lisalove4183
+​
+
+#1
+​💃💃💃💃💃🕺🕺🕺🕺
+
+
+@ridd-one
+​​uncle ricky
+
+
+@latoshavance7314
+​​🖤🖤🖤🖤🖤🖤
+
+
+@mathewmcfool
+​​🔥
+
+
+@zitozentinel
+​​🎵🎶
+
+
+@ReneciaNENE
+​
+
+#3
+​funky
+
+
+@IamDjSweet.T
+​​U Got my coworkers dancing💃🏽💃🏽💃🏽🕺🕺🕺
+
+
+@sladefx
+​​The MAGNIFICENT 👑
+
+
+@niquehawks874
+​​👋🏾@DJJazzyJeff 💙🌹 Hi Lynette❣🍷
+
+
+@lisalove4183
+​
+
+#1
+​let's party with Dj Jazzy Jeff 🎤 chat💃💃💃💃🕺🕺🕺👋🖐🖐
+
+
+@niquehawks874
+​​🫰🏽🔥🫰🏽🔥🫰🏽🔥
+
+
+@BJubble
+​​🇵🇸✊✌💚
+
+
+@CreativitingUs2016
+​​@djjazzyjeff heck yeah
+
+
+@injun_radio
+​​🎶🎶🎶🎶🎶🎶
+
+
+@mowade75
+​​🔥🔥🔥🔥🔥
+
+
+@lisalove4183
+​
+
+#1
+​💃💃💃💃💃🕺🕺🕺🕺🕺🥃🥃🔥💨🌿 Passing Out Good Vibes
+
+
+@djdestruct4321
+​​LETS GO JEFF!
+
+
+@hellomelloelloeheh5747
+​​We love Ayah
+
+
+@niquehawks874
+​​🫰🏽🫰🏽💃🏾🫰🏽🫰🏽💃🏾🫰🏽🫰🏽💃🏾
+
+
+@ReneciaNENE
+​
+
+#3
+​yall remember this came out: spread like wildfire
+
+
+@ellensilva8566
+​​nice!!!!!!
+
+
+@ridd-one
+​​ayeee
+
+
+@L302bay
+​​dad to pop 🔌🎬💯🫠
+
+
+@lisalove4183
+​
+
+#1
+​yes 💃💃💃💃🕺🕺🕺🕺🕺
+
+
+@L302bay
+​​777389
+
+
+@niquehawks874
+​​🫰🏽🫰🏽🫰🏽🫰🏽🫰🏽🫰🏽
+
+
+@mathewmcfool
+​​1 MOB 1 SOUND elbowcough
+
+
+@lisalove4183
+​
+
+#1
+​I'm glad we have this music because today music doesn't have soul
+
+
+@niquehawks874
+​​✊🏽 #MagMob4Life 🖤
+
+
+@Makisula
+​​My brother!!!!
+
+
+@thakasartukellyselassie6468
+​​@LANAJHARRiS https://www.whitehouse.gov/trumptv/ push that rn
+
+
+@niquehawks874
+​​So damn true ✊🏽 @lisalove
+
+
+@ReneciaNENE
+​
+
+#3
+​matthew hey fam i like dat
+
+
+@ridd-one
+​​everybody plays a fool
+
+
+@gbaldwin2423
+​​DILLAAAAA
+
+
+@niquehawks874
+​​🪩💃🏾🪩💃🏾🪩💃🏾
+
+
+@sladefx
+​​Sweet love to my babe ElleDriver ❤❤
+
+
+@misslouk
+​​😀 ❤❤
+
+
+@lisalove4183
+​
+
+#1
+​@Nique we need our soul healed not fall apart 💯🤣
+
+
+@ladypheonixfire
+​​It just gets better and better!!!!!
+
+
+@JamesNguyen79
+​​🔥 transitions
+
+
+@ReneciaNENE
+​
+
+#3
+​💃🏾💃🏾💃🏾
+
+
+@denzelmccrary3626
+​​💥💥💥💥💥💥💥💥💥
+
+
+@mathewmcfool
+​​@ReneciaNENE PEACE QUEEN 👑 🫡 💃🕺 LETS GO!
+
+
+@ladypheonixfire
+​​🔥🔥🔥🔥📟
+
+
+@niquehawks874
+​​Yes, indeed @lisalove🫂❣
+
+
+@ridd-one
+​​the godfather of soul
+
+
+@ReneciaNENE
+​
+
+#2
+​💃🏾💃🏾
+
+
+@niquehawks874
+​​🫰🏽🫰🏽🫰🏽🫰🏽🫰🏽🫰🏽
+
+
+@IamDjSweet.T
+​​Goooooop!!!💯🔥🔥🔥🔥🔥🔥🔥💜💃🏽💃🏽💃🏽💃🏽🫡🫡💃🏽💃🏽💃🏽
+
+
+@niquehawks874
+​​🕊🕊🕊🕊🕊🕊🕊
+
+
+@mathewmcfool
+​​🕺
+
+
+@gbaldwin2423
+​​JB
+
+
+@niquehawks874
+​​✊🏽🖤
+
+
+@ladypheonixfire
+​​🥁🥁🥁🥁🥁
+
+
+@L302bay
+​​just 1
+
+
+@thakasartukellyselassie6468
+​​https://www.phila.gov/media/20190904121144/District_Council_RCO_Contacts.pdf @NASAJPL contacts for perms! @lanajharris thers a bone nigga
+
+
+@raymondharrell9943
+​​TURN IT LOOSE
+
+
+@louloulou3997
+​
+
+#3
+​now Funky Time !!!!! ❤🎶❤🎶
+
+
+@ridd-one
+​​💥💥💥
+
+
+@lisalove4183
+​
+
+#1
+​I smoke a lot🔥💨🌿🔥💨🌿🤣🤣🤣💯💯
+
+
+@L302bay
+​​p 🔔
+
+
+@ridd-one
+​​you know how the weed go unbelievable
+
+
+@niquehawks874
+​​🫰🏽🫰🏽🫰🏽🫰🏽🫰🏽
+
+
+@ReneciaNENE
+​
+
+#2
+​💃🏾💃🏾💃🏾
+
+
+@VexedPeril
+​​a little origami won't hoit ya
+
+
+@lisalove4183
+​
+
+#1
+​Biggie💜♊
+
+
+@ReneciaNENE
+​
+
+#2
+​ms too sis cheers🌿🔥🌬
+
+
+@niquehawks874
+​​puff 🗣💨💨 puff 🗣💨💨 pass 🫰🏽🫰🏽🫰🏽
+
+
+@beinggoodprosperous
+​​Does anyone have Lets get Bizzee full movie with Doug E Fresh. Hard to find.
+
+
+@lisalove4183
+​
+
+#1
+​💃💃💃💃💃💃💃💃
+
+
+@BJubble
+​​Dilla forever
+
+
+@wood5495
+​​Phillies own Mr Jeff.
+
+
+@niquehawks874
+​​🫰🏽🫰🏽🫰🏽🫰🏽🫰🏽
+
+
+@lisalove4183
+​
+
+#1
+​@NeNe🥃🥃💨🌿🔥 Happy birthday to you may you be blessed with many many more ❤🎂
+
+
+@niquehawks874
+​​Ayeeee 👏🏽👏🏽👏🏽👏🏽
+
+
+@ladypheonixfire
+​​Bring me a higher looooove
+
+
+@ReneciaNENE
+​
+
+#2
+​🙏🏾
+
+
+@ellensilva8566
+​​if only! come on!
+
+
+@ridd-one
+​​jeff in his element
+
+
+@lisalove4183
+​
+
+#1
+​I don't want to leave 🎤💯🤣
+
+
+@niquehawks874
+​​@nene I'd send you 🎉Earthday s/o earlier... enjoy your day❣
+
+
+@niquehawks874
+​​My jammmm 💃🏾💃🏾💃🏾💃🏾💃🏾💃🏾💃🏾
+
+
+@niquehawks874
+​​Ayeeee 🫰🏽🔥🫰🏽🔥🫰🏽
+
+
+@supermariuchi4516
+​​El Paso, TX 🔥🔥🔥🔥🔥🔥🔥
+
+
+@niquehawks874
+​​Let's go @magmobfam 💃🏾🔥💃🏾🔥💃🏾🔥
+
+
+@ReneciaNENE
+​
+
+#2
+​nique thanks sis i been in n out all set
+
+
+@lisalove4183
+​
+
+#1
+​@NeNe @Nique @GinaE ❤Mag Mob Forever
+
+
+@L302bay
+​​🫵🏽🤙🏽👆🏽👀👂🏽 Hawaii 🎬
+
+
+@ladypheonixfire
+​​You love, when love hurts....🔥🔥🔥🔥
+
+
+@zitozentinel
+​​🎵🎶
+
+Chat disconnected. Please wait while we try to reconnect you.
+Unable to connect to chat. Please try again later.
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Efp_U051x1A?si=a76zrD5HeCHezXts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+```
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="@eosdis-nasa @cityofphiladelphia @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
 
 
 [youtube.com/shorts/AVz0MeiR3iE @foratlanta](https://www.youtube.com/shorts/AVz0MeiR3iE)
