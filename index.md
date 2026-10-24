@@ -14,6 +14,21 @@ mathjax: true
 </picture>
 
 
+
+# Launching 2027
+<img  alt="image" src="https://github.com/user-attachments/assets/6b0bc022-7c13-4abf-aa6e-b7a2842fbf69" />
+
+[@Blackgirlscode](https://science.nasa.gov/planetary-defense-neoo/) [DART](https://science.nasa.gov/planetary-defense-dart/) was a test to see if we could move an asteroid and we did ... _NASA’s Double Asteroid Redirection Test (DART), built and managed by the Johns Hopkins Applied Physics Laboratory (APL) for NASA’s Planetary Defense Coordination Office (PDCO), was the world’s first planetary defense technology demonstration that validated one technique of asteroid deflection using a kinetic impactor spacecraft. Launched November 24, 2021, on a SpaceX Falcon 9 rocket from [Space Launch Complex 4 East at Vandenberg Space Force Base](https://www.google.com/search?q=Space+Launch+Complex+4+East+at+Vandenberg+Space+Force+Base&rlz=1C1GCEJ_enUS1237US1237&oq=Space+Launch+Complex+4+East+at+Vandenberg+Space+Force+Base&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyBwgDEAAY7wUyBwgEEAAY7wXSAQc0NDZqMGo3qAIAsAIA&sourceid=chrome&source=chrome.ob&ie=UTF-8#lrd=0x80ec23f079af29c3:0xe002d5ad4d9c26cb,1,,,,) in California_  [science.nasa.gov/mission/neo-surveyor/](https://science.nasa.gov/mission/neo-surveyor/)
+<img   alt="Screenshot 2026-10-24 111908" src="https://github.com/user-attachments/assets/ddb7a5ca-6580-4083-82c6-477259da2893" />
+
+![https://assets.science.nasa.gov/dynamicimage/assets/science/missions/neo-surveyor/assets/NEO%20Surveyor%20Mission%20ID_Color_on%20Dark%20Background.tif?w=1536](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/neo-surveyor/assets/NEO%20Surveyor%20Mission%20ID_Color_on%20Dark%20Background.tif?w=1536) 
+
+<iframe src="https://eyes.nasa.gov/apps/solar-system/#/sc_neo_surveyor?interactPrompt=true&minorMoons=true&heliosphere=true" allowfullscreen ></iframe>
+
+<img  alt="Screenshot 2026-10-24 105956" src="https://github.com/user-attachments/assets/9dadaade-51d8-4091-b2c7-02d5418d8094" />
+
+<img   alt="Screenshot 2026-10-24 105616" src="https://github.com/user-attachments/assets/1d09f804-0f87-42c5-9fbf-d1b3a2f30310" />
+
 🎼📻 [Guilty Simpson - Man's World](https://youtu.be/VEDBFzDnIRM?list=RDVEDBFzDnIRM) // [Petty People · Sadat X](https://youtu.be/rKV9xM8f5yI?si=Cd72wzSI16zJTTuJ) // [Aaliyah Tribute: Normani - Rock The Boat](https://youtu.be/2Rf_XHe6Ztc?list=RD2Rf_XHe6Ztc&t=15)  // [Love Under New Management · Miki Howard](https://youtu.be/SReOKWeSKRM?list=RDSReOKWeSKRM)  // 🎤🎵 // [Rapture  - Anita Baker `1986`](https://youtu.be/jqZjsscpj1E?si=tt11H84j3jke7a7U) // [Friends And Strangers · Ronnie Laws `1977`](https://youtu.be/nRCun0fCr_U) // [Life In Paradise · Ronnie Laws](https://youtu.be/gm32Ev5muTU) // [Ronnie Laws ~ Flame🔥🔥🔥](https://youtu.be/-1K8rFKk7zc?list=RD-1K8rFKk7zc) // [Kash Doll - KD Diary ](https://youtu.be/25VCq8iHTVo?si=S62ZizU_Sc2mBe3n) // [Roy Ayers Ubiquity ~ Everybody Loves The Sunshine 1974](https://youtu.be/9EhIBv_qAlI?list=RD9EhIBv_qAlI) // [Gil Scott Heron - Angel Dust](https://youtu.be/pRQgviNNZEM?list=RDpRQgviNNZEM) // [Michael Jackson - Of The Wall ](https://youtu.be/stnnBVvwsy8?list=RDstnnBVvwsy8)
 
 ---
