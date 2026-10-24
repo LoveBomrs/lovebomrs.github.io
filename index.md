@@ -13,7 +13,7 @@ mathjax: true
   
 </picture>
 
-[📺Yung Miami Emotional w/ New Album, Missing JT, Tyla Situation & Drake Leaving Her on 📱Read📱](https://youtu.be/5M_ggaI-ais) // [Miki Howard's Journey Through Music, Struggle, and Resilience](https://youtu.be/d8iYVyhG4jE) // [The Roots - Pass The Popcorn](https://youtu.be/0etlTq8eNzk?list=RD0etlTq8eNzk)
+  [📺Yung Miami Emotional w/ New Album, Missing JT, Tyla Situation & Drake Leaving Her on 📱Read📱](https://youtu.be/5M_ggaI-ais) // [Miki Howard's Journey Through Music, Struggle, and Resilience](https://youtu.be/d8iYVyhG4jE) // [The Roots - Pass The Popcorn](https://youtu.be/0etlTq8eNzk?list=RD0etlTq8eNzk) // [The Roots - Clones](https://youtu.be/_I1IX2cqjQ4?list=RD0etlTq8eNzk)
 
 
 --- 
@@ -23,6 +23,7 @@ mathjax: true
 ![@CityOFLOSANGELES _KARENBASS @LACMTA HOLLY J MiTCHELL @LA-COUNTY_iSD KeishA BOTTOMS @ForATLANTA @Cityofsantamonica](https://www.phila.gov/media/20250902211359/the-mayor-1-1.png) 
 
 
+<img   alt="@cityofphiladelphia @asfadmin can Mayor Cherelle L. Parker have access @emit-sds she can use CRMS so i think she can play like Karen @CityOfLosAngeles or Keisha @FORATLANTA   search.asf.alaska.edu/#/?zoom=6.332&center=-87.108,40.193&polygon=POLYGON((-75.2334%2039.909,-75.0468%2039.909,-75.0468%2040.0163,-75.2334%2040.0163,-75.2334%2039.909))&resultsLoaded=true&granule=NISAR_L0_PR_RRSD_027_170_D_156S_20260812T235512_20260813T000122_P05023_F_J_001&dataset=NISAR&prodConfig=PR image" src="https://github.com/user-attachments/assets/d8791d0c-5f5a-4c2e-b9f3-d21bd3561f01" />
 
 ![https://www.esa.int/eologos/images/sentinel-1_neg.jpg @esa @eosdis-nasa @cityofphiladelphia](https://www.esa.int/eologos/images/sentinel-1_neg.jpg)
 S1A_IW_GRDH_1SDV_20260506T225902_20260506T225927_064403_081C3D_029B  • 05/06/2026,  
