@@ -15,7 +15,8 @@ mathjax: true
 
 
 ![https://www.phila.gov/assets/images/city-of-philadelphia-logo-medium-white.png background](https://www.phila.gov/assets/images/city-of-philadelphia-logo-medium-white.png) 
-[@cityofphiladelphia phila.gov/](https://www.phila.gov/)
+[@cityofphiladelphia phila.gov/](https://www.phila.gov/) ++ [@nasa-jpl @emit-sds @ucla phila.gov/departments/mayor/](https://www.phila.gov/departments/mayor/)
+![@CityOFLOSANGELES _KARENBASS @LACMTA HOLLY J MiTCHELL @LA-COUNTY_iSD KeishA BOTTOMS @ForATLANTA @Cityofsantamonica](https://www.phila.gov/media/20250902211359/the-mayor-1-1.png) 
 <img   alt="image @EOSdiS @FORATLANTA @upenn" src="https://github.com/user-attachments/assets/dbe21bd5-a90b-428e-8b04-c02b59c8d0ce" />
 
 [@eosdis-nasa @cityofphiladelphia](https://www.youtube.com/watch?v=_RAxbusrfTk)
