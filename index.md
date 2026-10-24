@@ -15,13 +15,19 @@ mathjax: true
 
 
 
-# Launching 2027
+## Planetary Defenders:
+How would humanity respond if we discovered an asteroid headed for Earth? NASA’s Planetary Defenders is a gripping documentary that delves into the high-stakes world of asteroid detection and planetary defense.
+[`WATCH` - _Planetary Defenders Documentary_ plus.nasa.gov/video/planetary-defenders/](https://plus.nasa.gov/video/planetary-defenders/) // [Planetary Defenders: This Is Not an Exercise](https://plus.nasa.gov/video/planetary-defenders-this-is-not-an-exercise/)
 <img  alt="image" src="https://github.com/user-attachments/assets/6b0bc022-7c13-4abf-aa6e-b7a2842fbf69" />
+![https://plus.nasa.gov/wp-content/uploads/2025/04/planetary-defenders-title.png](https://plus.nasa.gov/wp-content/uploads/2025/04/planetary-defenders-title.png)
+
 
 [@Blackgirlscode](https://science.nasa.gov/planetary-defense-neoo/) [DART](https://science.nasa.gov/planetary-defense-dart/) was a test to see if we could move an asteroid and we did ... _NASA’s Double Asteroid Redirection Test (DART), built and managed by the Johns Hopkins Applied Physics Laboratory (APL) for NASA’s Planetary Defense Coordination Office (PDCO), was the world’s first planetary defense technology demonstration that validated one technique of asteroid deflection using a kinetic impactor spacecraft. Launched November 24, 2021, on a SpaceX Falcon 9 rocket from [Space Launch Complex 4 East at Vandenberg Space Force Base](https://www.google.com/search?q=Space+Launch+Complex+4+East+at+Vandenberg+Space+Force+Base&rlz=1C1GCEJ_enUS1237US1237&oq=Space+Launch+Complex+4+East+at+Vandenberg+Space+Force+Base&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyBwgDEAAY7wUyBwgEEAAY7wXSAQc0NDZqMGo3qAIAsAIA&sourceid=chrome&source=chrome.ob&ie=UTF-8#lrd=0x80ec23f079af29c3:0xe002d5ad4d9c26cb,1,,,,) in California_  [science.nasa.gov/mission/neo-surveyor/](https://science.nasa.gov/mission/neo-surveyor/)
 <img   alt="Screenshot 2026-10-24 111908" src="https://github.com/user-attachments/assets/ddb7a5ca-6580-4083-82c6-477259da2893" />
 
 ![https://assets.science.nasa.gov/dynamicimage/assets/science/missions/neo-surveyor/assets/NEO%20Surveyor%20Mission%20ID_Color_on%20Dark%20Background.tif?w=1536](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/neo-surveyor/assets/NEO%20Surveyor%20Mission%20ID_Color_on%20Dark%20Background.tif?w=1536) 
+
+# Launching 2027
 
 <iframe src="https://eyes.nasa.gov/apps/solar-system/#/sc_neo_surveyor?interactPrompt=true&minorMoons=true&heliosphere=true" allowfullscreen ></iframe>
 
