@@ -13,9 +13,6 @@ mathjax: true
   
 </picture>
 
-[youtube.com/@djjazzyjeff](https://www.youtube.com/@djjazzyjeff)
-![@septadev @eosdis-nasa @cityofphiladelphia yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj @foratlanta @blackgirlscode @nasa-giss ](https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Efp_U051x1A?si=a76zrD5HeCHezXts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -54,6 +51,10 @@ mathjax: true
 
 
 <img  alt="EMIT_L1B_RAD_001_20260410T191459_2610012_044" src="https://github.com/user-attachments/assets/13b8ede9-6939-43b3-aeb8-ba8a00e5be33" />
+
+[youtube.com/@djjazzyjeff](https://www.youtube.com/@djjazzyjeff)
+![@septadev @eosdis-nasa @cityofphiladelphia yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj @foratlanta @blackgirlscode @nasa-giss ](https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
 
 <img   alt="image" src="https://github.com/user-attachments/assets/377834f9-7184-4010-b845-7316cdd90d54" />
 
