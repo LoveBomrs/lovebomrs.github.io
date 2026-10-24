@@ -16,7 +16,10 @@ mathjax: true
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Efp_U051x1A?si=a76zrD5HeCHezXts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [youtube.com/@djjazzyjeff](https://www.youtube.com/@djjazzyjeff)
-![https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj @foratlanta @blackgirlscode @nasa-giss @septadev @eosdis-nasa](https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+![ @cityofphiladelphia yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj @foratlanta @blackgirlscode @nasa-giss @septadev @eosdis-nasa](https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
+<img alt=" @cityofphiladelphia EMIT_L1B_RAD_001_20240408T144006_2409910_002" src="https://github.com/user-attachments/assets/e2a9afa6-16e8-42f2-8038-cf76aa801e39" />
+
 
 [search.earthdata.nasa.gov/search/granules @foratlanta @blackgirlscode @nasa-giss @septadev @eosdis-nasa](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G3085246915-LPCLOUD&q=emit&sb[0]=-75.21489%2C39.92603%2C-75.1255%2C39.98833&lat=39.579574550000004&long=-75.3972945044481&zoom=9.282472009123916)
 <img  alt="EMIT_L1B_RAD_001_20240610T133826_2416209_011" src="https://github.com/user-attachments/assets/b06b29ac-0c90-4c5a-9222-d69585c44d06" />
