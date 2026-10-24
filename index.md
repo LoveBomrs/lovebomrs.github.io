@@ -16,6 +16,17 @@ mathjax: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Efp_U051x1A?si=a76zrD5HeCHezXts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[Philly @cityofphiladelphia from @LongBeachInnovationTeam @La-county-isd @emit-sds @eodis-nasa @nasa-jpl @CityOFLOSANGELES @CityOFSANTAMONiCA @SACCOUNTY hi @BlackgirlscodE](https://search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G2938626345-LPCLOUD&q=emit&sb[0]=-75.21489%2C39.92603%2C-75.1255%2C39.98833&lat=40.02074815&long=-75.38190638297873&zoom=8.028693886330881)
+<img alt="EMIT_L2A_RFL_001_20240416T175513_2410712_034 @foratlanta @blackgirlscode @nasa-giss @septadev @eosdis-nasa" src="https://github.com/user-attachments/assets/e42fe131-576f-40cc-968c-55efd2b517f0" />
+
+
+        "name": "EMIT_L2A_RFL_001_20260418T161006_2610810_023.nc",
+        "sizeInBytes": 1851144403,
+        "format": "NETCDF-4",
+        "checksum": {
+          "value": "4dbf2983dd8acf847d45e01734f4bb9fb2489e6c3823eb62c7345285c585fbb333c1d4091601057265e019e064caa8cfd0c8466b7cea7a055130d93a62a345bf",
+          "algorithm": "SHA-512"
+
 <img   alt=" @foratlanta @blackgirlscode @nasa-giss @septadev @eosdis-nasa loggin in! image" src="https://github.com/user-attachments/assets/1acb25cd-6743-45bf-9711-8293174d3c2a" />
 
 
