@@ -13,7 +13,14 @@ mathjax: true
   
 </picture>
 
+[youtube.com/@djjazzyjeff](https://www.youtube.com/@djjazzyjeff)
+![@septadev @eosdis-nasa @cityofphiladelphia yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj @foratlanta @blackgirlscode @nasa-giss ](https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Efp_U051x1A?si=a76zrD5HeCHezXts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[youtube.com/@djjazzyjeff](https://www.youtube.com/@djjazzyjeff)
+![@septadev @eosdis-nasa @cityofphiladelphia yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj @foratlanta @blackgirlscode @nasa-giss ](https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 
 # What’s Really Happening At [Trump’s Rallies](https://www.whitehouse.gov/trumptv/)?
