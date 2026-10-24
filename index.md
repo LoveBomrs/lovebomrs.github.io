@@ -13,7 +13,7 @@ mathjax: true
   
 </picture>
 
-  [📺Yung Miami Emotional w/ New Album, Missing JT, Tyla Situation & Drake Leaving Her on 📱Read📱](https://youtu.be/5M_ggaI-ais) // [Miki Howard's Journey Through Music, Struggle, and Resilience](https://youtu.be/d8iYVyhG4jE) // [The Roots - Pass The Popcorn](https://youtu.be/0etlTq8eNzk?list=RD0etlTq8eNzk) // [The Roots - Clones](https://youtu.be/_I1IX2cqjQ4?list=RD0etlTq8eNzk) // [Star/Pointro · The Roots](https://youtu.be/AV9KwitVZAE?si=N19Qwjs_9l1NSCGo) // [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?si=MUj3BGD_B3nfPECr) // [Jeezy - No Tears](https://youtu.be/qbXc0Ol9OXI?list=RDAmSUb5H5G0s) // [Gucci Mane - Met Gala feat. Offset @CityOFLOSANGELES _KARENBASS @LACMTA HOLLY J MiTCHELL @LA-COUNTY_iSD KeishA BOTTOMS @ForATLANTA @Cityofsantamonica](https://youtu.be/3QzUSSKfEeA?list=RD3QzUSSKfEeA) // [Long Live The Pimp · Future · Trae The Truth @ForAtlanta](https://youtu.be/XV8baX2ByLg?list=RDXV8baX2ByLg) // [Rico Nasty - IPHONE @opendatade  @cityofphiladelphia](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU&t=23)
+  [📺Yung Miami Emotional w/ New Album, Missing JT, Tyla Situation & Drake Leaving Her on 📱Read📱](https://youtu.be/5M_ggaI-ais) // [Miki Howard's Journey Through Music, Struggle, and Resilience](https://youtu.be/d8iYVyhG4jE) // [The Roots - Pass The Popcorn](https://youtu.be/0etlTq8eNzk?list=RD0etlTq8eNzk) // [The Roots - Clones](https://youtu.be/_I1IX2cqjQ4?list=RD0etlTq8eNzk) // [Star/Pointro · The Roots](https://youtu.be/AV9KwitVZAE?si=N19Qwjs_9l1NSCGo) // [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?si=MUj3BGD_B3nfPECr) // [Jeezy - No Tears](https://youtu.be/qbXc0Ol9OXI?list=RDAmSUb5H5G0s) // [Gucci Mane - Met Gala feat. Offset @CityOFLOSANGELES _KARENBASS @LACMTA HOLLY J MiTCHELL @LA-COUNTY_iSD KeishA BOTTOMS @ForATLANTA @Cityofsantamonica](https://youtu.be/3QzUSSKfEeA?list=RD3QzUSSKfEeA) // [Long Live The Pimp · Future · Trae The Truth @ForAtlanta](https://youtu.be/XV8baX2ByLg?list=RDXV8baX2ByLg) // [Rico Nasty - IPHONE @opendatade  @cityofphiladelphia](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU&t=23) // [Beyoncé - 7/11](https://youtu.be/k4YRWT_Aldo?list=RDk4YRWT_Aldo)
 
 
 --- 
@@ -22,6 +22,11 @@ mathjax: true
 [@cityofphiladelphia phila.gov/](https://www.phila.gov/) ++ [@nasa-jpl @emit-sds @ucla phila.gov/departments/mayor/](https://www.phila.gov/departments/mayor/)
 ![@CityOFLOSANGELES _KARENBASS @LACMTA HOLLY J MiTCHELL @LA-COUNTY_iSD KeishA BOTTOMS @ForATLANTA @Cityofsantamonica](https://www.phila.gov/media/20250902211359/the-mayor-1-1.png) 
 
+
+2026-10-08-00_00_2026-10-08-23_59_Sentinel-2_L2A_Moisture_index 
+<img  alt="2026-10-08-00_00_2026-10-08-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/49f276f8-2336-4541-ba88-19f43b508309" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/12a48ba5-0449-47f5-83bc-727c000c7651" />
 
 [@esa @eu-cdse browser.dataspace.copernicus.eu/?zoom=10&lat=39.77635&](https://browser.dataspace.copernicus.eu/?zoom=10&lat=39.77635&lng=-75.06958&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FQOXe6woObsqiioBkZOOb2K3iqtxkfkXjdUuQTqyKmhQVNkH5yv%2B5fAsf16TIymCLUjD1%2BJjhnfehiNDBUKe6FE%2F3d91qNhRFHkaPn2%2BRq1btvfjbqbwSS&datasetId=S2_L2A_CDAS&fromTime=2026-10-21T00%3A00%3A00.000Z&toTime=2026-10-21T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE&panel=layers)
 <img   alt="2026-10-21-00_00_2026-10-21-23_59_Sentinel-2_L2A_False_color" src="https://github.com/user-attachments/assets/da46a1c3-75c4-49fe-a197-42326a4cabcc" />
