@@ -22,6 +22,9 @@ mathjax: true
 [@cityofphiladelphia phila.gov/](https://www.phila.gov/) ++ [@nasa-jpl @emit-sds @ucla phila.gov/departments/mayor/](https://www.phila.gov/departments/mayor/)
 ![@CityOFLOSANGELES _KARENBASS @LACMTA HOLLY J MiTCHELL @LA-COUNTY_iSD KeishA BOTTOMS @ForATLANTA @Cityofsantamonica](https://www.phila.gov/media/20250902211359/the-mayor-1-1.png) 
 
+@asfadmin these files are ofter ~8mb, and thats too heavy for http imo can we optimize them for @eosdis-nasa ops ? [rashard - @nasa-pds @cityofphiladelphia _Mayor Cherelle L. Parker_ ](https://rashardikelly.github.io/)
+<img  alt="image" src="https://github.com/user-attachments/assets/66b1b7ec-ca97-46ef-b2db-2575e03de90e" />
+
 OPERA_L3_DISP-S1_IW_F28221_VV_20250604T225911Z_20251119T225909Z_v1 0_20260703T220127Z_BROWSE @nasa-jpl
 <img  alt="OPERA_L3_DISP-S1_IW_F28221_VV_20250604T225911Z_20251119T225909Z_v1 0_20260703T220127Z_BROWSE background" src="https://github.com/user-attachments/assets/5c43ab1a-8a75-4e4a-a55b-59cf2f735ffe" />
 
