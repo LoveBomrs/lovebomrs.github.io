@@ -13,9 +13,12 @@ mathjax: true
   
 </picture>
 
+<img   alt="image" src="https://github.com/user-attachments/assets/e88a676c-e672-4aa8-9802-ff2379561c36" />
 
+```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Efp_U051x1A?si=a76zrD5HeCHezXts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+```
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   
