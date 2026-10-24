@@ -13,7 +13,21 @@ mathjax: true
   
 </picture>
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Efp_U051x1A?si=a76zrD5HeCHezXts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[youtube.com/@djjazzyjeff](https://www.youtube.com/@djjazzyjeff)
+![@septadev @eosdis-nasa @cityofphiladelphia yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj @foratlanta @blackgirlscode @nasa-giss ](https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
+
+# What’s Really Happening At [Trump’s Rallies](https://www.whitehouse.gov/trumptv/)?
+[`WATCH` - youtube.com/watch?v=MYTNTCv3pTM @septadev @eosdis-nasa](https://www.youtube.com/watch?v=MYTNTCv3pTM)
+<img   alt="image @deptofwar @ibm @whitehouse @septadev @eosdis-nasa @cityofphiladelphia  @cityoflosangeles @nbcnews " src="https://github.com/user-attachments/assets/8ed96d7e-eae4-45d5-9c02-55b827096e59" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/2ce91e30-9a84-46f7-8a3a-9e4003a35d10" />
+
+[youtube.com/@HOT97ontv](https://www.youtube.com/@HOT97ontv)
+![ @septadev @eosdis-nasa @cityofphiladelphia  yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 [youtube.com/@TheDonLemonShow](https://www.youtube.com/@TheDonLemonShow)
 ![https://yt3.googleusercontent.com/0q0k8OwddMaXUjbqqFkDAPN9R2U3MOJlSxE8iCea6r2DDRzBwDVqkYoVKPalJjFMDMKcYJqb5A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/0q0k8OwddMaXUjbqqFkDAPN9R2U3MOJlSxE8iCea6r2DDRzBwDVqkYoVKPalJjFMDMKcYJqb5A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
@@ -23,7 +37,7 @@ mathjax: true
 
 
 [youtube.com/@djjazzyjeff](https://www.youtube.com/@djjazzyjeff)
-![ @cityofphiladelphia yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj @foratlanta @blackgirlscode @nasa-giss @septadev @eosdis-nasa](https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+![@septadev @eosdis-nasa @cityofphiladelphia yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj @foratlanta @blackgirlscode @nasa-giss ](https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 
 <img alt=" @cityofphiladelphia EMIT_L1B_RAD_001_20240408T144006_2409910_002" src="https://github.com/user-attachments/assets/e2a9afa6-16e8-42f2-8038-cf76aa801e39" />
@@ -37,6 +51,10 @@ mathjax: true
 
 
 <img  alt="EMIT_L1B_RAD_001_20260410T191459_2610012_044" src="https://github.com/user-attachments/assets/13b8ede9-6939-43b3-aeb8-ba8a00e5be33" />
+
+[youtube.com/@djjazzyjeff](https://www.youtube.com/@djjazzyjeff)
+![@septadev @eosdis-nasa @cityofphiladelphia yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj @foratlanta @blackgirlscode @nasa-giss ](https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
 
 <img   alt="image" src="https://github.com/user-attachments/assets/377834f9-7184-4010-b845-7316cdd90d54" />
 
