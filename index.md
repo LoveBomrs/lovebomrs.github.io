@@ -19,6 +19,7 @@ mathjax: true
 [youtube.com/@djjazzyjeff](https://www.youtube.com/@djjazzyjeff)
 ![https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
+[EMIT_L2A_RFL_001_20250623T142846_2517409_015](https://search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4133735707-LPCLOUD&q=emit&sb[0]=-75.21489%2C39.92603%2C-75.1255%2C39.98833&lat=40.017749800000004&long=-75.43277824468085&zoom=8.017758855689912)
 <img  alt="EMIT_L2A_RFL_001_20260410T191459_2610012_044" src="https://github.com/user-attachments/assets/3af7bea3-461f-4a0c-a635-4f18d2559d9e" />
 
 
