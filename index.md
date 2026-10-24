@@ -27,6 +27,10 @@ mathjax: true
   
 </picture>
 
+<img  alt="ECOv002_L2T_LSTE_46937_009_18TVK_20261015T104029_0713_01_height @eosdis-nasa @cityofphiladelphia " src="https://github.com/user-attachments/assets/f01a9888-dac9-464b-9350-a06b575f4908" />
+
+<img  alt="ECOv002_L2T_LSTE_46937_009_18TVK_20261015T104029_0713_01_LST @eosdis-nasa @cityofphiladelphia" src="https://github.com/user-attachments/assets/e093a7fc-b1a9-4238-b110-376bac7c86c0" />
+
 <img  alt="ECOv002_L2T_LSTE_46937_009_18TVK_20261015T104029_0713_01 @UCLA @EMiT-sds @septadev @eosdis-nasa @cityofphiladelphia  @hulu just sayin " src="https://github.com/user-attachments/assets/f8080cf0-e626-4518-8106-47c1b211bd0c" />
 
 
