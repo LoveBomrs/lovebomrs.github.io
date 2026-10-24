@@ -13,6 +13,8 @@ mathjax: true
   
 </picture>
 
+[youtube.com/@QuestloveSupreme](https://www.youtube.com/@QuestloveSupreme)
+![https://yt3.googleusercontent.com/teXGlrJJjS57rm3X_1JRifMAGZ_oTD7y8BKtA0jF3KfXZ-sJOc2kP62TIezGLSBk0KLLr_67UkA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/teXGlrJJjS57rm3X_1JRifMAGZ_oTD7y8BKtA0jF3KfXZ-sJOc2kP62TIezGLSBk0KLLr_67UkA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Efp_U051x1A?si=a76zrD5HeCHezXts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
