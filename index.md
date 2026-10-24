@@ -15,8 +15,16 @@ mathjax: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Efp_U051x1A?si=a76zrD5HeCHezXts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[youtube.com/@TheDonLemonShow](https://www.youtube.com/@TheDonLemonShow)
+![https://yt3.googleusercontent.com/0q0k8OwddMaXUjbqqFkDAPN9R2U3MOJlSxE8iCea6r2DDRzBwDVqkYoVKPalJjFMDMKcYJqb5A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/0q0k8OwddMaXUjbqqFkDAPN9R2U3MOJlSxE8iCea6r2DDRzBwDVqkYoVKPalJjFMDMKcYJqb5A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
+
+<img  alt="EMIT_L1B_RAD_001_20260608T195005_2615913_031" src="https://github.com/user-attachments/assets/5e6dd020-35c1-441f-89dd-024a0bc81342" />
+
+
 [youtube.com/@djjazzyjeff](https://www.youtube.com/@djjazzyjeff)
 ![ @cityofphiladelphia yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj @foratlanta @blackgirlscode @nasa-giss @septadev @eosdis-nasa](https://yt3.googleusercontent.com/_voLV8ejaFodADVoplj7q5mBjQ22pBNlc2_IM5Vcue-4ZVqp5dfQW7q3j3RupKEVOndwnr9lYQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
 
 <img alt=" @cityofphiladelphia EMIT_L1B_RAD_001_20240408T144006_2409910_002" src="https://github.com/user-attachments/assets/e2a9afa6-16e8-42f2-8038-cf76aa801e39" />
 
