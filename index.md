@@ -14,12 +14,20 @@ mathjax: true
 </picture>
 
 # MArs202 sol2018-9
-@nasa-pds
+@nasa-pds Mars Perseverance Sol 2018: Sample Caching System Camera (CacheCam)
+NASA's Mars Perseverance rover acquired this image using its onboard Sample Caching System Camera (CacheCam), located inside the rover underbelly. It looks down into the top of a sample tube to take close-up pictures of the sampled material and the tube as it's prepared for sealing and storage.
+
+This image was acquired on Oct. 24, 2026 (Sol 2018) at the local mean solar time of 16:12:31. hi @blackgirlscode - [Rashad @eosdis-nasa](https://ra5hard.github.io/mybinder/)
+
+<img alt="Mars2020_sol2017-2019_ZL0_ZR0_CCF_NRF_NLF_FRF_FLF_294497bd-2b6e-4658-b0f4-288daebc7030" src="https://github.com/user-attachments/assets/0f6e32b8-7d41-40a6-a177-eb5183601f06" />
+
+
 <img   alt="Mars2020_sol2018-2019_ZR2_CCF_WSM_d2469f2a-30e0-4804-8b8b-248ba2e88d79" src="https://github.com/user-attachments/assets/4b32e9d4-2c55-4e36-bd2c-624c5bcfd613" />
 
 
   [📺Yung Miami Emotional w/ New Album, Missing JT, Tyla Situation & Drake Leaving Her on 📱Read📱](https://youtu.be/5M_ggaI-ais) // [Miki Howard's Journey Through Music, Struggle, and Resilience](https://youtu.be/d8iYVyhG4jE) // [The Roots - Pass The Popcorn](https://youtu.be/0etlTq8eNzk?list=RD0etlTq8eNzk) // [The Roots - Clones](https://youtu.be/_I1IX2cqjQ4?list=RD0etlTq8eNzk) // [Star/Pointro · The Roots](https://youtu.be/AV9KwitVZAE?si=N19Qwjs_9l1NSCGo) // [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?si=MUj3BGD_B3nfPECr) // [Jeezy - No Tears](https://youtu.be/qbXc0Ol9OXI?list=RDAmSUb5H5G0s) // [Gucci Mane - Met Gala feat. Offset @CityOFLOSANGELES _KARENBASS @LACMTA HOLLY J MiTCHELL @LA-COUNTY_iSD KeishA BOTTOMS @ForATLANTA @Cityofsantamonica](https://youtu.be/3QzUSSKfEeA?list=RD3QzUSSKfEeA) // [Long Live The Pimp · Future · Trae The Truth @ForAtlanta](https://youtu.be/XV8baX2ByLg?list=RDXV8baX2ByLg) // [Rico Nasty - IPHONE @opendatade  @cityofphiladelphia](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU&t=23) // [Beyoncé - 7/11](https://youtu.be/k4YRWT_Aldo?list=RDk4YRWT_Aldo)
 
+<img   src="https://github.com/user-attachments/assets/0e37af4a-b560-4292-867f-765a98d79b9e" />
 
 --- 
 
