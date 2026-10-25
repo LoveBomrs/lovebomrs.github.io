@@ -13,7 +13,7 @@ mathjax: true
   
 </picture>
 
-[Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk) // [Project Bitch · Big Tymers · Juvenile · Lil Wayne](https://youtu.be/pYqPeb9aXKc?list=RDpYqPeb9aXKc&t=19) // [OJ Da Juiceman - Make Tha Trap Say Aye ft. Gucci Mane](https://youtu.be/JgCoHhsW2Is?list=RDJgCoHhsW2Is) // [Young Jeezy - Who Dat ft. Shawty Redd](https://youtu.be/7flZvy0uRV0?list=RD7flZvy0uRV0) // [Shawty Lo - They Know `Dey Know`](https://youtu.be/g_aMmSWd9M8?list=RDg_aMmSWd9M8)
+[Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk) // [Project Bitch · Big Tymers · Juvenile · Lil Wayne](https://youtu.be/pYqPeb9aXKc?list=RDpYqPeb9aXKc&t=19) // [OJ Da Juiceman - Make Tha Trap Say Aye ft. Gucci Mane](https://youtu.be/JgCoHhsW2Is?list=RDJgCoHhsW2Is) // [Young Jeezy - Who Dat ft. Shawty Redd](https://youtu.be/7flZvy0uRV0?list=RD7flZvy0uRV0) // [Shawty Lo - They Know `Dey Know`](https://youtu.be/g_aMmSWd9M8?list=RDg_aMmSWd9M8) // [Paul Wall `feat. Big Pokey` - Sittin' Sidewayz](https://youtu.be/wJoU6Vbf-_o?list=RDwJoU6Vbf-_o&t=24)
 
 
 ---
