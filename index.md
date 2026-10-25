@@ -13,6 +13,9 @@ mathjax: true
   
 </picture>
 
+
+![https://solarsystem.nasa.gov/images/casJPGFullS100/N00284001.jpg](https://solarsystem.nasa.gov/images/casJPGFullS100/N00284001.jpg) 
+
 # MArs202 sol2018-9
 @nasa-pds Mars Perseverance Sol 2018: Sample Caching System Camera (CacheCam)
 NASA's Mars Perseverance rover acquired this image using its onboard Sample Caching System Camera (CacheCam), located inside the rover underbelly. It looks down into the top of a sample tube to take close-up pictures of the sampled material and the tube as it's prepared for sealing and storage.
