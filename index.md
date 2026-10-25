@@ -13,11 +13,13 @@ mathjax: true
   
 </picture>
 
-[Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk) // [Project Bitch · Big Tymers · Juvenile · Lil Wayne](https://youtu.be/pYqPeb9aXKc?list=RDpYqPeb9aXKc&t=19) // [OJ Da Juiceman - Make Tha Trap Say Aye ft. Gucci Mane](https://youtu.be/JgCoHhsW2Is?list=RDJgCoHhsW2Is)
+[Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk) // [Project Bitch · Big Tymers · Juvenile · Lil Wayne](https://youtu.be/pYqPeb9aXKc?list=RDpYqPeb9aXKc&t=19) // [OJ Da Juiceman - Make Tha Trap Say Aye ft. Gucci Mane](https://youtu.be/JgCoHhsW2Is?list=RDJgCoHhsW2Is) // [Young Jeezy - Who Dat ft. Shawty Redd](https://youtu.be/7flZvy0uRV0?list=RD7flZvy0uRV0) // [Shawty Lo - They Know `Dey Know`](https://youtu.be/g_aMmSWd9M8?list=RDg_aMmSWd9M8)
 
 
 ---
-
+![https://pace.oceansciences.org/images/layout/pace_l2_banner_txt.png](https://pace.oceansciences.org/images/layout/pace_l2_banner_txt.png) 
+EARTH 10/24 @NASA-JPL HI @EOSDIS-NASA
+<img   alt="snapshot-2026-10-24" src="https://github.com/user-attachments/assets/82d1932a-b7ca-4566-a6bd-28fd97ef5c1e" />
 
 ## Cassini Saturn @Nasa-pds
 ![https://solarsystem.nasa.gov/images/casJPGFullS79/N00213912.jpg](https://solarsystem.nasa.gov/images/casJPGFullS79/N00213912.jpg)
