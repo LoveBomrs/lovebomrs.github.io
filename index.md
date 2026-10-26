@@ -15,8 +15,7 @@ mathjax: true
 </picture>
 
 
-[Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?list=RDjUwh-C5w7II) // [Must Be Dues · Melba Moore](https://youtu.be/Eu8K8LEaUy0?list=RDjUwh-C5w7II) 
- // [Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)  
+[Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?list=RDjUwh-C5w7II) // [Must Be Dues · Melba Moore](https://youtu.be/Eu8K8LEaUy0?list=RDjUwh-C5w7II)  // [Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)  // [Blessings · Visionaries](https://youtu.be/I2zWUFlfWWM)
 
 ---
 
