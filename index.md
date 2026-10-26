@@ -14,7 +14,8 @@ mathjax: true
 </picture>
 
 
-[Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)  
+[Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?list=RDjUwh-C5w7II) // [Must Be Dues · Melba Moore](https://youtu.be/Eu8K8LEaUy0?list=RDjUwh-C5w7II) 
+ // [Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)  
 
 ---
 
@@ -23,7 +24,6 @@ mathjax: true
 
 [<video controls loading="lazy" poster="https://www.dailynews.com/wp-content/uploads/2026/05/LDN-Z-MAYOR-DEBATE-NBC4.jpg" src="https://framerusercontent.com/assets/x7m1zD12q81zwZHVSRbX8hVH8.mp4" />](https://framerusercontent.com/assets/x7m1zD12q81zwZHVSRbX8hVH8.mp4)
 
-[Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?list=RDjUwh-C5w7II) // [Must Be Dues · Melba Moore](https://youtu.be/Eu8K8LEaUy0?list=RDjUwh-C5w7II) 
 
 <iframe src="https://archive.org/embed/heavy.-metal.-1981.1080p.-blu-ray.x-264.-yify" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
