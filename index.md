@@ -19,6 +19,54 @@ mathjax: true
 
 ---
 
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+
+[Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?list=RDjUwh-C5w7II) // [Must Be Dues · Melba Moore](https://youtu.be/Eu8K8LEaUy0?list=RDjUwh-C5w7II) 
+ // [Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)  
+
+---
+
+# burnedbybass.com [link](https://burnedbybass.com/)
+[@LA-County-isD @CiTYOFLOSANGELES @SACCOUNTY @StateOfCalifornia https:/`burnedbybass.com`/](https://burnedbybass.com/)
+
+[<video controls loading="lazy" poster="https://www.dailynews.com/wp-content/uploads/2026/05/LDN-Z-MAYOR-DEBATE-NBC4.jpg" src="https://framerusercontent.com/assets/x7m1zD12q81zwZHVSRbX8hVH8.mp4" />](https://framerusercontent.com/assets/x7m1zD12q81zwZHVSRbX8hVH8.mp4)
+
+
+
+[@nasa-jpl](https://www.latimes.com/california/story/2026-10-26/ethics-complaint-filed-over-ads-falsely-portraying-raman-promoting-homeless-camps) hi if I remember correctly I have to vote to keep my `ActiveMission` status and I did [@CityOFLosanGeles](https://mayor.lacity.gov/) [_Karen Bass_](https://laist.com/brief/news/politics/nithya-raman-could-shake-up-los-angeles-olympics-heres-how) [[1](https://share.google/aimode/8RgP2H9Df8UsEADAe)] , [Mayoral Candiate Nithyia](https://share.google/aimode/NlDy4kd8MgneimqLk) I did my prep for another year in LA with @nasa-pds / @eosdis-nasa @emit-sds [@nasa-jpl](https://pds-geosciences.wustl.edu/dataserv/mars.html) hi [@blackgirlscode](https://x.com/BlackGirlsCode) for those of you with internships via [@nasa](https://www.nasa.gov/glenn/) , [@whitehouse](https://www.whitehouse.gov/live/) or whatevz remember to vote [@latimes @datadesk - Ethics complaint filed over ads falsely portraying Raman promoting homeless camps](https://www.latimes.com/california/story/2026-10-26/ethics-complaint-filed-over-ads-falsely-portraying-raman-promoting-homeless-camps) // [LA mayor's race: AI videos supporting Spencer Pratt shake up political playbook](https://abc7.com/post/los-angeles-mayors-race-ai-videos-supporting-spencer-pratt-shake-political-playbook/19127203/) // [Bass says Pratt AI ads in LA mayor race ‘taking on a violent trend’](https://thehill.com/homenews/campaign/5875724-karen-bass-spencer-pratt-la-mayor-race-ads/) // [](https://burnedbybass.com/?gad_source=1&gad_campaignid=24336717575&gbraid=0AAAABEySbvXkQqBgQYBXc-rieW3bZn26S&gclid=EAIaIQobChMI2vj24dnYlwMVxzhECB1ZpAaZEAAYASAAEgLNdfD_BwE) //[Los Angeles mayoral election cnn.com](https://www.cnn.com/election/2026/results/los-angeles-mayor)
+
+![https://media.cnn.com/api/v1/images/stellar/prod/la-mayor-ai-images-clean-thumb.png?c=9x16&q=f_webp](https://media.cnn.com/api/v1/images/stellar/prod/la-mayor-ai-images-clean-thumb.png?c=9x16&q=f_webp) 
+
+![ @bbc https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/330px-CNN.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/330px-CNN.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail) 
+
+#### July 14th,2026
+<img   alt="image [@nasa-jpl](https://www.latimes.com/california/story/2026-10-26/ethics-complaint-filed-over-ads-falsely-portraying-raman-promoting-homeless-camps) hi if I remember correctly I have to vote to keep my `ActiveMission` status and I did [@CityOFLosanGeles](https://mayor.lacity.gov/) [_Karen Bass_](https://laist.com/brief/news/politics/nithya-raman-could-shake-up-los-angeles-olympics-heres-how) [[1](https://share.google/aimode/8RgP2H9Df8UsEADAe)] , [Mayoral Candiate Nithyia](https://share.google/aimode/NlDy4kd8MgneimqLk) I did my prep for another year in LA with @nasa-pds / @eosdis-nasa @emit-sds [@nasa-jpl](https://pds-geosciences.wustl.edu/dataserv/mars.html) hi [@blackgirlscode](https://x.com/BlackGirlsCode) for those of you with internships via [@nasa](https://www.nasa.gov/glenn/) , [@whitehouse](https://www.whitehouse.gov/live/) or whatevz remember to vote [@latimes @datadesk - Ethics complaint filed over ads falsely portraying Raman promoting homeless camps](https://www.latimes.com/california/story/2026-10-26/ethics-complaint-filed-over-ads-falsely-portraying-raman-promoting-homeless-camps) // [LA mayor's race: AI videos supporting Spencer Pratt shake up political playbook](https://abc7.com/post/los-angeles-mayors-race-ai-videos-supporting-spencer-pratt-shake-political-playbook/19127203/) // [Bass says Pratt AI ads in LA mayor race ‘taking on a violent trend’](https://thehill.com/homenews/campaign/5875724-karen-bass-spencer-pratt-la-mayor-race-ads/) // [](https://burnedbybass.com/?gad_source=1&gad_campaignid=24336717575&gbraid=0AAAABEySbvXkQqBgQYBXc-rieW3bZn26S&gclid=EAIaIQobChMI2vj24dnYlwMVxzhECB1ZpAaZEAAYASAAEgLNdfD_BwE) //[Los Angeles mayoral election cnn.com](https://www.cnn.com/election/2026/results/los-angeles-mayor)" src="https://github.com/user-attachments/assets/266a8c51-c663-4ab6-b56e-e038d88347a5" />
+
+
+![https://scpr.brightspotcdn.com/3d/90/a00620904650ba75eb573b46106b/laistlogo-black.svg](https://scpr.brightspotcdn.com/3d/90/a00620904650ba75eb573b46106b/laistlogo-black.svg)
+
+
+<iframe src="https://archive.org/embed/heavy.-metal.-1981.1080p.-blu-ray.x-264.-yify" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9fdb6444-44a5-4ae6-8ce3-0d2955e8ff0b" />
+
+
+X-Men: Children of the Atom (Japanese: エックス・メン　チルドレン　オブ　ジ　アトム, Hepburn: Ekkusu Men Chirudoren obu ji Atomu) is a 1994 fighting game developed and published by Capcom and released on the CP System II arcade hardware. It was released in December 1994 in Japan and in January 1995 in North America and Europe. [wiki](https://en.wikipedia.org/wiki/X-Men:_Children_of_the_Atom_(video_game)) // [tryit](https://www.retrogames.cc/arcade-games/x-men-children-of-the-atom-950105-usa.html)
+
+[Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk) // [Project Bitch · Big Tymers · Juvenile · Lil Wayne](https://youtu.be/pYqPeb9aXKc?list=RDpYqPeb9aXKc&t=19) // [OJ Da Juiceman - Make Tha Trap Say Aye ft. Gucci Mane](https://youtu.be/JgCoHhsW2Is?list=RDJgCoHhsW2Is) // [Young Jeezy - Who Dat ft. Shawty Redd](https://youtu.be/7flZvy0uRV0?list=RD7flZvy0uRV0) // [Shawty Lo - They Know `Dey Know`](https://youtu.be/g_aMmSWd9M8?list=RDg_aMmSWd9M8) // [Paul Wall `feat. Big Pokey` - Sittin' Sidewayz](https://youtu.be/wJoU6Vbf-_o?list=RDwJoU6Vbf-_o&t=24) // [T.I. - WE ON ](https://youtu.be/e7XPm66h10g?si=TxMyKPjLSUi7Lwcs) // [T.I. - Ring (Official Video) ft. Young Thug](https://youtu.be/3YXuSXpLU5U?list=RDe7XPm66h10g&t=59) // [Usher - No Limit ft. Young Thug](https://youtu.be/3w0yqAdJ1iY?list=RD3w0yqAdJ1iY&t=20) // [Rich Gang - Lifestyle (Official Music Video) ft. Young Thug, Rich Homie Quan](https://youtu.be/nGt_JGHYEO4?list=RD3w0yqAdJ1iY&t=47) // [Megan Thee Stallion - B.I.T.C.H. @nasa-jpl I made a pass ](https://youtu.be/BF8TE5qsOCs?list=RDBF8TE5qsOCs&t=26) she so loving . . . I'm so glad and lover there!! @Blackgirlscode [`WakAFLOcKA`FLAMENo Hands (feat. Roscoe Dash & Wale)](https://youtu.be/skhxizRYxps?si=4LNY4xDm168i9jzV) // [Kendrick Lamar - Not Like Us](https://youtu.be/H58vbez_m4E?list=RDH58vbez_m4E) @blackgirlscode remember latrice wear Kendrick shirts not love bomrs but she a business woman @nasa-jpl so I like the LLC shit [@USSF-ORBiT @doug-newman-nasa `Childish Gambino` - `This Is America` @Whitehouse @Deptofwar!](https://youtu.be/VYOjWnS4cMY?list=RDVYOjWnS4cMY) hi Donald is the person I'm accusing of playing me in a movie @blackgirlscode and ppl said I don't have a job but I'm active mission!!! @usnavy @FORATLANTA is a @GiTHUB handle /// @CityOfLosangeles I am mentioned in here, I think the song is a joust a test post jehoavhs witnesses that my enjoyment of working is not compatible with a fulfilling life and the girls bought it @doug-newman-nasa he got attachments that's blocking me l;iek [Normani](https://abcnews.com/Entertainment/dwts-normani-kordei-harmony-dealing-horrific-cyberbullying-carry/story?id=47427362), @nasa-giss Andrew she came to me after some one did some porno stunt on her, I don't know the content , she remembered me from Jehovah's witnesses and we went on a date, and I told her to her face you know I have to say I was seen with you.... like u know she a freak an shit... but its a private affair and I'm confused bc she or her twin slept in my bed training me to accept her body, smashed and then bounnced with a whiteman! , [Normani - Motivation](https://youtu.be/FKXSh14svlQ) / [The Weeknd - The Hills](https://youtu.be/yzTuBuRdAyA?list=RDVYOjWnS4cMY) // [DWTS' Normani Kordei of Fifth Harmony on dealing with horrific cyberbullying: 'I can't carry hate in my heart'](https://abcnews.com/Entertainment/dwts-normani-kordei-harmony-dealing-horrific-cyberbullying-carry/story?id=47427362)
+
+
 # burnedbybass.com [link](https://burnedbybass.com/)
 [@LA-County-isD @CiTYOFLOSANGELES @SACCOUNTY @StateOfCalifornia https:/`burnedbybass.com`/](https://burnedbybass.com/)
 
