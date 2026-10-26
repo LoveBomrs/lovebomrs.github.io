@@ -3,22 +3,6 @@ layout: default
 mathjax: true
 ---
 
-<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
-  
-  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
-  
-  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
-  
-  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
-  
-</picture>
-
-
-[Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?list=RDjUwh-C5w7II) // [Must Be Dues · Melba Moore](https://youtu.be/Eu8K8LEaUy0?list=RDjUwh-C5w7II) 
- // [Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)  
-
----
-
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   
@@ -55,6 +39,7 @@ mathjax: true
 
 ![https://scpr.brightspotcdn.com/3d/90/a00620904650ba75eb573b46106b/laistlogo-black.svg](https://scpr.brightspotcdn.com/3d/90/a00620904650ba75eb573b46106b/laistlogo-black.svg)
 
+<img  alt="image" src="https://github.com/user-attachments/assets/f88686b9-9276-4c76-bb0a-6525949dc9c0" />
 
 <iframe src="https://archive.org/embed/heavy.-metal.-1981.1080p.-blu-ray.x-264.-yify" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
