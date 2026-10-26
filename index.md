@@ -30,6 +30,8 @@ mathjax: true
 
 ![https://media.cnn.com/api/v1/images/stellar/prod/la-mayor-ai-images-clean-thumb.png?c=9x16&q=f_webp](https://media.cnn.com/api/v1/images/stellar/prod/la-mayor-ai-images-clean-thumb.png?c=9x16&q=f_webp) 
 
+![ @bbc https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/330px-CNN.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/330px-CNN.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail) 
+
 ![https://scpr.brightspotcdn.com/3d/90/a00620904650ba75eb573b46106b/laistlogo-black.svg](https://scpr.brightspotcdn.com/3d/90/a00620904650ba75eb573b46106b/laistlogo-black.svg)
 
 
