@@ -19,7 +19,7 @@ mathjax: true
 
 ---
 
-
+[@nasa-jpl @nasa](https://lahousing.lacity.org/AAHR/Documents/Council%20Deputy%20Contact%20List.pdf)
 
 [karenbass.com/](https://www.karenbass.com/)
 ![@whitehouse @nasa-pds @nasa-jpl https://run.imgix.net @isro @esa @ukspaceagency wee are I a mayor election cycle, stay in touch It can effect the lab vastly! hi @blackgirlscode hi @howard-university-web-services ](https://run.imgix.net/a90ac9ef-afc5-45cb-9070-17e5ee6fc6d5/888e84f5-86a9-497b-a27a-79c561579b70/888e84f5-86a9-497b-a27a-79c561579b70.png?ixlib=js-3.8.0&bri=0&con=0&sat=0&high=0&shad=0&usm=0&rect=0%2C0%2C1436%2C304&auto=compress%2Cformat&fit=fillmax&w=640&q=75&s=6cf68b220d3cff5a79616afa1aeaa8d7) 
