@@ -13,9 +13,29 @@ mathjax: true
   
 </picture>
 
+
+[Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)  
+
+---
+
+# burnedbybass.com [link](https://burnedbybass.com/)
+[@LA-County-isD @CiTYOFLOSANGELES @SACCOUNTY @StateOfCalifornia https:/`burnedbybass.com`/](https://burnedbybass.com/)
+
+[<video controls loading="lazy" poster="https://www.dailynews.com/wp-content/uploads/2026/05/LDN-Z-MAYOR-DEBATE-NBC4.jpg" src="https://framerusercontent.com/assets/x7m1zD12q81zwZHVSRbX8hVH8.mp4" />](https://framerusercontent.com/assets/x7m1zD12q81zwZHVSRbX8hVH8.mp4)
+
 [Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?list=RDjUwh-C5w7II) // [Must Be Dues · Melba Moore](https://youtu.be/Eu8K8LEaUy0?list=RDjUwh-C5w7II) 
 
 <iframe src="https://archive.org/embed/heavy.-metal.-1981.1080p.-blu-ray.x-264.-yify" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+[@nasa-jpl](https://www.latimes.com/california/story/2026-10-26/ethics-complaint-filed-over-ads-falsely-portraying-raman-promoting-homeless-camps) hi if I remember correctly I have to vote to keep my `ActiveMission` status and I did [@CityOFLosanGeles](https://mayor.lacity.gov/) [_Karen Bass_](https://laist.com/brief/news/politics/nithya-raman-could-shake-up-los-angeles-olympics-heres-how) [[1](https://share.google/aimode/8RgP2H9Df8UsEADAe)] , [Mayoral Candiate Nithyia](https://share.google/aimode/NlDy4kd8MgneimqLk) I did my prep for another year in LA with @nasa-pds / @eosdis-nasa @emit-sds [@nasa-jpl](https://pds-geosciences.wustl.edu/dataserv/mars.html) hi [@blackgirlscode](https://x.com/BlackGirlsCode) for those of you with internships via [@nasa](https://www.nasa.gov/glenn/) , [@whitehouse](https://www.whitehouse.gov/live/) or whatevz remember to vote [@latimes @datadesk - Ethics complaint filed over ads falsely portraying Raman promoting homeless camps](https://www.latimes.com/california/story/2026-10-26/ethics-complaint-filed-over-ads-falsely-portraying-raman-promoting-homeless-camps) // [LA mayor's race: AI videos supporting Spencer Pratt shake up political playbook](https://abc7.com/post/los-angeles-mayors-race-ai-videos-supporting-spencer-pratt-shake-political-playbook/19127203/) // [Bass says Pratt AI ads in LA mayor race ‘taking on a violent trend’](https://thehill.com/homenews/campaign/5875724-karen-bass-spencer-pratt-la-mayor-race-ads/) // [](https://burnedbybass.com/?gad_source=1&gad_campaignid=24336717575&gbraid=0AAAABEySbvXkQqBgQYBXc-rieW3bZn26S&gclid=EAIaIQobChMI2vj24dnYlwMVxzhECB1ZpAaZEAAYASAAEgLNdfD_BwE)
+
+![https://media.cnn.com/api/v1/images/stellar/prod/la-mayor-ai-images-clean-thumb.png?c=9x16&q=f_webp](https://media.cnn.com/api/v1/images/stellar/prod/la-mayor-ai-images-clean-thumb.png?c=9x16&q=f_webp) 
+
+![https://scpr.brightspotcdn.com/3d/90/a00620904650ba75eb573b46106b/laistlogo-black.svg](https://scpr.brightspotcdn.com/3d/90/a00620904650ba75eb573b46106b/laistlogo-black.svg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9fdb6444-44a5-4ae6-8ce3-0d2955e8ff0b" />
+
 
 X-Men: Children of the Atom (Japanese: エックス・メン　チルドレン　オブ　ジ　アトム, Hepburn: Ekkusu Men Chirudoren obu ji Atomu) is a 1994 fighting game developed and published by Capcom and released on the CP System II arcade hardware. It was released in December 1994 in Japan and in January 1995 in North America and Europe. [wiki](https://en.wikipedia.org/wiki/X-Men:_Children_of_the_Atom_(video_game)) // [tryit](https://www.retrogames.cc/arcade-games/x-men-children-of-the-atom-950105-usa.html)
 
