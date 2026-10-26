@@ -15,9 +15,16 @@ mathjax: true
 </picture>
 
 
-[Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?list=RDjUwh-C5w7II) // [Must Be Dues · Melba Moore](https://youtu.be/Eu8K8LEaUy0?list=RDjUwh-C5w7II)  // [Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)  // [Blessings · Visionaries](https://youtu.be/I2zWUFlfWWM) // [Acid Raindrops · People Under The Stairs](https://youtu.be/UcKDx4cmvio?list=RDUcKDx4cmvio) // [Never Fallin' · Living Legends](https://youtu.be/eGv_ZJ5dSPc?list=RDeGv_ZJ5dSPc)
+[Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?list=RDjUwh-C5w7II) // [Must Be Dues · Melba Moore](https://youtu.be/Eu8K8LEaUy0?list=RDjUwh-C5w7II)  // [Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)  // [Blessings · Visionaries](https://youtu.be/I2zWUFlfWWM) // [Acid Raindrops · People Under The Stairs](https://youtu.be/UcKDx4cmvio?list=RDUcKDx4cmvio) // [Never Fallin' · Living Legends](https://youtu.be/eGv_ZJ5dSPc?list=RDeGv_ZJ5dSPc) // [Moment Of Truth · Gang Starr](https://youtu.be/Rr46FS7tkk4?list=RDeGv_ZJ5dSPc) // [Love & Appreciate · Murs](https://youtu.be/UYay1c2Fl0o?si=0-_2J0SIFATsYUuD)
 
 ---
+
+
+
+[karenbass.com/](https://www.karenbass.com/)
+![@whitehouse @nasa-pds @nasa-jpl https://run.imgix.net @isro @esa @ukspaceagency wee are I a mayor election cycle, stay in touch It can effect the lab vastly! hi @blackgirlscode hi @howard-university-web-services ](https://run.imgix.net/a90ac9ef-afc5-45cb-9070-17e5ee6fc6d5/888e84f5-86a9-497b-a27a-79c561579b70/888e84f5-86a9-497b-a27a-79c561579b70.png?ixlib=js-3.8.0&bri=0&con=0&sat=0&high=0&shad=0&usm=0&rect=0%2C0%2C1436%2C304&auto=compress%2Cformat&fit=fillmax&w=640&q=75&s=6cf68b220d3cff5a79616afa1aeaa8d7) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/1caccb52-78a1-4b82-ac05-f0797685f804" />
 
 # burnedbybass.com [link](https://burnedbybass.com/)
 [@LA-County-isD @CiTYOFLOSANGELES @SACCOUNTY @StateOfCalifornia https:/`burnedbybass.com`/](https://burnedbybass.com/)
