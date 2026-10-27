@@ -14,9 +14,12 @@ mathjax: true
   
 </picture>
 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/29f35ce6-697f-44bf-ba98-dbc382459428" />
+
 ![https://yt3.googleusercontent.com/FDfIV9d1XflHz2oglHUfjDYmxR4evQ9I41LcJsMqoOLUTbFHR7SItaEVX9wEOPPFUYnVwcIJ4U0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/FDfIV9d1XflHz2oglHUfjDYmxR4evQ9I41LcJsMqoOLUTbFHR7SItaEVX9wEOPPFUYnVwcIJ4U0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
 [`WATCH` - City Council — October 27, 2026 — English youtu.be/PmrdG5rjWDU](https://youtu.be/PmrdG5rjWDU)
-@nasa-jpl @cityoflosangeles City Council meeting is about [LAPD](https://www.facebook.com/fox11la/posts/an-lapd-officer-was-arrested-after-allegedly-trying-to-meet-someone-he-believed-/1463964775919170/) stalking ! [youtube.com/@LACityClerk](https://www.youtube.com/@LACityClerk) // [LAPD officer who takes stalking seriously](https://www.reddit.com/r/lapd/comments/1frweyo/lapd_officer_who_takes_stalking_seriously/) // [LAPD Threat Management Unit](https://en.wikipedia.org/wiki/LAPD_Threat_Management_Unit) // [Stalking and Threat Assessment Team (STAT) @nasa-jpl @whitehouse](https://da.lacounty.gov/contact/office-directory/stalking-and-threat-assessment-team-stat)
+@nasa-jpl @cityoflosangeles @dhs-gov  City Council meeting is about [LAPD](https://www.facebook.com/fox11la/posts/an-lapd-officer-was-arrested-after-allegedly-trying-to-meet-someone-he-believed-/1463964775919170/) stalking ! [youtube.com/@LACityClerk](https://www.youtube.com/@LACityClerk) // [LAPD officer who takes stalking seriously](https://www.reddit.com/r/lapd/comments/1frweyo/lapd_officer_who_takes_stalking_seriously/) // [LAPD Threat Management Unit](https://en.wikipedia.org/wiki/LAPD_Threat_Management_Unit) // [Stalking and Threat Assessment Team (STAT) @nasa-jpl @whitehouse](https://da.lacounty.gov/contact/office-directory/stalking-and-threat-assessment-team-stat)
 
 ![https://da.lacounty.gov/sites/default/files/logo.png](https://da.lacounty.gov/sites/default/files/logo.png)
 
@@ -27,6 +30,8 @@ mathjax: true
 
 [Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?list=RDjUwh-C5w7II) // [Must Be Dues · Melba Moore](https://youtu.be/Eu8K8LEaUy0?list=RDjUwh-C5w7II)  // [Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)  // [Blessings · Visionaries](https://youtu.be/I2zWUFlfWWM) // [Acid Raindrops · People Under The Stairs](https://youtu.be/UcKDx4cmvio?list=RDUcKDx4cmvio) // [Never Fallin' · Living Legends](https://youtu.be/eGv_ZJ5dSPc?list=RDeGv_ZJ5dSPc) // [Moment Of Truth · Gang Starr](https://youtu.be/Rr46FS7tkk4?list=RDeGv_ZJ5dSPc) // [Love & Appreciate · Murs](https://youtu.be/UYay1c2Fl0o?si=0-_2J0SIFATsYUuD)
 
+
+![https://www.cisa.gov/sites/default/files/images/SVG/header_logo_tagline_update.svg](https://www.cisa.gov/sites/default/files/images/SVG/header_logo_tagline_update.svg) 
 ---
 
 [@nasa-jpl @nasa](https://lahousing.lacity.org/AAHR/Documents/Council%20Deputy%20Contact%20List.pdf)
