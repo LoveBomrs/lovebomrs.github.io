@@ -26,6 +26,7 @@ Last observation: 27 Oct 2026 - 21:35 UTC
 Mexico @CityOFLosAngeles
 [`watch` - Rico Nasty: Tiny Desk Concert @npr](https://youtu.be/kfUcI82SZv4?t=74)
 
+[https://www.nhc.noaa.gov/?epac](https://www.nhc.noaa.gov/?epac) 
 
 ![https://cdn.star.nesdis.noaa.gov/FLOATER/data/EP222026/01/EP222026-01-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/data/EP222026/01/EP222026-01-1000x1000.gif) 
 
@@ -55,7 +56,8 @@ Mexico @CityOFLosAngeles
 
 
 ## Nicki Minaj Joins Trump On The Campaign Trail
-[@whitehouse `WATCH` - @NASA-jpl @eosdis-nasa https://youtu.be/WKgZmRzaUTQ?t=25](https://youtu.be/WKgZmRzaUTQ?t=25) // [President Trump Speaks at Republican Midterm Rally in Port Huron, Michigan @whitehouse ](https://www.c-span.org/program/campaign-2026/president-trump-speaks-at-republican-midterm-rally-in-port-huron-michigan/686959) /// 
+[@whitehouse `WATCH` - @NASA-jpl @eosdis-nasa https://youtu.be/WKgZmRzaUTQ?t=25](https://youtu.be/WKgZmRzaUTQ?t=25) // [President Trump Speaks at Republican Midterm Rally in Port Huron, Michigan @whitehouse ](https://www.c-span.org/program/campaign-2026/president-trump-speaks-at-republican-midterm-rally-in-port-huron-michigan/686959) /// [Index of /ma-cdn03/FLOATER/data/EP222026/](https://cdn.star.nesdis.noaa.gov/FLOATER/data/EP222026/) // 
+
 [Are You Gone Already · Nicki Minaj](https://youtu.be/2wKQ97yH1NI?list=PLxA687tYuMWhHEqcVDC_UtaMvZGmfYDKy&t=58) // [@cityoflosangeles `KarenBass` The TRUTH About AI Music vs. Performing Live @cityofsandiego](https://youtu.be/Z1fZcm4YmGA?t=33)
 
 <img alt="image @nickiminaj you work in computers aftte p**N right ? hi @deptofwar im just saying no one gets it @github hi @marinecorps - @rashardkelly @nasajpl @CISAgov " src="https://github.com/user-attachments/assets/573f29fa-b070-4883-b01a-530cc643b411" />
