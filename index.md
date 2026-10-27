@@ -15,6 +15,10 @@ mathjax: true
 </picture>
 
 
+
+[NiThiya Raman do we need to talk @isro @deptofwar @nasa-jpl @CiTYOFLOSANGELES](https://www.noshownithya.com/?gad_source=1&gad_campaignid=24365086450&gbraid=0AAAABDeZFRaPjzXteAb42gyCzr2_9Th8k&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhID7vJBLOmYYMhaca61BslNi5fyJQ07jNZdRhlFnsfAJjTB8v3j2qRoCdBEQAvD_BwE) [@doug-newman-nasa ? img.vsco.co/12f8b0/56497/5fc455b1e1ebb64f08283be5/vsco5fc455b279aee.jpg](https://img.vsco.co/12f8b0/56497/5fc455b1e1ebb64f08283be5/vsco5fc455b279aee.jpg) ?  rashard @eosdis-nasa @nasa-jpl hi
+<img  alt="EMIT_L1B_RAD_001_20260809T224459_2622115_011" src="https://github.com/user-attachments/assets/afc75516-1a4c-4db9-aaa1-c1018414cdf4" />
+
 @nasa-jpl do we need to talk [@doug-newman-nasa ? img.vsco.co/12f8b0/56497/5fc455b1e1ebb64f08283be5/vsco5fc455b279aee.jpg](https://img.vsco.co/12f8b0/56497/5fc455b1e1ebb64f08283be5/vsco5fc455b279aee.jpg)
 ![https://img.vsco.co/12f8b0/56497/5fc455b1e1ebb64f08283be5/vsco5fc455b279aee.jpg](https://img.vsco.co/12f8b0/56497/5fc455b1e1ebb64f08283be5/vsco5fc455b279aee.jpg)
 
