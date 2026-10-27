@@ -16,6 +16,9 @@ mathjax: true
 
 [O. C. - times up](https://youtu.be/jneMQiw88B4?list=RDjneMQiw88B4) // [Bill Cosby Cries First - Rashard @Blackgirlscode](https://youtu.be/C_A_EthRJeI) // [The Wreckoning · Lateef The Truth Speaker](https://youtu.be/ZA7LzUVi3ZY?list=RDZA7LzUVi3ZY) // [Droppin Science -Marley Marl Feat Craig G](https://youtu.be/IjuG1ZXe1uU?list=RDIjuG1ZXe1uU) // [Rugged Ruff · Bahamadia @nbcnews 🫚`RootsCrew`🫚](https://youtu.be/OrYKESic7CI?si=jw0UXWn6OV7zv_OS) // [Blahzay Blahzay - Danger](https://youtu.be/x7uJzdu7Pak?list=RDIjuG1ZXe1uU) // [Pete Rock & CL Smooth - They Reminisce Over You (T.R.O.Y.)](https://youtu.be/k6mdRv0ZdR8?list=RDIjuG1ZXe1uU&t=219) // [Big Boi - In The A (Explicit) ft. T.I., Ludacris @ForAtlanta @qtsdatacenters ask bigboi about electricity protection @nasa ](https://youtu.be/ROlKx7PG6sY?si=4gNjwhhUtkal2nUU) // [Are You Gone Already · Nicki Minaj](https://youtu.be/2wKQ97yH1NI?list=PLxA687tYuMWhHEqcVDC_UtaMvZGmfYDKy&t=58) // [`watch` - Rico Nasty: Tiny Desk Concert @npr](https://youtu.be/kfUcI82SZv4?t=74)
 
+
+<img  alt=" @CD4 @cityOfLosAngeles 2026-10-24-00_00_2026-10-24-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/cbc5ed3b-c755-4744-bdcb-096b39ffb2d5" />
+
 # HOT 97 News Live! 10/27/26 feat. [Lana J HArris @ForAtlanta](https://voyageatl.com/interview/meet-lana-harris-of-atlanta/)
 [`WATCH` - https://youtu.be/T3TZ5mvfMOM](https://youtu.be/T3TZ5mvfMOM) /// [Nithya Raman
 is running for Mayor to make LA affordable for everyone](https://www.nithyaforthecity.com/) but [Nithya Raman doesn’tshow up FOR Los Angeles](https://www.noshownithya.com/?gad_source=1&gad_campaignid=24365086450&gbraid=0AAAABDeZFRaPjzXteAb42gyCzr2_9Th8k&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhIL6qJ8vwySlsFpalGhhxcphyQtMVQK8FmD7QlwcRqUK0BCWSan6ZBoC-v8QAvD_BwE) 
