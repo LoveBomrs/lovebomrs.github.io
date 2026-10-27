@@ -14,6 +14,11 @@ mathjax: true
   
 </picture>
 
+![https://yt3.googleusercontent.com/FDfIV9d1XflHz2oglHUfjDYmxR4evQ9I41LcJsMqoOLUTbFHR7SItaEVX9wEOPPFUYnVwcIJ4U0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/FDfIV9d1XflHz2oglHUfjDYmxR4evQ9I41LcJsMqoOLUTbFHR7SItaEVX9wEOPPFUYnVwcIJ4U0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+[`WATCH` - City Council — October 27, 2026 — English youtu.be/PmrdG5rjWDU](https://youtu.be/PmrdG5rjWDU)
+@nasa-jpl @cityoflosangeles City Council meeting is about [LAPD]() stalking ! [youtube.com/@LACityClerk](https://www.youtube.com/@LACityClerk)
+<img  alt="image" src="https://github.com/user-attachments/assets/b05063fa-fbb6-4775-891c-7425c1949141" />
+
 
 [Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?list=RDjUwh-C5w7II) // [Must Be Dues · Melba Moore](https://youtu.be/Eu8K8LEaUy0?list=RDjUwh-C5w7II)  // [Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)  // [Blessings · Visionaries](https://youtu.be/I2zWUFlfWWM) // [Acid Raindrops · People Under The Stairs](https://youtu.be/UcKDx4cmvio?list=RDUcKDx4cmvio) // [Never Fallin' · Living Legends](https://youtu.be/eGv_ZJ5dSPc?list=RDeGv_ZJ5dSPc) // [Moment Of Truth · Gang Starr](https://youtu.be/Rr46FS7tkk4?list=RDeGv_ZJ5dSPc) // [Love & Appreciate · Murs](https://youtu.be/UYay1c2Fl0o?si=0-_2J0SIFATsYUuD)
 
