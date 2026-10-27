@@ -14,7 +14,7 @@ mathjax: true
   
 </picture>
 
-. . . @STATEOFCALiFORNiS @LA-COUNTY-ISD the dude with the hat talking about ice, can u send him this url ? its a bunch of data from [the riots and atlanta graffiti https://virtiserv.github.io/art/graffiti/coral/2026/02/15/GraffShit.html](https://virtiserv.github.io/art/graffiti/coral/2026/02/15/GraffShit.html) @Cityoflosangeles - rashard @eosdis-nasa @nasa-jpl hi @doug-newman-nasa @blackgirlscode @dhsgov 
+. . . @STATEOFCALiFORNia @LA-COUNTY-ISD the dude with the hat talking about ice, can u send him this url ? its a bunch of data from [the riots and atlanta graffiti https://virtiserv.github.io/art/graffiti/coral/2026/02/15/GraffShit.html](https://virtiserv.github.io/art/graffiti/coral/2026/02/15/GraffShit.html) @Cityoflosangeles - rashard @eosdis-nasa @nasa-jpl hi @doug-newman-nasa @blackgirlscode @dhsgov 
 
 @cityoflosangeles im abt to map [cd4](https://cd4.lacity.gov/) - rashard @eosdis-nasa 
 <img   alt="image" src="https://github.com/user-attachments/assets/ddb0882e-5cab-4920-ab3a-d1afea03aaf0" />
