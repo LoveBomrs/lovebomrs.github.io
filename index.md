@@ -15,8 +15,29 @@ mathjax: true
 </picture>
 
 
-[Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?list=RDjUwh-C5w7II) // [Must Be Dues · Melba Moore](https://youtu.be/Eu8K8LEaUy0?list=RDjUwh-C5w7II)  // [Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)  // [Blessings · Visionaries](https://youtu.be/I2zWUFlfWWM) // [Acid Raindrops · People Under The Stairs](https://youtu.be/UcKDx4cmvio?list=RDUcKDx4cmvio) // [Never Fallin' · Living Legends](https://youtu.be/eGv_ZJ5dSPc?list=RDeGv_ZJ5dSPc) // [Moment Of Truth · Gang Starr](https://youtu.be/Rr46FS7tkk4?list=RDeGv_ZJ5dSPc) // [Love & Appreciate · Murs](https://youtu.be/UYay1c2Fl0o?si=0-_2J0SIFATsYUuD)
+[Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?list=RDjUwh-C5w7II) // [Must Be Dues · Melba Moore](https://youtu.be/Eu8K8LEaUy0?list=RDjUwh-C5w7II)  // [Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)  // [Blessings · Visionaries](https://youtu.be/I2zWUFlfWWM) // [Acid Raindrops · People Under The Stairs](https://youtu.be/UcKDx4cmvio?list=RDUcKDx4cmvio) // [Never Fallin' · Living Legends](https://youtu.be/eGv_ZJ5dSPc?list=RDeGv_ZJ5dSPc) // [Moment Of Truth · Gang Starr](https://youtu.be/Rr46FS7tkk4?list=RDeGv_ZJ5dSPc) // [Love & Appreciate · Murs](https://youtu.be/UYay1c2Fl0o?si=0-_2J0SIFATsYUuD) // [Moment For Life - Nicki Minaj](https://www.youtube.com/watch?v=D7GW8TYCEG4)
 
+
+# HOT 97 News Live! 10/26/26 feat. [Lana J HArris](https://www.tiktok.com/@lanajharris)
+[`WATCH` - https://youtu.be/M_BEkGwdW7c](https://youtu.be/M_BEkGwdW7c)
+Lana your [@tiktok broke](https://www.tiktok.com/@lanajharris)
+@deptofwar so Lana say mr trump spent a lot of time talking about [Nicki Minaj](https://www.youtube.com/watch?v=D7GW8TYCEG4) backside ? @whitehouse
+[Donald Trump Praises Nicki Minaj’s Figure During Rally Speech](https://www.yahoo.com/entertainment/celebrity/articles/donald-trump-praises-nicki-minaj-013318311.html) @gavinnewsom @saccounty @stateofcalifornia is that one of the reasons for the treason in my love life ? I did not listyen // [Lana J Interviews Mendeecees About His Lifestyle](https://youtu.be/nToENvuCRfU)
+<img   alt="image" src="https://github.com/user-attachments/assets/a94c3655-c31c-4582-8edc-0dd81862c074" />
+
+![https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
+
+[`WATCH` - MIDTERM CHAOS: Ilhan Omar Federal Probe UPDATE | Black Voters Walk Away & Fani Willis Under Fire!](https://youtu.be/_VGtSLADwQE)
+[youtube.com/@THEREALDANA](https://www.youtube.com/@THEREALDANA) 
+<img   alt="image" src="https://github.com/user-attachments/assets/c96b067f-7e34-417a-8a8d-09d2456e4b3f" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/6af535ba-85cc-4208-b94a-ff5f44df4984" />
+
+![https://p16-common-sigrefresh_token=58ce7f35&x-expires=1793239200&x-signature=7SVV6R5jNPysSDoUGIxwXwEvA%2BU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5](https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9ec307ecfec2f6b0f0b69b50482b8aae~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=58ce7f35&x-expires=1793239200&x-signature=7SVV6R5jNPysSDoUGIxwXwEvA%2BU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5)
+
+![https://yt3.googleusercontent.com/MicSQW0JIUBPGUxwop_jtnPctcyOmb58gKK6pNLt0K1KvB2Qj1OJ82a-DJrv84bs98OaxXgwxQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/MicSQW0JIUBPGUxwop_jtnPctcyOmb58gKK6pNLt0K1KvB2Qj1OJ82a-DJrv84bs98OaxXgwxQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 ---
 
 [@nasa-jpl @nasa](https://lahousing.lacity.org/AAHR/Documents/Council%20Deputy%20Contact%20List.pdf)
