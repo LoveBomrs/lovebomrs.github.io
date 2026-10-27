@@ -14,6 +14,10 @@ mathjax: true
   
 </picture>
 
+
+@nasa-jpl do we need to talk [@doug-newman-nasa ? img.vsco.co/12f8b0/56497/5fc455b1e1ebb64f08283be5/vsco5fc455b279aee.jpg](https://img.vsco.co/12f8b0/56497/5fc455b1e1ebb64f08283be5/vsco5fc455b279aee.jpg)
+![https://img.vsco.co/12f8b0/56497/5fc455b1e1ebb64f08283be5/vsco5fc455b279aee.jpg](https://img.vsco.co/12f8b0/56497/5fc455b1e1ebb64f08283be5/vsco5fc455b279aee.jpg)
+
 . . . @STATEOFCALiFORNia @LA-COUNTY-ISD the dude with the hat talking about ice, can u send him this url ? its a bunch of data from [the riots and atlanta graffiti https://virtiserv.github.io/art/graffiti/coral/2026/02/15/GraffShit.html](https://virtiserv.github.io/art/graffiti/coral/2026/02/15/GraffShit.html) @Cityoflosangeles - rashard @eosdis-nasa @nasa-jpl hi @doug-newman-nasa @blackgirlscode @dhsgov 
 
 @cityoflosangeles im abt to map [cd4](https://cd4.lacity.gov/) - rashard @eosdis-nasa 
