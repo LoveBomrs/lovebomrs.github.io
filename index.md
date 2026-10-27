@@ -28,6 +28,9 @@ mathjax: true
   
 </picture>
 
+[https://browser.dataspace.copernicus.eu/?13187834.664366817%2C%22y%22%3A4019214.4498124463%2C%22z%22%3A3392.594754146151%2C%22rotH%22%3A334.6219999999978%2C%22rotV%22%3A66.63300000000008%7D&cloudCoverage=30&dateMode=SINGLE&panel=layers](https://browser.dataspace.copernicus.eu/?zoom=15&lat=33.92857&lng=-118.46833&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2F4PqxqkfHk5RAF5mluAO%2BD3Zd%2F5uT3vmyhHMla3jfxF4U4lgVqbMx6NgzhsVSTayq9f%2F3gaujvc8BvryITkVT3VfKt9pp018a9HHWCMmxW6bi19QFs8RZf&datasetId=S2_L2A_CDAS&fromTime=2026-10-24T00%3A00%3A00.000Z&toTime=2026-10-24T23%3A59%3A59.999Z&layerId=5-MOISTURE-INDEX1&demSource3D=%22MAPZEN%22&terrainViewerSettings=%7B%22sunTime%22%3Anull%2C%22settings%22%3A%7B%22isSky%22%3Atrue%2C%22isSunFlares%22%3Atrue%2C%22isShading%22%3Atrue%2C%22isShadows%22%3Atrue%2C%22verticalTerrainScaleFactor%22%3A1%2C%22shading%22%3A%7B%22ambientFactor%22%3A0.4000000059604645%2C%22diffuseFactor%22%3A0.5400000214576721%2C%22specularFactor%22%3A0.10000000149011612%2C%22specularPower%22%3A4%7D%2C%22shadows%22%3A%7B%22shadowVisibilityFactor%22%3A0.5%2C%22shadowRenderDistanceFactor%22%3A1%7D%7D%2C%22x%22%3A-13187834.664366817%2C%22y%22%3A4019214.4498124463%2C%22z%22%3A3392.594754146151%2C%22rotH%22%3A334.6219999999978%2C%22rotV%22%3A66.63300000000008%7D&cloudCoverage=30&dateMode=SINGLE&panel=layers)
+<img   alt="image" src="https://github.com/user-attachments/assets/0c1353fb-aac4-4f78-877b-42086fcb044f" />
+
 <img  alt="2026-10-24-00_00_2026-10-24-23_59_Sentinel-2_L2A_5-MOISTURE-INDEX1" src="https://github.com/user-attachments/assets/492a97df-04eb-4411-8a79-f04d7a5bf9be" />
 
 
