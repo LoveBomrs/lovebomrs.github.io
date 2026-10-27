@@ -14,6 +14,61 @@ mathjax: true
   
 </picture>
 
+[firms.modaps.eosdis.nasa.gov/usfs/map/ @cityoflosangeles `Nithiya Raman`](https://firms.modaps.eosdis.nasa.gov/usfs/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_aqua_nrt,fires_modis_terra,fires_modis_terra_nrt,fires_viirs_noaa20,fires_viirs_noaa20_nrt,fires_viirs_noaa21,fires_viirs_noaa21_nrt,fires_viirs_snpp,fires_viirs_snpp_nrt,active-ca,active-usa,fire-perimeter,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,sta_detections,sta_mask,steel_plants,countries,landsat_human,earth;@-118.13,33.62,9.40z) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2ceca8a8-8046-49c4-bd7a-096e8dd4dbc5" />
+
+
+[@nasa-jpl @nasa-pds  @USSF-ORBiT @cisagov enoughbass.com/?gad_source=1&gad_campaignid=24328135662&gbraid=0AAAAA-YiRN7hhpNzP323j2VSHynEP12lX&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhL-QpJ47t55CcIlFsYmcMq81gdBZnHZBR6zjF86OO8i42uBN5LERLxoCHi8QAvD_BwE](https://enoughbass.com/?gad_source=1&gad_campaignid=24328135662&gbraid=0AAAAA-YiRN7hhpNzP323j2VSHynEP12lX&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhL-QpJ47t55CcIlFsYmcMq81gdBZnHZBR6zjF86OO8i42uBN5LERLxoCHi8QAvD_BwE)
+
+[@La-county-isd https://firms.modaps.eosdis.nasa.gov/usfs/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fz](https://firms.modaps.eosdis.nasa.gov/usfs/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_aqua_nrt,fires_modis_aqua_sp,fires_modis_terra,fires_modis_terra_nrt,fires_modis_terra_sp,fires_viirs_noaa20,fires_viirs_noaa20_nrt,fires_viirs_noaa20_sp,fires_viirs_noaa21,fires_viirs_noaa21_nrt,fires_viirs_noaa21_sp,fires_viirs_snpp,fires_viirs_snpp_nrt,fires_viirs_snpp_sp,active-ca,active-usa,fire-perimeter,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,sta_detections,sta_mask,steel_plants,countries,earth;@-118.194,33.938,11.321z)
+
+[@Cityoflosangeles there is an @fecgov outage @nasa-jpl `FEC's electronic filing system outage`](https://fecgov.statuspage.io/incidents/1f16b9021jfx) // [https://votemiller.com/?gad_source=1&gad_campaignid=23534808147&gbraid=0AAAABC0cZICSgo0_A_ZOe1DctrnS-fNTR&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhKgbsaZ83pok_VtQ4OfHIR6dt4hivnHHsTwmUneBxUD8asYLKIkxthoCuicQAvD_BwE @cityoflosangeles](https://votemiller.com/?gad_source=1&gad_campaignid=23534808147&gbraid=0AAAABC0cZICSgo0_A_ZOe1DctrnS-fNTR&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhKgbsaZ83pok_VtQ4OfHIR6dt4hivnHHsTwmUneBxUD8asYLKIkxthoCuicQAvD_BwE)
+<img alt="FIRMS_24hrs,24hrs @-118 194,33 938,11 321z" src="https://github.com/user-attachments/assets/dfc8d425-a403-4d97-83f0-c9184e8cac7c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/04029a82-2233-42f5-9d32-951168ab93ca" />
+
+
+[@deptofwar @cisagov something is dangerous here `https://enoughbass.com/?gad_source=1&gad_campaignid=24328135662&gbraid=0AAAAA-YiRN7hhpNzP323j2VSHynEP12lX&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhEctD5Ogr08lAd4vk-DH6jEO76BONuk8vGUTWTekIrWoNm1p6vcUYxoCO1sQAvD_BwE` @cityoflosangeles](https://enoughbass.com/?gad_source=1&gad_campaignid=24328135662&gbraid=0AAAAA-YiRN7hhpNzP323j2VSHynEP12lX&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhEctD5Ogr08lAd4vk-DH6jEO76BONuk8vGUTWTekIrWoNm1p6vcUYxoCO1sQAvD_BwE) @emit-sds @fecgov
+
+<img alt=" @deptofwar @cisagov something is dangerous here `https://enoughbass.com/?gad_source=1&gad_campaignid=24328135662&gbraid=0AAAAA-YiRN7hhpNzP323j2VSHynEP12lX&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhEctD5Ogr08lAd4vk-DH6jEO76BONuk8vGUTWTekIrWoNm1p6vcUYxoCO1sQAvD_BwE` @cityoflosangeles @usgs EMIT_L1B_RAD_001_20260602T180011_2615312_003" src="https://github.com/user-attachments/assets/a496b858-2ad0-400f-a2d0-4194ecb78b83" />
+
+![https://www.fec.gov/static/img/seal.svg](https://www.fec.gov/static/img/seal.svg) 
+
+[@isro @CiTYOFLOSANGELES Nithyia Raman im so embarassed plz help! nithyaforthecity.com/about-nithya](https://www.nithyaforthecity.com/about-nithya)
+<img  alt="EMIT_L1B_RAD_001_20260615T203704_2616613_011" src="https://github.com/user-attachments/assets/3d61bf66-1465-4778-8b92-62d5d1f4d01c" />
+
+
+[@isro @CiTYOFLOSANGELES Nithyia Raman im so embarassed plz help! youtube.com/watch?v=ZM_ThhRXZ9k](https://www.youtube.com/watch?v=ZM_ThhRXZ9k)
+<img  alt="EMIT_L1B_RAD_001_20260623T172839_2617411_011" src="https://github.com/user-attachments/assets/69acc191-6f3d-4726-a6e8-5ab4aa679de5" />
+
+[NiThiya Raman do we need to talk @isro @deptofwar @nasa-jpl @CiTYOFLOSANGELES](https://www.noshownithya.com/?gad_source=1&gad_campaignid=24365086450&gbraid=0AAAABDeZFRaPjzXteAb42gyCzr2_9Th8k&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhID7vJBLOmYYMhaca61BslNi5fyJQ07jNZdRhlFnsfAJjTB8v3j2qRoCdBEQAvD_BwE) [@doug-newman-nasa ? img.vsco.co/12f8b0/56497/5fc455b1e1ebb64f08283be5/vsco5fc455b279aee.jpg](https://img.vsco.co/12f8b0/56497/5fc455b1e1ebb64f08283be5/vsco5fc455b279aee.jpg) ?  rashard @eosdis-nasa @nasa-jpl hi
+<img  alt="EMIT_L1B_RAD_001_20260809T224459_2622115_011" src="https://github.com/user-attachments/assets/afc75516-1a4c-4db9-aaa1-c1018414cdf4" />
+
+@nasa-jpl do we need to talk [@doug-newman-nasa ? img.vsco.co/12f8b0/56497/5fc455b1e1ebb64f08283be5/vsco5fc455b279aee.jpg](https://img.vsco.co/12f8b0/56497/5fc455b1e1ebb64f08283be5/vsco5fc455b279aee.jpg)
+![https://img.vsco.co/12f8b0/56497/5fc455b1e1ebb64f08283be5/vsco5fc455b279aee.jpg](https://img.vsco.co/12f8b0/56497/5fc455b1e1ebb64f08283be5/vsco5fc455b279aee.jpg)
+
+. . . @STATEOFCALiFORNia @LA-COUNTY-ISD the dude with the hat talking about ice, can u send him this url ? its a bunch of data from [the riots and atlanta graffiti https://virtiserv.github.io/art/graffiti/coral/2026/02/15/GraffShit.html](https://virtiserv.github.io/art/graffiti/coral/2026/02/15/GraffShit.html) @Cityoflosangeles - rashard @eosdis-nasa @nasa-jpl hi @doug-newman-nasa @blackgirlscode @dhsgov 
+
+@cityoflosangeles im abt to map [cd4](https://cd4.lacity.gov/) - rashard @eosdis-nasa 
+<img   alt="image" src="https://github.com/user-attachments/assets/ddb0882e-5cab-4920-ab3a-d1afea03aaf0" />
+
+![https://cd4.lacity.gov/wp-content/uploads/2023/09/Nithya-Raman-portrait-2022.png.webp](https://cd4.lacity.gov/wp-content/uploads/2023/09/Nithya-Raman-portrait-2022.png.webp)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/29f35ce6-697f-44bf-ba98-dbc382459428" />
+
+![https://yt3.googleusercontent.com/FDfIV9d1XflHz2oglHUfjDYmxR4evQ9I41LcJsMqoOLUTbFHR7SItaEVX9wEOPPFUYnVwcIJ4U0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/FDfIV9d1XflHz2oglHUfjDYmxR4evQ9I41LcJsMqoOLUTbFHR7SItaEVX9wEOPPFUYnVwcIJ4U0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+[`WATCH` - City Council — October 27, 2026 — English youtu.be/PmrdG5rjWDU](https://youtu.be/PmrdG5rjWDU)
+@nasa-jpl @cityoflosangeles @dhs-gov  City Council meeting is about [LAPD](https://www.facebook.com/fox11la/posts/an-lapd-officer-was-arrested-after-allegedly-trying-to-meet-someone-he-believed-/1463964775919170/) stalking ! [youtube.com/@LACityClerk](https://www.youtube.com/@LACityClerk) // [LAPD officer who takes stalking seriously](https://www.reddit.com/r/lapd/comments/1frweyo/lapd_officer_who_takes_stalking_seriously/) // [LAPD Threat Management Unit](https://en.wikipedia.org/wiki/LAPD_Threat_Management_Unit) // [Stalking and Threat Assessment Team (STAT) @nasa-jpl @whitehouse](https://da.lacounty.gov/contact/office-directory/stalking-and-threat-assessment-team-stat)
+
+![https://cd4.lacity.gov/wp-content/uploads/2023/11/nithya-logo-blue.svg](https://cd4.lacity.gov/wp-content/uploads/2023/11/nithya-logo-blue.svg)
+
+![https://da.lacounty.gov/sites/default/files/logo.png](https://da.lacounty.gov/sites/default/files/logo.png)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/a2b7c0bd-d2d3-4875-9fc3-d9ba716dd660" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b05063fa-fbb6-4775-891c-7425c1949141" />
+
 
 [Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?list=RDjUwh-C5w7II) // [Must Be Dues · Melba Moore](https://youtu.be/Eu8K8LEaUy0?list=RDjUwh-C5w7II)  // [Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)  // [Blessings · Visionaries](https://youtu.be/I2zWUFlfWWM) // [Acid Raindrops · People Under The Stairs](https://youtu.be/UcKDx4cmvio?list=RDUcKDx4cmvio) // [Never Fallin' · Living Legends](https://youtu.be/eGv_ZJ5dSPc?list=RDeGv_ZJ5dSPc) // [Moment Of Truth · Gang Starr](https://youtu.be/Rr46FS7tkk4?list=RDeGv_ZJ5dSPc) // [Love & Appreciate · Murs](https://youtu.be/UYay1c2Fl0o?si=0-_2J0SIFATsYUuD) // [Moment For Life - Nicki Minaj](https://www.youtube.com/watch?v=D7GW8TYCEG4)
 
@@ -38,6 +93,9 @@ Lana your [@tiktok broke](https://www.tiktok.com/@lanajharris)
 ![https://p16-common-sigrefresh_token=58ce7f35&x-expires=1793239200&x-signature=7SVV6R5jNPysSDoUGIxwXwEvA%2BU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5](https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9ec307ecfec2f6b0f0b69b50482b8aae~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=58ce7f35&x-expires=1793239200&x-signature=7SVV6R5jNPysSDoUGIxwXwEvA%2BU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5)
 
 ![https://yt3.googleusercontent.com/MicSQW0JIUBPGUxwop_jtnPctcyOmb58gKK6pNLt0K1KvB2Qj1OJ82a-DJrv84bs98OaxXgwxQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/MicSQW0JIUBPGUxwop_jtnPctcyOmb58gKK6pNLt0K1KvB2Qj1OJ82a-DJrv84bs98OaxXgwxQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+![https://static.wixstatic.com/media/3442be_40680d0cdb6f4fa9bbertLunaSheriff_Logo_Horiz_Color-2.jpg](https://static.wixstatic.com/media/3442be_40680d0cdb6f4fa9b7bbcd99a578351d~mv2.jpg/v1/fill/w_352,h_87,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/RobertLunaSheriff_Logo_Horiz_Color-2.jpg)
+
+![https://www.cisa.gov/sites/default/files/images/SVG/header_logo_tagline_update.svg](https://www.cisa.gov/sites/default/files/images/SVG/header_logo_tagline_update.svg) 
 ---
 
 [@nasa-jpl @nasa](https://lahousing.lacity.org/AAHR/Documents/Council%20Deputy%20Contact%20List.pdf)
