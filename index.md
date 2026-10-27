@@ -14,6 +14,10 @@ mathjax: true
   
 </picture>
 
+[O. C. - times up](https://youtu.be/jneMQiw88B4?list=RDjneMQiw88B4)
+
+--- 
+
 [firms.modaps.eosdis.nasa.gov/usfs/map/ @cityoflosangeles `Nithiya Raman`](https://firms.modaps.eosdis.nasa.gov/usfs/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_aqua_nrt,fires_modis_terra,fires_modis_terra_nrt,fires_viirs_noaa20,fires_viirs_noaa20_nrt,fires_viirs_noaa21,fires_viirs_noaa21_nrt,fires_viirs_snpp,fires_viirs_snpp_nrt,active-ca,active-usa,fire-perimeter,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,sta_detections,sta_mask,steel_plants,countries,landsat_human,earth;@-118.13,33.62,9.40z)  /// [@vimeo should be in cahooots with @nasa-jpl for nice @dhs-gov reconcilliations .com/396000267 @foratlanta @Cityoflosangeles @emit-sds where was rashard](https://vimeo.com/396000267)
 
 
