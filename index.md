@@ -15,6 +15,10 @@ mathjax: true
 </picture>
 
 
+[@isro @CiTYOFLOSANGELES Nithyia Raman im so embarassed plz help! nithyaforthecity.com/about-nithya](https://www.nithyaforthecity.com/about-nithya)
+<img  alt="EMIT_L1B_RAD_001_20260615T203704_2616613_011" src="https://github.com/user-attachments/assets/3d61bf66-1465-4778-8b92-62d5d1f4d01c" />
+
+
 [@isro @CiTYOFLOSANGELES Nithyia Raman im so embarassed plz help! youtube.com/watch?v=ZM_ThhRXZ9k](https://www.youtube.com/watch?v=ZM_ThhRXZ9k)
 <img  alt="EMIT_L1B_RAD_001_20260623T172839_2617411_011" src="https://github.com/user-attachments/assets/69acc191-6f3d-4726-a6e8-5ab4aa679de5" />
 
