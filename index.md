@@ -19,7 +19,7 @@ mathjax: true
 --- 
 
 ## On Being Nice after Rejection
-@blackgirlscode hi lana here is a video i made on my 1200 in decatur [Bill Cosby Cries First](https://youtu.be/C_A_EthRJeI)
+@blackgirlscode hi lana here is a video i made on my 1200 in decatur [Bill Cosby Cries First](https://youtu.be/C_A_EthRJeI) @nasa-jpl @doug-newman-nasa @la-county-isd
 <img   alt="image" src="https://github.com/user-attachments/assets/713ebc9e-fdf6-4b48-8286-6467aee4e21f" />
 
 [@emit-sds the @blackgirlscode i was courting had an lrad youtube.com/@rashardkelly/videos](https://www.youtube.com/@rashardkelly/videos) i was not talking to myself in these videos @CityOfLosAngeles @FORATLANTA 
