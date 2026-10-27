@@ -14,9 +14,11 @@ mathjax: true
   
 </picture>
 
-[@deptofwar @cisagov something is dangerous here `https://enoughbass.com/?gad_source=1&gad_campaignid=24328135662&gbraid=0AAAAA-YiRN7hhpNzP323j2VSHynEP12lX&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhEctD5Ogr08lAd4vk-DH6jEO76BONuk8vGUTWTekIrWoNm1p6vcUYxoCO1sQAvD_BwE` @cityoflosangeles](https://enoughbass.com/?gad_source=1&gad_campaignid=24328135662&gbraid=0AAAAA-YiRN7hhpNzP323j2VSHynEP12lX&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhEctD5Ogr08lAd4vk-DH6jEO76BONuk8vGUTWTekIrWoNm1p6vcUYxoCO1sQAvD_BwE) @emit-sds 
+[@deptofwar @cisagov something is dangerous here `https://enoughbass.com/?gad_source=1&gad_campaignid=24328135662&gbraid=0AAAAA-YiRN7hhpNzP323j2VSHynEP12lX&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhEctD5Ogr08lAd4vk-DH6jEO76BONuk8vGUTWTekIrWoNm1p6vcUYxoCO1sQAvD_BwE` @cityoflosangeles](https://enoughbass.com/?gad_source=1&gad_campaignid=24328135662&gbraid=0AAAAA-YiRN7hhpNzP323j2VSHynEP12lX&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhEctD5Ogr08lAd4vk-DH6jEO76BONuk8vGUTWTekIrWoNm1p6vcUYxoCO1sQAvD_BwE) @emit-sds @fecgov
 
 <img alt=" @deptofwar @cisagov something is dangerous here `https://enoughbass.com/?gad_source=1&gad_campaignid=24328135662&gbraid=0AAAAA-YiRN7hhpNzP323j2VSHynEP12lX&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhEctD5Ogr08lAd4vk-DH6jEO76BONuk8vGUTWTekIrWoNm1p6vcUYxoCO1sQAvD_BwE` @cityoflosangeles @usgs EMIT_L1B_RAD_001_20260602T180011_2615312_003" src="https://github.com/user-attachments/assets/a496b858-2ad0-400f-a2d0-4194ecb78b83" />
+
+![https://www.fec.gov/static/img/seal.svg](https://www.fec.gov/static/img/seal.svg) 
 
 [@isro @CiTYOFLOSANGELES Nithyia Raman im so embarassed plz help! nithyaforthecity.com/about-nithya](https://www.nithyaforthecity.com/about-nithya)
 <img  alt="EMIT_L1B_RAD_001_20260615T203704_2616613_011" src="https://github.com/user-attachments/assets/3d61bf66-1465-4778-8b92-62d5d1f4d01c" />
