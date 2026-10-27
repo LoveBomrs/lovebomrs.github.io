@@ -18,6 +18,9 @@ mathjax: true
 
 --- 
 
+<img  alt="goeswestabiconus-airmass-sOct 27, 2026 - 19_36 UTC-eOct 27, 2026 - 21_11 UTC" src="https://github.com/user-attachments/assets/b5014977-8be2-4a96-be65-3e59a85c1761" />
+
+<img  alt="goeswestabiconus-12p30um-sOct 27, 2026 - 19_36 UTC-eOct 27, 2026 - 21_11 UTC" src="https://github.com/user-attachments/assets/e07264cc-7bbd-4a4f-b41c-ec69c4273e0f" />
 
 ## Inside Drake’s Massive Birthday Bash & Blue Ivy On Stage
 [`WATCH` - https://www.youtube.com/watch?v=ERfasz3CMKc](https://www.youtube.com/watch?v=ERfasz3CMKc)
