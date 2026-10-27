@@ -28,7 +28,28 @@ mathjax: true
   
 </picture>
 
+
+```json
+        "identifier": "ECOv002_L2T_LSTE_47106_003_11SLT_20261026T081758_0713_01",
+        "identifierType": "ProducerGranuleId"
+```
+
 <img   alt="ECOv002_L2T_LSTE_47106_003_11SLT_20261026T081758_0713_01_LST" src="https://github.com/user-attachments/assets/b6f1e18a-fbea-4d70-90ec-38c4451f42e2" />
+
+
+```json
+  "dataCenter": "LPCLOUD",
+  "dataGranule": {
+    "dayNightFlag": "Night",
+    "identifiers": [
+      {
+        "identifier": "ECOv002_L2T_LSTE_47106_003_11SLT_20261026T081758_0713_01",
+        "identifierType": "ProducerGranuleId"
+      }
+    ],
+    "productionDateTime": "2026-10-27T13:06:22.403Z",
+    "archiveAndDistributionInformation": [
+```
 
 <img   alt="image" src="https://github.com/user-attachments/assets/df782b44-63f7-4ed5-acff-6b63d9b7e440" />
 
