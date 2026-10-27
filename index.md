@@ -28,6 +28,9 @@ mathjax: true
   
 </picture>
 
+<img  alt="2026-10-24-00_00_2026-10-24-23_59_Sentinel-2_L2A_5-MOISTURE-INDEX1" src="https://github.com/user-attachments/assets/492a97df-04eb-4411-8a79-f04d7a5bf9be" />
+
+
 [@emit-sds ECOv002_L4T_ESI_46862_004_11SLT_20261010T142849_0713_01.png](https://search.earthdata.nasa.gov/search/granules?p=C2076104650-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4376689723-LPCLOUD&q=ecostress&sb[0]=-118.2661%2C34.04781%2C-118.25365%2C34.05975&lat=33.8354304&long=-118.55107259141914&zoom=9.728398144820314)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/b6ec6d05-a06d-4da7-937f-12093587a641" />
