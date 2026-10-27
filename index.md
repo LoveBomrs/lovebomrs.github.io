@@ -14,7 +14,7 @@ mathjax: true
   
 </picture>
 
-[O. C. - times up](https://youtu.be/jneMQiw88B4?list=RDjneMQiw88B4) // [Bill Cosby Cries First - Rashard @Blackgirlscode](https://youtu.be/C_A_EthRJeI) // [The Wreckoning · Lateef The Truth Speaker](https://youtu.be/ZA7LzUVi3ZY?list=RDZA7LzUVi3ZY)
+[O. C. - times up](https://youtu.be/jneMQiw88B4?list=RDjneMQiw88B4) // [Bill Cosby Cries First - Rashard @Blackgirlscode](https://youtu.be/C_A_EthRJeI) // [The Wreckoning · Lateef The Truth Speaker](https://youtu.be/ZA7LzUVi3ZY?list=RDZA7LzUVi3ZY) // [Droppin Science -Marley Marl Feat Craig G](https://youtu.be/IjuG1ZXe1uU?list=RDIjuG1ZXe1uU)
 
 --- 
 
