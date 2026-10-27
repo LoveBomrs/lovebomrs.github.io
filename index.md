@@ -21,6 +21,8 @@ mathjax: true
 [`WATCH` - City Council — October 27, 2026 — English youtu.be/PmrdG5rjWDU](https://youtu.be/PmrdG5rjWDU)
 @nasa-jpl @cityoflosangeles @dhs-gov  City Council meeting is about [LAPD](https://www.facebook.com/fox11la/posts/an-lapd-officer-was-arrested-after-allegedly-trying-to-meet-someone-he-believed-/1463964775919170/) stalking ! [youtube.com/@LACityClerk](https://www.youtube.com/@LACityClerk) // [LAPD officer who takes stalking seriously](https://www.reddit.com/r/lapd/comments/1frweyo/lapd_officer_who_takes_stalking_seriously/) // [LAPD Threat Management Unit](https://en.wikipedia.org/wiki/LAPD_Threat_Management_Unit) // [Stalking and Threat Assessment Team (STAT) @nasa-jpl @whitehouse](https://da.lacounty.gov/contact/office-directory/stalking-and-threat-assessment-team-stat)
 
+![https://cd4.lacity.gov/wp-content/uploads/2023/11/nithya-logo-blue.svg](https://cd4.lacity.gov/wp-content/uploads/2023/11/nithya-logo-blue.svg)
+
 ![https://da.lacounty.gov/sites/default/files/logo.png](https://da.lacounty.gov/sites/default/files/logo.png)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/a2b7c0bd-d2d3-4875-9fc3-d9ba716dd660" />
