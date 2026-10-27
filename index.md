@@ -14,9 +14,10 @@ mathjax: true
   
 </picture>
 
-[O. C. - times up](https://youtu.be/jneMQiw88B4?list=RDjneMQiw88B4) // [Bill Cosby Cries First - Rashard @Blackgirlscode](https://youtu.be/C_A_EthRJeI) // [The Wreckoning · Lateef The Truth Speaker](https://youtu.be/ZA7LzUVi3ZY?list=RDZA7LzUVi3ZY) // [Droppin Science -Marley Marl Feat Craig G](https://youtu.be/IjuG1ZXe1uU?list=RDIjuG1ZXe1uU) // [Rugged Ruff · Bahamadia @nbcnews 🫚`RootsCrew`🫚](https://youtu.be/OrYKESic7CI?si=jw0UXWn6OV7zv_OS) // [Blahzay Blahzay - Danger](https://youtu.be/x7uJzdu7Pak?list=RDIjuG1ZXe1uU) // [Pete Rock & CL Smooth - They Reminisce Over You (T.R.O.Y.)](https://youtu.be/k6mdRv0ZdR8?list=RDIjuG1ZXe1uU&t=219) // [Big Boi - In The A (Explicit) ft. T.I., Ludacris](https://youtu.be/ROlKx7PG6sY?si=4gNjwhhUtkal2nUU)
+[O. C. - times up](https://youtu.be/jneMQiw88B4?list=RDjneMQiw88B4) // [Bill Cosby Cries First - Rashard @Blackgirlscode](https://youtu.be/C_A_EthRJeI) // [The Wreckoning · Lateef The Truth Speaker](https://youtu.be/ZA7LzUVi3ZY?list=RDZA7LzUVi3ZY) // [Droppin Science -Marley Marl Feat Craig G](https://youtu.be/IjuG1ZXe1uU?list=RDIjuG1ZXe1uU) // [Rugged Ruff · Bahamadia @nbcnews 🫚`RootsCrew`🫚](https://youtu.be/OrYKESic7CI?si=jw0UXWn6OV7zv_OS) // [Blahzay Blahzay - Danger](https://youtu.be/x7uJzdu7Pak?list=RDIjuG1ZXe1uU) // [Pete Rock & CL Smooth - They Reminisce Over You (T.R.O.Y.)](https://youtu.be/k6mdRv0ZdR8?list=RDIjuG1ZXe1uU&t=219) // [Big Boi - In The A (Explicit) ft. T.I., Ludacris @ForAtlanta @qtsdatacenters ask bigboi about electricity protection @nasa ](https://youtu.be/ROlKx7PG6sY?si=4gNjwhhUtkal2nUU)
 
 --- 
+<img   alt="hovmoller-feds-cp0326-sOct 27, 2026 - 11_29 UTC-eOct 27, 2026 - 20_59 UTC" src="https://github.com/user-attachments/assets/901056a2-b811-47dc-8291-69018e6b4afa" />
 
 <img alt="goeswestabimesoscale1-simplewatervapor-sOct 27, 2026 - 20_59 UTC-eOct 27, 2026 - 21_18 UTC" src="https://github.com/user-attachments/assets/f693ed08-322d-4b9e-94cd-8709fc068655" />
 
