@@ -14,9 +14,12 @@ mathjax: true
   
 </picture>
 
+[@La-county-isd https://firms.modaps.eosdis.nasa.gov/usfs/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fz](https://firms.modaps.eosdis.nasa.gov/usfs/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_aqua_nrt,fires_modis_aqua_sp,fires_modis_terra,fires_modis_terra_nrt,fires_modis_terra_sp,fires_viirs_noaa20,fires_viirs_noaa20_nrt,fires_viirs_noaa20_sp,fires_viirs_noaa21,fires_viirs_noaa21_nrt,fires_viirs_noaa21_sp,fires_viirs_snpp,fires_viirs_snpp_nrt,fires_viirs_snpp_sp,active-ca,active-usa,fire-perimeter,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,sta_detections,sta_mask,steel_plants,countries,earth;@-118.194,33.938,11.321z)
 
-[@Cityoflosangeles there is an @fecgov outage @nasa-jpl `FEC's electronic filing system outage`](https://fecgov.statuspage.io/incidents/1f16b9021jfx)
+[@Cityoflosangeles there is an @fecgov outage @nasa-jpl `FEC's electronic filing system outage`](https://fecgov.statuspage.io/incidents/1f16b9021jfx) // [https://votemiller.com/?gad_source=1&gad_campaignid=23534808147&gbraid=0AAAABC0cZICSgo0_A_ZOe1DctrnS-fNTR&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhKgbsaZ83pok_VtQ4OfHIR6dt4hivnHHsTwmUneBxUD8asYLKIkxthoCuicQAvD_BwE @cityoflosangeles](https://votemiller.com/?gad_source=1&gad_campaignid=23534808147&gbraid=0AAAABC0cZICSgo0_A_ZOe1DctrnS-fNTR&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhKgbsaZ83pok_VtQ4OfHIR6dt4hivnHHsTwmUneBxUD8asYLKIkxthoCuicQAvD_BwE)
 <img alt="FIRMS_24hrs,24hrs @-118 194,33 938,11 321z" src="https://github.com/user-attachments/assets/dfc8d425-a403-4d97-83f0-c9184e8cac7c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/04029a82-2233-42f5-9d32-951168ab93ca" />
 
 
 [@deptofwar @cisagov something is dangerous here `https://enoughbass.com/?gad_source=1&gad_campaignid=24328135662&gbraid=0AAAAA-YiRN7hhpNzP323j2VSHynEP12lX&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhEctD5Ogr08lAd4vk-DH6jEO76BONuk8vGUTWTekIrWoNm1p6vcUYxoCO1sQAvD_BwE` @cityoflosangeles](https://enoughbass.com/?gad_source=1&gad_campaignid=24328135662&gbraid=0AAAAA-YiRN7hhpNzP323j2VSHynEP12lX&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhEctD5Ogr08lAd4vk-DH6jEO76BONuk8vGUTWTekIrWoNm1p6vcUYxoCO1sQAvD_BwE) @emit-sds @fecgov
