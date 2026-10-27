@@ -18,13 +18,19 @@ mathjax: true
 
 --- 
 
+
+## Inside Drake’s Massive Birthday Bash & Blue Ivy On Stage
+[`WATCH` - https://www.youtube.com/watch?v=ERfasz3CMKc](https://www.youtube.com/watch?v=ERfasz3CMKc)
+<img   alt="image" src="https://github.com/user-attachments/assets/b9e5a36a-56ed-40a2-add9-3cecf2c88b10" />
+<img   alt="image" src="https://github.com/user-attachments/assets/2b2c1134-6811-4edc-9557-90ecd20f4786" />
+
 ### FanMail : [Lana J HArris](https://www.tiktok.com/@lanajharris) [HOT97](https://www.hot97.com/contact-us/)
 this video say a.i. is this what you talking about because thats not rick ross, and i dont wanna hear long enough to know if its wayne!!!!! @foratlanta @blackgirlscode v
 [`WATCH` - Rick Ross Ft. Lil Wayne - SUPERSTAR (Official Music Video 2026) @CiTYOFLOSANGELES `KarenBassThaMayoR`](https://youtu.be/mfHZklEPpwk?list=RDmfHZklEPpwk&t=161)
 <img  " alt="image" src="https://github.com/user-attachments/assets/bbcacb46-b96f-48ca-b80e-bbfb8fe1714f" />
 
 ### Lana J harris your [@tiktok back up https://www.tiktok.com/@lanajharris](https://www.tiktok.com/@lanajharris)
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/28bc1c03-fdde-458f-b495-f8e1e524eb3e" />
+<img  alt="image" src="https://github.com/user-attachments/assets/28bc1c03-fdde-458f-b495-f8e1e524eb3e" />
 
 
 ## On Being Nice after Rejection
