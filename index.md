@@ -14,11 +14,13 @@ mathjax: true
   
 </picture>
 
-[O. C. - times up](https://youtu.be/jneMQiw88B4?list=RDjneMQiw88B4)
+[O. C. - times up](https://youtu.be/jneMQiw88B4?list=RDjneMQiw88B4) // [Bill Cosby Cries First - Rashard @Blackgirlscode](https://youtu.be/C_A_EthRJeI)
 
 --- 
 
-
+## On Being Nice after Rejection
+@blackgirlscode hi lana here is a video i made on my 1200 in decatur [Bill Cosby Cries First](https://youtu.be/C_A_EthRJeI)
+<img   alt="image" src="https://github.com/user-attachments/assets/713ebc9e-fdf6-4b48-8286-6467aee4e21f" />
 
 [@emit-sds the @blackgirlscode i was courting had an lrad youtube.com/@rashardkelly/videos](https://www.youtube.com/@rashardkelly/videos) i was not talking to myself in these videos @CityOfLosAngeles @FORATLANTA 
 [firms.modaps.eosdis.nasa.gov/usfs/map/ @cityoflosangeles `Nithiya Raman`](https://firms.modaps.eosdis.nasa.gov/usfs/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_aqua_nrt,fires_modis_terra,fires_modis_terra_nrt,fires_viirs_noaa20,fires_viirs_noaa20_nrt,fires_viirs_noaa21,fires_viirs_noaa21_nrt,fires_viirs_snpp,fires_viirs_snpp_nrt,active-ca,active-usa,fire-perimeter,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,sta_detections,sta_mask,steel_plants,countries,landsat_human,earth;@-118.13,33.62,9.40z)  /// [@vimeo should be in cahooots with @nasa-jpl for nice @dhs-gov reconcilliations .com/396000267 @foratlanta @Cityoflosangeles @emit-sds where was rashard](https://vimeo.com/396000267)
