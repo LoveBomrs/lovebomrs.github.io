@@ -18,12 +18,16 @@ mathjax: true
 
 --- 
 
-<img   alt="image" src="https://github.com/user-attachments/assets/fc981bdf-01b7-4ea3-aba3-cf5b63bad7de" />
-
 ## Nicki Minaj Joins Trump On The Campaign Trail
 [@whitehouse `WATCH` - @NASA-jpl @eosdis-nasa https://youtu.be/WKgZmRzaUTQ?t=25](https://youtu.be/WKgZmRzaUTQ?t=25) // [President Trump Speaks at Republican Midterm Rally in Port Huron, Michigan @whitehouse ](https://www.c-span.org/program/campaign-2026/president-trump-speaks-at-republican-midterm-rally-in-port-huron-michigan/686959)
 [Are You Gone Already · Nicki Minaj](https://youtu.be/2wKQ97yH1NI?list=PLxA687tYuMWhHEqcVDC_UtaMvZGmfYDKy&t=58)
+
 <img alt="image @nickiminaj you work in computers aftte p**N right ? hi @deptofwar im just saying no one gets it @github hi @marinecorps - @rashardkelly @nasajpl @CISAgov " src="https://github.com/user-attachments/assets/573f29fa-b070-4883-b01a-530cc643b411" />
+
+[President Trump Speaks at Republican Midterm Rally in Port Huron, Michigan @whitehouse ](https://www.c-span.org/program/campaign-2026/president-trump-speaks-at-republican-midterm-rally-in-port-huron-michigan/686959)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/fc981bdf-01b7-4ea3-aba3-cf5b63bad7de" />
+
 
 ### FanMail : [Lana J HArris](https://www.tiktok.com/@lanajharris) [HOT97](https://www.hot97.com/contact-us/)
 this video say a.i. is this what you talking about because thats not rick ross, and i dont wanna hear long enough to know if its wayne!!!!! @foratlanta @blackgirlscode v
