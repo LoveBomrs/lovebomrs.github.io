@@ -18,7 +18,21 @@ mathjax: true
 
 [search.earthdata.nasa.gov/search?lat=34.058860948903494&long=-118.24335633524618&zoom=13.433950221434268](https://search.earthdata.nasa.gov/search?lat=34.058860948903494&long=-118.24335633524618&zoom=13.433950221434268) 
 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+<img   alt="ECOv002_L2T_LSTE_47106_003_11SLT_20261026T081758_0713_01_LST" src="https://github.com/user-attachments/assets/b6f1e18a-fbea-4d70-90ec-38c4451f42e2" />
+
 <img   alt="image" src="https://github.com/user-attachments/assets/df782b44-63f7-4ed5-acff-6b63d9b7e440" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/5075f8a6-11af-4437-8c51-f570fcbcf7a5" />
 
 <img  alt="2026-10-24-00_00_2026-10-24-23_59_Sentinel-2_L2A_False_color" src="https://github.com/user-attachments/assets/88a7b851-983d-434a-b85d-a2afa04e6384" />
 
