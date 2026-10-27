@@ -17,6 +17,10 @@ mathjax: true
 ![https://yt3.googleusercontent.com/FDfIV9d1XflHz2oglHUfjDYmxR4evQ9I41LcJsMqoOLUTbFHR7SItaEVX9wEOPPFUYnVwcIJ4U0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/FDfIV9d1XflHz2oglHUfjDYmxR4evQ9I41LcJsMqoOLUTbFHR7SItaEVX9wEOPPFUYnVwcIJ4U0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
 [`WATCH` - City Council — October 27, 2026 — English youtu.be/PmrdG5rjWDU](https://youtu.be/PmrdG5rjWDU)
 @nasa-jpl @cityoflosangeles City Council meeting is about [LAPD](https://www.facebook.com/fox11la/posts/an-lapd-officer-was-arrested-after-allegedly-trying-to-meet-someone-he-believed-/1463964775919170/) stalking ! [youtube.com/@LACityClerk](https://www.youtube.com/@LACityClerk)
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/a2b7c0bd-d2d3-4875-9fc3-d9ba716dd660" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/b05063fa-fbb6-4775-891c-7425c1949141" />
 
 
