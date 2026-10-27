@@ -18,6 +18,15 @@ mathjax: true
 
 --- 
 
+## Tropical Storm Vance at 17.2°N - 108.3°W
+North Pacific Ocean
+Last observation: 27 Oct 2026 - 21:35 UTC
+« Active Storms »
+21 Oct 2026 - 27 Oct 2026
+Mexico @CityOFLosAngeles
+
+![https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/GEOCOLOR/20263001430-20263002040-ABI-EP222026-GEOCOLOR-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/GEOCOLOR/20263001430-20263002040-ABI-EP222026-GEOCOLOR-1000x1000.gif) 
+
 ## Nicki Minaj Joins Trump On The Campaign Trail
 [@whitehouse `WATCH` - @NASA-jpl @eosdis-nasa https://youtu.be/WKgZmRzaUTQ?t=25](https://youtu.be/WKgZmRzaUTQ?t=25) // [President Trump Speaks at Republican Midterm Rally in Port Huron, Michigan @whitehouse ](https://www.c-span.org/program/campaign-2026/president-trump-speaks-at-republican-midterm-rally-in-port-huron-michigan/686959) /// 
 [Are You Gone Already · Nicki Minaj](https://youtu.be/2wKQ97yH1NI?list=PLxA687tYuMWhHEqcVDC_UtaMvZGmfYDKy&t=58) // [@cityoflosangeles `KarenBass` The TRUTH About AI Music vs. Performing Live @cityofsandiego](https://youtu.be/Z1fZcm4YmGA?t=33)
