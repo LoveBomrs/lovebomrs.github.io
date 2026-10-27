@@ -25,9 +25,14 @@ Last observation: 27 Oct 2026 - 21:35 UTC
 21 Oct 2026 - 27 Oct 2026
 Mexico @CityOFLosAngeles
 
+
 ![https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/GEOCOLOR/20263001430-20263002040-ABI-EP222026-GEOCOLOR-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/GEOCOLOR/20263001430-20263002040-ABI-EP222026-GEOCOLOR-1000x1000.gif)
 
-![https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/AirMass/20263000730-2026300](https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/AirMass/20263000730-2026300) 
+![https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/Sandwich/20263000730-20263002040-ABI-EP222026-Sandwich-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/Sandwich/20263000730-20263002040-ABI-EP222026-Sandwich-1000x1000.gif)
+
+
+
+![https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/AirMass/20263000730-2026300](https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/Sandwich/20263000730-20263002040-ABI-EP222026-Sandwich-1000x1000.gif) 
 
 
 ## Nicki Minaj Joins Trump On The Campaign Trail
