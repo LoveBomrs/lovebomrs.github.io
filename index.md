@@ -26,6 +26,9 @@ Last observation: 27 Oct 2026 - 21:35 UTC
 Mexico @CityOFLosAngeles
 [`watch` - Rico Nasty: Tiny Desk Concert @npr](https://youtu.be/kfUcI82SZv4?t=74)
 
+
+![https://cdn.star.nesdis.noaa.gov/FLOATER/data/EP222026/01/EP222026-01-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/data/EP222026/01/EP222026-01-1000x1000.gif) 
+
 // 27 Oct 2026 - 21:00 UTC ...VANCE HOLDING STEADY OFFSHORE OF SOUTHWESTERN MEXICO... As of 2:00 PM MST Tue Oct 27 the center of Vance was located near 17.2, -108.3 with movement NW at 9 mph. The minimum central pressure was 1003 mb with maximum sustained winds of about 40 mph.
 
 27 Oct 2026 - 15:00 UTC ...VANCE IS A POORLY ORGANIZED TROPICAL STORM... As of 8:00 AM MST Tue Oct 27 the center of Vance was located near 16.3, -107.7 with movement NW at 8 mph. The minimum central pressure was 1003 mb with maximum sustained winds of about 40 mph.
@@ -40,6 +43,7 @@ Mexico @CityOFLosAngeles
 
 ![https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/GEOCOLOR/20263001300-20263002040-GOES19-ABI-EEP-GEOCOLOR-900x540.gif](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/GEOCOLOR/20263001300-20263002040-GOES19-ABI-EEP-GEOCOLOR-900x540.gif) 
 
+![https://www.nhc.noaa.gov/xgtwo/resize/xgtwo_pac_7d0_w1366.png](https://www.nhc.noaa.gov/xgtwo/resize/xgtwo_pac_7d0_w1366.png)
 
 ![https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/GEOCOLOR/20263001430-20263002040-ABI-EP222026-GEOCOLOR-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/GEOCOLOR/20263001430-20263002040-ABI-EP222026-GEOCOLOR-1000x1000.gif)
 
