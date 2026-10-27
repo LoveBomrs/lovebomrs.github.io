@@ -71,8 +71,29 @@ mathjax: true
 <img  alt="image" src="https://github.com/user-attachments/assets/b05063fa-fbb6-4775-891c-7425c1949141" />
 
 
-[Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?list=RDjUwh-C5w7II) // [Must Be Dues · Melba Moore](https://youtu.be/Eu8K8LEaUy0?list=RDjUwh-C5w7II)  // [Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)  // [Blessings · Visionaries](https://youtu.be/I2zWUFlfWWM) // [Acid Raindrops · People Under The Stairs](https://youtu.be/UcKDx4cmvio?list=RDUcKDx4cmvio) // [Never Fallin' · Living Legends](https://youtu.be/eGv_ZJ5dSPc?list=RDeGv_ZJ5dSPc) // [Moment Of Truth · Gang Starr](https://youtu.be/Rr46FS7tkk4?list=RDeGv_ZJ5dSPc) // [Love & Appreciate · Murs](https://youtu.be/UYay1c2Fl0o?si=0-_2J0SIFATsYUuD)
+[Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?list=RDjUwh-C5w7II) // [Must Be Dues · Melba Moore](https://youtu.be/Eu8K8LEaUy0?list=RDjUwh-C5w7II)  // [Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)  // [Blessings · Visionaries](https://youtu.be/I2zWUFlfWWM) // [Acid Raindrops · People Under The Stairs](https://youtu.be/UcKDx4cmvio?list=RDUcKDx4cmvio) // [Never Fallin' · Living Legends](https://youtu.be/eGv_ZJ5dSPc?list=RDeGv_ZJ5dSPc) // [Moment Of Truth · Gang Starr](https://youtu.be/Rr46FS7tkk4?list=RDeGv_ZJ5dSPc) // [Love & Appreciate · Murs](https://youtu.be/UYay1c2Fl0o?si=0-_2J0SIFATsYUuD) // [Moment For Life - Nicki Minaj](https://www.youtube.com/watch?v=D7GW8TYCEG4)
 
+
+# HOT 97 News Live! 10/26/26 feat. [Lana J HArris](https://www.tiktok.com/@lanajharris)
+[`WATCH` - https://youtu.be/M_BEkGwdW7c](https://youtu.be/M_BEkGwdW7c)
+Lana your [@tiktok broke](https://www.tiktok.com/@lanajharris)
+@deptofwar so Lana say mr trump spent a lot of time talking about [Nicki Minaj](https://www.youtube.com/watch?v=D7GW8TYCEG4) backside ? @whitehouse
+[Donald Trump Praises Nicki Minaj’s Figure During Rally Speech](https://www.yahoo.com/entertainment/celebrity/articles/donald-trump-praises-nicki-minaj-013318311.html) @gavinnewsom @saccounty @stateofcalifornia is that one of the reasons for the treason in my love life ? I did not listyen // [Lana J Interviews Mendeecees About His Lifestyle](https://youtu.be/nToENvuCRfU)
+<img   alt="image" src="https://github.com/user-attachments/assets/a94c3655-c31c-4582-8edc-0dd81862c074" />
+
+![https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
+
+[`WATCH` - MIDTERM CHAOS: Ilhan Omar Federal Probe UPDATE | Black Voters Walk Away & Fani Willis Under Fire!](https://youtu.be/_VGtSLADwQE)
+[youtube.com/@THEREALDANA](https://www.youtube.com/@THEREALDANA) 
+<img   alt="image" src="https://github.com/user-attachments/assets/c96b067f-7e34-417a-8a8d-09d2456e4b3f" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/6af535ba-85cc-4208-b94a-ff5f44df4984" />
+
+![https://p16-common-sigrefresh_token=58ce7f35&x-expires=1793239200&x-signature=7SVV6R5jNPysSDoUGIxwXwEvA%2BU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5](https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9ec307ecfec2f6b0f0b69b50482b8aae~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=58ce7f35&x-expires=1793239200&x-signature=7SVV6R5jNPysSDoUGIxwXwEvA%2BU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5)
+
+![https://yt3.googleusercontent.com/MicSQW0JIUBPGUxwop_jtnPctcyOmb58gKK6pNLt0K1KvB2Qj1OJ82a-DJrv84bs98OaxXgwxQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/MicSQW0JIUBPGUxwop_jtnPctcyOmb58gKK6pNLt0K1KvB2Qj1OJ82a-DJrv84bs98OaxXgwxQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 ![https://static.wixstatic.com/media/3442be_40680d0cdb6f4fa9bbertLunaSheriff_Logo_Horiz_Color-2.jpg](https://static.wixstatic.com/media/3442be_40680d0cdb6f4fa9b7bbcd99a578351d~mv2.jpg/v1/fill/w_352,h_87,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/RobertLunaSheriff_Logo_Horiz_Color-2.jpg)
 
 ![https://www.cisa.gov/sites/default/files/images/SVG/header_logo_tagline_update.svg](https://www.cisa.gov/sites/default/files/images/SVG/header_logo_tagline_update.svg) 
@@ -99,15 +120,19 @@ mathjax: true
 ![ @bbc https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/330px-CNN.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/330px-CNN.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail) 
 
 [@cityoflosangeles https://www.instagram.com/p/DJUkk0jy7O5/?utm_source=ig_web_button_share_sheet](https://www.instagram.com/p/DJUkk0jy7O5/?utm_source=ig_web_button_share_sheet)
+
 <img   alt="images (1)" src="https://github.com/user-attachments/assets/92cba08a-37b9-4278-8a0d-8238de3ace6a" />
 
-[@CityOfLosAngeles @instagram @deptofwar @nasa-jpl /DY2UuGtG-sp/](https://www.instagram.com/p/DY2UuGtG-sp/)
+[@CityOfLosAngeles @instagram @deptofwar @nasa-jpl /DY2UuGtG-sp/](https://www.instagram.com/p/DY2UuGtG-sp
+
 <img   alt="images" src="https://github.com/user-attachments/assets/e4fd6c14-c586-429b-a86e-2aec4a1fe370" />
-<img   alt="imageimage @nasa-jpl https://www.instagram.com/p/DY2UuGtG-sp (https://www.latimes.com/california/story/2026-10-26/ethics-complaint-filed-over-ads-falsely-portraying-raman-promoting-homeless-camps) hi if I remember correctly I have to vote to keep my `ActiveMission` status and I did [@CityOFLosanGeles](https://mayor.lacity.gov/) [_Karen Bass_](https://laist.com/brief/news/politics/nithya-raman-could-shake-up-los-angeles-olympics-heres-how) [[1](https://share.google/aimode/8RgP2H9Df8UsEADAe)] , [Mayoral Candiate Nithyia](https://share.google/aimode/NlDy4kd8MgneimqLk) I did my prep for another year in LA with @nasa-pds / @eosdis-nasa @emit-sds [@nasa-jpl](https://pds-geosciences.wustl.edu/dataserv/mars.html) hi [@blackgirlscode](https://x.com/BlackGirlsCode) for those of you with internships via [@nasa](https://www.nasa.gov/glenn/) , [@whitehouse](https://www.whitehouse.gov/live/) or whatevz remember to vote [@latimes @datadesk - Ethics complaint filed over ads falsely portraying Raman promoting homeless camps](https://www.latimes.com/california/story/2026-10-26/ethics-complaint-filed-over-ads-falsely-portraying-raman-promoting-homeless-camps) // [LA mayor's race: AI videos supporting Spencer Pratt shake up political playbook](https://abc7.com/post/los-angeles-mayors-race-ai-videos-supporting-spencer-pratt-shake-political-playbook/19127203/) // [Bass says Pratt AI ads in LA mayor race ‘taking on a violent trend’](https://thehill.com/homenews/campaign/5875724-karen-bass-spencer-pratt-la-mayor-race-ads/) // [](https://burnedbybass.com/?gad_source=1&gad_campaignid=24336717575&gbraid=0AAAABEySbvXkQqBgQYBXc-rieW3bZn26S&gclid=EAIaIQobChMI2vj24dnYlwMVxzhECB1ZpAaZEAAYASAAEgLNdfD_BwE) //[Los Angeles mayoral election cnn.com](https://www.cnn.com/election/2026/results/los-angeles-mayor) " src="https://github.com/user-attachments/assets/be64b058-dc14-423a-87f8-281c8489d97d" />
+
+<img   alt="imageies-mayor) " src="https://github.com/user-attachments/assets/be64b058-dc14-423a-87f8-281c8489d97d" />
 
 
 #### July 14th,2026
-<img   alt="image [@nasa-jpl](https://www.latimes.com/california/story/2026-10-26/ethics-complaint-filed-over-ads-falsely-portraying-raman-promoting-homeless-camps) hi if I remember correctly I have to vote to keep my `ActiveMission` status and I did [@CityOFLosanGeles](https://mayor.lacity.gov/) [_Karen Bass_](https://laist.com/brief/news/politics/nithya-raman-could-shake-up-los-angeles-olympics-heres-how) [[1](https://share.google/aimode/8RgP2H9Df8UsEADAe)] , [Mayoral Candiate Nithyia](https://share.google/aimode/NlDy4kd8MgneimqLk) I did my prep for another year in LA with @nasa-pds / @eosdis-nasa @emit-sds [@nasa-jpl](https://pds-geosciences.wustl.edu/dataserv/mars.html) hi [@blackgirlscode](https://x.com/BlackGirlsCode) for those of you with internships via [@nasa](https://www.nasa.gov/glenn/) , [@whitehouse](https://www.whitehouse.gov/live/) or whatevz remember to vote [@latimes @datadesk - Ethics complaint filed over ads falsely portraying Raman promoting homeless camps](https://www.latimes.com/california/story/2026-10-26/ethics-complaint-filed-over-ads-falsely-portraying-raman-promoting-homeless-camps) // [LA mayor's race: AI videos supporting Spencer Pratt shake up political playbook](https://abc7.com/post/los-angeles-mayors-race-ai-videos-supporting-spencer-pratt-shake-political-playbook/19127203/) // [Bass says Pratt AI ads in LA mayor race ‘taking on a violent trend’](https://thehill.com/homenews/campaign/5875724-karen-bass-spencer-pratt-la-mayor-race-ads/) // [](https://burnedbybass.com/?gad_source=1&gad_campaignid=24336717575&gbraid=0AAAABEySbvXkQqBgQYBXc-rieW3bZn26S&gclid=EAIaIQobChMI2vj24dnYlwMVxzhECB1ZpAaZEAAYASAAEgLNdfD_BwE) //[Los Angeles mayoral election cnn.com](https://www.cnn.com/election/2026/results/los-angeles-mayor)" src="https://github.com/user-attachments/assets/266a8c51-c663-4ab6-b56e-e038d88347a5" />
+
+<img   alt="image [@nasa-jpr)" src="https://github.com/user-attachments/assets/266a8c51-c663-4ab6-b56e-e038d88347a5" />
 
 
 ![https://scpr.brightspotcdn.com/3d/90/a00620904650ba75eb573b46106b/laistlogo-black.svg](https://scpr.brightspotcdn.com/3d/90/a00620904650ba75eb573b46106b/laistlogo-black.svg)
@@ -139,7 +164,7 @@ X-Men: Children of the Atom (Japanese: エックス・メン　チルドレン�
 ![ @bbc https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/330px-CNN.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/330px-CNN.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail) 
 
 #### July 14th,2026
-<img   alt="image [@nasa-jpl](https://www.latimes.com/california/story/2026-10-26/ethics-complaint-filed-over-ads-falsely-portraying-raman-promoting-homeless-camps) hi if I remember correctly I have to vote to keep my `ActiveMission` status and I did [@CityOFLosanGeles](https://mayor.lacity.gov/) [_Karen Bass_](https://laist.com/brief/news/politics/nithya-raman-could-shake-up-los-angeles-olympics-heres-how) [[1](https://share.google/aimode/8RgP2H9Df8UsEADAe)] , [Mayoral Candiate Nithyia](https://share.google/aimode/NlDy4kd8MgneimqLk) I did my prep for another year in LA with @nasa-pds / @eosdis-nasa @emit-sds [@nasa-jpl](https://pds-geosciences.wustl.edu/dataserv/mars.html) hi [@blackgirlscode](https://x.com/BlackGirlsCode) for those of you with internships via [@nasa](https://www.nasa.gov/glenn/) , [@whitehouse](https://www.whitehouse.gov/live/) or whatevz remember to vote [@latimes @datadesk - Ethics complaint filed over ads falsely portraying Raman promoting homeless camps](https://www.latimes.com/california/story/2026-10-26/ethics-complaint-filed-over-ads-falsely-portraying-raman-promoting-homeless-camps) // [LA mayor's race: AI videos supporting Spencer Pratt shake up political playbook](https://abc7.com/post/los-angeles-mayors-race-ai-videos-supporting-spencer-pratt-shake-political-playbook/19127203/) // [Bass says Pratt AI ads in LA mayor race ‘taking on a violent trend’](https://thehill.com/homenews/campaign/5875724-karen-bass-spencer-pratt-la-mayor-race-ads/) // [](https://burnedbybass.com/?gad_source=1&gad_campaignid=24336717575&gbraid=0AAAABEySbvXkQqBgQYBXc-rieW3bZn26S&gclid=EAIaIQobChMI2vj24dnYlwMVxzhECB1ZpAaZEAAYASAAEgLNdfD_BwE) //[Los Angeles mayoral election cnn.com](https://www.cnn.com/election/2026/results/los-angeles-mayor)" src="https://github.com/user-attachments/assets/266a8c51-c663-4ab6-b56e-e038d88347a5" />
+<img   alt="image [@nasa-jpl](htt" src="https://github.com/user-attachments/assets/266a8c51-c663-4ab6-b56e-e038d88347a5" />
 
 
 ![https://scpr.brightspotcdn.com/3d/90/a00620904650ba75eb573b46106b/laistlogo-black.svg](https://scpr.brightspotcdn.com/3d/90/a00620904650ba75eb573b46106b/laistlogo-black.svg)
