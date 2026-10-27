@@ -54,6 +54,7 @@ Mexico @CityOFLosAngeles
 
 ![https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/AirMass/20263000730-2026300](https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/EXTENT3/20263001801-20263002106-GLM-EP222026-EXTENT3-1000x1000.gif) 
 
+![https://www.nhc.noaa.gov/assets/images/NWS_logo.svg](https://www.nhc.noaa.gov/assets/images/NWS_logo.svg) 
 
 ## Nicki Minaj Joins Trump On The Campaign Trail
 [@whitehouse `WATCH` - @NASA-jpl @eosdis-nasa https://youtu.be/WKgZmRzaUTQ?t=25](https://youtu.be/WKgZmRzaUTQ?t=25) // [President Trump Speaks at Republican Midterm Rally in Port Huron, Michigan @whitehouse ](https://www.c-span.org/program/campaign-2026/president-trump-speaks-at-republican-midterm-rally-in-port-huron-michigan/686959) /// [Index of /ma-cdn03/FLOATER/data/EP222026/](https://cdn.star.nesdis.noaa.gov/FLOATER/data/EP222026/) // 
