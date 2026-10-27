@@ -14,6 +14,7 @@ mathjax: true
   
 </picture>
 
+![https://cd4.lacity.gov/wp-content/uploads/2023/09/Nithya-Raman-portrait-2022.png.webp](https://cd4.lacity.gov/wp-content/uploads/2023/09/Nithya-Raman-portrait-2022.png.webp)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/29f35ce6-697f-44bf-ba98-dbc382459428" />
 
