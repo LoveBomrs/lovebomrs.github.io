@@ -16,8 +16,9 @@ mathjax: true
 
 ![https://yt3.googleusercontent.com/FDfIV9d1XflHz2oglHUfjDYmxR4evQ9I41LcJsMqoOLUTbFHR7SItaEVX9wEOPPFUYnVwcIJ4U0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/FDfIV9d1XflHz2oglHUfjDYmxR4evQ9I41LcJsMqoOLUTbFHR7SItaEVX9wEOPPFUYnVwcIJ4U0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
 [`WATCH` - City Council — October 27, 2026 — English youtu.be/PmrdG5rjWDU](https://youtu.be/PmrdG5rjWDU)
-@nasa-jpl @cityoflosangeles City Council meeting is about [LAPD](https://www.facebook.com/fox11la/posts/an-lapd-officer-was-arrested-after-allegedly-trying-to-meet-someone-he-believed-/1463964775919170/) stalking ! [youtube.com/@LACityClerk](https://www.youtube.com/@LACityClerk)
+@nasa-jpl @cityoflosangeles City Council meeting is about [LAPD](https://www.facebook.com/fox11la/posts/an-lapd-officer-was-arrested-after-allegedly-trying-to-meet-someone-he-believed-/1463964775919170/) stalking ! [youtube.com/@LACityClerk](https://www.youtube.com/@LACityClerk) // [LAPD officer who takes stalking seriously](https://www.reddit.com/r/lapd/comments/1frweyo/lapd_officer_who_takes_stalking_seriously/) // [LAPD Threat Management Unit](https://en.wikipedia.org/wiki/LAPD_Threat_Management_Unit) // [Stalking and Threat Assessment Team (STAT) @nasa-jpl @whitehouse](https://da.lacounty.gov/contact/office-directory/stalking-and-threat-assessment-team-stat)
 
+![https://da.lacounty.gov/sites/default/files/logo.png](https://da.lacounty.gov/sites/default/files/logo.png)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/a2b7c0bd-d2d3-4875-9fc3-d9ba716dd660" />
 
