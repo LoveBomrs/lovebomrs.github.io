@@ -14,9 +14,18 @@ mathjax: true
   
 </picture>
 
-[O. C. - times up](https://youtu.be/jneMQiw88B4?list=RDjneMQiw88B4) // [Bill Cosby Cries First - Rashard @Blackgirlscode](https://youtu.be/C_A_EthRJeI) // [The Wreckoning · Lateef The Truth Speaker](https://youtu.be/ZA7LzUVi3ZY?list=RDZA7LzUVi3ZY) // [Droppin Science -Marley Marl Feat Craig G](https://youtu.be/IjuG1ZXe1uU?list=RDIjuG1ZXe1uU) // [Rugged Ruff · Bahamadia @nbcnews 🫚`RootsCrew`🫚](https://youtu.be/OrYKESic7CI?si=jw0UXWn6OV7zv_OS) // [Blahzay Blahzay - Danger](https://youtu.be/x7uJzdu7Pak?list=RDIjuG1ZXe1uU) // [Pete Rock & CL Smooth - They Reminisce Over You (T.R.O.Y.)](https://youtu.be/k6mdRv0ZdR8?list=RDIjuG1ZXe1uU&t=219) // [Big Boi - In The A (Explicit) ft. T.I., Ludacris @ForAtlanta @qtsdatacenters ask bigboi about electricity protection @nasa ](https://youtu.be/ROlKx7PG6sY?si=4gNjwhhUtkal2nUU)
+[O. C. - times up](https://youtu.be/jneMQiw88B4?list=RDjneMQiw88B4) // [Bill Cosby Cries First - Rashard @Blackgirlscode](https://youtu.be/C_A_EthRJeI) // [The Wreckoning · Lateef The Truth Speaker](https://youtu.be/ZA7LzUVi3ZY?list=RDZA7LzUVi3ZY) // [Droppin Science -Marley Marl Feat Craig G](https://youtu.be/IjuG1ZXe1uU?list=RDIjuG1ZXe1uU) // [Rugged Ruff · Bahamadia @nbcnews 🫚`RootsCrew`🫚](https://youtu.be/OrYKESic7CI?si=jw0UXWn6OV7zv_OS) // [Blahzay Blahzay - Danger](https://youtu.be/x7uJzdu7Pak?list=RDIjuG1ZXe1uU) // [Pete Rock & CL Smooth - They Reminisce Over You (T.R.O.Y.)](https://youtu.be/k6mdRv0ZdR8?list=RDIjuG1ZXe1uU&t=219) // [Big Boi - In The A (Explicit) ft. T.I., Ludacris @ForAtlanta @qtsdatacenters ask bigboi about electricity protection @nasa ](https://youtu.be/ROlKx7PG6sY?si=4gNjwhhUtkal2nUU) // [Are You Gone Already · Nicki Minaj](https://youtu.be/2wKQ97yH1NI?list=PLxA687tYuMWhHEqcVDC_UtaMvZGmfYDKy&t=58)
 
 --- 
+
+
+## Nicki Minaj Joins Trump On The Campaign Trail
+[@whitehouse `WATCH` - @NASA-jpl @eosdis-nasa https://youtu.be/WKgZmRzaUTQ?t=25](https://youtu.be/WKgZmRzaUTQ?t=25)
+[Are You Gone Already · Nicki Minaj](https://youtu.be/2wKQ97yH1NI?list=PLxA687tYuMWhHEqcVDC_UtaMvZGmfYDKy&t=58)
+<img alt="image @nickiminaj you work in computers aftte p**N right ? hi @deptofwar im just saying no one gets it @github hi @marinecorps - @rashardkelly @nasajpl @CISAgov " src="https://github.com/user-attachments/assets/573f29fa-b070-4883-b01a-530cc643b411" />
+
+@thakasartukellyselassie6468:0 seconds ago
+@nickiminaj you work in computers aftte p**N right ? hi @deptofwar im just saying no one gets it @github hi @marinecorps - @rashardkelly @nasajpl @CISAgov
 
 <img   alt="imerglate-rrlate000-global-sOct 26, 2026 - 21_30 UTC-eOct 27, 2026 - 07_00 UTC" src="https://github.com/user-attachments/assets/11e5b5d4-804a-4571-8570-a4371d424775" />
 
