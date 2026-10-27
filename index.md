@@ -16,7 +16,9 @@ mathjax: true
 
 [O. C. - times up](https://youtu.be/jneMQiw88B4?list=RDjneMQiw88B4) // [Bill Cosby Cries First - Rashard @Blackgirlscode](https://youtu.be/C_A_EthRJeI) // [The Wreckoning · Lateef The Truth Speaker](https://youtu.be/ZA7LzUVi3ZY?list=RDZA7LzUVi3ZY) // [Droppin Science -Marley Marl Feat Craig G](https://youtu.be/IjuG1ZXe1uU?list=RDIjuG1ZXe1uU) // [Rugged Ruff · Bahamadia @nbcnews 🫚`RootsCrew`🫚](https://youtu.be/OrYKESic7CI?si=jw0UXWn6OV7zv_OS) // [Blahzay Blahzay - Danger](https://youtu.be/x7uJzdu7Pak?list=RDIjuG1ZXe1uU) // [Pete Rock & CL Smooth - They Reminisce Over You (T.R.O.Y.)](https://youtu.be/k6mdRv0ZdR8?list=RDIjuG1ZXe1uU&t=219) // [Big Boi - In The A (Explicit) ft. T.I., Ludacris @ForAtlanta @qtsdatacenters ask bigboi about electricity protection @nasa ](https://youtu.be/ROlKx7PG6sY?si=4gNjwhhUtkal2nUU) // [Are You Gone Already · Nicki Minaj](https://youtu.be/2wKQ97yH1NI?list=PLxA687tYuMWhHEqcVDC_UtaMvZGmfYDKy&t=58) // [`watch` - Rico Nasty: Tiny Desk Concert @npr](https://youtu.be/kfUcI82SZv4?t=74) // [Los Angeles Mayoral Race: Nithya Raman breaks down her criticism of LAPD, what she wants to change](https://youtu.be/RXsTV5AQ94k)
 
+[search.earthdata.nasa.gov/search?lat=34.058860948903494&long=-118.24335633524618&zoom=13.433950221434268](https://search.earthdata.nasa.gov/search?lat=34.058860948903494&long=-118.24335633524618&zoom=13.433950221434268) 
 
+<img   alt="image" src="https://github.com/user-attachments/assets/df782b44-63f7-4ed5-acff-6b63d9b7e440" />
 
 <img  alt="2026-10-24-00_00_2026-10-24-23_59_Sentinel-2_L2A_False_color" src="https://github.com/user-attachments/assets/88a7b851-983d-434a-b85d-a2afa04e6384" />
 
