@@ -28,6 +28,12 @@ mathjax: true
   
 </picture>
 
+[@emit-sds ECOv002_L4T_ESI_46862_004_11SLT_20261010T142849_0713_01.png](https://search.earthdata.nasa.gov/search/granules?p=C2076104650-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4376689723-LPCLOUD&q=ecostress&sb[0]=-118.2661%2C34.04781%2C-118.25365%2C34.05975&lat=33.8354304&long=-118.55107259141914&zoom=9.728398144820314)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/b6ec6d05-a06d-4da7-937f-12093587a641" />
+
+
+<img  alt="ECOv002_L4T_ESI_46801_004_11SLT_20261006T160105_0713_02_PET" src="https://github.com/user-attachments/assets/42a38017-652e-410a-8193-f76c9ecd9ae2" />
 
 ```json
         "identifier": "ECOv002_L2T_LSTE_47106_003_11SLT_20261026T081758_0713_01",
