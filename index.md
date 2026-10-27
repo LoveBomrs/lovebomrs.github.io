@@ -29,7 +29,15 @@ Mexico @CityOFLosAngeles
 // 27 Oct 2026 - 21:00 UTC ...VANCE HOLDING STEADY OFFSHORE OF SOUTHWESTERN MEXICO... As of 2:00 PM MST Tue Oct 27 the center of Vance was located near 17.2, -108.3 with movement NW at 9 mph. The minimum central pressure was 1003 mb with maximum sustained winds of about 40 mph.
 
 27 Oct 2026 - 15:00 UTC ...VANCE IS A POORLY ORGANIZED TROPICAL STORM... As of 8:00 AM MST Tue Oct 27 the center of Vance was located near 16.3, -107.7 with movement NW at 8 mph. The minimum central pressure was 1003 mb with maximum sustained winds of about 40 mph.
+
 <img alt="image" src="https://github.com/user-attachments/assets/42edb25a-1230-4450-9747-ee55072fe28b" />
+
+![https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/gwas/GEOCOLOR/20263001250-20263002040-GOES18-ABI-GWAS-GEOCOLOR-900x540.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/gwas/GEOCOLOR/20263001250-20263002040-GOES18-ABI-GWAS-GEOCOLOR-900x540.gif)
+
+![https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/mex/GEOCOLOR/20263001320-20263002100-GOES19-ABI-MEX-GEOCOLOR-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/mex/GEOCOLOR/20263001320-20263002100-GOES19-ABI-MEX-GEOCOLOR-1000x1000.gif) 
+
+![https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/GEOCOLOR/20263001300-20263002040-GOES19-ABI-EEP-GEOCOLOR-900x540.gif](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/eep/GEOCOLOR/20263001300-20263002040-GOES19-ABI-EEP-GEOCOLOR-900x540.gif) 
+
 
 ![https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/GEOCOLOR/20263001430-20263002040-ABI-EP222026-GEOCOLOR-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/GEOCOLOR/20263001430-20263002040-ABI-EP222026-GEOCOLOR-1000x1000.gif)
 
