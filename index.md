@@ -30,6 +30,7 @@ mathjax: true
 
 [Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?list=RDjUwh-C5w7II) // [Must Be Dues · Melba Moore](https://youtu.be/Eu8K8LEaUy0?list=RDjUwh-C5w7II)  // [Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)  // [Blessings · Visionaries](https://youtu.be/I2zWUFlfWWM) // [Acid Raindrops · People Under The Stairs](https://youtu.be/UcKDx4cmvio?list=RDUcKDx4cmvio) // [Never Fallin' · Living Legends](https://youtu.be/eGv_ZJ5dSPc?list=RDeGv_ZJ5dSPc) // [Moment Of Truth · Gang Starr](https://youtu.be/Rr46FS7tkk4?list=RDeGv_ZJ5dSPc) // [Love & Appreciate · Murs](https://youtu.be/UYay1c2Fl0o?si=0-_2J0SIFATsYUuD)
 
+![https://static.wixstatic.com/media/3442be_40680d0cdb6f4fa9bbertLunaSheriff_Logo_Horiz_Color-2.jpg](https://static.wixstatic.com/media/3442be_40680d0cdb6f4fa9b7bbcd99a578351d~mv2.jpg/v1/fill/w_352,h_87,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/RobertLunaSheriff_Logo_Horiz_Color-2.jpg)
 
 ![https://www.cisa.gov/sites/default/files/images/SVG/header_logo_tagline_update.svg](https://www.cisa.gov/sites/default/files/images/SVG/header_logo_tagline_update.svg) 
 ---
