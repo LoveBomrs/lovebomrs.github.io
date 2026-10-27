@@ -14,6 +14,10 @@ mathjax: true
   
 </picture>
 
+
+@cityoflosangeles im abt to map [cd4](https://cd4.lacity.gov/) - rashard @eosdis-nasa 
+<img   alt="image" src="https://github.com/user-attachments/assets/ddb0882e-5cab-4920-ab3a-d1afea03aaf0" />
+
 ![https://cd4.lacity.gov/wp-content/uploads/2023/09/Nithya-Raman-portrait-2022.png.webp](https://cd4.lacity.gov/wp-content/uploads/2023/09/Nithya-Raman-portrait-2022.png.webp)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/29f35ce6-697f-44bf-ba98-dbc382459428" />
