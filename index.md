@@ -14,6 +14,11 @@ mathjax: true
   
 </picture>
 
+
+[@Cityoflosangeles there is an @fecgov outage @nasa-jpl `FEC's electronic filing system outage`](https://fecgov.statuspage.io/incidents/1f16b9021jfx)
+<img alt="FIRMS_24hrs,24hrs @-118 194,33 938,11 321z" src="https://github.com/user-attachments/assets/dfc8d425-a403-4d97-83f0-c9184e8cac7c" />
+
+
 [@deptofwar @cisagov something is dangerous here `https://enoughbass.com/?gad_source=1&gad_campaignid=24328135662&gbraid=0AAAAA-YiRN7hhpNzP323j2VSHynEP12lX&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhEctD5Ogr08lAd4vk-DH6jEO76BONuk8vGUTWTekIrWoNm1p6vcUYxoCO1sQAvD_BwE` @cityoflosangeles](https://enoughbass.com/?gad_source=1&gad_campaignid=24328135662&gbraid=0AAAAA-YiRN7hhpNzP323j2VSHynEP12lX&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhEctD5Ogr08lAd4vk-DH6jEO76BONuk8vGUTWTekIrWoNm1p6vcUYxoCO1sQAvD_BwE) @emit-sds @fecgov
 
 <img alt=" @deptofwar @cisagov something is dangerous here `https://enoughbass.com/?gad_source=1&gad_campaignid=24328135662&gbraid=0AAAAA-YiRN7hhpNzP323j2VSHynEP12lX&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhEctD5Ogr08lAd4vk-DH6jEO76BONuk8vGUTWTekIrWoNm1p6vcUYxoCO1sQAvD_BwE` @cityoflosangeles @usgs EMIT_L1B_RAD_001_20260602T180011_2615312_003" src="https://github.com/user-attachments/assets/a496b858-2ad0-400f-a2d0-4194ecb78b83" />
