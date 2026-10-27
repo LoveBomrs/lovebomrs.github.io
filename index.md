@@ -25,6 +25,10 @@ Last observation: 27 Oct 2026 - 21:35 UTC
 21 Oct 2026 - 27 Oct 2026
 Mexico @CityOFLosAngeles
 [`watch` - Rico Nasty: Tiny Desk Concert @npr](https://youtu.be/kfUcI82SZv4?t=74)
+
+// 27 Oct 2026 - 21:00 UTC ...VANCE HOLDING STEADY OFFSHORE OF SOUTHWESTERN MEXICO... As of 2:00 PM MST Tue Oct 27 the center of Vance was located near 17.2, -108.3 with movement NW at 9 mph. The minimum central pressure was 1003 mb with maximum sustained winds of about 40 mph.
+
+27 Oct 2026 - 15:00 UTC ...VANCE IS A POORLY ORGANIZED TROPICAL STORM... As of 8:00 AM MST Tue Oct 27 the center of Vance was located near 16.3, -107.7 with movement NW at 8 mph. The minimum central pressure was 1003 mb with maximum sustained winds of about 40 mph.
 <img alt="image" src="https://github.com/user-attachments/assets/42edb25a-1230-4450-9747-ee55072fe28b" />
 
 ![https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/GEOCOLOR/20263001430-20263002040-ABI-EP222026-GEOCOLOR-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/GEOCOLOR/20263001430-20263002040-ABI-EP222026-GEOCOLOR-1000x1000.gif)
@@ -33,7 +37,7 @@ Mexico @CityOFLosAngeles
 
 
 
-![https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/AirMass/20263000730-2026300](https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/Sandwich/20263000730-20263002040-ABI-EP222026-Sandwich-1000x1000.gif) 
+![https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/AirMass/20263000730-2026300](https://cdn.star.nesdis.noaa.gov/FLOATER/EP222026/EXTENT3/20263001801-20263002106-GLM-EP222026-EXTENT3-1000x1000.gif) 
 
 
 ## Nicki Minaj Joins Trump On The Campaign Trail
