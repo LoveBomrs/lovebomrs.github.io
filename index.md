@@ -19,7 +19,7 @@ mathjax: true
 ---
 
 
-[@FoxNews hi from @Nasa-JPL / @eosdis-nasa Former President Obama speaking at rally in Morrow @FoxBroadcasting @ForAtlanta](https://youtu.be/0tXQ0WSTNuc) /// [@nasa youtube.com/@fox5atlanta](https://www.youtube.com/@fox5atlanta)
+[`WATCH` - @FoxNews hi from @Nasa-JPL / @eosdis-nasa Former President Obama speaking at rally in Morrow @FoxBroadcasting @ForAtlanta](https://youtu.be/0tXQ0WSTNuc) /// [@nasa youtube.com/@fox5atlanta](https://www.youtube.com/@fox5atlanta)
 <img  alt="image" src="https://github.com/user-attachments/assets/c5c0391f-bd39-4032-ad9e-323eca77e955" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/5764a786-366c-41d2-a41e-a141e7ec4e48" />
