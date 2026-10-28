@@ -18,6 +18,7 @@ mathjax: true
 
 ---
 
+![https://d1ejlg980osaur.cloudfront.net/m20/cumulative/mars2020_navcam_ops_calibrated/browse/sol/00017/ids/rdr/ncam/NRF_0017_0668453452_115RAS_N0030578NCAM00186_0A10LLJ02.png](https://d1ejlg980osaur.cloudfront.net/m20/cumulative/mars2020_navcam_ops_calibrated/browse/sol/00017/ids/rdr/ncam/NRF_0017_0668453452_115RAS_N0030578NCAM00186_0A10LLJ02.png) 
 
 [@nasa-jpl @usgs - pds-imaging.jpl.nasa.gov/api/data/atlas:pds4:mars_2020:perseverance:/mars2020_navcam_ops_mosaic/browse/sol/00415 @CityOfLosAngeles](https://pds-imaging.jpl.nasa.gov/api/data/atlas:pds4:mars_2020:perseverance:/mars2020_navcam_ops_mosaic/browse/sol/00415/ids/rdr/mosaic/N_GRGB_0415XRZS_0230000_CYP_R_AUTOGENJ02.png)
 <img  alt="image" src="https://github.com/user-attachments/assets/801bb06c-5993-4d2c-b14b-f96bc93dbbdb" />
