@@ -14,6 +14,24 @@ mathjax: true
   
 </picture>
 
+// [Lost Souls · Jeezy
+](https://youtu.be/dJXbZTLIvkM) //
+
+---
+
+
+![https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Gold_Line_Overpass_on_I-210.jpg/330px-Gold_Line_Overpass_on_I-210.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Gold_Line_Overpass_on_I-210.jpg/330px-Gold_Line_Overpass_on_I-210.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail) 
+
+@nasa-jpl hi someone please call [@LACMTA https://go.metro.net/lines/a/alerts](https://go.metro.net/lines/a/alerts) @
+![https://la-metro-headshots-production.s3.amazonaws.com/images/holly-j-mitchell.width-640.jpg @department-for-transport](https://la-metro-headshots-production.s3.amazonaws.com/images/holly-j-mitchell.width-640.jpg) because the train to work is not running due to a power outage @longbeachinnovationteam @CityOfSantaMonica @ForATLANTA @SeptaDEV hi just saying b [A Line (Los Angeles Metro)](https://en.wikipedia.org/wiki/A_Line_(Los_Angeles_Metro))
+modified service
+
+Due to a power outage, A and E Line trains are not running Grand Ave Arts/Bunker Hill, Historic Broadway and Little Tokyo/Arts District Station. Northbound A Line trains are turning back at Pico Station and southbound trains are turning back at Union Station. Eastbound E Line trains are turning back at LATTC/Ortho Institute Station and westbound trains are turning back at Pico/Aliso. Bus shuttles replace train service on the A Line between Union Station and Pico Station. Take J Line for service between 7th/Metro and LATTC/Ortho Institute. Riders should expect delays up to 20 minutes on both the A and E Lines and should plan extra time. @nasa @eosdis-nasa [@Cityoflosangeles @la-county-isd](https://www.google.com/maps/dir/34.0492288,-118.2629888/Jet+Propulsion+Laboratory,+4800+Oak+Grove+Dr,+Pasadena,+CA+91109/@34.1049061,-118.234036,29871m/am=t/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x80c2c26e1fd5a69b:0x2894373e1a284496!2m2!1d-118.1700219!2d34.2010281!3e3!5m2!1e4!1e1?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/54cefe28-20bd-4bc2-a3ab-79e46aa53932" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/8a218674-b8d5-4774-a6c2-d2d2d007679f" />
+
 [O. C. - times up](https://youtu.be/jneMQiw88B4?list=RDjneMQiw88B4) // [Bill Cosby Cries First - Rashard @Blackgirlscode](https://youtu.be/C_A_EthRJeI) // [The Wreckoning · Lateef The Truth Speaker](https://youtu.be/ZA7LzUVi3ZY?list=RDZA7LzUVi3ZY) // [Droppin Science -Marley Marl Feat Craig G](https://youtu.be/IjuG1ZXe1uU?list=RDIjuG1ZXe1uU) // [Rugged Ruff · Bahamadia @nbcnews 🫚`RootsCrew`🫚](https://youtu.be/OrYKESic7CI?si=jw0UXWn6OV7zv_OS) // [Blahzay Blahzay - Danger](https://youtu.be/x7uJzdu7Pak?list=RDIjuG1ZXe1uU) // [Pete Rock & CL Smooth - They Reminisce Over You (T.R.O.Y.)](https://youtu.be/k6mdRv0ZdR8?list=RDIjuG1ZXe1uU&t=219) // [Big Boi - In The A (Explicit) ft. T.I., Ludacris @ForAtlanta @qtsdatacenters ask bigboi about electricity protection @nasa ](https://youtu.be/ROlKx7PG6sY?si=4gNjwhhUtkal2nUU) // [Are You Gone Already · Nicki Minaj](https://youtu.be/2wKQ97yH1NI?list=PLxA687tYuMWhHEqcVDC_UtaMvZGmfYDKy&t=58) // [`watch` - Rico Nasty: Tiny Desk Concert @npr](https://youtu.be/kfUcI82SZv4?t=74) // [Los Angeles Mayoral Race: Nithya Raman breaks down her criticism of LAPD, what she wants to change](https://youtu.be/RXsTV5AQ94k) // [Los Angeles Mayoral Race: `Karen Bass slams Nithya Raman` for waffling @CityOfLosAngeles @Saccounty](https://youtu.be/i6EkqNGIP80?si=mr0By7RqTCPEZ1_W) // [Lost Souls · Jeezy
 ](https://youtu.be/dJXbZTLIvkM) // [`Normani`  Meli Music 2026 (Full Show)  São Paulo, Brazil](https://youtu.be/mafdY-wgaIE?si=fI0ANooRzJfZpiFA) // [Tinashe Live in Brooklyn, NY : One Night With A Popstar](https://youtu.be/ARlLmfNXoFM?si=50r0bT4fhubXKw9h) // [NORMANI - Fifth Harmony Medley (Bo$$, Worth It, Work From Home All in my head) live in Brazil Meli](https://youtu.be/cwN6kVR0khk) // [Doja Cat feat. Latto Okayyy Sacramento Golden 1 Center Tour Ma Vie 10/20/26 @SAccOUNtY ](https://youtu.be/msuVa4yAfdE?si=Z-qyQKzS3BtdPoUg) // [Justin Bieber - YUKON (Live From The 68th Grammy Awards / 2026)](https://youtu.be/iLF0ZNdhNM0?si=dvkMT_NcOzNHpF3x) // [JAY-Z brings out Snoop Dogg & Dr.Dre JAY-Z30 Night 2 at SoFi Stadium @cityoflosangeles Oct. 24, 2026](https://youtu.be/iZvCWarU4HE) // [JAY-Z LA (Night 1 @StateOfCAlifornia )](https://youtu.be/1ju8FYArVvk)
 
