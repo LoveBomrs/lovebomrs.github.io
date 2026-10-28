@@ -18,7 +18,12 @@ mathjax: true
 
 ---
 
-[https://jasonmkelly.com/jason-m-kelly/2024/6/22/a-short-tutorial-on-using-wget](https://jasonmkelly.com/jason-m-kelly/2024/6/22/a-short-tutorial-on-using-wget) 
+
+[@nasa-jpl @usgs - pds-imaging.jpl.nasa.gov/api/data/atlas:pds4:mars_2020:perseverance:/mars2020_navcam_ops_mosaic/browse/sol/00415 @CityOfLosAngeles](https://pds-imaging.jpl.nasa.gov/api/data/atlas:pds4:mars_2020:perseverance:/mars2020_navcam_ops_mosaic/browse/sol/00415/ids/rdr/mosaic/N_GRGB_0415XRZS_0230000_CYP_R_AUTOGENJ02.png)
+<img  alt="image" src="https://github.com/user-attachments/assets/801bb06c-5993-4d2c-b14b-f96bc93dbbdb" />
+
+
+[jasonmkelly.com/jason-m-kelly/2024/6/22/a-short-tutorial-on-using-wget](https://jasonmkelly.com/jason-m-kelly/2024/6/22/a-short-tutorial-on-using-wget) 
 
 <img src="https://asc-pds-viking-orbiter.s3.us-west-2.amazonaws.com/PDS4/browse/edr/0056/e_0056_2_a_c_76_10_06_05_46_30_056b83_base.png"/>
 
