@@ -18,6 +18,10 @@ mathjax: true
 
 ---
 
+[https://jasonmkelly.com/jason-m-kelly/2024/6/22/a-short-tutorial-on-using-wget](https://jasonmkelly.com/jason-m-kelly/2024/6/22/a-short-tutorial-on-using-wget) 
+
+<img src="https://asc-pds-viking-orbiter.s3.us-west-2.amazonaws.com/PDS4/browse/edr/0056/e_0056_2_a_c_76_10_06_05_46_30_056b83_base.png"/>
+
 <img  alt="image" src="https://github.com/user-attachments/assets/a5099bb2-7b2f-4e1c-86bf-ea26f767ceed" />
 
 
