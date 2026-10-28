@@ -14,9 +14,12 @@ mathjax: true
   
 </picture>
 
-// [Lost Souls · Jeezy](https://youtu.be/dJXbZTLIvkM) // [Bonobo - Prelude + Kiara](https://youtu.be/D9f2KZvf9sk?list=RDD9f2KZvf9sk) // [The Number Song · DJ Shadow](https://youtu.be/odlhSQqOXL8?list=RDodlhSQqOXL8&t=20)
+// [Lost Souls · Jeezy](https://youtu.be/dJXbZTLIvkM) // [Bonobo - Prelude + Kiara](https://youtu.be/D9f2KZvf9sk?list=RDD9f2KZvf9sk) // [The Number Song · DJ Shadow](https://youtu.be/odlhSQqOXL8?list=RDodlhSQqOXL8&t=20) // [Midnight In A Perfect World · DJ Shadow](https://youtu.be/IHvRY1SC9qw?list=RDodlhSQqOXL8)
 
 ---
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a5099bb2-7b2f-4e1c-86bf-ea26f767ceed" />
+
 
 @nasa-pds [@cityoflosangeles](https://share.google/aimode/5bOA2IRMus0prlFOZ) @foratlanta hi I'm working on some spreads for some old equipment [https://pds-imaging.jpl.nasa.gov/tools/atlas/search](https://pds-imaging.jpl.nasa.gov/tools/atlas/search) @doug-newman-nasa hi I have to catch up with my pds world for a bit , I mailed a report about [TropicalStormVance](https://www.star.nesdis.noaa.gov/goes/floater.php?stormid=EP222026) and did some @eosidis-nasa work for @CityOfLosAngeles yesterday 
 
