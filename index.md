@@ -14,10 +14,15 @@ mathjax: true
   
 </picture>
 
-// [Lost Souls · Jeezy
-](https://youtu.be/dJXbZTLIvkM) //
+// [Lost Souls · Jeezy](https://youtu.be/dJXbZTLIvkM) // [Bonobo - Prelude + Kiara](https://youtu.be/D9f2KZvf9sk?list=RDD9f2KZvf9sk)
 
 ---
+
+@nasa-pds [@cityoflosangeles](https://share.google/aimode/5bOA2IRMus0prlFOZ) @foratlanta hi I'm working on some spreads for some old equipment [https://pds-imaging.jpl.nasa.gov/tools/atlas/search](https://pds-imaging.jpl.nasa.gov/tools/atlas/search) @doug-newman-nasa hi I have to catch up with my pds world for a bit , I mailed a report about [TropicalStormVance](https://www.star.nesdis.noaa.gov/goes/floater.php?stormid=EP222026) and did some @eosidis-nasa work for @CityOfLosAngeles yesterday 
+
+![https://cdn.star.nesdis.noaa.gov/FLOATER/data/EP222026/Sandwich/EP222026-Sandwich-1000x1000.gif @nbcnews @cbs-news-data](https://cdn.star.nesdis.noaa.gov/FLOATER/data/EP222026/Sandwich/EP222026-Sandwich-1000x1000.gif)
+
+<img alt="image" src="https://github.com/user-attachments/assets/f6d6d680-ce1c-4079-8ed4-44d7570df4b9" />
 
 [ @nasa-pds https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:vik:viking_orbiters:/PDS4/data/edr/0022/e_0022_1_a_r_76_07_12_03_39_44_022a96.fits](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:vik:viking_orbiters:/PDS4/data/edr/0022/e_0022_1_a_r_76_07_12_03_39_44_022a96.fits) 
 
