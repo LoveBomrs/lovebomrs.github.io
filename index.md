@@ -18,7 +18,7 @@ mathjax: true
 ](https://youtu.be/dJXbZTLIvkM) // [`Normani`  Meli Music 2026 (Full Show)  São Paulo, Brazil](https://youtu.be/mafdY-wgaIE?si=fI0ANooRzJfZpiFA) // [Tinashe Live in Brooklyn, NY : One Night With A Popstar](https://youtu.be/ARlLmfNXoFM?si=50r0bT4fhubXKw9h)
 
 [imerg](https://gpm.nasa.gov/data/imerg) + [PACE](https://pace.gsfc.nasa.gov/)
-[worldview.earthdata.nasa.gov/](https://worldview.earthdata.nasa.gov/?v=-540,-265.78125,540,265.78125&l=Admin_Boundaries,DoS_International_Boundaries,Coastlines_15m,VIIRS_NOAA21_DayNightBand(hidden),IMERG_Precipitation_Rate,SPEXONE_PACE_True_Color,HARP2_PACE_True_Color(hidden),OCI_PACE_True_Color,VIIRS_SNPP_CorrectedReflectance_TrueColor&lg=true&tr=atmospheric_rivers&t=2026-10-25-T10%3A00%3A00Z)
+[worldview.earthdata.nasa.gov/](https://worldview.earthdata.nasa.gov/?v=-540,-265.78125,540,265.78125&l=Admin_Boundaries,DoS_International_Boundaries,Coastlines_15m,VIIRS_NOAA21_DayNightBand(hidden),IMERG_Precipitation_Rate,SPEXONE_PACE_True_Color,HARP2_PACE_True_Color(hidden),OCI_PACE_True_Color,VIIRS_SNPP_CorrectedReflectance_TrueColor&lg=true&tr=atmospheric_rivers&t=2026-10-25-T10%3A00%3A00Z) // [@blackgirlscode youtube.com/channel/UClxThBz59fcTap63RLEQNXA](https://www.youtube.com/channel/UClxThBz59fcTap63RLEQNXA)
 
 <img  alt="snapshot-2026-10-25" src="https://github.com/user-attachments/assets/aa90e68b-bbcb-4998-882e-537adc008c74" />
 
