@@ -19,6 +19,14 @@ mathjax: true
 
 ---
 
+[ @nasa-pds https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:vik:viking_orbiters:/PDS4/data/edr/0022/e_0022_1_a_r_76_07_12_03_39_44_022a96.fits](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:vik:viking_orbiters:/PDS4/data/edr/0022/e_0022_1_a_r_76_07_12_03_39_44_022a96.fits) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/271943b9-5c82-49ec-82f6-fdbeea414aac" />
+
+[@nasa-pds / @nasa-jpl pastebin.com/GVsUJ5W1](https://pastebin.com/GVsUJ5W1)
+<img  alt="image" src="https://github.com/user-attachments/assets/bf1390dd-6fea-4812-8193-4e7ecaae5233" />
+
+
 <h2> AnimalFarm 1954 </h2>
 
 <video controls width="250" poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg">
