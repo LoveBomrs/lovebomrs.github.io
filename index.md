@@ -18,7 +18,8 @@ mathjax: true
 
 ---
 
-[WATCH - LIVE: Obama attends Ossoff, Bottoms rally ahead of Georgia election @ForAtlanta @nasa-jpl @cityoflosangeles](https://youtu.be/UsK94ac72tg)
+[WATCH - LIVE: Obama attends Ossoff, Bottoms rally ahead of Georgia election @ForAtlanta @nasa-jpl @cityoflosangeles](https://youtu.be/UsK94ac72tg) //// [@whitehouse - 
+LIVE: Obama stumps in Georgia midterm rally as elections close in](https://youtu.be/QYyPZsXL5DM)
 <img  alt="image" src="https://github.com/user-attachments/assets/4f7b4c41-ec6b-4654-b606-8018d5211b03" />
 
 [`WATCH` - HOT 97 News Live! 10/28/26](https://youtu.be/eJUOItk5DAk) feat LAna J HArris
