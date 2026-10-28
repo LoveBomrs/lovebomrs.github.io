@@ -19,6 +19,22 @@ mathjax: true
 
 ---
 
+<h2> AnimalFarm 1954 </h2>
+
+<video controls width="250" poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg">
+    
+  <source src="https://dn721906.ca.archive.org/0/items/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+
+  Download the
+
+  <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
+  video.
+</video>
+
+[/compiling](https://virtiserv.github.io/compiling/)
+<img  alt="image" src="https://github.com/user-attachments/assets/3bc85f78-0643-4632-b45e-0ce6153d2a44" />
+
 
 [@nasa-jpl @nasa-pds @nasa-giss @LACMTA go.metro.net/alerts](https://go.metro.net/alerts)
 <img  alt="image" src="https://github.com/user-attachments/assets/6a23e5dd-a27a-4b24-b32a-4eb771423600" />
