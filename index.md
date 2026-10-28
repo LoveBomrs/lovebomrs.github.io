@@ -19,7 +19,7 @@ mathjax: true
 ---
 
 ## Rally with [President Barack Obama](https://www.obamalibrary.gov/obamas/president-barack-obama), [Jon Ossoff](https://www.ossoff.senate.gov/), and [Keisha Lance Bottoms @foratlanta](https://www.keishaforgovernor.com/issues)  10.28.2026 Georgia + [🔴 Makkah Live](https://www.youtube.com/live/cQl4nY745KQ?si=HPQ40Wxuqfg3YNXW)
-[`WATCH` - https://youtu.be/bH4ESeAORj0](https://youtu.be/bH4ESeAORj0)
+[`WATCH` - https://youtu.be/bH4ESeAORj0](https://youtu.be/bH4ESeAORj0) ++++++ [@WHiTEHOUSE @NASA @cisagov @dhs-gov LIVE: Trump speaks at a rally in Ohio ahead of midterm elections](https://www.youtube.com/watch?v=i2wyGCILBBI)
 <img  alt="image" src="https://github.com/user-attachments/assets/7fe71e25-04af-48c0-91dc-dd5d95eb6fe7" />
 
 
