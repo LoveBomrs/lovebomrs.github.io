@@ -18,6 +18,16 @@ mathjax: true
 ](https://youtu.be/dJXbZTLIvkM) // [`Normani`  Meli Music 2026 (Full Show)  São Paulo, Brazil](https://youtu.be/mafdY-wgaIE?si=fI0ANooRzJfZpiFA) // [Tinashe Live in Brooklyn, NY : One Night With A Popstar](https://youtu.be/ARlLmfNXoFM?si=50r0bT4fhubXKw9h) // [NORMANI - Fifth Harmony Medley (Bo$$, Worth It, Work From Home All in my head) live in Brazil Meli](https://youtu.be/cwN6kVR0khk) // [Doja Cat feat. Latto Okayyy Sacramento Golden 1 Center Tour Ma Vie 10/20/26 @SAccOUNtY ](https://youtu.be/msuVa4yAfdE?si=Z-qyQKzS3BtdPoUg) // [Justin Bieber - YUKON (Live From The 68th Grammy Awards / 2026)](https://youtu.be/iLF0ZNdhNM0?si=dvkMT_NcOzNHpF3x) // [JAY-Z brings out Snoop Dogg & Dr.Dre JAY-Z30 Night 2 at SoFi Stadium @cityoflosangeles Oct. 24, 2026](https://youtu.be/iZvCWarU4HE) // [JAY-Z LA (Night 1 @StateOfCAlifornia )](https://youtu.be/1ju8FYArVvk)
 
 
+[@cityoflosangeles  Representative Karen Bass (1953 - )](https://www.congress.gov/member/karen-bass/B001270) /// dams resiviors false color 
+[@la-county-isd Nithiya Raman @asfadmin @eosdis-nasa](https://worldview.earthdata.nasa.gov/?v=-119.2040875744338,33.226875841255804,-117.37314455727582,34.45052587747524&as=2026-10-15-T00%3A00%3A00Z&ae=2026-10-25-T00%3A00%3A00Z&l=Reference_Labels_15m,Admin_Boundaries(hidden),DoS_International_Boundaries(hidden),Coastlines_15m(hidden),GRUMP_Settlements,GRanD_Reservoirs,GRanD_Dams,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1_12Day,OMI_Single_Scattering_Albedo,MODIS_Terra_CorrectedReflectance_TrueColor&lg=false&al=true&ab=on&t=2026-10-25-T00%3A00%3A00Z)
+<img  alt="image" src="https://github.com/user-attachments/assets/bead691e-2031-4a7b-bfab-f02313bdb95a" />
+
+emporal Coverage: 2025 JAN 10 - Present
+The OPERA Radiometric Terrain Corrected SAR Backscatter from Sentinel-1 (RTC-S1) is a Level-2 (L2) product. It provides terrain-corrected radar images with a 30-meter pixel spacing and a temporal resolution of a few days to weeks on average, depending on the location. Each RTC-S1 product is derived from a Sentinel-1 Interferometric Wide (IW) Single-Look Complex (SLC) burst, provided by the European Space Agency (ESA). Synthetic aperture radar (SAR) images deliver all-weather, day-and-night, imaging of the Earth’s surface.
+
+[@nasa-jpl landslide risk - ://worldview.earthdata.nasa.go ](https://worldview.earthdata.nasa.gov/?v=-125.57172406004582,29.81147066639235,-111.93615093611598,38.9243536947613&l=Reference_Labels_15m,Admin_Boundaries(hidden),DoS_International_Boundaries(hidden),Coastlines_15m,NDH_Landslide_Hazard_Distribution_2000,MODIS_Terra_CorrectedReflectance_TrueColor&lg=false&t=2026-10-26-T02%3A01%3A16Z) 
+<img   alt="image" src="https://github.com/user-attachments/assets/7e67355c-93ba-484b-844f-dac7acf6974b" />
+
 
 <img   alt="image" src="https://github.com/user-attachments/assets/ad18c37f-ed38-4539-948d-a939adf8ea4d" />
 
