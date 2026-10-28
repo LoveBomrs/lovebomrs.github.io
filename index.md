@@ -18,7 +18,18 @@ mathjax: true
 
 ---
 
+[WATCH - LIVE: Obama attends Ossoff, Bottoms rally ahead of Georgia election @ForAtlanta @nasa-jpl @cityoflosangeles](https://youtu.be/UsK94ac72tg)
+<img  alt="image" src="https://github.com/user-attachments/assets/4f7b4c41-ec6b-4654-b606-8018d5211b03" />
+
+[`WATCH` - HOT 97 News Live! 10/28/26](https://youtu.be/eJUOItk5DAk) feat LAna J HArris
+bonus: [AT&T Archives: The Far Sound, a History of Long and Longer Distance Communications, from 1961](https://youtu.be/SS5X5BkIKpM?si=RDZ0kAwSOU-_rGTZ)
+<img alt="image" src="https://github.com/user-attachments/assets/24f99f15-0765-4b6c-a680-5e38bdec4cda" />
+
 ### MArtian Atmosphere
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/535f1214-4b8f-4ff9-9c99-6c6f23e4cf78" />
+
 
 ![https://asc-pds-viking-orbiter.s3.us-west-2.amazonaws.com/PDS4/browse/edr/0077/e_0077_2_a_c_76_10_29_17_04_05_077b93_base.png](https://asc-pds-viking-orbiter.s3.us-west-2.amazonaws.com/PDS4/browse/edr/0077/e_0077_2_a_c_76_10_29_17_04_05_077b93_base.png)
 ![https://asc-pds-viking-orbiter.s3.us-west-2.amazonaws.com/PDS4/browse/edr/0077/e_0077_2_a_c_76_10_29_17_03_38_077b87_base.png](https://asc-pds-viking-orbiter.s3.us-west-2.amazonaws.com/PDS4/browse/edr/0077/e_0077_2_a_c_76_10_29_17_03_38_077b87_base.png)
