@@ -18,6 +18,12 @@ mathjax: true
 
 ---
 
+## Rally with [President Barack Obama](https://www.obamalibrary.gov/obamas/president-barack-obama), [Jon Ossoff](https://www.ossoff.senate.gov/), and [Keisha Lance Bottoms @foratlanta](https://www.keishaforgovernor.com/issues)  10.28.2026 Georgia + [🔴 Makkah Live](https://www.youtube.com/live/cQl4nY745KQ?si=HPQ40Wxuqfg3YNXW)
+[`WATCH` - https://youtu.be/bH4ESeAORj0](https://youtu.be/bH4ESeAORj0)
+<img  alt="image" src="https://github.com/user-attachments/assets/7fe71e25-04af-48c0-91dc-dd5d95eb6fe7" />
+
+
+![https://www.obamalibrary.gov/sites/default/files/styles/large/public/2023-03/obama-portrait-sm.jpg @whitehouse ](https://www.obamalibrary.gov/sites/default/files/styles/large/public/2023-03/obama-portrait-sm.jpg) 
 
 [`WATCH` - @FoxNews hi from @Nasa-JPL / @eosdis-nasa Former President Obama speaking at rally in Morrow @FoxBroadcasting @ForAtlanta](https://youtu.be/0tXQ0WSTNuc) ///
 
@@ -25,6 +31,9 @@ mathjax: true
 
 [@nasa youtube.com/@fox5atlanta](https://www.youtube.com/@fox5atlanta)
 <img  alt="image" src="https://github.com/user-attachments/assets/c5c0391f-bd39-4032-ad9e-323eca77e955" />
+
+
+![https://www.obamalibrary.gov/sites/default/files/styles/wide/public/6516504337_c643c0e2eb_b.jpg](https://www.obamalibrary.gov/sites/default/files/styles/wide/public/6516504337_c643c0e2eb_b.jpg) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/5764a786-366c-41d2-a41e-a141e7ec4e48" />
 
