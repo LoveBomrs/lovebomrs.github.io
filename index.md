@@ -18,9 +18,15 @@ mathjax: true
 
 ---
 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5764a786-366c-41d2-a41e-a141e7ec4e48" />
+
 [WATCH - LIVE: Obama attends Ossoff, Bottoms rally ahead of Georgia election @ForAtlanta @nasa-jpl @cityoflosangeles](https://youtu.be/UsK94ac72tg) //// [@whitehouse - 
 LIVE: Obama stumps in Georgia midterm rally as elections close in](https://youtu.be/QYyPZsXL5DM)
 <img  alt="image" src="https://github.com/user-attachments/assets/4f7b4c41-ec6b-4654-b606-8018d5211b03" />
+
+[Chloe Bailey sings the National Anthem at the opening Lakers game October 22, 2026. @CityOfLosAngeles @Nasa-JPL](https://youtu.be/L08UiiTJulk?si=07SefF5qu7Z25RZw)
+<img   alt="image" src="https://github.com/user-attachments/assets/82b2b197-e0dc-4a47-95eb-ac7912fa7a03" />
 
 [`WATCH` - HOT 97 News Live! 10/28/26](https://youtu.be/eJUOItk5DAk) feat LAna J HArris
 bonus: [AT&T Archives: The Far Sound, a History of Long and Longer Distance Communications, from 1961](https://youtu.be/SS5X5BkIKpM?si=RDZ0kAwSOU-_rGTZ)
