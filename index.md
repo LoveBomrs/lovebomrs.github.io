@@ -20,6 +20,10 @@ mathjax: true
 ---
 
 
+[@nasa-jpl @nasa-pds @nasa-giss @LACMTA go.metro.net/alerts](https://go.metro.net/alerts)
+<img  alt="image" src="https://github.com/user-attachments/assets/6a23e5dd-a27a-4b24-b32a-4eb771423600" />
+
+
 ![https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Gold_Line_Overpass_on_I-210.jpg/330px-Gold_Line_Overpass_on_I-210.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Gold_Line_Overpass_on_I-210.jpg/330px-Gold_Line_Overpass_on_I-210.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail) 
 
 @nasa-jpl hi someone please call [@LACMTA https://go.metro.net/lines/a/alerts](https://go.metro.net/lines/a/alerts) @
