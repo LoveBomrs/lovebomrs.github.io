@@ -18,6 +18,8 @@ mathjax: true
 
 ---
 
+<img  alt="image" src="https://github.com/user-attachments/assets/b3e7fda2-d638-453a-8472-7c7b249cec7d" />
+
 
 ## NOAA : GOES 19TH/20
 [https://slider.cira.colostate.edu/?sat=goes-19&sec=`full_disk` @naSA-JPL](https://slider.cira.colostate.edu/?sat=goes-19&sec=full_disk&x=5264&y=5712&z=2&angle=0&im=12&ts=1&st=0&et=0&speed=130&motion=loop&maps%5Bborders%5D=white&p%5B0%5D=geocolor&opacity%5B0%5D=1&pause=0&slider=-1&hide_controls=0&mouse_draw=0&follow_feature=0&follow_hide=0&s=rammb-slider&draw_color=FFD700&draw_width=6) // [Hiring Paths to an EPA Career @USEPA](https://www.epa.gov/careers)
