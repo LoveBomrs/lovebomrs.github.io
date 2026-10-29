@@ -18,6 +18,15 @@ mathjax: true
 
 ---
 
+
+### Snow White And The Seven Dwarfs (1937)
+by [Walt @Disney Animation Studios](https://archive.org/search?query=creator%3A%22Walt+Disney+Animation+Studios%22)
+[`READ` - ra5hard.github.io/assets/pdf/`snowwhite`_plainclothesTracy.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/snowwhite_plainclothesTracy.pdf) /// [`ReaD` n Color ](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/dicktracy.pdf)
+
+<iframe src="https://archive.org/embed/snow-white-and-the-seven-dwarfs-1937_202404" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<img  alt="snowwhite_plainclothesTracy-13" src="https://github.com/user-attachments/assets/9da5badc-90d7-404d-8e0d-e4f46ab0892f" />
+
 [@nasa-jpl @foratlanta github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/4e7eaa1f-6acb-412f-aeab-adb0d76e5d39" />
