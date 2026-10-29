@@ -15,11 +15,50 @@ mathjax: true
 </picture>
 
 
-// [@ForAtlanta Young Jeezy The History Of Young Jeezy Full Mixtape](https://youtu.be/R3Tmx8fgWJA?list=PLDcRN5LMMiUKXesgIeVoxKZjLHbBrmLLR&t=287)
+// [@ForAtlanta Young Jeezy The History Of Young Jeezy Full Mixtape](https://youtu.be/R3Tmx8fgWJA?list=PLDcRN5LMMiUKXesgIeVoxKZjLHbBrmLLR&t=287) // [DJ Rob Swift at Lorem Ipsom (Charlotte, NC): MLK Day set](https://youtu.be/O6BkRjqFahM?list=RDO6BkRjqFahM&t=1206) // [ROB SWIFT (Part 1): The Origin Of Hip Hop  R.O.A.D. #348 (FULL EPISODE) @cityoflosangeles](https://youtu.be/9gp6EY1VFLU) // [Founding Fathers The Untold Story of Hip Hop](https://youtu.be/Q__6DEpFSqo?si=z_FEVvAdkTIn85Ze) // [Beat Street 1984](https://youtu.be/4o5nrZGxyZQ) // [Graffiti Rock 1986](https://youtu.be/6V4IvwfaQZ4) // [1995 - HIP HOP DOCUMENTARY - THE SHOW](https://youtu.be/2UHm2ASOpXA) // [Style Wars - Full Movie - 1983](https://youtu.be/sc6WzZvyLZI) // [Cypress Hill: Insane in the Brain](https://youtu.be/ESDGZZds4eU) // [DJ Babu Boiler Room LA DJ Set](https://youtu.be/2aoBWcUii3k?list=RD2aoBWcUii3k) // [Turntable TV 1.0: Attack of the Robots](https://youtu.be/L8jJp5AwAZE?list=PLcWM-JSgdSMI7P_OoaoRXQLlKMU7aUTQX) // [SCRATCH: Hip Hop DJ & Turntablist Movement Documentary (2001)](https://youtu.be/k7V3_HkaYcY) // [FX the video](https://youtu.be/bW-74U5xuf4) // [FX crew the video (New York graffiti 1998) ft. T-Kid, Ces, Per, Snow, Sub, Poem and many more..`version?`..](https://youtu.be/W0W80yrcSUQ) // [Can’t Be Stopped | The Most Dangerous Crew in Hollywood](https://youtu.be/HxoUg-kWerI?si=t8cgaAmN35LmfKUw) // [Wild Style (1982)  Full Movie  Music/Drama](https://youtu.be/y6v3kwj5i9g) // [Yo! MTV Raps Hosted by Ghostface & Raekwon](https://youtu.be/8o5F14qYl-I?t=16) // [Something from Nothing: The Art of Rap | FULL MOVIE | Ice-T, Q-Tip, Snoop, Eminem, Bun-B](https://youtu.be/d_-xReCd2lw) // [Tableturns: A Great Day In Turntablism: Tableturns 4th Anniversary](https://youtu.be/MR5QbqnylrY?list=RDMR5QbqnylrY)
+
+# SpaceWalk 100
+
+[@cityoflosangeles @whitehouse plus.nasa.gov/scheduled-video/u-s-spacewalk-100/#fullscreen-player](https://plus.nasa.gov/scheduled-video/u-s-spacewalk-100/#fullscreen-player)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a3bd5751-ad07-4d0c-af4f-56f90daed73d" />
+
+
+[`WATCH` - `SpaceWalk 100` youtube.com/live/hv867HnY4j4?si=rIwWcQPxEyUgbFQp](https://www.youtube.com/live/hv867HnY4j4?si=rIwWcQPxEyUgbFQp)
+<img alt="image" src="https://github.com/user-attachments/assets/ff7e739a-be70-4c1e-9882-bb934030252f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4de30972-1c9f-448c-92b6-21e6f9bc440a" />
+
+[sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4](sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4)
+_"Courtesy of [@NASA](https://web.archive.org/web/19990429134016/http://www.hq.nasa.gov/)/[SDO](https://sdo.gsfc.nasa.gov/data/dailymov.php) and the AIA, [EVE](https://lasp.colorado.edu/eve/data_access/eve-one-minute-averages/index.html), and [HMI science](https://hmi.stanford.edu/) teams."_
+
+<div class="tupperware" markdown="1">
+
+
+[<video controls poster="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0335.jpg" src="https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0335.mp4" />](https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0335.mp4)
+
+[<video controls poster="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_1600.jpg" src="https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_1600.mp4" />](https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_1600.mp4)
+
+[<video controls poster="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0131.jpg" src="https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0131.mp4" />](https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0131.mp4)
+
+[<video controls poster="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0193.jpg" src="https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4" />](https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4)
+
+</div>
+
+### [ACE](https://cmr.earthdata.nasa.gov/search/concepts/C1214603832-SCIOPS.html)
+Real-Time Solar Wind [[1](https://www.eoportal.org/satellite-missions/ace#rf-communications)]
+The NASA Advanced Composition Explorer (ACE) satellite enables SWPC to give advance warning of geomagnetic storms. Geomagnetic storms are a natural hazard, like hurricanes and tsunamis, which the National Oceanic and Atmospheric Administration (NOAA) Space Weather Prediction Center (SWPC) forecasts for the public's benefit. Geomagnetic storms impact the electric power grid, aircraft operations, GPS, manned spaceflight, and satellite operations, to name some of the most damaging. Severe geomagnetic storms can result in electric utility blackouts over a wide area. [spaceweather.gov/products/ace-real-time-solar-wind](https://www.spaceweather.gov/products/ace-real-time-solar-wind)
+
+#### 6hr
+![https://services.swpc.noaa.gov/images/ace-mag-swepam-6-hour.gif](https://services.swpc.noaa.gov/images/ace-mag-swepam-6-hour.gif)
+#### 24hr
+![https://services.swpc.noaa.gov/images/ace-mag-swepam-24-hour.gif @blackgirlscode  @nasa-pds ](https://services.swpc.noaa.gov/images/ace-mag-swepam-24-hour.gif)
+#### 7day
+![https://services.swpc.noaa.gov/images/ace-mag-swepam-7-day.gif](https://services.swpc.noaa.gov/images/ace-mag-swepam-7-day.gif)
 
 
 # Artemis 2 pix 
-<img width="5568" height="3712" alt="art002e025485_nkd5017_prc_v01" src="https://github.com/user-attachments/assets/08ebbb93-3955-433d-884b-861b6c74d66f" />
+<img   alt="art002e025485_nkd5017_prc_v01" src="https://github.com/user-attachments/assets/08ebbb93-3955-433d-884b-861b6c74d66f" />
 
 @nasa-pds like since its a moon mission that's dsn connected, well when it flew . . NVM ... la8tR @rashardikelly
 `art002e004439_nkd5017_prc_v01  width="5568" height="3712"` @nasa @nasa-jpl
