@@ -18,6 +18,29 @@ mathjax: true
 
 ---
 
+
+![https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png)
+
+[![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
+
+
+
+@rashardikelly Voted @foratlanta @cityoflosangeles @stateofcalifornia @saccounty @blackgirlscode
+<img   alt="@rashardikelly Voted @foratlanta @cityoflosangeles @stateofcalifornia @saccounty @blackgirlscode rashardvoted-03" src="https://github.com/user-attachments/assets/53835a8e-e14c-48f9-8be5-342ea9d59f8e" />
+<img  alt="@rashardikelly Voted @foratlanta @cityoflosangeles @stateofcalifornia @saccounty @blackgirlscode image" src="https://github.com/user-attachments/assets/d135fc22-5f5c-43e5-8410-cf2aca317a3a" />
+<img   alt=" @rashardikelly Voted @foratlanta @cityoflosangeles @stateofcalifornia @saccounty @blackgirlscoderashardvoted-14" src="https://github.com/user-attachments/assets/730a19bd-3174-4f61-840b-05e9677abb8b" />
+<img  alt="rashardvoted-06 @rashardikelly Voted @foratlanta @cityoflosangeles @stateofcalifornia @saccounty @blackgirlscode" src="https://github.com/user-attachments/assets/189d0e16-29a4-489a-a3e2-0bb08776af6b" />
+
+
+[@vimeo should be in cahooots with @nasa-jpl for nice @dhs-gov reconcilliations .com/396000267 @foratlanta @Cityoflosangeles @emit-sds where was rashard](https://vimeo.com/396000267)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f9361f16-2be5-4ed7-ad7e-0dc6efaffa7a" />
+
+[_`GetAdvice @Blackgirlscode`_](https://iyanla.com/personal-message/)
+<img  alt="image" src="https://github.com/user-attachments/assets/15878e57-c3be-4006-9c05-cc84d41d4d04" />
+<img alt="image" src="https://github.com/user-attachments/assets/b64e397b-83df-48b3-9424-fe1ab4cf83ae" />
+
+
 ## Rally with [President Barack Obama](https://www.obamalibrary.gov/obamas/president-barack-obama), [Jon Ossoff](https://www.ossoff.senate.gov/), and [Keisha Lance Bottoms @foratlanta](https://www.keishaforgovernor.com/issues)  10.28.2026 Georgia + [🔴 Makkah Live](https://www.youtube.com/live/cQl4nY745KQ?si=HPQ40Wxuqfg3YNXW)
 [`WATCH` - https://youtu.be/bH4ESeAORj0](https://youtu.be/bH4ESeAORj0) ++++++ [@WHiTEHOUSE @NASA @cisagov @dhs-gov LIVE: Trump speaks at a rally in Ohio ahead of midterm elections](https://www.youtube.com/watch?v=i2wyGCILBBI)
 <img  alt="image" src="https://github.com/user-attachments/assets/7fe71e25-04af-48c0-91dc-dd5d95eb6fe7" />
