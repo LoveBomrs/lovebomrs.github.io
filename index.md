@@ -14,7 +14,7 @@ mathjax: true
   
 </picture>
 
-// [Lost Souls · Jeezy](https://youtu.be/dJXbZTLIvkM) // [Bonobo - Prelude + Kiara](https://youtu.be/D9f2KZvf9sk?list=RDD9f2KZvf9sk) // [The Number Song · DJ Shadow](https://youtu.be/odlhSQqOXL8?list=RDodlhSQqOXL8&t=20) // [Midnight In A Perfect World · DJ Shadow](https://youtu.be/IHvRY1SC9qw?list=RDodlhSQqOXL8)
+// [Lost Souls · Jeezy](https://youtu.be/dJXbZTLIvkM) // [Bonobo - Prelude + Kiara](https://youtu.be/D9f2KZvf9sk?list=RDD9f2KZvf9sk) // [The Number Song · DJ Shadow](https://youtu.be/odlhSQqOXL8?list=RDodlhSQqOXL8&t=20) // [Midnight In A Perfect World · DJ Shadow](https://youtu.be/IHvRY1SC9qw?list=RDodlhSQqOXL8) // [The Evolution of Jeezy  Mini Doc](https://youtu.be/6-TtIfGNumE?t=26) // [@ForAtlanta Young Jeezy The History Of Young Jeezy Full Mixtape](https://youtu.be/R3Tmx8fgWJA?list=PLDcRN5LMMiUKXesgIeVoxKZjLHbBrmLLR&t=1)
 
 ---
 
