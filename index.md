@@ -19,6 +19,8 @@ mathjax: true
 
 
 # Artemis 2 pix 
+<img width="5568" height="3712" alt="art002e025485_nkd5017_prc_v01" src="https://github.com/user-attachments/assets/08ebbb93-3955-433d-884b-861b6c74d66f" />
+
 @nasa-pds like since its a moon mission that's dsn connected, well when it flew . . NVM ... la8tR @rashardikelly
 `art002e004439_nkd5017_prc_v01  width="5568" height="3712"` @nasa @nasa-jpl
 
