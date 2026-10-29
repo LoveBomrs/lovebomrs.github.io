@@ -18,6 +18,10 @@ mathjax: true
 
 ---
 
+[@nasa-jpl @foratlanta github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/4e7eaa1f-6acb-412f-aeab-adb0d76e5d39" />
+
 
 ![https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png)
 
