@@ -27,6 +27,7 @@ mathjax: true
 [`WATCH` - `SpaceWalk 100` youtube.com/live/hv867HnY4j4?si=rIwWcQPxEyUgbFQp](https://www.youtube.com/live/hv867HnY4j4?si=rIwWcQPxEyUgbFQp)
 <img alt="image" src="https://github.com/user-attachments/assets/ff7e739a-be70-4c1e-9882-bb934030252f" />
 
+<img  alt="image" src="https://github.com/user-attachments/assets/4de30972-1c9f-448c-92b6-21e6f9bc440a" />
 
 [sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4](sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4)
 _"Courtesy of [@NASA](https://web.archive.org/web/19990429134016/http://www.hq.nasa.gov/)/[SDO](https://sdo.gsfc.nasa.gov/data/dailymov.php) and the AIA, [EVE](https://lasp.colorado.edu/eve/data_access/eve-one-minute-averages/index.html), and [HMI science](https://hmi.stanford.edu/) teams."_
