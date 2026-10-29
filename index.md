@@ -15,7 +15,45 @@ mathjax: true
 </picture>
 
 
-// [@ForAtlanta Young Jeezy The History Of Young Jeezy Full Mixtape](https://youtu.be/R3Tmx8fgWJA?list=PLDcRN5LMMiUKXesgIeVoxKZjLHbBrmLLR&t=287) // [DJ Rob Swift at Lorem Ipsom (Charlotte, NC): MLK Day set](https://youtu.be/O6BkRjqFahM?list=RDO6BkRjqFahM&t=1206) // [ROB SWIFT (Part 1): The Origin Of Hip Hop  R.O.A.D. #348 (FULL EPISODE) @cityoflosangeles](https://youtu.be/9gp6EY1VFLU)
+// [@ForAtlanta Young Jeezy The History Of Young Jeezy Full Mixtape](https://youtu.be/R3Tmx8fgWJA?list=PLDcRN5LMMiUKXesgIeVoxKZjLHbBrmLLR&t=287) // [DJ Rob Swift at Lorem Ipsom (Charlotte, NC): MLK Day set](https://youtu.be/O6BkRjqFahM?list=RDO6BkRjqFahM&t=1206) // [ROB SWIFT (Part 1): The Origin Of Hip Hop  R.O.A.D. #348 (FULL EPISODE) @cityoflosangeles](https://youtu.be/9gp6EY1VFLU) // [Founding Fathers The Untold Story of Hip Hop](https://youtu.be/Q__6DEpFSqo?si=z_FEVvAdkTIn85Ze)
+
+# SpaceWalk 100
+
+[@cityoflosangeles @whitehouse plus.nasa.gov/scheduled-video/u-s-spacewalk-100/#fullscreen-player](https://plus.nasa.gov/scheduled-video/u-s-spacewalk-100/#fullscreen-player)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a3bd5751-ad07-4d0c-af4f-56f90daed73d" />
+
+
+[`WATCH` - `SpaceWalk 100` youtube.com/live/hv867HnY4j4?si=rIwWcQPxEyUgbFQp](https://www.youtube.com/live/hv867HnY4j4?si=rIwWcQPxEyUgbFQp)
+<img alt="image" src="https://github.com/user-attachments/assets/ff7e739a-be70-4c1e-9882-bb934030252f" />
+
+
+[sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4](sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4)
+_"Courtesy of [@NASA](https://web.archive.org/web/19990429134016/http://www.hq.nasa.gov/)/[SDO](https://sdo.gsfc.nasa.gov/data/dailymov.php) and the AIA, [EVE](https://lasp.colorado.edu/eve/data_access/eve-one-minute-averages/index.html), and [HMI science](https://hmi.stanford.edu/) teams."_
+
+<div class="tupperware" markdown="1">
+
+
+[<video controls poster="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0335.jpg" src="https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0335.mp4" />](https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0335.mp4)
+
+[<video controls poster="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_1600.jpg" src="https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_1600.mp4" />](https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_1600.mp4)
+
+[<video controls poster="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0131.jpg" src="https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0131.mp4" />](https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0131.mp4)
+
+[<video controls poster="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0193.jpg" src="https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4" />](https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4)
+
+</div>
+
+### [ACE](https://cmr.earthdata.nasa.gov/search/concepts/C1214603832-SCIOPS.html)
+Real-Time Solar Wind [[1](https://www.eoportal.org/satellite-missions/ace#rf-communications)]
+The NASA Advanced Composition Explorer (ACE) satellite enables SWPC to give advance warning of geomagnetic storms. Geomagnetic storms are a natural hazard, like hurricanes and tsunamis, which the National Oceanic and Atmospheric Administration (NOAA) Space Weather Prediction Center (SWPC) forecasts for the public's benefit. Geomagnetic storms impact the electric power grid, aircraft operations, GPS, manned spaceflight, and satellite operations, to name some of the most damaging. Severe geomagnetic storms can result in electric utility blackouts over a wide area. [spaceweather.gov/products/ace-real-time-solar-wind](https://www.spaceweather.gov/products/ace-real-time-solar-wind)
+
+#### 6hr
+![https://services.swpc.noaa.gov/images/ace-mag-swepam-6-hour.gif](https://services.swpc.noaa.gov/images/ace-mag-swepam-6-hour.gif)
+#### 24hr
+![https://services.swpc.noaa.gov/images/ace-mag-swepam-24-hour.gif @blackgirlscode  @nasa-pds ](https://services.swpc.noaa.gov/images/ace-mag-swepam-24-hour.gif)
+#### 7day
+![https://services.swpc.noaa.gov/images/ace-mag-swepam-7-day.gif](https://services.swpc.noaa.gov/images/ace-mag-swepam-7-day.gif)
 
 
 # Artemis 2 pix 
