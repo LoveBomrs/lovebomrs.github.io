@@ -20,8 +20,9 @@ mathjax: true
 
 # Artemis 2 pix 
 @nasa-pds like since its a moon mission that's dsn connected, well when it flew . . NVM ... la8tR @rashardikelly
-`art002e004439_nkd5017_prc_v01`
-<img  alt="Screenshot 2026-10-29 11 00 47 AM" src="https://github.com/user-attachments/assets/1e603d4e-d376-498b-9ea6-da442de07a07" />
+`art002e004439_nkd5017_prc_v01  width="5568" height="3712"` @nasa @nasa-jpl
+
+<img alt=" @nasa-pds like since its a moon mission that's dsn connected, well when it flew . . NVM ... la8tR @rashardikellyart002e004439_nkd5017_prc_v01  width=5568 height=3712 @nasa @nasa-jpl art002e004439_nkd5017_prc_v01" src="https://github.com/user-attachments/assets/6ed77b74-5bb1-4e96-b14c-f4ebfa51d092" />
 
 
 // [Lost Souls · Jeezy](https://youtu.be/dJXbZTLIvkM) // [Bonobo - Prelude + Kiara](https://youtu.be/D9f2KZvf9sk?list=RDD9f2KZvf9sk) // [The Number Song · DJ Shadow](https://youtu.be/odlhSQqOXL8?list=RDodlhSQqOXL8&t=20) // [Midnight In A Perfect World · DJ Shadow](https://youtu.be/IHvRY1SC9qw?list=RDodlhSQqOXL8) // [The Evolution of Jeezy  Mini Doc](https://youtu.be/6-TtIfGNumE?t=26) // [@ForAtlanta Young Jeezy The History Of Young Jeezy Full Mixtape](https://youtu.be/R3Tmx8fgWJA?list=PLDcRN5LMMiUKXesgIeVoxKZjLHbBrmLLR&t=1)
