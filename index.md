@@ -19,6 +19,11 @@ mathjax: true
 ---
 
 
+## NOAA : GOES 19TH/20
+[https://slider.cira.colostate.edu/?sat=goes-19&sec=`full_disk` @naSA-JPL](https://slider.cira.colostate.edu/?sat=goes-19&sec=full_disk&x=5264&y=5712&z=2&angle=0&im=12&ts=1&st=0&et=0&speed=130&motion=loop&maps%5Bborders%5D=white&p%5B0%5D=geocolor&opacity%5B0%5D=1&pause=0&slider=-1&hide_controls=0&mouse_draw=0&follow_feature=0&follow_hide=0&s=rammb-slider&draw_color=FFD700&draw_width=6) // [Hiring Paths to an EPA Career @USEPA](https://www.epa.gov/careers)
+<img  alt="Screenshot 2026-10-29 10 26 05 AM" src="https://github.com/user-attachments/assets/512a4c37-26e8-4e00-b792-9e432b1af62a" />
+
+
 ### Snow White And The Seven Dwarfs (1937)
 by [Walt @Disney Animation Studios](https://archive.org/search?query=creator%3A%22Walt+Disney+Animation+Studios%22) [`files`](https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404)
 "Snow White" is a German fairy tale, first written down in the early 19th century. The Brothers Grimm published it in 1812 in the first edition of their collection Grimms' Fairy Tales, numbered as Tale 53. [Wiki - READ MORE](https://en.wikipedia.org/wiki/Snow_White)
