@@ -20,11 +20,15 @@ mathjax: true
 
 
 ### Snow White And The Seven Dwarfs (1937)
-by [Walt @Disney Animation Studios](https://archive.org/search?query=creator%3A%22Walt+Disney+Animation+Studios%22)
-[`READ` - ra5hard.github.io/assets/pdf/`snowwhite`_plainclothesTracy.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/snowwhite_plainclothesTracy.pdf) /// [`ReaD` n Color - assets/pdf/dicktracy.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/dicktracy.pdf)
+by [Walt @Disney Animation Studios](https://archive.org/search?query=creator%3A%22Walt+Disney+Animation+Studios%22) [`files`](https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404)
+"Snow White" is a German fairy tale, first written down in the early 19th century. The Brothers Grimm published it in 1812 in the first edition of their collection Grimms' Fairy Tales, numbered as Tale 53. [Wiki - READ MORE](https://en.wikipedia.org/wiki/Snow_White)
+[`READ` - ra5hard.github.io/assets/pdf/`snowwhite`_plainclothesTracy.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/snowwhite_plainclothesTracy.pdf) /// [`ReaD` n Color - assets/pdf/dicktracy.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/dicktracy.pdf) +++ [Grimm 053: Little Snow-White](https://www.grimmstories.com/en/grimm_fairy-tales/snow-white)
 
+[<video controls loading="lazy" poster="https://github.com/user-attachments/assets/24583cf6-1dd3-4b3e-a500-f422530a108d" src="https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404/Snow%20White%20and%20the%20Seven%20Dwarfs%20%281937%29.mp4" />](https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404/Snow%20White%20and%20the%20Seven%20Dwarfs%20%281937%29.mp4)
+
+```html
 <iframe src="https://archive.org/embed/snow-white-and-the-seven-dwarfs-1937_202404" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
+```
 <img  alt="snowwhite_plainclothesTracy-13" src="https://github.com/user-attachments/assets/9da5badc-90d7-404d-8e0d-e4f46ab0892f" />
 
 [@nasa-jpl @foratlanta github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf)
@@ -950,6 +954,7 @@ How would humanity respond if we discovered an asteroid headed for Earth? NASA�
 
 @ellensilva8566
 ​​can you phil it?!
+<img  alt="image" src="https://github.com/user-attachments/assets/24583cf6-1dd3-4b3e-a500-f422530a108d" />
 
 
 @L302bay
