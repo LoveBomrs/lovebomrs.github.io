@@ -13,6 +13,14 @@
 [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 
 
+
+@rashardikelly Voted @foratlanta @cityoflosangeles @stateofcalifornia @saccounty @blackgirlscode
+<img   alt="@rashardikelly Voted @foratlanta @cityoflosangeles @stateofcalifornia @saccounty @blackgirlscode rashardvoted-03" src="https://github.com/user-attachments/assets/53835a8e-e14c-48f9-8be5-342ea9d59f8e" />
+<img  alt="@rashardikelly Voted @foratlanta @cityoflosangeles @stateofcalifornia @saccounty @blackgirlscode image" src="https://github.com/user-attachments/assets/d135fc22-5f5c-43e5-8410-cf2aca317a3a" />
+<img   alt=" @rashardikelly Voted @foratlanta @cityoflosangeles @stateofcalifornia @saccounty @blackgirlscoderashardvoted-14" src="https://github.com/user-attachments/assets/730a19bd-3174-4f61-840b-05e9677abb8b" />
+<img  alt="rashardvoted-06 @rashardikelly Voted @foratlanta @cityoflosangeles @stateofcalifornia @saccounty @blackgirlscode" src="https://github.com/user-attachments/assets/189d0e16-29a4-489a-a3e2-0bb08776af6b" />
+
+
 [@vimeo should be in cahooots with @nasa-jpl for nice @dhs-gov reconcilliations .com/396000267 @foratlanta @Cityoflosangeles @emit-sds where was rashard](https://vimeo.com/396000267)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/f9361f16-2be5-4ed7-ad7e-0dc6efaffa7a" />
