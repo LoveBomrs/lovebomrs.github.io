@@ -15,11 +15,11 @@ mathjax: true
 </picture>
 
 
-// [@ForAtlanta Young Jeezy The History Of Young Jeezy Full Mixtape](https://youtu.be/R3Tmx8fgWJA?list=PLDcRN5LMMiUKXesgIeVoxKZjLHbBrmLLR&t=287)
+// [@ForAtlanta Young Jeezy The History Of Young Jeezy Full Mixtape](https://youtu.be/R3Tmx8fgWJA?list=PLDcRN5LMMiUKXesgIeVoxKZjLHbBrmLLR&t=287) // [DJ Rob Swift at Lorem Ipsom (Charlotte, NC): MLK Day set](https://youtu.be/O6BkRjqFahM?list=RDO6BkRjqFahM&t=1206) // [ROB SWIFT (Part 1): The Origin Of Hip Hop  R.O.A.D. #348 (FULL EPISODE) @cityoflosangeles](https://youtu.be/9gp6EY1VFLU)
 
 
 # Artemis 2 pix 
-<img width="5568" height="3712" alt="art002e025485_nkd5017_prc_v01" src="https://github.com/user-attachments/assets/08ebbb93-3955-433d-884b-861b6c74d66f" />
+<img   alt="art002e025485_nkd5017_prc_v01" src="https://github.com/user-attachments/assets/08ebbb93-3955-433d-884b-861b6c74d66f" />
 
 @nasa-pds like since its a moon mission that's dsn connected, well when it flew . . NVM ... la8tR @rashardikelly
 `art002e004439_nkd5017_prc_v01  width="5568" height="3712"` @nasa @nasa-jpl
