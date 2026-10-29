@@ -21,7 +21,7 @@ mathjax: true
 
 ### Snow White And The Seven Dwarfs (1937)
 by [Walt @Disney Animation Studios](https://archive.org/search?query=creator%3A%22Walt+Disney+Animation+Studios%22)
-[`READ` - ra5hard.github.io/assets/pdf/`snowwhite`_plainclothesTracy.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/snowwhite_plainclothesTracy.pdf) /// [`ReaD` n Color ](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/dicktracy.pdf)
+[`READ` - ra5hard.github.io/assets/pdf/`snowwhite`_plainclothesTracy.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/snowwhite_plainclothesTracy.pdf) /// [`ReaD` n Color - assets/pdf/dicktracy.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/dicktracy.pdf)
 
 <iframe src="https://archive.org/embed/snow-white-and-the-seven-dwarfs-1937_202404" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
