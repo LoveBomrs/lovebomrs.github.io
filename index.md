@@ -19,7 +19,7 @@ mathjax: true
 
 --- 
 
-[Sega Rally Championship - Twin/DX (Revision C)(https://www.retrogames.cc/arcade-games/sega-rally-championship-twin-dx-revision-c.html)
+[Sega Rally Championship - Twin/DX (Revision C)](https://www.retrogames.cc/arcade-games/sega-rally-championship-twin-dx-revision-c.html)
 <img   alt="image" src="https://github.com/user-attachments/assets/07273bbc-b772-4cf1-9843-f9d1ee72cf69" />
 
 
