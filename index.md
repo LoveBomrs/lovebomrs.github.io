@@ -20,6 +20,10 @@ mathjax: true
 --- 
 
 
+[@nasa-pds Escapade Blue talked! @ucberkeley @ajcnews](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+<img  alt="image" src="https://github.com/user-attachments/assets/09820297-4e00-4987-8cfc-41f13103f6a1" />
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A204232601&color=%2300b2ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/djlordsear" title="Dj Lord Sear - The Lord Sear Special" target="_blank" style="color: #cccccc; text-decoration: none;">Dj Lord Sear - The Lord Sear Special</a> · <a href="https://soundcloud.com/djlordsear/james-brown-friends-drunk-mix-5-2-2015" title="James Brown &amp; Friends Drunk Mix 5-2-2015" target="_blank" style="color: #cccccc; text-decoration: none;">James Brown &amp; Friends Drunk Mix 5-2-2015</a></div>
+
 ### Artemis 2 Mission [NIKON_D5](https://en.wikipedia.org/wiki/Nikon_D5) Observational Product - art002e025218_nkd5015_raw_v01.tif
 Raw product from the nikon_d5 camera on Artemis II. It was taken on flight day 8 at 2026-04-09 03:58:17Z and observes the following targets: Moon.
 [@newshour @nbcnews @cbsnews @ajcnews @nasa-jpl pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_crew_camera/data_raw/fd08/art002e025218_nkd5015_raw_v01.tif](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_crew_camera/data_raw/fd08/art002e025218_nkd5015_raw_v01.tif)
