@@ -19,6 +19,9 @@ mathjax: true
 
 --- 
 
+[@deptofwar `KamalaHarris` I cannot download the browse images for `Viking2` @nasa-jpl pds-imaging.jpl.nasa.gov/api/data/atlas:pds4:vik:viking_orbiters:/PDS4/browse/edr/0022/e_0022_1_a_r_76_07_12_03_39_44_022a96_base.png::0](https://pds-imaging.jpl.nasa.gov/api/data/atlas:pds4:vik:viking_orbiters:/PDS4/browse/edr/0022/e_0022_1_a_r_76_07_12_03_39_44_022a96_base.png::0)
+
+<img  alt="image @deptofwar `KamalaHarris` I cannot download the browse images for `Viking2` @nasa-jpl pds-imaging.jpl.nasa.gov/api/data/atlas:pds4:vik:viking_orbiters:/PDS4/browse/edr/0022/e_0022_1_a_r_76_07_12_03_39_44_022a96_base.png::0 " src="https://github.com/user-attachments/assets/5870cf8e-71b9-49cb-9ed7-725c28da2e5b" />
 
 [@nasa-pds Escapade Blue talked! @ucberkeley @ajcnews](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 <img  alt="image" src="https://github.com/user-attachments/assets/09820297-4e00-4987-8cfc-41f13103f6a1" />
