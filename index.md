@@ -14,9 +14,15 @@ mathjax: true
   
 </picture>
 
+[Spontaneity · Bahamadia](https://youtu.be/S6rxanIXIv8?list=RDS6rxanIXIv8) // 
+
+
 --- 
 
-[Spontaneity · Bahamadia](https://youtu.be/S6rxanIXIv8?list=RDS6rxanIXIv8)
+[Sega Rally Championship - Twin/DX (Revision C)(https://www.retrogames.cc/arcade-games/sega-rally-championship-twin-dx-revision-c.html)
+<img   alt="image" src="https://github.com/user-attachments/assets/07273bbc-b772-4cf1-9843-f9d1ee72cf69" />
+
+
 [@nasa-jpl Martian Regolith as a Substrate for Foreign Planetary Horticulture](https://www.youtube.com/watch?v=c7YprboGKZE)
 <img   alt="image" src="https://github.com/user-attachments/assets/bbff9f8b-ac65-467c-86be-212b1433d4dd" />
 
