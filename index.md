@@ -19,6 +19,18 @@ mathjax: true
 
 --- 
 
+
+### Artemis 2 Mission [NIKON_D5](https://en.wikipedia.org/wiki/Nikon_D5) Observational Product - art002e025218_nkd5015_raw_v01.tif
+Raw product from the nikon_d5 camera on Artemis II. It was taken on flight day 8 at 2026-04-09 03:58:17Z and observes the following targets: Moon.
+[@newshour @nbcnews @cbsnews @ajcnews @nasa-jpl pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_crew_camera/data_raw/fd08/art002e025218_nkd5015_raw_v01.tif](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_crew_camera/data_raw/fd08/art002e025218_nkd5015_raw_v01.tif)
+<img   alt="image" src="https://github.com/user-attachments/assets/db40662a-c59e-4318-a19d-14ffa85c4246" />
+
+![https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/20170530_Nikon_D5_stacked.jpg/1280px-20170530_Nikon_D5_stacked.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/20170530_Nikon_D5_stacked.jpg/1280px-20170530_Nikon_D5_stacked.jpg)
+
+![https://images.cdn.us-central1.gcp.commercetools.com/f7c8f2bb-aff1-4581-a826-1ad2527be222/Top-1557_D5_top-_gBaxS0Y-large.png](https://images.cdn.us-central1.gcp.commercetools.com/f7c8f2bb-aff1-4581-a826-1ad2527be222/Top-1557_D5_top-_gBaxS0Y-large.png) 
+
+![https://www.kenrockwell.com/nikon/images1/d5/810_8994-top.jpg](https://www.kenrockwell.com/nikon/images1/d5/810_8994-top.jpg) 
+
 [Sega Rally Championship - Twin/DX (Revision C)](https://www.retrogames.cc/arcade-games/sega-rally-championship-twin-dx-revision-c.html)
 <img   alt="image" src="https://github.com/user-attachments/assets/07273bbc-b772-4cf1-9843-f9d1ee72cf69" />
 
