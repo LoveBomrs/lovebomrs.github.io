@@ -19,6 +19,11 @@ mathjax: true
 
 --- 
 
+
+@nasa-jpl can someone get this to Washington / Oregon  ? @cityoflosangeles [https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/wus/07/GOES18-WUS-07-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/wus/07/GOES18-WUS-07-1000x1000.gif) 
+
+![https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/wus/07/GOES18-WUS-07-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/wus/07/GOES18-WUS-07-1000x1000.gif) 
+
 // [Sweet Pursuit (feat. Kay Cola) · Skyzoo](https://youtu.be/qTCXmbhB4Wg?si=nwwak38aS2dLKR4N)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/66dc5369-790e-4f82-8467-ae893acd9023" />
