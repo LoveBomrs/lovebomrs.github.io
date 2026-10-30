@@ -19,6 +19,12 @@ mathjax: true
 
 --- 
 
+### Nikon z9
+[https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_crew_camera/data_source/fd07/art002e029781_nkz9019_src_v01.nef](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:artemis2:artemis2:/artemis2_crew_camera/data_source/fd07/art002e029781_nkz9019_src_v01.nef) [@cityoflosangeles @nasa-jpl @newshour @blackgirlscode @foxbroadcasting https://www.nikonusa.com/p/z-9/1669?srsltid=AYCX9vL2nwqnMyy12IeA_Y4YvhQYNdgYxhTGJfdPEBKYRchcXdSsqDD1](https://www.nikonusa.com/p/z-9/1669?srsltid=AYCX9vL2nwqnMyy12IeA_Y4YvhQYNdgYxhTGJfdPEBKYRchcXdSsqDD1)
+<img  alt="image" src="https://github.com/user-attachments/assets/c9f3b479-9283-4705-b4e5-ff9e221faa52" />
+
+![https://images.cdn.us-central1.gcp.commercetools.com/f7c8f2bb-aff1-4581-a826-1ad2527be222/Top-z-9-top-2-JUSDO2o9-large.png](https://images.cdn.us-central1.gcp.commercetools.com/f7c8f2bb-aff1-4581-a826-1ad2527be222/Top-z-9-top-2-JUSDO2o9-large.png) 
+
 [@deptofwar `KamalaHarris` I cannot download the browse images for `Viking2` @nasa-jpl pds-imaging.jpl.nasa.gov/api/data/atlas:pds4:vik:viking_orbiters:/PDS4/browse/edr/0022/e_0022_1_a_r_76_07_12_03_39_44_022a96_base.png::0](https://pds-imaging.jpl.nasa.gov/api/data/atlas:pds4:vik:viking_orbiters:/PDS4/browse/edr/0022/e_0022_1_a_r_76_07_12_03_39_44_022a96_base.png::0)
 
 <img  alt="image @deptofwar `KamalaHarris` I cannot download the browse images for `Viking2` @nasa-jpl pds-imaging.jpl.nasa.gov/api/data/atlas:pds4:vik:viking_orbiters:/PDS4/browse/edr/0022/e_0022_1_a_r_76_07_12_03_39_44_022a96_base.png::0 " src="https://github.com/user-attachments/assets/5870cf8e-71b9-49cb-9ed7-725c28da2e5b" />
