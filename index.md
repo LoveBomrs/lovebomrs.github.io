@@ -19,6 +19,14 @@ mathjax: true
 
 --- 
 
+[facebook.com/fanjamtv/ @nasa-jpl ](https://www.facebook.com/fanjamtv/)I was on this show I cannot find the full episode [@foratlanta @cityoflosangeles  https://www.facebook.com/fanjamtv/videos/rock-w-skyzoo-live-on-air-tomorrow-7pm-et-hell-be-talking-peddler-themes-with-fa/709445632573767/](https://www.facebook.com/fanjamtv/videos/rock-w-skyzoo-live-on-air-tomorrow-7pm-et-hell-be-talking-peddler-themes-with-fa/709445632573767/) [facebook.com/fanjamtv/](https://www.facebook.com/fanjamtv/)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/b655954a-5c1f-4cdf-bf47-0a1b59994d69" />
+
+[ @nasa-jpl https://www.facebook.com/checkpoint/1501092823525282/?next=https%3A%2F%2Fwww.facebook.com%2F%3Fcaa_reg_splash_screen%3D1# @meta](https://www.facebook.com/checkpoint/1501092823525282/?next=https%3A%2F%2Fwww.facebook.com%2F%3Fcaa_reg_splash_screen%3D1#) @emit-sds hi I'm trying to clean up my reconcilliation efforts to see what's what, I saw a fat woman driving my old mustang, its the mismatched alloy @CityOfLosAngeles its hard to get online [@instagram is the same](https://www.instagram.com/lanajharris/?hl=en) and the rapid increase in sexual partners and swapping and human slaves at the old dance school is astronomical @la-county-isd I am now a target for violence because The wave of unsolicited / unconsensual sex in my household I survivled. The people that got with them after me are embarrassed and having trouble dealing with the pain of partner loss sometimes departnering [@nbcnews @ajcnews https://www.facebook.com/checkpoint/1501092823525282/?next=https%3A%2F%2Fwww.facebook.com%2Ffanjamtv%2F#](https://www.facebook.com/checkpoint/1501092823525282/?next=https%3A%2F%2Fwww.facebook.com%2Ffanjamtv%2F#)
+
+<img  alt="image " src="https://github.com/user-attachments/assets/4f295c0d-732a-4658-92ea-98342a7d6e1a" />
+
 ### Nikon z9
 https://pds-imaging.jpl.nasa.gov/api/data/atlas:pds4:vik:viking_orbiters:/PDS4/browse/edr/0022/e_0022_1_a_r_76_07_12_03_39_44_022a96_base.png::0
 https://pds-imaging.jpl.nasa.gov/api/data/atlas:pds4:artemis2:artemis2:/artemis2_crew_camera/browse/fd06/art002e009300_nkz9019_prc_v01.png::0
