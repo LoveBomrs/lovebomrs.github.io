@@ -14,11 +14,27 @@ mathjax: true
   
 </picture>
 
-[Spontaneity · Bahamadia](https://youtu.be/S6rxanIXIv8?list=RDS6rxanIXIv8) // [How Long (Betcha' Got A Chick On The Side)](https://youtu.be/Ad4HPYFzJNU?list=RDAd4HPYFzJNU) // [Ghetto Mafia - For The Good Times (Straight From The Dec)](https://youtu.be/nuYSteLH104?list=RDnuYSteLH104) // [BLACK EFFECT · THE CARTERS](https://youtu.be/3HVqowAv_YQ?list=RD3HVqowAv_YQ) // [Kilo "Tick Tock" (1993) Atlanta Rap](https://youtu.be/R4YijJ0hCSI?list=RDR4YijJ0hCSI) // [Sweet Pursuit (feat. Kay Cola) · Skyzoo](https://youtu.be/qTCXmbhB4Wg?si=nwwak38aS2dLKR4N) // [@howard-university-web-services '95 Bad Boy Logo · Skyzoo](https://youtu.be/o52FiqDJg5c?list=PLZPEOlTnCG_oZy1iQ9C_gSiqS8tpP5_QE) // [Skyzoo & Pete Rock - Truck Jewels ](https://youtu.be/vlTNo_ijcD0?list=RDvlTNo_ijcD0&t=21)
+[Spontaneity · Bahamadia](https://youtu.be/S6rxanIXIv8?list=RDS6rxanIXIv8) // [How Long (Betcha' Got A Chick On The Side)](https://youtu.be/Ad4HPYFzJNU?list=RDAd4HPYFzJNU) // [Ghetto Mafia - For The Good Times (Straight From The Dec)](https://youtu.be/nuYSteLH104?list=RDnuYSteLH104) // [BLACK EFFECT · THE CARTERS](https://youtu.be/3HVqowAv_YQ?list=RD3HVqowAv_YQ) // [Kilo "Tick Tock" (1993) Atlanta Rap](https://youtu.be/R4YijJ0hCSI?list=RDR4YijJ0hCSI) // [Sweet Pursuit (feat. Kay Cola) · Skyzoo](https://youtu.be/qTCXmbhB4Wg?si=nwwak38aS2dLKR4N) // [@howard-university-web-services '95 Bad Boy Logo · Skyzoo](https://youtu.be/o52FiqDJg5c?list=PLZPEOlTnCG_oZy1iQ9C_gSiqS8tpP5_QE) // [Skyzoo & Pete Rock - Truck Jewels ](https://youtu.be/vlTNo_ijcD0?list=RDvlTNo_ijcD0&t=21) // [📀Apollo Brown & Skyzoo - 'The Easy Truth'📀](https://youtu.be/YDDQBTKi3DA?list=PLZb5Do1uBWhwBRWnr_fykxHVdiyckCJhy&t=21)
 
 
 --- 
 
+[@la-county-isd @nasa-jpl @nasa-pds @cityoflosangeles pds-imaging.jpl.nasa.gov/tools/atlas/search](https://pds-imaging.jpl.nasa.gov/tools/atlas/search) is slow from [ChinaTown Branch](https://locator.lacounty.gov/lac/Location/3176690/los-angeles-public-library---chinatown-branch) // [📀Apollo Brown & Skyzoo - 'The Easy Truth'📀 @blackgirlscode](https://youtu.be/YDDQBTKi3DA?list=PLZb5Do1uBWhwBRWnr_fykxHVdiyckCJhy&t=21)
+
+```shell 
+
+
+County Of Los Angeles
+Access Denied
+Error 16
+locator.lacounty.gov
+2026-10-30 22:34:29 UTC
+What happened?
+This request was blocked by our security service
+Your IP: 155.190.9.7
+Proxy IP: 45.60.151.78 (ID 101322-100)
+Incident ID: 1322000790067979522-118828155890439114
+```
 
 @nasa-jpl can someone get this to Washington / Oregon  ? @cityoflosangeles [https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/wus/07/GOES18-WUS-07-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/wus/07/GOES18-WUS-07-1000x1000.gif) 
 
