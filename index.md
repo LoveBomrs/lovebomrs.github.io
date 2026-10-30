@@ -19,6 +19,10 @@ mathjax: true
 
 --- 
 
+
+ [📀Apollo Brown & Skyzoo - 'The Easy Truth'📀](https://youtu.be/YDDQBTKi3DA?list=PLZb5Do1uBWhwBRWnr_fykxHVdiyckCJhy&t=553) // [Sega Rally Championship - Twin/DX (Revision C)](https://www.retrogames.cc/arcade-games/sega-rally-championship-twin-dx-revision-c.html)
+<img   alt="image" src="https://github.com/user-attachments/assets/4783f51d-ea3f-4262-abc6-e0eef6477503" />
+
 [@la-county-isd @nasa-jpl @nasa-pds @cityoflosangeles pds-imaging.jpl.nasa.gov/tools/atlas/search](https://pds-imaging.jpl.nasa.gov/tools/atlas/search) is slow from [ChinaTown Branch](https://locator.lacounty.gov/lac/Location/3176690/los-angeles-public-library---chinatown-branch) // [📀Apollo Brown & Skyzoo - 'The Easy Truth'📀 @blackgirlscode](https://youtu.be/YDDQBTKi3DA?list=PLZb5Do1uBWhwBRWnr_fykxHVdiyckCJhy&t=21)
 
 ```shell 
