@@ -14,12 +14,16 @@ mathjax: true
   
 </picture>
 
+--- 
+
+[Spontaneity · Bahamadia](https://youtu.be/S6rxanIXIv8?list=RDS6rxanIXIv8)
+[@nasa-jpl Martian Regolith as a Substrate for Foreign Planetary Horticulture](https://www.youtube.com/watch?v=c7YprboGKZE)
+<img   alt="image" src="https://github.com/user-attachments/assets/bbff9f8b-ac65-467c-86be-212b1433d4dd" />
+
 
 // [@ForAtlanta Young Jeezy The History Of Young Jeezy Full Mixtape](https://youtu.be/R3Tmx8fgWJA?list=PLDcRN5LMMiUKXesgIeVoxKZjLHbBrmLLR&t=287) // [DJ Rob Swift at Lorem Ipsom (Charlotte, NC): MLK Day set](https://youtu.be/O6BkRjqFahM?list=RDO6BkRjqFahM&t=1206) // [ROB SWIFT (Part 1): The Origin Of Hip Hop  R.O.A.D. #348 (FULL EPISODE) @cityoflosangeles](https://youtu.be/9gp6EY1VFLU) // [Founding Fathers The Untold Story of Hip Hop](https://youtu.be/Q__6DEpFSqo?si=z_FEVvAdkTIn85Ze) // [Beat Street 1984](https://youtu.be/4o5nrZGxyZQ) // [Graffiti Rock 1986](https://youtu.be/6V4IvwfaQZ4) // [1995 - HIP HOP DOCUMENTARY - THE SHOW](https://youtu.be/2UHm2ASOpXA) // [Style Wars - Full Movie - 1983](https://youtu.be/sc6WzZvyLZI) // [Cypress Hill: Insane in the Brain](https://youtu.be/ESDGZZds4eU) // [DJ Babu Boiler Room LA DJ Set](https://youtu.be/2aoBWcUii3k?list=RD2aoBWcUii3k) // [Turntable TV 1.0: Attack of the Robots](https://youtu.be/L8jJp5AwAZE?list=PLcWM-JSgdSMI7P_OoaoRXQLlKMU7aUTQX) // [SCRATCH: Hip Hop DJ & Turntablist Movement Documentary (2001)](https://youtu.be/k7V3_HkaYcY) // [FX the video](https://youtu.be/bW-74U5xuf4) // [FX crew the video (New York graffiti 1998) ft. T-Kid, Ces, Per, Snow, Sub, Poem and many more..`version?`..](https://youtu.be/W0W80yrcSUQ) // [Can’t Be Stopped  The Most Dangerous Crew in Hollywood](https://youtu.be/HxoUg-kWerI?si=t8cgaAmN35LmfKUw) // [Wild Style (1982)  Full Movie  Music/Drama](https://youtu.be/y6v3kwj5i9g) // [Yo! MTV Raps Hosted by Ghostface & Raekwon](https://youtu.be/8o5F14qYl-I?t=16) // [Something from Nothing: The Art of Rap  FULL MOVIE  Ice-T, Q-Tip, Snoop, Eminem, Bun-B](https://youtu.be/d_-xReCd2lw) // [Tableturns: A Great Day In Turntablism: Tableturns 4th Anniversary](https://youtu.be/MR5QbqnylrY?list=RDMR5QbqnylrY) // [Los Angeles Mayor Karen Bass joins CBS LA for conversation about reelection bid,vision for next 4 y](https://youtu.be/MiR6NFb3Zzs) // [Kirk Franklin Defends GloRilla, Reveals Funny Kanye West Story & Owns Who He Is](https://youtu.be/2UbwhztCXbE) // [Brooklyn Bridge Protest, Train Looting & Airport Fire](https://youtu.be/w48jFLGNnwM?t=10) // [Incoming Congresswoman Darializa Avila Chevalier on ICE, Democratic Socialism & The Youth Movement](https://youtu.be/4A2VUCT6C0w) // [Nithya Raman's disaster preparedness press conference](https://youtu.be/kSy6G4PX9HA) // [Quran: 4. Surat An-Nisa (The Women): Arabic and English translation HD](https://youtu.be/0lMNMwTB5M8) // [UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories](https://youtu.be/XvDZLjaCJuw)
 
 
-[@nasa-jpl Martian Regolith as a Substrate for Foreign Planetary Horticulture](https://www.youtube.com/watch?v=c7YprboGKZE)
-<img   alt="image" src="https://github.com/user-attachments/assets/bbff9f8b-ac65-467c-86be-212b1433d4dd" />
 
 [@nasa-pds  youtube.com/@NASASTIProgram](https://www.youtube.com/@NASASTIProgram) voyager is sending data [`WATCH` - 👀](https://www.youtube.com/watch?v=X5wP5FSwTPo&t=12s)
 [@nasa-jpl 👀 scan-now.gsfc.nasa.gov/scan](https://scan-now.gsfc.nasa.gov/scan)
