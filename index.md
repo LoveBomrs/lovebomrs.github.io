@@ -19,6 +19,10 @@ mathjax: true
 
 --- 
 
+// [Sweet Pursuit (feat. Kay Cola) · Skyzoo](https://youtu.be/qTCXmbhB4Wg?si=nwwak38aS2dLKR4N)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/66dc5369-790e-4f82-8467-ae893acd9023" />
+
 [facebook.com/fanjamtv/ @nasa-jpl ](https://www.facebook.com/fanjamtv/)I was on this show I cannot find the full episode [@foratlanta @cityoflosangeles  https://www.facebook.com/fanjamtv/videos/rock-w-skyzoo-live-on-air-tomorrow-7pm-et-hell-be-talking-peddler-themes-with-fa/709445632573767/](https://www.facebook.com/fanjamtv/videos/rock-w-skyzoo-live-on-air-tomorrow-7pm-et-hell-be-talking-peddler-themes-with-fa/709445632573767/) [facebook.com/fanjamtv/](https://www.facebook.com/fanjamtv/)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/b655954a-5c1f-4cdf-bf47-0a1b59994d69" />
