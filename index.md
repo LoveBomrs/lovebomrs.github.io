@@ -23,7 +23,8 @@ mathjax: true
 
 <img  alt="image @deptofwar `KamalaHarris` I cannot download the browse images for `Viking2` @nasa-jpl pds-imaging.jpl.nasa.gov/api/data/atlas:pds4:vik:viking_orbiters:/PDS4/browse/edr/0022/e_0022_1_a_r_76_07_12_03_39_44_022a96_base.png::0 " src="https://github.com/user-attachments/assets/5870cf8e-71b9-49cb-9ed7-725c28da2e5b" />
 
-@whitehouse that's a @CityOflosangeles @dell screenshot on @GoogleChrome 
+@whitehouse that's a @CityOflosangeles @dell screenshot on @GoogleChrome [https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:vik:viking_orbiters:/PDS4/data/edr/0022/e_0022_1_a_r_76_07_12_03_39_44_022a96.fits](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:vik:viking_orbiters:/PDS4/data/edr/0022/e_0022_1_a_r_76_07_12_03_39_44_022a96.fits) 
+
 <img alt="image image @deptofwar `KamalaHarris` I cannot download the browse images for `Viking2` @nasa-jpl pds-imaging.jpl.nasa.gov/api/data/atlas:pds4:vik:viking_orbiters:/PDS4/browse/edr/0022/e_0022_1_a_r_76_07_12_03_39_44_022a96_base.png::0  @whitehouse that's a @CityOflosangeles @dell screenshot on @GoogleChrome  " src="https://github.com/user-attachments/assets/08bf644c-090a-4584-8a31-ad5ab10da5f6" />
 
 [@nasa-pds Escapade Blue talked! @ucberkeley @ajcnews](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
