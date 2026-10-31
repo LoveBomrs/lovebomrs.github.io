@@ -21,6 +21,10 @@ mathjax: true
 
 
 ## Mars2020 [Persevereance @Nasa-PDS @La-County-isd](https://eyes.nasa.gov/apps/mars2020/#/home)
+
+[NRF_0031_0669696229_273RAD_N0030834NCAM00601_0A00LLJ02.IMG](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:mars_2020:perseverance:/mars2020_navcam_ops_calibrated/data/sol/00031/ids/rdr/ncam/NRF_0031_0669696229_273RAD_N0030834NCAM00601_0A00LLJ02.IMG)
+<img   alt="NRF_0031_0669696229_273RAD_N0030834NCAM00601_0A00LLJ02" src="https://github.com/user-attachments/assets/79b0c0b6-752e-45bf-80db-4990439042e7" />
+
 [N_LRGB_0072XRZS_0032208_POL_L_AUTOGENJ05.IMG](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:mars_2020:perseverance:/mars2020_navcam_ops_mosaic/data/sol/00072/ids/rdr/mosaic/N_LRGB_0072XRZS_0032208_POL_L_AUTOGENJ05.IMG)
 
 <img   alt="N_LRGB_0072XRZS_0032208_POL_L_AUTOGENJ05" src="https://github.com/user-attachments/assets/6eb96b97-89c2-4c90-8baf-476dc8988bbe" />
