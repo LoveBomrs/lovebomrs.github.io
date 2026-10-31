@@ -19,6 +19,12 @@ mathjax: true
 
 --- 
 
+#### NISAR_L1_PR_RSLC_032_127_D_068_4005_DHDH_A_20261009T002541_20261009T002616_P05023_N_F_J_001_NATIVE
+[@isro mr trump went to ohio](https://youtu.be/flDKproelJ0) recently, so theres a lot to look at and explore for our countries initiatives using [nisar](https://bhoonidhi.nrsc.gov.in/NISAR/NisarProducts.html) @eosdis-nasa @doug-newman-nasa , theres a lot i did for some emergency they had when the lakes were still frozen . . I hope i dont get drafted by glenn, i would hate to cross paths with latrice @nasa-pds @la-county-isd 
+
+<img   alt="NISAR_L1_PR_RSLC_032_127_D_068_4005_DHDH_A_20261009T002541_20261009T002616_P05023_N_F_J_001_NATIVE" src="https://github.com/user-attachments/assets/9c457a71-1a5f-4730-978a-136982448096" />
+
+
 [@Blackgirlscode - Run and Gun (ver EAA 1993 10.8 @deptofwar @KONAMI)](https://www.retrogames.cc/arcade-games/run-and-gun-ver-eaa-1993-10-8.html)
 
 <p><img src="https://ia801802.us.archive.org/0/items/Battletoads-NES-CartScans/Battletoads%20-%20Cart%20Top.jpg" alt="BattleToads" />
