@@ -19,6 +19,7 @@ mathjax: true
 
 --- 
 
+<img  alt="ezgif-resized @nasa-jpl fwd to glenn @nasa @deptofwar ECOv002_L2T_LSTE_47105_007_17TMG_20261026T064831_0713_01" src="https://github.com/user-attachments/assets/80e53c91-69b5-4521-a44d-bf190aac4340" />
 
  @nasa-jpl fwd to glenn @nasa @deptofwar ECOv002_L2T_LSTE_47105_007_17TMG_20261026T064831_0713_01
 
