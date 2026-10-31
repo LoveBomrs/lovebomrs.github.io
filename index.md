@@ -20,6 +20,9 @@ mathjax: true
 --- 
 
 
+#### EMIT_L2A_RFL_001_20260404T155044_2609410_021
+<img   alt="EMIT_L2A_RFL_001_20260404T155044_2609410_021" src="https://github.com/user-attachments/assets/912826c2-b3e2-47c3-b5e1-d2d3c66adc97" />
+
 #### EMIT_L2A_RFL_001_20260619T155406_2617010_026
 [Nas - Christmastic (Full Album) @ajcnews @newshour @emit-sds @emit-main](https://youtu.be/F7Ikn9WrSJU?t=697)
 <img alt="EMIT_L2A_RFL_001_20260619T155406_2617010_026" src="https://github.com/user-attachments/assets/76e2c220-3066-4564-9231-78cf2ed8f7aa" />
