@@ -20,6 +20,13 @@ mathjax: true
 --- 
 
 
+## Mars2020 [Persevereance @Nasa-PDS @La-County-isd](https://eyes.nasa.gov/apps/mars2020/#/home)
+[N_LRGB_0072XRZS_0032208_POL_L_AUTOGENJ05.IMG](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:mars_2020:perseverance:/mars2020_navcam_ops_mosaic/data/sol/00072/ids/rdr/mosaic/N_LRGB_0072XRZS_0032208_POL_L_AUTOGENJ05.IMG)
+
+<img   alt="N_LRGB_0072XRZS_0032208_POL_L_AUTOGENJ05" src="https://github.com/user-attachments/assets/6eb96b97-89c2-4c90-8baf-476dc8988bbe" />
+
+![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/5/25068_MarsPerseverance-Launch-Red-Circle-Logo-Black-Text-Side-Stacked-web.jpg?w=800&h=353&fit=clip&crop=faces%2Cfocalpoint](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/5/25068_MarsPerseverance-Launch-Red-Circle-Logo-Black-Text-Side-Stacked-web.jpg?w=800&h=353&fit=clip&crop=faces%2Cfocalpoint)
+
 ## [JPL](https://www.google.com/search?sca_esv=6375638c50974878&rlz=1C1GCEJ_enUS1223US1223&sxsrf=AKL5yDh37WLXf304SEOszwpdG3jlTcJPfQ:1793467897301&q=nasa+jpl&tbm=nws&source=lnms&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVfV7IrCC-uMahHi-o76ZNK3tX9UMH0zQbMM7lj-7vcC46Iv0XPbl6BjffjjRv5nXzwY_ELrfz4bgMaw2SZrYYSLdyFn9yRssXZPySFjJr6ONW9BGqHHJ2darGxhTzk2KwTuqrudi4y2VHgnv2DDyeW6FqLYSoK76OLaNhQNmBdtPrBph5Q&sa=X&ved=2ahUKEwiK37zH5OSXAxWRHEQIHTDoI1oQ0pQJegQIKRAB&biw=528&bih=992&dpr=1) x [Firefly](https://fireflyspace.com/) [Aerospace](https://fireflyspace.com/company/)
 [`WATCH` @LA-COUNTY-ISD @CityOFLOSANGELES - youtu.be/Vx-JkoYGGv4?t=501](https://youtu.be/Vx-JkoYGGv4?t=501)
 <img alt="image" src="https://github.com/user-attachments/assets/5ef99892-2515-4862-a8ff-405dbbab3f52" />
