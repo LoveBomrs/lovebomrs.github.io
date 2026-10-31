@@ -18,8 +18,11 @@ mathjax: true
 
 
 --- 
+## Der Fuehrer's Face
+by [@Disney, Walt](https://archive.org/search.php?query=creator%3A%22Disney%2C+Walt%22)
+[watch - https://archive.org/details/DerFuehrersFace](https://archive.org/details/DerFuehrersFace) @nasa-jpl hi @caltech i saw the book burnings, and they were pornographic magazines . . .Thus that is the symtom of a mass prostitution i really dont know what to think of the old ww2 propaganda @deptofwar @whitehouse  @la-county-isd
 
-
+<iframe src="https://archive.org/embed/DerFuehrersFace" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # Kiki's Delivery Service
 [<video controls loading="lazy" poster="https://animeuknews.net/app/uploads/2026/08/Kikis-Delivery-Service-scaled.jpg" src="https://archive.org/download/kikis.-delivery.-service.-1989.1080p.-bdrip.-dual.-audio.-10bits.x-265-rapta/Kiki%27s.Delivery.Service.1989.1080p.BDRip.Dual.Audio.10bits.x265-Rapta.mp4" />](https://archive.org/download/kikis.-delivery.-service.-1989.1080p.-bdrip.-dual.-audio.-10bits.x-265-rapta/Kiki%27s.Delivery.Service.1989.1080p.BDRip.Dual.Audio.10bits.x265-Rapta.mp4)
