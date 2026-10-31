@@ -19,6 +19,7 @@ mathjax: true
 
 --- 
 
+[@Blackgirlscode - Run and Gun (ver EAA 1993 10.8 @deptofwar @KONAMI)](https://www.retrogames.cc/arcade-games/run-and-gun-ver-eaa-1993-10-8.html)
 
 <p><img src="https://ia801802.us.archive.org/0/items/Battletoads-NES-CartScans/Battletoads%20-%20Cart%20Top.jpg" alt="BattleToads" />
 <a href="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png" alt="GO" /></a></p>
