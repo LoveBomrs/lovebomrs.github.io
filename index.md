@@ -19,6 +19,9 @@ mathjax: true
 
 --- 
 
+@City-of-Cleveland
+<img  alt=" @City-of-Cleveland EMIT_L1B_RAD_001_20260804T152856_2621610_026" src="https://github.com/user-attachments/assets/5e7cb277-ae96-4eba-9be8-c9722a93bb51" />
+
 
 ### LAKE EriE 
 [Nas - Christmastic (Full Album)](https://youtu.be/F7Ikn9WrSJU?t=1350)
