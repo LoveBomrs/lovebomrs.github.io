@@ -20,6 +20,16 @@ mathjax: true
 --- 
 
 
+
+# Kiki's Delivery Service
+[<video controls loading="lazy" poster="https://animeuknews.net/app/uploads/2026/08/Kikis-Delivery-Service-scaled.jpg" src="https://archive.org/download/kikis.-delivery.-service.-1989.1080p.-bdrip.-dual.-audio.-10bits.x-265-rapta/Kiki%27s.Delivery.Service.1989.1080p.BDRip.Dual.Audio.10bits.x265-Rapta.mp4" />](https://archive.org/download/kikis.-delivery.-service.-1989.1080p.-bdrip.-dual.-audio.-10bits.x-265-rapta/Kiki%27s.Delivery.Service.1989.1080p.BDRip.Dual.Audio.10bits.x265-Rapta.mp4)
+[@ajcnews @cityoflosangeles @foratlanta animeuknews.net/2026/08/kikis-delivery-service-review/](https://animeuknews.net/2026/08/kikis-delivery-service-review/)
+<img alt="image" src="https://github.com/user-attachments/assets/f6779cd9-0fcb-46d1-8f69-ec9e375883e3" />
+
+### Adding captions and subtitles to HTML video
+[@blackgirlscode developer.mozilla.org/en-US/docs/Web/Media/Guides/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video)
+<img   alt="image" src="https://github.com/user-attachments/assets/5ca0d898-caf9-422e-b0aa-0b1889aa31bb" />
+
 ## Mars2020 [Persevereance @Nasa-PDS @La-County-isd](https://eyes.nasa.gov/apps/mars2020/#/home)
 
 
