@@ -19,6 +19,9 @@ mathjax: true
 
 --- 
 
+[OPERA_L2_RTC-S1_T150-320285-IW2_20260925T232346Z_20261011T050218Z_S1D_30_v1 0_BROWSE @whitehouse @nasa-jpl @asfadmin whitehouse.gov/releases/2026/10/president-trump-returns-to-ohio-with-a-record-of-results/](https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-ohio-with-a-record-of-results/)
+<img   alt="OPERA_L2_RTC-S1_T150-320285-IW2_20260925T232346Z_20261011T050218Z_S1D_30_v1 0_BROWSE" src="https://github.com/user-attachments/assets/0b35f86f-b54c-4e1f-aa96-62740fed0aa2" />
+
 
 OPERA_L3_DISP-S1_IW_F40036_VV_20240624T232431Z_20240928T232431Z_v1 0_20260310T035128Z_BROWSE
 Discover and Access the OPERA-DISP Dataset Using [ASF DAAC’s Displacement Portal @asfadmin https://www.earthdata.nasa.gov/learn/webinars/discover-access-opera-disp-dataset-using-asf-daacs-displacement-portal](https://www.earthdata.nasa.gov/learn/webinars/discover-access-opera-disp-dataset-using-asf-daacs-displacement-portal)  [webinar](https://www.youtube.com/watch?v=BLzEvT-mdkU) @asfadmin [@nasa-jpl jpl.nasa.gov/go/opera/](https://www.jpl.nasa.gov/go/opera/)
