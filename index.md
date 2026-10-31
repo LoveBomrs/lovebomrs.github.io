@@ -19,8 +19,6 @@ mathjax: true
 
 --- 
 
-<img alt="image" src="https://github.com/user-attachments/assets/fdbb2e9b-8f14-49e8-a58e-1c06f1ab6072" />
-
 <img  alt="NavySeasonalWindsOfThePacific1972-01" src="https://github.com/user-attachments/assets/3b04aff4-0178-497c-ab10-9ee5f908864d" />
 <img  alt="NavySeasonalWindsOfThePacific1972-02" src="https://github.com/user-attachments/assets/b5bd9b9d-d1fd-4804-81a2-3ab1253e79d0" />
 <img   alt="NavySeasonalWindsOfThePacific1972-04" src="https://github.com/user-attachments/assets/f3b82c48-9a0a-474e-8d4e-f18e1286497e" />
