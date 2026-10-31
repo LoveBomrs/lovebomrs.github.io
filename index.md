@@ -18,6 +18,12 @@ mathjax: true
 
 
 --- 
+
+
+#### EMIT_L2A_RFL_001_20260619T155406_2617010_026
+[Nas - Christmastic (Full Album) @ajcnews @newshour @emit-sds @emit-main](https://youtu.be/F7Ikn9WrSJU?t=697)
+<img alt="EMIT_L2A_RFL_001_20260619T155406_2617010_026" src="https://github.com/user-attachments/assets/76e2c220-3066-4564-9231-78cf2ed8f7aa" />
+
 [Nas - Christmastic (Full Album) @esa @ukspaceagency @jaxa](https://youtu.be/F7Ikn9WrSJU?t=443)
 #### S1D_IW_GRDH_1SDV_20260901T232327_20260901T232352_004391_0081E7_5F16
 [earthdata.nasa.gov/data/platforms/space-based-platforms/sentinel-1](https://www.earthdata.nasa.gov/data/platforms/space-based-platforms/sentinel-1)
