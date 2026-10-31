@@ -20,7 +20,7 @@ mathjax: true
 --- 
 
 
-##  The Lana Rundown
+##  The [Lana](https://podcasts.apple.com/dz/podcast/from-newsroom-to-hot-97-lana-harris-on-betting-on-yourself/id1807999562?i=1000744063416&l=ar) Rundown
 [`WATCH` @fbicyber US War Report, FBI Bribery Probe & Shell Oil Profits](https://youtu.be/JfHA764Cy9g?t=1127)
 
 <img alt="image" src="https://github.com/user-attachments/assets/dd97a264-a49e-4ed8-b89f-1ae36b539334" />
