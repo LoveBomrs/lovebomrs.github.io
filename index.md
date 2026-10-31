@@ -20,6 +20,10 @@ mathjax: true
 --- 
 
 
+#### EMIT_L2A_RFL_001_20260804T152856_2621610_026
+@City-of-Cleveland
+<img  alt="EMIT_L2A_RFL_001_20260804T152856_2621610_026 @City-of-Cleveland" src="https://github.com/user-attachments/assets/5bd28432-5483-4d2d-9479-c3f5ae8407bf" />
+
 #### EMIT_L2A_RFL_001_20260404T155044_2609410_021
 <img   alt="EMIT_L2A_RFL_001_20260404T155044_2609410_021" src="https://github.com/user-attachments/assets/912826c2-b3e2-47c3-b5e1-d2d3c66adc97" />
 
