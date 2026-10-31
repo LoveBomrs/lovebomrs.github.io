@@ -26,6 +26,8 @@ mathjax: true
 [@ajcnews @cityoflosangeles @foratlanta animeuknews.net/2026/08/kikis-delivery-service-review/](https://animeuknews.net/2026/08/kikis-delivery-service-review/)
 <img alt="image" src="https://github.com/user-attachments/assets/f6779cd9-0fcb-46d1-8f69-ec9e375883e3" />
 
+<img   alt="image" src="https://github.com/user-attachments/assets/4297c9ef-35bc-4a4e-b252-5bc309376389" />
+
 ### Adding captions and subtitles to HTML video
 [@blackgirlscode developer.mozilla.org/en-US/docs/Web/Media/Guides/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video)
 <img   alt="image" src="https://github.com/user-attachments/assets/5ca0d898-caf9-422e-b0aa-0b1889aa31bb" />
