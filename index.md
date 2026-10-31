@@ -19,6 +19,8 @@ mathjax: true
 
 --- 
 
+#### EMIT_L2A_RFL_001_20250602T165307_2515311_036
+<img  alt="EMIT_L2A_RFL_001_20250602T165307_2515311_036" src="https://github.com/user-attachments/assets/d2c4f449-8ef8-454c-91fb-a7d5ed98ef26" />
 
 #### EMIT_L2A_RFL_001_20260804T152856_2621610_026
 @City-of-Cleveland
