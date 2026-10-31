@@ -19,7 +19,8 @@ mathjax: true
 
 --- 
 
-<img  alt="ezgif-resized @nasa-jpl fwd to glenn @nasa @deptofwar ECOv002_L2T_LSTE_47105_007_17TMG_20261026T064831_0713_01" src="https://github.com/user-attachments/assets/80e53c91-69b5-4521-a44d-bf190aac4340" />
+<img  alt="ezgif-resized @Longbeachinnovationteam @la-county-isd @cityoflosangeles @nasa-jpl fwd to glenn @nasa @deptofwar ECOv002_L2T_LSTE_47105_007_17TMG_20261026T064831_0713_01 (1)" src="https://github.com/user-attachments/assets/19afc913-9b7f-46da-adf1-3fa3181e767f" />
+
 
  @nasa-jpl fwd to glenn @nasa @deptofwar ECOv002_L2T_LSTE_47105_007_17TMG_20261026T064831_0713_01
 
