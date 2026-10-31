@@ -21,6 +21,7 @@ mathjax: true
 
 
 ### LAKE EriE 
+[Nas - Christmastic (Full Album)](https://youtu.be/F7Ikn9WrSJU?t=1350)
 [https://search.earthdata.nasa.gov/search/granules?p=C240875069023&zoom=8.729567787948492](https://search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4123969127-LPCLOUD&q=emit&sb[0]=-82.15566%2C41.33702%2C-81.62875%2C41.57522&lat=41.372802085058936&long=-81.75704255665323&zoom=8.729567787948492)
 
 <img  alt="EMIT_L1B_RAD_001_20260821T145202_2623310_002" src="https://github.com/user-attachments/assets/b55f0045-d787-4b0e-9f1c-df3f64a2c554" />
