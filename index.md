@@ -18,6 +18,9 @@ mathjax: true
 
 
 --- 
+
+![https://archive.org/download/C-1997-2554/1997_02554.jpg](https://archive.org/download/C-1997-2554/1997_02554.jpg) 
+
 ## Der Fuehrer's Face
 by [@Disney, Walt](https://archive.org/search.php?query=creator%3A%22Disney%2C+Walt%22)
 [watch - https://archive.org/details/DerFuehrersFace](https://archive.org/details/DerFuehrersFace) @nasa-jpl hi @caltech i saw the book burnings, and they were pornographic magazines . . .Thus that is the symtom of a mass prostitution i really dont know what to think of the old ww2 propaganda @deptofwar @whitehouse  @la-county-isd
