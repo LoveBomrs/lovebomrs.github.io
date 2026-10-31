@@ -19,6 +19,19 @@ mathjax: true
 
 --- 
 
+
+<p><img src="https://ia801802.us.archive.org/0/items/Battletoads-NES-CartScans/Battletoads%20-%20Cart%20Top.jpg" alt="BattleToads" />
+<a href="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png" alt="GO" /></a></p>
+
+<h1 id="the-legend-of-zelda">The Legend of Zelda</h1>
+<p>franchise created by Japanese game designers Shigeru Miyamoto and Takashi Tezuka… <a href="https://www.youtube.com/watch?v=Sz_YPczxzZc">Amazing</a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/2/2a/Zelda_Logo.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Zelda_Logo.svg" /></a>
+<a href="https://www.nesfiles.com/NES/Zelda/">Zelda</a> wow
+<a href="https://zelda.fandom.com/wiki/The_Legend_of_Zelda">FANDOM</a> <a href="https://en.wikipedia.org/wiki/The_Legend_of_Zelda">WiKi</a> <a href="https://www.nintendo.com/en-gb/Games/NES/The-Legend-of-Zelda-796345.html">NinTenDo</a> <a href="https://forums.atariage.com/topic/325208-it-appears-that-i-have-a-pretty-early-copy-of-zelda/">inside cart photos</a>
+<img alt="The Legend of Zelda is the first installment of the The Legend of Zelda series." src="https://www.nesfiles.com/NES/Zelda/Zelda_top.jpg" itemprop="quest" itemscope="" itemtype="https://schema.org/VideoGameSeries" />
+<img alt="The Legend of Zelda is the first installment of the The Legend of Zelda series." src="https://www.nesfiles.com/NES/Zelda/Zelda_cart.jpg" itemprop="quest" itemscope="" itemtype="https://schema.org/VideoGameSeries" />
+<img alt="The Legend of Zelda is the first installment of the The Legend of Zelda series." src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHN4ZHMxZWJxYW9xdnU4dndvbnd4YTUxYTlwb2dpeW5yZ2x0cTh5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/leAV27tKs2PiE/giphy.webp" itemprop="isFamilyFriendly" itemscope="" itemtype="https://schema.org/VideoGameSeries" /></p>
+
 ![https://archive.org/download/C-1997-2554/1997_02554.jpg](https://archive.org/download/C-1997-2554/1997_02554.jpg) 
 
 ## Der Fuehrer's Face
