@@ -20,7 +20,12 @@ mathjax: true
 --- 
 
 #### EMIT_L2A_RFL_001_20250602T165307_2515311_036
+[Nas - Christmastic (Full Album)](https://youtu.be/F7Ikn9WrSJU?t=1116)
 <img  alt="EMIT_L2A_RFL_001_20250602T165307_2515311_036" src="https://github.com/user-attachments/assets/d2c4f449-8ef8-454c-91fb-a7d5ed98ef26" />
+
+[https://search.earthdata.nasa.gov/search/granules?p=C2408750-82.15566%2C41.33702%2C-81.62875%2C41.57522&lat=41.372802085058936&long=-81.75704255665323&zoom=8.729567787948492](https://search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4123969127-LPCLOUD&q=emit&sb[0]=-82.15566%2C41.33702%2C-81.62875%2C41.57522&lat=41.372802085058936&long=-81.75704255665323&zoom=8.729567787948492)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/99bdc5f6-4689-403a-9963-ae31105a3d25" />
 
 #### EMIT_L2A_RFL_001_20260804T152856_2621610_026
 @City-of-Cleveland
