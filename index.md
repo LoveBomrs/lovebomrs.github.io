@@ -19,6 +19,24 @@ mathjax: true
 
 --- 
 
+<img alt="image" src="https://github.com/user-attachments/assets/fdbb2e9b-8f14-49e8-a58e-1c06f1ab6072" />
+
+<img  alt="NavySeasonalWindsOfThePacific1972-01" src="https://github.com/user-attachments/assets/3b04aff4-0178-497c-ab10-9ee5f908864d" />
+<img  alt="NavySeasonalWindsOfThePacific1972-02" src="https://github.com/user-attachments/assets/b5bd9b9d-d1fd-4804-81a2-3ab1253e79d0" />
+<img   alt="NavySeasonalWindsOfThePacific1972-04" src="https://github.com/user-attachments/assets/f3b82c48-9a0a-474e-8d4e-f18e1286497e" />
+
+_RightNow_ @USnavy I'll make it a card at some point I'm just gathering data @nasa-jpl / @deptofwar did you see my [Barron trump concern](https://youtu.be/GriqJ94kRro?si=MJ7Pz8TJK1xVX7wp) message ? I saw it on [Lana J HArris](https://www.threads.com/@lanajharris) show. being from Atlanta she super into [TMZ](https://www.tmz.com/2026/08/26/jed-york-prostitution-arrest-being-checked-on-by-nfl/) and shit so sometimes they say important things ... [@NFL tmz.com/2026/08/26/jed-york-prostitution-arrest-being-checked-on-by-nfl/](https://www.tmz.com/2026/08/26/jed-york-prostitution-arrest-being-checked-on-by-nfl/)
+
+
+![https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DMW/20262381301-20262390046-GOES18-ABI-CONUS-DMW-1250x750.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DMW/20262381301-20262390046-GOES18-ABI-CONUS-DMW-1250x750.gif) 
+
+--- 
+
+![https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DMW/GOES18-ABI-CONUS-DMW.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DMW/GOES18-ABI-CONUS-DMW.gif) 
+
+<img  alt="NavySeasonalWindsOfThePacific1972-05" src="https://github.com/user-attachments/assets/759a3974-1ebd-4c33-805a-252e73759809" />
+
+
 [OPERA_L2_RTC-S1_T150-320285-IW2_20260925T232346Z_20261011T050218Z_S1D_30_v1 0_BROWSE @whitehouse @nasa-jpl @asfadmin whitehouse.gov/releases/2026/10/president-trump-returns-to-ohio-with-a-record-of-results/](https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-ohio-with-a-record-of-results/)
 <img   alt="OPERA_L2_RTC-S1_T150-320285-IW2_20260925T232346Z_20261011T050218Z_S1D_30_v1 0_BROWSE" src="https://github.com/user-attachments/assets/0b35f86f-b54c-4e1f-aa96-62740fed0aa2" />
 
