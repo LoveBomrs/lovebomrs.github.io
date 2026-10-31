@@ -19,6 +19,17 @@ mathjax: true
 
 --- 
 
+
+##  The Lana Rundown
+[`WATCH` @fbicyber US War Report, FBI Bribery Probe & Shell Oil Profits](https://youtu.be/JfHA764Cy9g?t=1127)
+
+<img alt="image" src="https://github.com/user-attachments/assets/dd97a264-a49e-4ed8-b89f-1ae36b539334" />
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The #FBI honors the heroic efforts of firefighters, police officers, EMTs, and other dedicated first responders nationwide. These individuals risk their lives and run toward danger without hesitation to protect others. On this #NationalFirstResponderDay and every day, we thank you for everything you do.</p>&mdash; FBI Cincinnati (@FBICincinnati) <a href="https://x.com/FBICincinnati/status/2115529558401208788?ref_src=twsrc%5Etfw">October 28, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+![https://www.fbi.gov/image-repository/fbi-director-kash-patel-022525.jpg/@@images/image/high](https://www.fbi.gov/image-repository/fbi-director-kash-patel-022525.jpg/@@images/image/high) 
+
 <img  alt="NavySeasonalWindsOfThePacific1972-01" src="https://github.com/user-attachments/assets/3b04aff4-0178-497c-ab10-9ee5f908864d" />
 <img  alt="NavySeasonalWindsOfThePacific1972-02" src="https://github.com/user-attachments/assets/b5bd9b9d-d1fd-4804-81a2-3ab1253e79d0" />
 <img   alt="NavySeasonalWindsOfThePacific1972-04" src="https://github.com/user-attachments/assets/f3b82c48-9a0a-474e-8d4e-f18e1286497e" />
