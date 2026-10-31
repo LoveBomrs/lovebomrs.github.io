@@ -19,6 +19,25 @@ mathjax: true
 
 --- 
 
+
+ @nasa-jpl fwd to glenn @nasa @deptofwar ECOv002_L2T_LSTE_47105_007_17TMG_20261026T064831_0713_01
+
+<img  alt=" @nasa-jpl fwd to glenn @nasa @deptofwar ECOv002_L2T_LSTE_47105_007_17TMG_20261026T064831_0713_01" src="https://github.com/user-attachments/assets/6ddcdbf9-be16-44ea-bf0e-109e5fb6a295" />
+
+
+
+<img  alt="image @City-of-Cleveland" src="https://github.com/user-attachments/assets/d4259af3-b1ec-4658-8af4-b8f930466c76" />
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl @City-of-Cleveland https://ecostress.jpl.nasa.gov " src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
 @City-of-Cleveland
 <img  alt=" @City-of-Cleveland EMIT_L1B_RAD_001_20260804T152856_2621610_026" src="https://github.com/user-attachments/assets/5e7cb277-ae96-4eba-9be8-c9722a93bb51" />
 
