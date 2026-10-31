@@ -22,8 +22,16 @@ mathjax: true
 
 ##  The [Lana](https://podcasts.apple.com/dz/podcast/from-newsroom-to-hot-97-lana-harris-on-betting-on-yourself/id1807999562?i=1000744063416&l=ar) Rundown
 [`WATCH` @fbicyber US War Report, FBI Bribery Probe & Shell Oil Profits](https://youtu.be/JfHA764Cy9g?t=1127)
-
+[fbi.gov/about/leadership-and-structure/`director-patel`](https://www.fbi.gov/about/leadership-and-structure/director-patel)
 <img alt="image" src="https://github.com/user-attachments/assets/dd97a264-a49e-4ed8-b89f-1ae36b539334" />
+
+[https://worldview.earthdata.nasa.gov/?v=-82.1811416859437,41.25560619307361,-81.41512248917495,41.63263126648324&l=Reference_Labels_15m,DoS_International_Boundaries(hidden),Admin_Boundaries(hidden),Coastlines_15m,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1_12Day,OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1(disabled=5),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-10-07-T20%3A44%3A52Z](https://worldview.earthdata.nasa.gov/?v=-82.1811416859437,41.25560619307361,-81.41512248917495,41.63263126648324&l=Reference_Labels_15m,DoS_International_Boundaries(hidden),Admin_Boundaries(hidden),Coastlines_15m,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1_12Day,OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1(disabled=5),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-10-07-T20%3A44%3A52Z)
+
+<img   alt="snapshot-2026-10-07 (2)" src="https://github.com/user-attachments/assets/4a24cd2c-3146-4194-b788-a3f05497b1db" />
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
+
+[https://worldview.earthdata.nasa.gov/?v=-84.00168809397482,39.64644834630837,-79.13776937886058,41.898544043046165&l=Reference_52Z](https://worldview.earthdata.nasa.gov/?v=-84.00168809397482,39.64644834630837,-79.13776937886058,41.898544043046165&l=Reference_Labels_15m,DoS_International_Boundaries(hidden),Admin_Boundaries(hidden),Coastlines_15m,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1_12Day,OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1(disabled=5),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-10-07-T20%3A44%3A52Z)
+<img  alt="snapshot-2026-10-07 (1)" src="https://github.com/user-attachments/assets/a77930ec-09ac-4046-923e-86d3985858e4" />
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The #FBI honors the heroic efforts of firefighters, police officers, EMTs, and other dedicated first responders nationwide. These individuals risk their lives and run toward danger without hesitation to protect others. On this #NationalFirstResponderDay and every day, we thank you for everything you do.</p>&mdash; FBI Cincinnati (@FBICincinnati) <a href="https://x.com/FBICincinnati/status/2115529558401208788?ref_src=twsrc%5Etfw">October 28, 2026</a></blockquote>
 <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
