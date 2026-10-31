@@ -22,6 +22,7 @@ mathjax: true
 #### S1D_IW_GRDH_1SDV_20260901T232327_20260901T232352_004391_0081E7_5F16
 [earthdata.nasa.gov/data/platforms/space-based-platforms/sentinel-1](https://www.earthdata.nasa.gov/data/platforms/space-based-platforms/sentinel-1)
 <img  alt="image" src="https://github.com/user-attachments/assets/ea799003-afce-4a3f-8f4e-2175035e5f3b" />
+<img   alt="S1D_IW_GRDH_1SDV_20261024T233135_20261024T233200_005164_009CB7_35C9" src="https://github.com/user-attachments/assets/90e4bf2d-2c21-4b56-99ed-106635e6deba" />
 
 #### NISAR_L1_PR_RSLC_032_127_D_068_4005_DHDH_A_20261009T002541_20261009T002616_P05023_N_F_J_001_NATIVE
 [@isro mr trump went to ohio](https://youtu.be/flDKproelJ0) recently, so theres a lot to look at and explore for our countries initiatives using [nisar](https://bhoonidhi.nrsc.gov.in/NISAR/NisarProducts.html) @eosdis-nasa @doug-newman-nasa , theres a lot i did for some emergency they had when the lakes were still frozen . . I hope i dont get drafted by glenn, i would hate to cross paths with latrice @nasa-pds @la-county-isd 
