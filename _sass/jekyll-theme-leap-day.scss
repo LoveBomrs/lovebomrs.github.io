@@ -61,9 +61,31 @@ body {
     "wdth" 100;
     height: 100vh;
     width: 100vw;
-
+object-fit: contain;
 }
 
+HGROUP {
+  padding-top:0px;
+  margin: 0 auto;
+  max-width: max-content;
+  
+  
+  
+}
+HGROUP h1 {
+  display: block;
+  z-index: 5;
+  line-height: 1rem;
+  margin:15px;
+  font-size: 2.7rem;
+  word-break: break-all;
+  font-weight: 700;
+  font-style: italic;
+  color: #FFFFFF;
+  background: #0e8dbc50;
+  text-shadow: 0 1px 0 #CCCCCC, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
+  }
+  
 
 section {
 
@@ -101,16 +123,22 @@ box-shadow: rgba(255,255,255, 0.4) 5px 5px, rgba(255,255,255, 0.3) 10px 10px, rg
 overflow-y: auto;
 }
 
+img {
+  max-width: 100%;
+  display: block;
+  transition: all 0.5s linear;
+}
+
 section img {
   max-height: auto;
   max-width: 100%;
-
-
-
 }
 
 
-
+::selection {
+  color: #aaff00;
+  background: #454b1b;
+}
 
   .box {
     width: 80%;
@@ -157,8 +185,75 @@ section img {
 
 
 
+/* css class-declarations cannot start with a number */
+.section_2col {
+  display: grid;
+  width: auto;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 7px;
+  row-gap: 1em;
+}
+
+.section_2col img {
+  width: 100%;
+}
+
+.ic {
+  filter: contrast(200%);
+}
 
 
+
+.tupperware_2col {
+  display: grid;
+  width: auto;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 7px;
+  row-gap: 1em;
+}
+
+.tupperware_2col img {
+  width: 100%;
+}
+
+.tupperware_col > * {
+  border: 1px solid #c9ff23;
+  border-radius: 1px;
+  padding: 10px;
+  flex-basis: 250px;
+  flex-shrink: 3;
+  flex-direction: column;
+  flex-grow: 1;
+  overflow: hidden;
+  width: fit-content;
+  block-size: max-content;
+  height: fit-content;
+  align-items: flex-start;
+  transition: all 300ms ease-in-out;
+
+  &:hover {
+    flex-grow: 9.3;
+  }
+}
+
+.tupperware_col {
+  display: flex;
+  flex-flow: row wrap;
+  padding: 1px;
+  gap: 1px;
+  height: auto;
+}
+
+.tupperware_col img {
+}
+
+.tupperware_col figcaption {
+  background-color: #22222290;
+  color: #fff;
+  font: bold small sans-serif;
+  padding: 3px;
+  text-align: center;
+}
 
 
 .tupperware > * {
@@ -276,10 +371,9 @@ p::first-letter {
     margin: auto;
     background: #454b1b50;
   }
-  
-  img {  max-height: 100%;
-    max-width: 100%;
-  display:block;} 
+
+
+
   
   figcaption {
     background-color: #22222250;
@@ -502,12 +596,18 @@ background-size: 80.4px 80.4px; */
 
 
 h2 {
+    display:block;
   word-spacing: -.2ch;
   font-kerning: auto;
   letter-spacing: 2pt;
   background: transparent
    url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
-    color: white;     
+    color: white; 
+  font-size: 30pt;
+  color: white;
+  font-family: Cluster;
+  word-break: break-all; 
+  width: 100%;
 }
 
 
@@ -625,13 +725,8 @@ blockquote {
 }
 
 code {
-  font-family: 'Martian Mono', Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
-  font-size:13px;
-  color:#efefef;
-  text-shadow: 0px 1px 0px #000;
-  margin: 0 4px;
-  padding: 2px 6px;
-  background: #33333350;
+
+
   border-radius: 2px;
 }
 /*
@@ -649,18 +744,47 @@ pre {
   }
 }
 */
+
+
+
+
+code, pre {
+      font-family: 'Martian Mono', Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  font-size:13px;
+  margin-bottom: 30px;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+	word-break: break-word;
+  font-size: 13px;
+  color: #222;
+}
+
+code {
+  padding: 0 3px;
+  background-color: #f2f8fc;
+  border: solid 1px #dbe7f3;
+      color:#efefef;
+  text-shadow: 0px 1px 0px #000;
+  margin: 0 4px;
+  padding: 2px 6px;
+  background: #33333350;
+}
+
 pre {
-  padding:8px 15px;
-    border-radius: 3px;
-  border:1px solid #b5e853;
+  padding: 20px;
   overflow: auto;
-  overflow-y: hidden;
-  background: transparent
-  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+  text-shadow: none;
+  background: #fff;
+  border: solid 1px #f2f2f2;
+}
+pre code {
+  padding: 0;
+  color: #2879d0;
+  background-color: #fff;
+  border: none;
+      background: transparent
+  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-white.gif)
   center repeat;
   font: bold 14px/18px 'Martian Mono',Arial,  "Lucida Sans Unicode", verdana, lucida, sans-serif; 
-  color:white;
-
 }
 
 
