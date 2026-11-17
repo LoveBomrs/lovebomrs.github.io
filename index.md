@@ -18,11 +18,79 @@ mathjax: true
 </picture>
  
  
-[![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day) // Jekyll {{ jekyll.version }} // {{ "now" | date: "%Y-%m-%d %H:%M:%S" }}
+[![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day) // Jekyll {{ jekyll.version }} // {{ "now" | date: "%Y-%m-%d %H:%M:%S" }} // `jekyll.version`  {{ jekyll.version }} 
+{{ page.date | date: "%m/%d/%Y/%r" }}
+ {{ site.time | date: '%B %d, %Y' }}
+{{ site.time }}
+ {{ site.title | default: site.github.repository_name }}
+         
 
 
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+
+![https://www.mrlc.gov/viewer/6427a73690600093556729dcb0a538fa.png](https://www.mrlc.gov/viewer/6427a73690600093556729dcb0a538fa.png) 
+
+[@CityOfLosAngeles @CityOfSnataMonica mrlc.gov/viewer/](https://www.mrlc.gov/viewer/) @ThirdDistrict@bos.lacounty.gov SuperVisor Lindsey @HollyJMitchell@bos.lacounty.gov im not done contact brianna.key@noaa.gov/EDMjira.inport@noaa.gov, or Rog from jpl rog@jpl.nasa.gov to schedule pics of the los angeles santa barbara county coast I have no idea how to get the images, u have to [use a tiff converter](http://online-convert.com/result#j=150eb3e8-0dfe-46a7-a0cd-e0bb45729aae) to see the tiffs @Earthdata Support // @douglas.j.newman@nasa.gov @Small Business Programs Office@roc@jpl.nasa.gov   In front of Homeland Security, I saw one of @normani@fifthharmonyofficial.com girlfriends from the atlanta studio. She was a baddie so idk how much they talk bc the brownies are used for different purposes, its that ala cart in los angeles [@Keisha for Governor @ForAtlanta @ajcnews ](https://www.keishaforgovernor.com/bio), I think you been there, or at least supported friends, Governor Bottoms, have you ever been a vixen ? Im really disallusioned, u know @normani@fifthharmonyofficial.comis brandy. And you know what happened in hollywood, how can I heal @letschat@virtiserv.com @chloe.bailey@gmail.com [aviris.jpl.nasa.gov/ask/index.html @eosdis-nasa](https://aviris.jpl.nasa.gov/ask/index.html) // [mrlc.gov/viewer/](https://www.mrlc.gov/viewer/) // [nesdis.noaa.gov/imagery/satellite-maps/earth-real-time](https://www.nesdis.noaa.gov/imagery/satellite-maps/earth-real-time)
+[@la-county-isd coast.noaa.gov/digitalcoast/data/ @CityOfLosAngeles _Lindsey Horavath_](https://coast.noaa.gov/digitalcoast/data/)
+<img alt="image" src="https://github.com/user-attachments/assets/59d77a82-b83d-4867-b615-e132c2f6ab54" />
+
+![https://static.wixstatic.com/media/4ed5f_edited.png](https://static.wixstatic.com/media/4ed5f3_3f4a40efcfc5421f9622821e30043279~mv2.png/v1/fill/w_679,h_323,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/042_LindseyHorvath_LG_LR_V1_edited.png)
+
+
+
+
+```html
+<iframe src="https://archive.org/embed/msdos_Number_Munchers_1990" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+```
+
+![https://www.hollyjmitchell.com/_next/image?url=https%3A%2F%2Fmedia.designedtorun.com%2F5a7f31fb-4ca3-458b-86e1-c9a2c104048b%2FHolly_Mitchell-logo_designs_RE-ELECT-r0-14---runcbt%3A%3A0%2Ccbl%3A%3A140.71361502347418%2Ccbw%3A%3A406.57276995305165%2Ccbh%3A%3A300%2Cd%3A%3A1676042294918%2Co%3A%3Ahttps%3A--slash----slash--media.designedtorun.com--slash--5a7f31fb-4ca3-458b-86e1-c9a2c104048b--slash--1676042293913-Holly_Mitchell-logo_designs_RE-ELECT-r0-14-.pngrun--.png&w=384&q=75](https://www.hollyjmitchell.com/_next/image?url=https%3A%2F%2Fmedia.designedtorun.com%2F5a7f31fb-4ca3-458b-86e1-c9a2c104048b%2FHolly_Mitchell-logo_designs_RE-ELECT-r0-14---runcbt%3A%3A0%2Ccbl%3A%3A140.71361502347418%2Ccbw%3A%3A406.57276995305165%2Ccbh%3A%3A300%2Cd%3A%3A1676042294918%2Co%3A%3Ahttps%3A--slash----slash--media.designedtorun.com--slash--5a7f31fb-4ca3-458b-86e1-c9a2c104048b--slash--1676042293913-Holly_Mitchell-logo_designs_RE-ELECT-r0-14-.pngrun--.png&w=384&q=75)
+
+### LA River
+[@Cityoflosangeles https://www.tumblr.com/rashardkelly/833460022385278976/aviso-calval?source=share](https://www.tumblr.com/rashardkelly/833460022385278976/aviso-calval?source=share)
+[https://www.tumblr.com/rashardkelly/833460022385278976/aviso-calval?source=share](https://www.tumblr.com/rashardkelly/833460022385278976/aviso-calval?source=share) 
+
+<img  alt="tumblr_7da3aed37a614d266b2b227261d0ca48_314a603a_2048" src="https://github.com/user-attachments/assets/683730df-e9c7-4e58-afd6-d019c829a1e5" />
+
+## @rashardikelly @blackgirlscode Scalp Cond
+<img   alt=" @rashardikelly @blackgirlscode Scalp Cond @nasa @la-counttumblr_8d59c8a1650fe7a2fb170711630d1af5_6f39f580_2048" src="https://github.com/user-attachments/assets/813b02a6-bbd1-494c-85cd-250e3e922817" />
+
+# Charleston 
+[@cityoflosangeles @nasa-jpl @nasa  charleston-sc.gov/](https://www.charleston-sc.gov/)
+@blackgirlscode hi 
+<img alt="EMIT_L1B_RAD_001_20260823T145440_2623510_009" src="https://github.com/user-attachments/assets/77b4e05e-5f5e-4a14-9302-d7b47f3c6a65" />
+
+[@newshour @latimes https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD&p002938141674935](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&q=emit&circle[0]=-79.86006%2C32.79028%2C11929&fi=EMIT%20Imaging%20Spectrometer&lat=32.870834349999996&long=-79.7874920233568&zoom=9.002938141674935)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/457ca8d4-2b37-4268-a23f-d21c7f914acb" />
+
+**EMIT_L1B_RAD_001_20260813T210908_2622514_005** - 
+<img alt="EMIT_L1B_RAD_001_20260813T210908_2622514_005" src="https://github.com/user-attachments/assets/827eddd4-5d97-4998-8b9a-9cfb34281f41" />
+
+@stateofcalifornia [EMIT_L1B_RAD_001_20260805T174736_2621712_004](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4274912788-LPCLOUD&q=emit&sb[0]=-124.33524%2C40.63406%2C-124.1759%2C40.81635&lat=40.525989550000006&long=-124.06240507840374&zoom=8.760279117584957)
+<img alt="EMIT_L1B_RAD_001_20260805T174736_2621712_004" src="https://github.com/user-attachments/assets/21ce6f4c-ca72-40d0-8593-18738b660f2a" />
+
+`EMIT_L1B_RAD_001_20260212T211050_2604314_004` [search.earthdata.nasa.gov/search/granules?p=C2408009906-L2520147778](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4025183393-LPCLOUD&q=emit&sb[0]=-122.59652%2C37.34006%2C-121.91713%2C38.03596&lat=36.9341431&long=-121.86110258943661&zoom=8.941702520147778)
+<img alt="EMIT_L1B_RAD_001_20260212T211050_2604314_004" src="https://github.com/user-attachments/assets/f10d5833-7a6b-4538-b882-b39b413de0da" />
+
+
+[@nasa-jpl @cityoflosangeles @foratlanta studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/283423](https://studio.m-anage.com/agu/agu26/meetingapp.cgi/Session/283423) 
+![https://studio.m-anage.com/img/agu/agu26/banner_1280x100.png](https://studio.m-anage.com/img/agu/agu26/banner_1280x100.png) 
+
+[Holly Mitchell @cityoflosangeles virtiserv.github.io/losangeles](https://virtiserv.github.io/losangeles)
+<img   alt="image" src="https://github.com/user-attachments/assets/6c03a5db-0f6f-499a-b025-269d128e00f9" />
+
+// [Solid Steel Radio Show: Mixed by Coldcut, DJ Lazy, Strictly Kev (Dec 15, 2003)](https://youtu.be/ktZhRrH0bw0?list=RDktZhRrH0bw0) <~ @la-county-isd y'all too grown, just being honest @CityOfLosAngeles guide me . . . and help @blackgirlscode they was meandering around @nasa-jpl @ajcnews @latimes
+
+![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05073/opgs/edr/ncam/NLB_847853302EDR_F1252490NCAM00354M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05073/opgs/edr/ncam/NLB_847853302EDR_F1252490NCAM00354M_.JPG)
+
+![https://mars.nasa.gov/msl-raw-images/msss/05073/mcam/5073ML1102670021307123E01_DXXX.jpg](https://mars.nasa.gov/msl-raw-images/msss/05073/mcam/5073ML1102670021307123E01_DXXX.jpg) 
+
+[mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=2&mission=msl](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=2&mission=msl) // @nasa-pds a few of the machines seem slow Escapade was beaming in at 8kb/ps yesterday [@ucberkeley eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) @nasa-jpl I assume its space weather and I just hit a plateu and still figurions the ins and outs of forecasting @blackgirlscode hi @hulu
+<img  alt="image" src="https://github.com/user-attachments/assets/4b4356e5-985e-4db4-a633-c4be991995a4" />
+
+<iframe src="https://archive.org/embed/lander-vision-system-camera-perseverance-landing-mars-2020" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <img  alt="1570a0e010b0404a82d3fa4c9d1e6e36 @blackgirlscode" src="https://github.com/user-attachments/assets/7113c0c8-d45e-491c-a5ab-4e028a613b69" />
 
