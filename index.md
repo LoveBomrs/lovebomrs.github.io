@@ -29,9 +29,113 @@ mathjax: true
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
-\\ [Eric Burdon - The Vision Of Rassan @hulu](https://youtu.be/14iUJFTmWJE?t=18)
+\\ [Eric Burdon - The Vision Of Rassan @hulu](https://youtu.be/14iUJFTmWJE?t=18) // [@NASA-jpl ASK @AJCNEWS `MEANING` Future - Life Is Good (Official Music Video) ft. Drake @NASA-PDS](https://youtu.be/l0U7SxXHkPY?t=119)
 
 ---
+
+# CRS-35 Mission 
+## @NAsA to Cover 35th spaceX Resupply Mission spacestation Departure
+[`READ` @cbs-news-data @newshour @ajcnews https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/ @nasa-pds](https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/) // / [Massive geyser of rotting trash erupts from Southern California landfill @emit-sds @nasa-openscapes @la-county-isd](https://youtu.be/PZWSpb0GkfM?t=48) @usepa
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1aa9e627-323e-486b-807f-5ee37d09aa4e" />
+<img  alt="image" src="https://github.com/user-attachments/assets/5971798d-9b97-447b-b997-b16ad88036a9" />
+
+<img  alt="image @microsoftresearch https://outlook.live.com/mail/drafts?culture=en-us&country=us @nasa-jpl @sonyresearch @nvidia" src="https://github.com/user-attachments/assets/ea1023dd-04da-4ff1-9c62-c841ff59c56f" />
+
+## NAsA spaceX CRS-35 Cargo spacecraft Undocking from spacestation
+[`WATCH` - https://www.youtube.com/live/-EgvXNis4rQ?si=ECdOqrER02m9TV4U](https://www.youtube.com/live/-EgvXNis4rQ?si=ECdOqrER02m9TV4U) SpaceX’s Dragon spacecraft supporting the 35th Commercial Resupply Services (CRS-35) mission is set to undock the International Space Station no earlier than Friday, November 20 at 12:05 p.m. ET and return to Earth ahead of splashing down off the coast of [@StateOfCalifornia. @ajcnews @newshour @nbcnews @hulu @netflix @github](https://www.wearebgc.org/BGC%20Logo%2004%20v1.mp4) [@blackgirlscode](https://www.wearebgc.org/)
+@nasa-jpl hi I hope someone got my emails about [longbeach.org](https://web.archive.org/web/20130901000000*/www.longbeach.org) + [Longbeach.gov](https://www.longbeach.gov/lgb/)
+
+
+[spaceexplorationtechnologies.com/](https://spaceexplorationtechnologies.com/) // [spacex.com/launches/crs35](https://www.spacex.com/launches/crs35) @cbs-news-data 
+<img  alt="image" src="https://github.com/user-attachments/assets/8f7bac3d-29b0-47e5-89d3-0d652a19f5bc" />
+
+
+
+![https://www.longbeach.gov/globalassets/lgb/development-assets/logovertical92.png](https://www.longbeach.gov/globalassets/lgb/development-assets/logovertical92.png) 
+
+![https://content.spacex.com/cms-assets/assets/20261011_CC_CRS_35_DSC_1092_mobile_71cdfd6762.jpg](https://content.spacex.com/cms-assets/assets/20261011_CC_CRS_35_DSC_1092_mobile_71cdfd6762.jpg)
+
+![https://www.nasa.gov/wp-content/uploads/2026/11/ng35.jpg](https://www.nasa.gov/wp-content/uploads/2026/11/ng35.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5cb0acae-cf3d-45df-8d2e-64852f5edea0" />
+
+
+![https://upload.wikimedia.org/wikipedia/commons/9/9d/SpaceX_CRS-35_Patch.png](https://upload.wikimedia.org/wikipedia/commons/9/9d/SpaceX_CRS-35_Patch.png)
+
+![https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg](https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg)
+
+[@cityoflosangeles .spacex.com/launches/crs35](https://www.spacex.com/launches/crs35)
+
+![https://www.nesdis.noaa.gov/s3/styles/webp/s3/migrated/DSCOVR-Logo_NOAA_NASA_USAF.png.webp](https://www.nesdis.noaa.gov/s3/styles/webp/s3/migrated/DSCOVR-Logo_NOAA_NASA_USAF.png.webp)
+
+<iframe src="https://abcnews.com/video/embed?id=abc_live11" width="640" height="360" allow="encrypted-media" allowFullScreen frameBorder="0"></iframe>
+
+![@NBCNEWS CAN U FWD TO ADAM AT @ABCNEWS IN CALIFORNIA ? @CBS-NEWS-DATA](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DayNightCloudMicroCombo/GOES18-CONUS-DayNightCloudMicroCombo-625x375.gif)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6762531c-3e11-466f-8309-12de75aa637b" />
+
+
+## LA CITYVIEW TV [@CITYOFLOSANGELES @LIBRETRO](https://archive.org/download/ultimate-rom-collection/Sony%20-%20PS1/Future%20Cop%20-%20L.A.P.D.%20%28USA%29.chd) + [.M3U](https://archive.org/download/ultimate-rom-collection/Sony%20-%20PS1/Future%20Cop%20-%20L.A.P.D.%20%28USA%29.m3u)
+[`WATCH` - https://lacity.gov/tv](https://lacity.gov/tv)
+@CityOFLosAngeles The City of Los Angeles’ official TV channel. We broadcast live City Council meetings, government meetings, and press conferences, while also producing original stories about the communities and neighborhoods that shape Los Angeles. Watch us online or on cable channel 35. / / / @nasa-jpl @doug-newman-nasa @eosdis-nasa . . . @longbeachinnovationteam might need some help with the local TV `Long Beach, CA Video Archive / Login / Powered by` [Swagit](https://granicus.com/product/video-swagit-partially-and-fully-managed-video-solutions/) <~ a lot of young locals were managing neglected infrastructure staffing wise and when the party was over had to go back home, @blackgirlscode just another California summer [@NASA-jpl ASK @AJCNEWS `MEANING` Future - Life Is Good (Official Music Video) ft. Drake @LA-COUNTY-ISD](https://youtu.be/l0U7SxXHkPY?t=119)
+
+[`WATCH` - longbeach.gov/lbtv/](https://www.longbeach.gov/lbtv/)
+<img  alt="image" src="https://github.com/user-attachments/assets/a453fa8b-87ad-4926-9da3-02310a7eb735" />
+
+![https://www.longbeach.gov/globalassets/logo-small-city-long-beach.png](https://www.longbeach.gov/globalassets/logo-small-city-long-beach.png) 
+
+![https://www.longbeach.gov/globalassets/lbtv/development-assets/lbtvlogo.jpg](https://www.longbeach.gov/globalassets/lbtv/development-assets/lbtvlogo.jpg)
+
+![https://lacity.gov/sites/g/files/wph2451/themes/site/logo.svg](https://lacity.gov/sites/g/files/wph2451/themes/site/logo.svg)
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/a0afca12-e5f6-4e07-8a4c-e0c7786a45f7" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/0a50d92a-89f3-4d32-b3b2-7a9dd4e4ff0a" />
+
+
+![hi @nasa insight running ehkl 8, like that's some scary shit to leave it up there talking about the mission over @nasa-jpl @nasa-pds @doug-newmna-nasa](https://sso.redhat.com/auth/resources/79aa9/account/my-account/logo.svg)
+
+<img alt="image" src="https://github.com/user-attachments/assets/dbca6855-74eb-458e-af10-31a061ca9d06" />
+
+[`WATCH` - Jensen Huang & George Kurian, NVIDIA & NetApp - Revolutionary AI products](https://youtu.be/55Wz2C6Di2k?t=193)
+
+![https://static.netapp.com/v3/assets/blt8710a579a77cafed/bltf5d51f329dbb9343/6a90adaed62e118532e36899/hero-afx.jpg](https://static.netapp.com/v3/assets/blt8710a579a77cafed/bltf5d51f329dbb9343/6a90adaed62e118532e36899/hero-afx.jpg)
+
+[atlantanewsfirst.com/livestream/ @FORATLANTA @AJCNEWS](https://www.atlantanewsfirst.com/livestream/)
+<img   alt="image" src="https://github.com/user-attachments/assets/c546b659-4d92-4bfa-a960-68717165c77d" />
+
+
+![https://static.netapp.com/v3/assets/blt8710a579a77cafed/bltd25bbe3528af81cc/69fdca6e92f2b86d8d1a83da/AFX-tech-spec-table_tcm19-146029.avif](https://static.netapp.com/v3/assets/blt8710a579a77cafed/bltd25bbe3528af81cc/69fdca6e92f2b86d8d1a83da/AFX-tech-spec-table_tcm19-146029.avif) 
+
+
+
+[@netapp .com/pdf.html?item=/media/159595-nva-1184-superpod-gb300-afx-design-guide.pdf](https://www.netapp.com/pdf.html?item=/media/159595-nva-1184-superpod-gb300-afx-design-guide.pdf)
+<img  alt="image" src="https://github.com/user-attachments/assets/b73dc03a-cc48-4f08-bfdf-973a7659dbfb" />
+
+
+## @nvidia graphics card breakdown
+[nvidia.com/en-us/geforce/news/geforce-rtx-founders-graphics-card-breakdown/](https://www.nvidia.com/en-us/geforce/news/geforce-rtx-founders-graphics-card-breakdown/)
+
+![https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-graphics-cards/geforce-rtx-2080-technical-photography-outputs-850px.png](https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-graphics-cards/geforce-rtx-2080-technical-photography-outputs-850px.png) 
+
+![https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-graphics-cards/geforce-rtx-2080-technical-photography-pcb-front-001-850px.png](https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-graphics-cards/geforce-rtx-2080-technical-photography-pcb-front-001-850px.png)
+
+![https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-graphics-cards/geforce-rtx-2080-technical-photography-vapor-chamber-and-finstack-002-850px.png](https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-graphics-cards/geforce-rtx-2080-technical-photography-vapor-chamber-and-finstack-002-850px.png)
+
+## PowerEdge R9815
+Flagship single-socket performance, on air, on your terms
+The PowerEdge R9815 delivers up to 256 cores with flagship 6th Gen AMD EPYC 9006 SP7 performance in a new efficient air-cooled design.
+![@nasa-jpl what happens to that netapp I was promised  I would have access to ? @nasa-pds @Cityoflosangeles](https://i.dell.com/assetlink/img/global/server-dell-r9815-lf-gallery-2-dl12t5zq-large.png)
+![https://i.dell.com/assetlink/img/global/server-dell-r9815-off-gallery-4-dl12t5zp-large.png @isro @gatech](https://i.dell.com/assetlink/img/global/server-dell-r9815-off-gallery-4-dl12t5zp-large.png) 
+
+![https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-graphics-cards/geforce-rtx-2080-stylized-photography-001-850px.png](https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-graphics-cards/geforce-rtx-2080-stylized-photography-001-850px.png) 
+
+![https://www.netapp.com/media/cardband-2-bluexp-cloud-backup_tcm19-124928.jpg](https://www.netapp.com/media/cardband-2-bluexp-cloud-backup_tcm19-124928.jpg) 
+
+![@doug-newman-nasa https://static.netapp.com/v3/assets/blt8710a579a77cafed/blt178922b549282814/6a6c861ef1246480266fb4d3/aff-a-c-hero-sxs.jpg](https://static.netapp.com/v3/assets/blt8710a579a77cafed/blt178922b549282814/6a6c861ef1246480266fb4d3/aff-a-c-hero-sxs.jpg) 
 
 @isro Nov 7 NISAR_L2_PR_GSLC_035_034_A_019_4005_DHDH_A_20261107T130823_20261107T130858_P05036_N_F_J_001_NATIVE
 <img  alt="NISAR_L2_PR_GSLC_035_034_A_019_4005_DHDH_A_20261107T130823_20261107T130858_P05036_N_F_J_001_NATIVE" src="https://github.com/user-attachments/assets/9f5e230a-3bfa-4c48-b763-5554b2cb2dbf" />
@@ -58,6 +162,7 @@ mathjax: true
 [@blackgirlscode @hulu @deptofwar rashardkelly.tumblr.com/post/833574247487160320/nintendo-brandybrandybrandy-its-a-little](https://rashardkelly.tumblr.com/post/833574247487160320/nintendo-brandybrandybrandy-its-a-little)
 <img  alt="image" src="https://github.com/user-attachments/assets/431fea06-ef16-4824-a879-c1d35f6d406d" />
 
+![https://i.dell.com/assetlink/img/global/bulkshoot-woman-working-from-data-center-2266x1536-dl12w4h1-original.png @whitehouse @deptofwar @blackgirlscode @cityoflosangeles](https://i.dell.com/assetlink/img/global/bulkshoot-woman-working-from-data-center-2266x1536-dl12w4h1-original.png)
 ![https://assets.motorola.com/global/nevada/motorola_moto_g_play_2026_pdp_camera_02_d_.jpg](https://assets.motorola.com/global/nevada/motorola_moto_g_play_2026_pdp_camera_02_d_.jpg) 
 
 
