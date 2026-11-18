@@ -29,6 +29,111 @@ mathjax: true
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
+\\ [Eric Burdon - The Vision Of Rassan @hulu](https://youtu.be/14iUJFTmWJE?t=18)
+
+---
+
+@isro Nov 7 NISAR_L2_PR_GSLC_035_034_A_019_4005_DHDH_A_20261107T130823_20261107T130858_P05036_N_F_J_001_NATIVE
+<img  alt="NISAR_L2_PR_GSLC_035_034_A_019_4005_DHDH_A_20261107T130823_20261107T130858_P05036_N_F_J_001_NATIVE" src="https://github.com/user-attachments/assets/9f5e230a-3bfa-4c48-b763-5554b2cb2dbf" />
+<img  alt="NISAR_L2_PR_GSLC_035_034_A_018_4005_DHDH_A_20261107T130750_20261107T130824_P05036_N_F_J_001_NATIVE" src="https://github.com/user-attachments/assets/713cafa2-7b48-46d9-8ef3-883a2b4a39d6" />
+
+<img  alt="snapshot-2026-10-22" src="https://github.com/user-attachments/assets/cc86016b-d83f-4a23-b8f1-5b241b77b006" />
+
+
+[@eosdis-nasa @doug-newman-nasa I don't want to be on TV @nbcnews @hulu @disney Worldview.earthdata.nasa.gov/?v=-118.54166836983286,33.48641408802579,-117.78017369378746,33.92373241296402&l=Reference_Labels_15m,Admin_Boundaries(hidden),DoS_International_Boundaries(hidden),Coastlines_15m(hidden),GRUMP_Settlements,GRanD_Reservoirs,GRanD_Dams,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1_12Day,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2026-10-22-T06%3A19%3A29Z](https://worldview.earthdata.nasa.gov/?v=-118.54166836983286,33.48641408802579,-117.78017369378746,33.92373241296402&l=Reference_Labels_15m,Admin_Boundaries(hidden),DoS_International_Boundaries(hidden),Coastlines_15m(hidden),GRUMP_Settlements,GRanD_Reservoirs,GRanD_Dams,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1_12Day,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2026-10-22-T06%3A19%3A29Z)
+<img  alt="image" src="https://github.com/user-attachments/assets/b9f4a676-c405-4ff7-9e82-22da15bf0140" />
+
+[@la-county-isd @cityoflosangeles  firms.modaps.eosdis.nasa.gov/usfs/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,active-ca,active-usa,fire-perimeter,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,sta_detections,sta_mask,steel_plants,countries,earth;@-117.7,33.5,8.9z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,active-ca,active-usa,fire-perimeter,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,sta_detections,sta_mask,steel_plants,countries,earth;@-117.7,33.5,8.9z)
+<img  alt="image" src="https://github.com/user-attachments/assets/8c256874-dd8e-43df-9c69-78ee8789ebe1" />
+
+
+[@la-county-isd @cityoflosangeles https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fire_layers_basic,active-ca,active-usa,fire-perimeter,countries,noaa21_crtc,earth;@-95.4,37.9,5.4z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fire_layers_basic,active-ca,active-usa,fire-perimeter,countries,noaa21_crtc,earth;@-95.4,37.9,5.4z)
+<img  alt="image" src="https://github.com/user-attachments/assets/bf7e2688-9499-4228-9627-00e0f30b8a51" />
+
+<img  alt="image @eosdis-nasa" src="https://github.com/user-attachments/assets/2bb63a87-80c5-4d68-900b-b84568ca0847" />
+
+
+# latrice ? @nasa-jpl I'm trying 
+
+[@blackgirlscode @hulu @deptofwar rashardkelly.tumblr.com/post/833574247487160320/nintendo-brandybrandybrandy-its-a-little](https://rashardkelly.tumblr.com/post/833574247487160320/nintendo-brandybrandybrandy-its-a-little)
+<img  alt="image" src="https://github.com/user-attachments/assets/431fea06-ef16-4824-a879-c1d35f6d406d" />
+
+![https://assets.motorola.com/global/nevada/motorola_moto_g_play_2026_pdp_camera_02_d_.jpg](https://assets.motorola.com/global/nevada/motorola_moto_g_play_2026_pdp_camera_02_d_.jpg) 
+
+
+![https://www.metrobyt-mobile.com/content/dam/digx/metro/us/en/branding/logos/corporate/metro-d-light-2022.svg](https://www.metrobyt-mobile.com/content/dam/digx/metro/us/en/branding/logos/corporate/metro-d-light-2022.svg) 
+
+![https://s7d1.scene7.com/is/content/dish/Boost _ Mobile?ts=1754525389797&fmt=png-alpha&dpr=off](https://s7d1.scene7.com/is/content/dish/Boost _ Mobile?ts=1754525389797&fmt=png-alpha&dpr=off)
+
+![https://www.mediatek.com/hubfs/MediaTek%20Assets/Images/ChipSets/Dimensity_6300%20chipset.png](https://www.mediatek.com/hubfs/MediaTek%20Assets/Images/ChipSets/Dimensity_6300%20chipset.png) 
+
+[https://nanoreview.net/en/soc/mediatek-dimensity-6300](https://nanoreview.net/en/soc/mediatek-dimensity-6300)
+
+[@nasa-pds mediatek.com/products/smartphones/mediatek-dimensity-6300 @podaac](https://www.mediatek.com/products/smartphones/mediatek-dimensity-6300)
+[motorola.com/us/en/p/phones/moto-g/moto-g-play-2026/pmipmja42mq?pn=PB9H0004US](https://www.motorola.com/us/en/p/phones/moto-g/moto-g-play-2026/pmipmja42mq?pn=PB9H0004US)
+
+![https://images.versus.io/objects/mediatek-dimensity-6300.front.ma](https://images.versus.io/objects/mediatek-dimensity-6300.front.ma)
+
+[https://www.boostmobile.com/shop/moto-g-play-002722.html](https://www.boostmobile.com/shop/moto-g-play-002722.html)
+
+![https://s7d1.scene7.com/is/image/dish/motogplay_Hero?$productHero$&fmt=webp-alpha](https://s7d1.scene7.com/is/image/dish/motogplay_Hero?$productHero$&fmt=webp-alpha)
+
+![https://p4-ofp.static.pub//fes/cms/2026/09/07/ozgxblh6t8u5of7wyxa3odiit3kgub871372.png](https://p4-ofp.static.pub//fes/cms/2026/09/07/ozgxblh6t8u5of7wyxa3odiit3kgub871372.png) 
+
+![https://www.nih.gov/themes/custom/nih2_uswds/assets/img/nih-logo.png](https://www.nih.gov/themes/custom/nih2_uswds/assets/img/nih-logo.png) 
+
+
+
+
+// [@NASA @WHiTEHOUSE @DEptOFWAR Unveiling the spectrum: Understanding directed energy weapon injuries and military health care implications](https://pmc.ncbi.nlm.nih.gov/articles/PMC13293093/) // [TumbLr https://rashardkelly.tumblr.com/post/833436186031931392/dueling-in-california-a-legal-history](https://rashardkelly.tumblr.com/post/833436186031931392/dueling-in-california-a-legal-history) @nasa-giss // [60 Minutes Havana Syndrome report finds U.S. government tested energy weapon @cbs-news-data @disney](https://www.cbsnews.com/news/60-minutes-havana-syndrome-report-finds-u-s-government-tested-energy-weapon/) // [Havana Syndrome—Americans Affected by Mysterious ...](https://www.gao.gov/blog/havana-syndrome-americans-affected-mysterious-symptoms-may-struggle-get-care) // [Review of Audiovestibular Symptoms Following Exposure to Acoustic and Electromagnetic Energy Outside Conventional Human Hearing](https://pmc.ncbi.nlm.nih.gov/articles/PMC7199630/)
+[“Havana Syndrome”: A post mortem](https://pmc.ncbi.nlm.nih.gov/articles/PMC10913303/) // [A decade ago, U.S. personnel in Havana, Cuba, began to suffer mysterious symptoms — piercing head pressure, dizziness, nausea, loss of balance and](https://www.facebook.com/newshour/videos/a-decade-ago-us-personnel-in-havana-cuba-began-to-suffer-mysterious-symptoms-pie/1117463634310951/) // [NIH studies find severe symptoms of “Havana Syndrome,” but no evidence of MRI-detectable brain injury or biological abnormalities](https://www.nih.gov/news-events/news-releases/nih-studies-find-severe-symptoms-havana-syndrome-no-evidence-mri-detectable-brain-injury-or-biological-abnormalities) // [Pentagon bought device through undercover operation some investigators suspect is linked to Havana Syndrome](https://www.cnn.com/2026/01/13/politics/havana-syndrome-device-pentagon-hsi)
+// [Sonic Scares: Havana Syndrome - mcpress.mayoclinic.org](https://mcpress.mayoclinic.org/research-innovation/sonic-scares-havana-syndrome/) // @nbcnews @ktla
+
+<img alt="tumblr_bcbdef2f9679a6e47915bf879133aae1_ea599c3b_1280" src="https://github.com/user-attachments/assets/c94ef4ab-f67d-4b9e-a129-c7d7fbeafdf2" />
+
+![https://www.gao.gov/themes/custom/gao_uswds/dist/gao-img/GAO-logo.png](https://www.gao.gov/themes/custom/gao_uswds/dist/gao-img/GAO-logo.png)
+
+<img alt="tumblr_beb910d4cb21af3e424c13ed4d52db00_9815a29c_1280" src="https://github.com/user-attachments/assets/3ddbc6ab-0155-4820-ab90-74d716f9f509" />
+
+@nasa-jpl I hope the newsroom got my Kodachrome scans @cbs-news-data I got lost in data this [Long Beach is on the 101](https://www.co.pacific.wa.us/flood-control/index.htm) and since this url for flood control says Washington in the url I'm afraid it might be north , I'll get back on after I eat - @rashardikelly  `https://www.co.pacific.wa.us/flood-control/index.htm` 
+#### Flooding risk of Long Beach during an intense El Niño storm [@nasa-pds @blackgirlscode usgs.gov/media/images/flooding-risk-long-beach-during-intense-el-nino-storm](https://www.usgs.gov/media/images/flooding-risk-long-beach-during-intense-el-nino-storm)
+
+![https://www.co.pacific.wa.us/images/fcab.gif](https://www.co.pacific.wa.us/images/fcab.gif)
+
+This is an older report , and I want to figure out changes  . . . The history of the flood control developments on the Long Beach Peninsula began in 1910 when the Wallacut Diking District No. 1 was [established.  https://www.co.pacific.wa.us/flood-control/index.htm @la-county-isd @hulu](https://www.co.pacific.wa.us/flood-control/index.htm)
+![@la-county-isd @stateofcalifornia @nasa-jpl @USGS @CityOFLOSANGELES @LongbeachinnovationTeam](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/r2-Flooding-Long-Beach.jpg)
+[`PDF` - https://www.co.pacific.wa.us/pdf%20files/FCZD%20Ordinance%201.pdf](https://www.co.pacific.wa.us/pdf%20files/FCZD%20Ordinance%201.pdf)
+<img  alt="image" src="https://github.com/user-attachments/assets/864f79a0-d2af-4277-b69f-a4fb9f4ea029" />
+
+This is an older report [The Long Beach Peninsula separates Alamitos Bay from the Pacific Ocean. ](https://www.longbeach.gov/park/marine/beaches-and-amenities/peninsula/)
+
+![https://www.co.pacific.wa.us/flood-control/Flood_Control_District_Web.jpg](https://www.co.pacific.wa.us/flood-control/Flood_Control_District_Web.jpg)
+
+![https://www.longbeach.gov/globalassets/park/development-assets/prmlogo.png](https://www.longbeach.gov/globalassets/park/development-assets/prmlogo.png)
+
+// [Latto - GOMF (Lyrics) ft. GloRilla](https://youtu.be/CNw2DgQMC74?si=dtO4APkCLd1Ci1Tb) // [Fifth Harmony - Write On Me](https://youtu.be/7WuggM1WBiU?list=RD7WuggM1WBiU&t=12) // [Fifth Harmony - Work from Home (Official Video) ft. Ty Dolla $ign](https://youtu.be/5GL9JoH4Sws?list=RD5GL9JoH4Sws&t=15) // [Fifth Harmony - Worth It (Official Video) ft. Kid Ink](https://youtu.be/YBHQbu5rbdQ?list=RDYBHQbu5rbdQ&t=14) // [Katy Perry - Roar](https://youtu.be/CevxZvSJLk8?list=RDCevxZvSJLk8&t=9) // [Katy Perry - Dark Horse ft. Juicy J](https://youtu.be/0KSOMA3QBU0?list=RD0KSOMA3QBU0&t=24) // [Katy Perry - California Gurls   ft. Snoop Dogg](https://youtu.be/F57P9C4SAW4?list=RDF57P9C4SAW4&t=12) // [Katy Perry - E.T. ft. Kanye West ](https://youtu.be/t5Sd5c4o9UM?list=RDt5Sd5c4o9UM&t=10) // [Drake - Worst Behavior](https://youtu.be/U5pzmGX8Ztg?si=czSrDQfUHCsZpinZ) // [Ariana Grande ft. Nicki Minaj - Side To Side (Official Video) ft. Nicki Minaj](https://youtu.be/SXiSVQZLje8?si=b85hN6CTEQUqYkpj) // [Cold Gettin Dumb · Just-Ice](https://youtu.be/bqiZP-XY1mE?list=RDbqiZP-XY1mE&t=34)
+
+<img alt="tumblr_e121e0cff6327799d2e2e11147d2338f_860ea676_1280" src="https://github.com/user-attachments/assets/25cefb4e-6613-487e-8ad9-497ed2f377b0" />
+
+ ## The MAXX (Complete YTV Run)
+<iframe src="https://archive.org/embed/the-maxx-complete-ytv-run" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+[@foratlanta @cityoflosangeles @deptofwar @blackgirlscode officialfifthharmony.blogspot.com](http://officialfifthharmony.blogspot.com) /// [OLD GitHub repos from ThakaSartu era @blackgirlscode](https://archive.org/download/saa2-master)
+
+![https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2oQQ2m5rS5bqAQ2UGbyXGryTrEZQn518o8MhIva3907jjiTn9fplWVPTtEHBwdqGl0xRn5clktWnxHCbamEeJTcxYEnOJTwiWSzodAwywZDfiuY05l7qqMQ6G05lVuCdF1WAAMZgVxuo/s640/NOEmotionalbum.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2oQQ2m5rS5bqAQ2UGbyXGryTrEZQn518o8MhIva3907jjiTn9fplWVPTtEHBwdqGl0xRn5clktWnxHCbamEeJTcxYEnOJTwiWSzodAwywZDfiuY05l7qqMQ6G05lVuCdF1WAAMZgVxuo/s640/NOEmotionalbum.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/49439c24-8f0a-46ee-b6da-9166d1900cca" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/979f502d-b662-42e5-aabb-38c59f8c59df" />
+
+---
+#### [የምስጢረ ስላሴ እና የሰው ተፈጥሮ ትምህርት እና የተሃድሶ (በግ ለምድ) ዘመቻ በመምህር ዶ/ር ዘበነ ለማ (Memher Dr Zebene Lemma)](https://www.youtube.com/watch?v=9OWX9q-YJMY)
+# የብራናገፅ #ትረካ መፅሐፈ ሔኖክ ኢትዮጵያዊ - ሙሉ ትረካ 
+## የብራናገፅ #ትረካ መፅሐፈ ሔኖክ ኢትዮጵያዊ - ሙሉ ትረካ 
+[The Book Of Enoch Ethiopian](https://www.youtube.com/watch?v=KIChceXNWE0)
+[Bible audio wisdom Jeshua son of Sirak from 1-25 መጽሓፍ ቅዱስ ብድምጺ፡ መጽሓፍ ጥበብ ኢያሱ ወዲ ሲራክ ካብ ምዕራፍ 1-25](https://www.youtube.com/watch?v=NCVnkQYeI9c)
 
 ![https://www.mrlc.gov/viewer/6427a73690600093556729dcb0a538fa.png](https://www.mrlc.gov/viewer/6427a73690600093556729dcb0a538fa.png) 
 
@@ -40,6 +145,41 @@ mathjax: true
 
 
 
+
+    <img  alt="@nbcnews @cbs-news-data @nfl clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf @blackgirlscode @nasa-pds @nasa-jpl @whitehouse" src="https://github.com/user-attachments/assets/9414c4fc-4049-4be4-a424-b0afdab9c7f7" />
+
+@nbcnews @cbs-news-data there needs to be public education on choosing sex partners, new emplyees need to read our constitution about [reproductive freedom](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%201.1.&article=I) to ensure they are not stopping girls from choosing a partner [2019 - pdf @stateofcalifornia](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) /// [Proposition 3, titled Constitutional Right to Marry](https://en.wikipedia.org/wiki/2024_California_Proposition_3)
+
+* California Constitution - CONS
+
+ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]  ( Article 1 adopted 1879. )
+  
+# SEC. 1.1.  
+The state shall not deny or interfere with an individual’s reproductive freedom in their most intimate decisions, which includes their fundamental right to choose to have an abortion and their fundamental right to choose or refuse contraceptives. This section is intended to further the constitutional right to privacy guaranteed by Section 1, and the constitutional right to not be denied equal protection guaranteed by Section 7. Nothing herein narrows or limits the right to privacy or equal protection.
+
+_(Sec. 1.1 added Nov. 8, 2022, by Prop. 1. Res.Ch. 97, 2022. Effective December 21, 2022.)_
+`_clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf#page=167_`
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9ae1ac86-71f5-4fe1-b140-54478d86b82e" />
+
+[clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf](https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf)
+<img alt="image" src="https://github.com/user-attachments/assets/6bfe2d63-b12f-4d9f-b6cc-16dffde18293" />
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/en/4/42/Mulatto_%22Bitch_from_Da_Souf%22.png" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://images.genius.com/e340ddf6971616a68049fecc163ec30c.1000x1000x1.png" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+  </div>
+ </div>
 
 ```html
 <iframe src="https://archive.org/embed/msdos_Number_Munchers_1990" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
