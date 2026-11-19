@@ -29,9 +29,162 @@ mathjax: true
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
-\\ [Eric Burdon - The Vision Of Rassan @hulu](https://youtu.be/14iUJFTmWJE?t=18) // [@NASA-jpl ASK @AJCNEWS `MEANING` Future - Life Is Good (Official Music Video) ft. Drake @NASA-PDS](https://youtu.be/l0U7SxXHkPY?t=119)
+\\ [Eric Burdon - The Vision Of Rassan @hulu](https://youtu.be/14iUJFTmWJE?t=18) // [@NASA-jpl ASK @AJCNEWS `MEANING` Future - Life Is Good (Official Music Video) ft. Drake @NASA-PDS](https://youtu.be/l0U7SxXHkPY?t=119) // [Wu Tang Clan Mixtape Side A](https://youtu.be/HvErqLbRuig?list=RDHvErqLbRuig&t=2) // [O̲u̲tkast - ATLiens](https://youtu.be/JRCiDNfiKbc?list=RDJRCiDNfiKbc&t=11) // [Björk - Post (Full Album) (1995) ](https://youtu.be/bw2VXQa7YRs?si=MWQK61it5OvtDwZm)
 
 ---
+
+![https://avatars.githubusercontent.com/u/93566417?s=200&v=4](https://avatars.githubusercontent.com/u/93566417?s=200&v=4)
+
+[@EosDis-Nasa @nasa-openscapes @emit-sds github.com/ @opera-adt](https://github.com/opera-adt) // [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opera-adt/DSWX-SAR.git/HEAD) @newshour @ajcnews @latimes . . .  @hulu @disney // @netflix
+<img   alt="image" src="https://github.com/user-attachments/assets/7064b77c-e53b-41af-950f-2e51cb8cfe6b" />
+
+[@Usgs.gov/programs/landslide-hazards/landslide-basics](https://www.usgs.gov/programs/landslide-hazards/landslide-basics) 
+Landslides occur in all 50 states and territories and they affect lives, property, infrastructure, and the environment.  Understanding when, where, and how landslides occur can help to reduce the risk of living with these natural hazards. 
+<img  alt="image" src="https://github.com/user-attachments/assets/90b56fc6-412e-4832-b947-4e1890142e19" />
+
+![https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/media/images/Thumbnail_5.png?itok=PLsrgzkX](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/media/images/Thumbnail_5.png?itok=PLsrgzkX)
+
+[@EosDis-Nasa @nasa-openscapes @emit-sds github.com/ @opera-adt](https://github.com/opera-adt) // [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opera-adt/DSWX-SAR.git/HEAD) <~ [@blackgirlscode @whitehouse  obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant)
+<img  alt="image" src="https://github.com/user-attachments/assets/5226d53d-aa4e-487a-b850-385ee0ca5fe6" />
+
+## Displacement Portal
+
+[@nasa-jpl jpl.nasa.gov/go/opera/](https://www.jpl.nasa.gov/go/opera/)
+
+@StateOfCAlifornia @CityOFLosAngeles [MAyor Bass](https://www.congress.gov/member/karen-bass/B001270) / [Mayor RichardSon - climatemayors.org/mayor/rex-richardson/](https://www.climatemayors.org/mayor/rex-richardson/) / [Mayor Raman](https://nypost.com/2026/02/09/us-news/master-manipulator-nithya-raman-spotted-at-2m-la-home/) please share with your peers to identify flood zones in ned, that's what I'm seeing , [Flood zones @usgs.gov/tools/`real-time-flood-impact-map` ](https://www.usgs.gov/tools/real-time-flood-impact-map) --- [@LAcOuntyDPH @NBCNEWS  displacement.asf.alaska.edu/#/?dispOverview=VEL&zoom=11.336&center=-118.034,33.647&flightDirs=DESCENDING](https://displacement.asf.alaska.edu/#/?dispOverview=VEL&zoom=11.336&center=-118.034,33.647&flightDirs=DESCENDING) //////// [https://storymaps.arcgis.com/collections/c52e34d6f5a34538a45a9c9c4dfbc3dc?item=1](https://storymaps.arcgis.com/collections/c52e34d6f5a34538a45a9c9c4dfbc3dc?item=1)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c378baee-312e-4359-be60-adcba307ad7c" />
+
+The Displacement Portal provides the ability to visualize and interact with the OPERA Surface Displacement (DISP) Products. [launch displacement.asf.alaska.edu/#/?dispOverview=VEL](https://displacement.asf.alaska.edu/#/?dispOverview=VEL)
+
+<img  alt="image @foratlanta @ajcnews " src="https://github.com/user-attachments/assets/72e01450-a4b5-4e09-9345-d905e9611eff" />
+
+[Pt. 1 Slides @eosdis-nasa @doug-newman-nasa @isro Earthdata.nasa.gov/s3fs-public/2026-11/ARSET-SurfaceDisplacement2026-part1-slides.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-11/ARSET-SurfaceDisplacement2026-part1-slides.pdf)
+
+[Pt. 2 Slides @eosdis-nasa @doug-newman-nasa @isro _E_ arthdata.nasa.gov/s3fs-public/2026-11/ARSET-SurfaceDisplacement2026-part2-slides.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-11/ARSET-SurfaceDisplacement2026-part2-slides.pdf)
+
+[NASA ARSET: NISAR for Deformation Mapping in Support of Disaster Response Part 1/2 @nasa-jpl @nasa @deptofwar @cbs-news-data @latimes](https://youtu.be/cv9sYdZRJUw?t=39)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/4e2e7939-7f4f-4836-8558-bd671395b160" />
+
+OPERA Surface Displacement Products [https://storymaps.arcgis.com/collections/c52e34d6f5a34538a45a9c9c4dfbc3dc?item=1](https://storymaps.arcgis.com/collections/c52e34d6f5a34538a45a9c9c4dfbc3dc?item=1)
+![https://d2pn8kiwq2w21t.cloudfront.net/images/Opera-Hero-Overview-Infographic-v6.width-640.jpg](https://d2pn8kiwq2w21t.cloudfront.net/images/Opera-Hero-Overview-Infographic-v6.width-640.jpg)
+
+![ @nasaq-jpl @nasa-pds @cityoflosangeles @la-county-isd @whiteouse ~> @blackgirlscode](https://upload.wikimedia.org/wikipedia/commons/f/f9/Cisco_Webex_logo_-_Brandlogos.net.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/ed981d2f-f6ee-4b6c-9fea-d5012c216a34" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8e378a19-ce56-4ea8-b817-df590e1b80e7" />
+
+[CRS-35 Launches from Cape CanaveralSpaceForceStation @la-county-isd](https://www.dvidshub.net/video/1027552/crs-35-launches-cape-canaveral-space-force-station)
+
+![https://web.archive.org/web/20070205200246im_/http://deepspace.jpl.nasa.gov/dsn/images/banner-dsn.jpg](https://web.archive.org/web/20070205200246im_/http://deepspace.jpl.nasa.gov/dsn/images/banner-dsn.jpg)
+
+
+![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05078/opgs/edr/ncam/NRB_848273198EDR_M1252490NCAM00579M_-br.jpg](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05078/opgs/edr/ncam/NRB_848273198EDR_M1252490NCAM00579M_-br.jpg)
+![https://english.www.gov.cn/static/common/img/GOV_Logo1.png](https://english.www.gov.cn/static/common/img/GOV_Logo1.png)
+
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+ 
+
+ECOv002_L2T_LSTE_46989_008_49QGE_20261018T190401_0713_02 (1)
+<img alt="ECOv002_L2T_LSTE_46989_008_49QGE_20261018T190401_0713_02 (1)" src="https://github.com/user-attachments/assets/b346b9d4-779b-4d59-b614-88671e2e6431" />
+
+
+[@asfadmin @emit-sds @nasa-jpl @ESA @jaxa https://search.asf.alaska.edu/#/?zoom=5.768&center=116.069,35.184&polygon=POLYGON((99.8746%2032.9852,104.8032%2032.9852,104.8032%2036.9298,99.8746%2036.9298,99.8746%2032.9852))&resultsLoaded=true&granule=NISAR_L2_PR_GSLC_035_062_D_071_2005_DHDH_A_20261109T121454_20261109T121529_P05036_N_F_J_001](https://search.asf.alaska.edu/#/?zoom=5.768&center=116.069,35.184&polygon=POLYGON((99.8746%2032.9852,104.8032%2032.9852,104.8032%2036.9298,99.8746%2036.9298,99.8746%2032.9852))&resultsLoaded=true&granule=NISAR_L2_PR_GSLC_035_062_D_071_2005_DHDH_A_20261109T121454_20261109T121529_P05036_N_F_J_001)
+<img   alt="image" src="https://github.com/user-attachments/assets/544c4ef1-da61-42c8-a364-f0366cbdc2bb" />
+
+
+<img  alt="EMIT_L2A_RFL_001_20251216T055140_2535004_015" src="https://github.com/user-attachments/assets/92a651e6-7d8d-4b6f-9ad6-12879c7349f2" />
+
+[@ajcnews @newshour @cbs-news-data @latimes @datadesk `Xi` hosts welcome banquet for guests attending APEC meeting @nvidia](https://english.www.gov.cn/news/202611/18/content_WS6afd8a90c6d00ca5f9a0e691.html) // [Chairman of the Central Military Commission (China)](https://en.wikipedia.org/wiki/Chairman_of_the_Central_Military_Commission_(China)) [@howard-university-web-services @blackgirlscode @hulu : `TALK`](https://en.wikipedia.org/wiki/Talk:Chairman_of_the_Central_Military_Commission_(China))
+![@nasa-jpl https://english.www.gov.cn/images/202611/19/6afe5796c6d00ca5a3e32418.jpeg](https://english.www.gov.cn/images/202611/19/6afe5796c6d00ca5a3e32418.jpeg) 
+
+
+EMIT_L2A_RFL_001_20260724T052042_2620504_021 @CityOfLosanGeles @STATEOFCALiFORNiA [Keisha bottoms @ForATlanta](https://www.usatoday.com/story/news/politics/2026/11/18/kandi-burruss-joins-keisha-lance-bottoms-transition-team/92844486007/) @usatoday
+<img alt="EMIT_L2A_RFL_001_20260724T052042_2620504_021" src="https://github.com/user-attachments/assets/9d0a08d1-de0f-46fe-84b8-823f392ccf89" />
+
+[@emit-sds @ucla search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD ](https://search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4288791043-LPCLOUD&q=emit&sb[0]=113.85721%2C21.42981%2C114.66426%2C22.66552&lat=22.379360793879453&long=113.68209367152728&zoom=8.968244853402526)
+<img   alt="image" src="https://github.com/user-attachments/assets/99439150-6896-4529-b09d-a70d7cee7f6d" />
+
+![https://english.www.gov.cn/images/202611/19/6afe5796c6d00ca5a3e3241b.jpeg @deptofwar @cityoflosangeles](https://english.www.gov.cn/images/202611/19/6afe5796c6d00ca5a3e3241b.jpeg)
+
+@eosdis-nasa @doug-newman-nasa imma leave the maps here, I'm in atrap, she use the traffick to stay current, a lot of places she work got horrid dns [firms.modaps.eosdis.nasa.gov/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,sta_detections,sta_mask,steel_plants,country-outline,earth;@99.7,14.4,3.0z](https://firms.modaps.eosdis.nasa.gov/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,sta_detections,sta_mask,steel_plants,country-outline,earth;@99.7,14.4,3.0z)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a8094885-517b-4ed8-82bb-7fc95f1ec01f" />
+
+@nasa-jpl @eosdis-nasa the is a magnetic anomaly grid @nasa-giss 
+[arcgis.com/apps/mapviewer/index.html?layers=1aaac59a6076461e8e1380a7195222f6&error=invalid_request&error_description=Unable%20to%20sign%20the%20user%20in.%20Please%20use%20create%20an%20account%20option.&messageCode=OAUTH_0051&state=%7B%22portalUrl%22%3A%22https%3A%2F%2Fwww.arcgis.com%22%2C%22uid%22%3A%22CRihG2rJGSZ1IOvXgdeoIj1Q0pZQCFUGDGkIxaVMH-M%22%7D](https://www.arcgis.com/apps/mapviewer/index.html?layers=1aaac59a6076461e8e1380a7195222f6&error=invalid_request&error_description=Unable%20to%20sign%20the%20user%20in.%20Please%20use%20create%20an%20account%20option.&messageCode=OAUTH_0051&state=%7B%22portalUrl%22%3A%22https%3A%2F%2Fwww.arcgis.com%22%2C%22uid%22%3A%22CRihG2rJGSZ1IOvXgdeoIj1Q0pZQCFUGDGkIxaVMH-M%22%7D)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/9d94f4d6-0fff-40de-a790-d605315ca8c3" />
+
+## Splashdown 101:
+@USNavy @La-County-isd
+Joint Team to Recover Crew, Orion After Moon Missions
+[splashdown - READ](https://www.nasa.gov/missions/artemis/artemis-2/splashdown-101-joint-team-to-recover-crew-orion-after-moon-missions/)
+
+## Apollo 17 splashdown [https://science.nasa.gov/resource/apollo-17-splashdown/](https://science.nasa.gov/resource/apollo-17-splashdown/) @teslamotors @northropgrumman
+
+![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/08/detail_607306main_GPN-2002-000059_full.jpg?w=1041&h=1311&fit=clip](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/08/detail_607306main_GPN-2002-000059_full.jpg?w=1041&h=1311&fit=clip) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/6404eb20-efc9-4a15-8362-18c982e156f6" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/bc55494b-9f30-4814-898e-54e3d33be7df" />
+
+![https://www.nasa.gov/wp-content/uploads/2023/03/s69-22271.jpg](https://www.nasa.gov/wp-content/uploads/2023/03/s69-22271.jpg)
+
+## Artemis II splashdown and Recovery
+[ nasa.gov/gallery/artemis-ii-splashdown-and-recovery/page/2/](https://www.nasa.gov/gallery/artemis-ii-splashdown-and-recovery/page/2/)
+
+![https://www.nasa.gov/wp-content/uploads/2026/04/nhq202604110013orig.jpg](https://www.nasa.gov/wp-content/uploads/2026/04/nhq202604110013orig.jpg) 
+
+![https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-kaa01-0071orig.jpg?resize=600,400](https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-kaa01-0071orig.jpg?resize=600,400)
+
+![https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-jbp02-0006orig.jpg?resize=1024,768](https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-jbp02-0006orig.jpg?resize=1024,768)
+
+
+
+
+### Base Los Angeles / Long Beach
+1001 South Seaside Ave  San Pedro, CA 90731
+-MAIN 206-815-6689
+-AFTER HOURS (310) 781-0619
+-EMAiL [ROLosAngeles@uscg.mil](mailto:ROLosAngeles@uscg.mil)
+[dcms.uscg.mil/Our-Organization/Director-of-Operational-Logistics-DOL/Bases/Base-`Los-Angeles-Long-Beach`/ @cityofsandiego @USnavy](https://www.dcms.uscg.mil/Our-Organization/Director-of-Operational-Logistics-DOL/Bases/Base-Los-Angeles-Long-Beach/) // [https://www.gocoastguard.com/recruiting-offices/los-angeles @la-ciounty-isd @nasa-pds @nasa-giss @nasa @whitehouse @blackgirlscode](https://www.gocoastguard.com/recruiting-offices/los-angeles)
+![https://www.uscg.mil/Portals/0/Images/Official%20USCG%20Emblem.png](https://www.uscg.mil/Portals/0/Images/Official%20USCG%20Emblem.png)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/c7a538e4-8ccf-48aa-993e-e5863876a84a" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/04b91a30-f0c5-4961-bf1d-12460a8f5ef3" />
+
+
+![https://www.dcms.uscg.mil/portals/10/DOL/Base%20LALB/Images/Baselalb.jpg?ver=2017-03-28-153622-737](https://www.dcms.uscg.mil/portals/10/DOL/Base%20LALB/Images/Baselalb.jpg?ver=2017-03-28-153622-737)
+@cityofsandiego @USnavy im working on the landing right now and and will check  suspended solids and chlorophyll content  @nasa @nasa-jpl @blackgirlscode [MAP - LiNK](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=12.19/-13037771.81/3851181.66&layers=aqv_chla_20260228_sentinel:1.00:0.00:30.00:default&grids=1,0)
+
+- from crs 34 @cityoflosangeles @newshour
+@nasa-jpl io did my launch duty like chris said @nasa-pds but ppl still making me itch i dont know the solution  @la-county-isd i wanna understand the torture @Blackgirlscode 
+We were so glad to host you virtually for the launch of NASA's SpaceX CRS-34 Mission!
+
+<img width="288" height="89" alt="image" src="https://github.com/user-attachments/assets/63523a49-c9b1-46fa-8ae5-5d82649eabd6" />
+
+## NAsA spaceX CRS-35 Cargo spacecraft Undocking from spacestation
+[`WATCH` - https://www.youtube.com/live/-EgvXNis4rQ?si=ECdOqrER02m9TV4U](https://www.youtube.com/live/-EgvXNis4rQ?si=ECdOqrER02m9TV4U) @whitehouse I'm about to do some mapping for [President Trump](https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia/) , Meeting in [China  @nasa-jpl](https://www.war.gov/News/Publications/Search/china/ ) @eosdis-nasa @doug-newman-nasa imma do it on my blog and link here, she wanted my traffick, so we still friend at least @cia @fbicyber [Deputy Assistant Secretary of War for China, Taiwan and Mongolia](https://policy.war.gov/Offices/ASW-for-Indo-Pacific-Security-Affairs/China-Taiwan-and-Mongolia/) // [https://www.supercluster.com/launches/spacex-crs-35](https://www.supercluster.com/launches/spacex-crs-35)
+
+![https://media.defense.gov/2025/Jul/02/2003747799/825/780/0/250702-D-D0439-030.JPG](https://media.defense.gov/2025/Jul/02/2003747799/825/780/0/250702-D-D0439-030.JPG) 
+
+![https://assets.motorola.com/global/nevada/motorola_moto_g_play_2026_pdp_camera_02_d_.jpg](https://assets.motorola.com/global/nevada/motorola_moto_g_play_2026_pdp_camera_02_d_.jpg) 
+<img   alt="image" src="https://github.com/user-attachments/assets/b59a2d3c-6413-446b-a677-aa932d8a52d3" />
+
 
 # CRS-35 Mission 
 ## @NAsA to Cover 35th spaceX Resupply Mission spacestation Departure
