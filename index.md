@@ -24,14 +24,89 @@ mathjax: true
 {{ site.time }}
  {{ site.title | default: site.github.repository_name }}
          
-
+[Nuff Man a Dead · Super Cat @deptofwar @blackgirlscode](https://youtu.be/RBbPqCpSxFc?si=zflh3YGWhAcQeOXG) // [Bob Marley versus Lee scratch Perry the upsetter years](https://youtu.be/LKBvyBTTTA4?si=u42ojRVAlwq0_s3E) // [Video for Gotta Man performed by Eve.](https://youtu.be/NUEQ7BmGh9k?t=136) // [Dem No Worry We · Super Cat](https://youtu.be/mSZo8he1ehs?t=67) // [Ghetto Red Hot · Super Cat](https://youtu.be/N4F8sIpynA4?t=45) // [Single Parent · Buju Banton @nasa-jpl](https://youtu.be/TwhW6GQIC8A?si=3jKPYlRLyxAce92o) // [Don Dada · Super Cat @whitehouse @blackgirlscode](https://youtu.be/EEAdbi3sJn8?list=RDTwhW6GQIC8A&t=36) // [Wanna Be Loved · Buju Banton](https://youtu.be/kozEIbLT5z4?list=RDTwhW6GQIC8A&t=85) // [Boops · Super Cat](https://youtu.be/mP3zd09wIno?list=RDmP3zd09wIno&t=90) // [1Xtra in Jamaica - Burro Banton, Eek-A-Mouse, Peter Metro & Major Mackeral Freestyle](https://youtu.be/l1LbVBdfrOY?t=13)
 
 # Currently Compling g_e, 
 {{ site.time | date: '%y' }} [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
+
+## [@cityoflosangeles ](https://youtu.be/l1LbVBdfrOY?t=208)
+<img alt="ECOv002_L3T_JET_47065_013_11SLT_20261023T171220_0713_01" src="https://github.com/user-attachments/assets/ef01a20c-395c-4242-88dd-5424ffcb3105" />
+
+<img   alt="ECOv002_L3T_JET_47065_013_11SLT_20261023T171220_0713_01_ETinstUncertainty" src="https://github.com/user-attachments/assets/9c62c4c8-f386-4818-8340-55a953ea234e" />
+
+
+## @cbs-news-data
+
+<img  alt="EMIT_L1B_RAD_001_20260824T032426_2623602_038" src="https://github.com/user-attachments/assets/32494277-b554-4f92-8d7f-84e4f77f75bf" />
+
+[@blackgirlscode russiancouncil.ru/en/contacts/](https://russiancouncil.ru/en/contacts/) @ESA @NASA @UKSPACEAGENCY
+[EMIT_L1B_RAD_001_20251129T030729_2533302_009](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G3888904485-LPCLOUD&q=emit&sb[0]=112.86004%2C22.2526%2C114.47064%2C23.17798&lat=22.92404175&long=114.11835937394635&zoom=7.933798976930877) // E-mail: [welcome@russiancouncil.ru](mailto:welcome@russiancouncil.ru) // [https://www.pbs.org/newshour/show/inside-the-historic-summit-between-trump-xi-and-putin](https://www.pbs.org/newshour/show/inside-the-historic-summit-between-trump-xi-and-putin)
+<img   alt="EMIT_L1B_RAD_001_20251129T030729_2533302_009" src="https://github.com/user-attachments/assets/e1f4dcb8-bbe6-4117-a7fe-2c1fb4bf8117" />
+
+[@la-county-isd EMIT_L1B_RAD_001_20251216T055140_2535004_015  @nasa-jpl](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G3951011459-LPCLOUD&q=emit&sb[0]=112.86004%2C22.2526%2C114.47064%2C23.17798&lat=21.683763499999998&long=113.84525828023064&zoom=9.099984929757335)
+<img  alt="EMIT_L1B_RAD_001_20251216T055140_2535004_015" src="https://github.com/user-attachments/assets/6a42bda2-9720-4089-959e-59798163a94d" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/15f0d07f-c006-4ecb-8a98-f18593fab63a" />
+
+@emit-sds EMIT_L1B_RAD_001_20260420T052314_2611003_021 @whitehouse
+<img   alt=" @emit-sds EMIT_L1B_RAD_001_20260420T052314_2611003_021" src="https://github.com/user-attachments/assets/34f98f67-1f6d-481c-b1e6-7c925e7eab6f" />
+
+[Trump touts relationships with Putin and Xi after historic Asia trip @abcnews @newshour](https://abcnews.com/Politics/trump-hold-news-conference-friday-asia-trip/story?id=138307456)
+
+
+<img   alt=" @emit-sds EMIT_L1B_RAD_001_20260420T052314_2611003_021" src="https://github.com/user-attachments/assets/b9ff0f28-93bb-450c-aeaf-533d40013c6f" />
+
+
+
+<img  alt="ECOv002_L2T_LSTE_47205_007_45SXR_20261101T160135_0713_02" src="https://github.com/user-attachments/assets/1bcacf99-393f-4ae5-8769-e91d956f501a" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/4caf8730-3b1b-4350-bda7-8539422408f9" />
+
+[@foratlanta @ajcnews go.nasa.gov/3WWOfk7](https://worldview.earthdata.nasa.gov/?v=-89.01776121441796,31.14038870879017,-81.20008273761024,36.36507481952799&l=Reference_Labels_15m,DoS_International_Boundaries,Admin_Boundaries,Coastlines_15m,VIIRS_NOAA21_Thermal_Anomalies_375m_Night(hidden),VIIRS_NOAA21_Thermal_Anomalies_375m_Day(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_Night(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_Day(hidden),MODIS_Aqua_Thermal_Anomalies_Night(hidden),MODIS_Aqua_Thermal_Anomalies_Day(hidden),MODIS_Terra_Thermal_Anomalies_Night,MODIS_Terra_Thermal_Anomalies_Day,OMPS_NOAA21_NadirMapper_AerosolIndex_380(hidden),OMPS_NOAA21_NadirMapper_AerosolIndex_PyroCumuloNimbus_380(hidden),OMPS_NOAA20_NadirMapper_AerosolIndex_380(hidden),OMPS_NOAA20_NadirMapper_AerosolIndex_PyroCumuloNimbus_380(hidden),VIIRS_NOAA20_DayNightBand_At_Sensor_Radiance(hidden),VIIRS_NOAA20_DayNightBand_AtSensor_M15,OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1(hidden,disabled=5),OPERA_L3_Dynamic_Surface_Water_Extent-HLS(hidden,disabled=5),IMERG_Precipitation_Rate(hidden),VIIRS_Combined_Flood_2-Day(hidden,disabled=4),VIIRS_Combined_Flood_3-Day(hidden,disabled=4),MODIS_Combined_Flood_2-Day(hidden,disabled=4),MODIS_Combined_Flood_3-Day(hidden,disabled=4),HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),VIIRS_NOAA20_CorrectedReflectance_BandsM3-I3-M11(hidden),VIIRS_NOAA21_CorrectedReflectance_BandsM11-I2-I1(hidden),VIIRS_NOAA20_CorrectedReflectance_BandsM11-I2-I1(hidden),MODIS_Aqua_CorrectedReflectance_Bands721(hidden),MODIS_Terra_CorrectedReflectance_Bands721(hidden),BlueMarble_NextGeneration(hidden),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-11-19-T00%3A00%3A00Z)
+<img   alt="image" src="https://github.com/user-attachments/assets/63a2d949-657d-431d-9d74-472cb01010df" />
+
+[worldview.earthdata.nasa.gov/?v=-83.91691461661287,35.898329954145375,-82.21096497523453,36.737977043261274&l=Reference_Labels_15m,DoS_International_Boundaries,Admin_Boundaries,Coastlines_15m,VIIRS_NOAA21_Thermal_Anomalies_375m_Night(hidden),VIIRS_NOAA21_Thermal_Anomalies_375m_Day(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_Night(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_Day(hidden),MODIS_Aqua_Thermal_Anomalies_Night(hidden),MODIS_Aqua_Thermal_Anomalies_Day(hidden),MODIS_Terra_Thermal_Anomalies_Night,MODIS_Terra_Thermal_Anomalies_Day,OMPS_NOAA21_NadirMapper_AerosolIndex_380(hidden),OMPS_NOAA21_NadirMapper_AerosolIndex_PyroCumuloNimbus_380(hidden),OMPS_NOAA20_NadirMapper_AerosolIndex_380(hidden),OMPS_NOAA20_NadirMapper_AerosolIndex_PyroCumuloNimbus_380(hidden),VIIRS_NOAA20_DayNightBand_At_Sensor_Radiance(hidden),VIIRS_NOAA20_DayNightBand_AtSensor_M15(hidden),OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1(hidden,disabled=5),OPERA_L3_Dynamic_Surface_Water_Extent](https://worldview.earthdata.nasa.gov/?v=-83.91691461661287,35.898329954145375,-82.21096497523453,36.737977043261274&l=Reference_Labels_15m,DoS_International_Boundaries,Admin_Boundaries,Coastlines_15m,VIIRS_NOAA21_Thermal_Anomalies_375m_Night(hidden),VIIRS_NOAA21_Thermal_Anomalies_375m_Day(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_Night(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_Day(hidden),MODIS_Aqua_Thermal_Anomalies_Night(hidden),MODIS_Aqua_Thermal_Anomalies_Day(hidden),MODIS_Terra_Thermal_Anomalies_Night,MODIS_Terra_Thermal_Anomalies_Day,OMPS_NOAA21_NadirMapper_AerosolIndex_380(hidden),OMPS_NOAA21_NadirMapper_AerosolIndex_PyroCumuloNimbus_380(hidden),OMPS_NOAA20_NadirMapper_AerosolIndex_380(hidden),OMPS_NOAA20_NadirMapper_AerosolIndex_PyroCumuloNimbus_380(hidden),VIIRS_NOAA20_DayNightBand_At_Sensor_Radiance(hidden),VIIRS_NOAA20_DayNightBand_AtSensor_M15(hidden),OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1(hidden,disabled=5),OPERA_L3_Dynamic_Surface_Water_Extent-HLS(hidden,disabled=5),IMERG_Precipitation_Rate(hidden),VIIRS_Combined_Flood_2-Day(hidden,disabled=4),VIIRS_Combined_Flood_3-Day(hidden,disabled=4),MODIS_Combined_Flood_2-Day(hidden,disabled=4),MODIS_Combined_Flood_3-Day(hidden,disabled=4),HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),VIIRS_NOAA20_CorrectedReflectance_BandsM3-I3-M11(hidden),VIIRS_NOAA21_CorrectedReflectance_BandsM11-I2-I1(hidden),VIIRS_NOAA20_CorrectedReflectance_BandsM11-I2-I1(hidden),MODIS_Aqua_CorrectedReflectance_Bands721(hidden),MODIS_Terra_CorrectedReflectance_Bands721(hidden),BlueMarble_NextGeneration(hidden),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-11-19-T00%3A00%3A00Z)
+<img  alt="image" src="https://github.com/user-attachments/assets/bc1dd7d1-da1e-47bc-9649-7195d52d0dc2" />
+
+[Single Parent · Buju Banton @foxbroadcasting](https://youtu.be/TwhW6GQIC8A?si=3jKPYlRLyxAce92o) // [coast.noaa.gov/floodexposure/#-13139212,3994865,12z](https://coast.noaa.gov/floodexposure/#-13139212,3994865,12z)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7f64979d-eae8-4002-8b60-73700143a798" />
+
+## @nasa 
+[go.nasa.gov/48DtHzJ](https://go.nasa.gov/48DtHzJ) _floodMap_ @nfl
+<img   alt="image" src="https://github.com/user-attachments/assets/a333d36e-9883-4179-bc73-4496fa55865e" />
+
+
+## @la-county-isd @LongBeachinnovationteam
+[coast.noaa.gov/slr/#/layer/slr/10/-13149197.22655894/4000500.377432489/11.238/satellite/82/0.8/2050/interHigh/noAccretion/NOS_Minor](https://coast.noaa.gov/slr/#/layer/slr/10/-13149197.22655894/4000500.377432489/11.238/satellite/82/0.8/2050/interHigh/noAccretion/NOS_Minor)
+<img  alt="image" src="https://github.com/user-attachments/assets/901f5f41-2b24-40f4-a936-03c21fc95744" />
+
+[oceanservice.noaa.gov/hazards/sealevelrise/](https://oceanservice.noaa.gov/hazards/sealevelrise/)
+<img  alt="image" src="https://github.com/user-attachments/assets/3c4a50bb-2152-4cce-84ad-9c8d7a853bcd" />
+
+
+## HuntinGton Beach @la-county-isd
+
+
+[coast.noaa.gov/slr/#/layer/slr/0/-13142055.425667413/3991232.7480097427/12.138/satellite/none/0.8/2050/interHigh/noAccretion/NOS_Minor](https://coast.noaa.gov/slr/#/layer/slr/0/-13142055.425667413/3991232.7480097427/12.138/satellite/none/0.8/2050/interHigh/noAccretion/NOS_Minor) // [displacement.asf.alaska.edu/#/?dispOverview=VEL&zoom=11.238&center=-118.056,33.547&flightDirs=DESCENDING&series=POINT(-117.7862%2033.6938)--1--Point--eed395e1-e82b-4275-8c28-78755c77921b--Series&start=2016-08-12T20:52:08Z&end=2026-09-26T20:51:38Z&view=equatorial](https://displacement.asf.alaska.edu/#/?dispOverview=VEL&zoom=11.238&center=-118.056,33.547&flightDirs=DESCENDING&series=POINT(-117.7862%2033.6938)--1--Point--eed395e1-e82b-4275-8c28-78755c77921b--Series&start=2016-08-12T20:52:08Z&end=2026-09-26T20:51:38Z&view=equatorial)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/505affa4-d805-48c0-bd5b-25318ca6b43c" />
+
 [Bonobo - ESSENTIAL mix 2014, 2014-04-12 @BBC radio 1](https://youtu.be/jwHnLHwypuk?list=RDjwHnLHwypuk&t=45)
 @bbc its old, but we have [hydrology issues](https://swot.jpl.nasa.gov/science/hydrology/) and I hope I can get inspired to finish this report, like a workout mix @nasa-jpl @whitehouse @foratlanta @ajcnews @cityoflosangeles _[Lana J Harris](https://www.youtube.com/channel/UCnZ9hO-KsnwUAZHXmpG0JxA)_ I hope your car ok @Blackgirlscode! [Bonobo - ESSENTIAL mix 2014, 2014-04-12 @BBC radio 1](https://youtu.be/jwHnLHwypuk?list=RDjwHnLHwypuk&t=45) [@x](https://dn601200.us.archive.org/0/items/vid-20250221-224142_202502/screen-20250220-131433.mp4)
 
+<img alt="image" src="https://github.com/user-attachments/assets/758c761e-599a-4a23-b893-fcd7c7553b11" />
+
+
+# GameCube on Android
+@nasa-jpl  hi the space capsule detatched its supposed to arrive tomorrow off our coast [@StateOfCalifornia @CityofLosAngeles @Cityofsantamonica @cityofsandiego](https://www.sandiego.gov/)
+
+![https://i.pinimg.com/originals/3a/f8/bf/3af8bf4af845d9542445ffad090e1939.gif](https://i.pinimg.com/originals/3a/f8/bf/3af8bf4af845d9542445ffad090e1939.gif)
+![https://www.spacex.com/assets/images/human-spaceflight/iss/iss_infographic.svg](https://www.spacex.com/assets/images/human-spaceflight/iss/iss_infographic.svg) 
+[Dolphin Progress Report: Release 2609](https://www.ign.com/articles/the-best-gamecube-games-of-all-time)
+[The 25 Best GameCube Games of All Time @ign](https://www.ign.com/articles/the-best-gamecube-games-of-all-time)
+[https://archive.org/details/@the_data_archivist_v0_01?page=3](https://archive.org/details/@the_data_archivist_v0_01?page=3)
 
 ---
 
